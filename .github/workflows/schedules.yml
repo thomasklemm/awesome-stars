@@ -20,4 +20,4 @@ jobs:
       - name: Fetch list of stars & update repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username thomasklemm --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'Generate updated list of stars with GitHub Actions CRON'
+        run: starred --username thomasklemm --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'Update list of GitHub stars'
