@@ -762,7 +762,6 @@
 - [thundra-io/thundra-lambda-agent-go](https://github.com/thundra-io/thundra-lambda-agent-go) - Thundra Lambda Go Agent
 - [checkr/states-language-cadence](https://github.com/checkr/states-language-cadence) - States Language on Cadence
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
@@ -1749,7 +1748,6 @@
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
-- [absinthe-graphql/absinthe-socket](https://github.com/absinthe-graphql/absinthe-socket) - Core JavaScript support for Absinthe WS-based operations
 - [absinthe-graphql/absinthe-socket](https://github.com/absinthe-graphql/absinthe-socket) - Core JavaScript support for Absinthe WS-based operations
 - [nanoexpress/legacy](https://github.com/nanoexpress/legacy) - [Deprecated] Nano-framework for Node.js. Use PRO version
 - [algolia/shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release.
@@ -3756,6 +3754,7 @@
 
 ## Others 
 
+- [spree/spree-dev-docs](https://github.com/spree/spree-dev-docs) - Spree Commerce Developer Documentation - https://dev-docs.spreecommerce.org
 - [lifthrasiir/cson](https://github.com/lifthrasiir/cson) - Cursive Script Object Notation
 - [innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs) - A curated list of awesome Inertia.js resources
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
@@ -4721,6 +4720,7 @@
 
 ## Ruby 
 
+- [spree/spree_gateway](https://github.com/spree/spree_gateway) - Huge collection of payment gateways for @spree. Stripe, Braintree, Apple Pay, Authorize.net and many others!
 - [itamae-kitchen/mitamae](https://github.com/itamae-kitchen/mitamae) - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef
 - [dgilperez/validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes
 - [jarthod/render-later](https://github.com/jarthod/render-later) - Render-later allows you to defer the rendering of slow parts of your views to the end of the page, allowing you to drastically improve the time to first paint and perceived performance.
