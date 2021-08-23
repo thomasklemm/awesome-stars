@@ -1,11 +1,11 @@
-name: Update awesome stars list
+name: Update awesome-stars list
 on:
   workflow_dispatch:
   schedule:
     - cron: 30 0 * * *
 jobs:
   awesome-stars:
-    name: update awesome-stars
+    name: Update awesome-stars list
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
