@@ -1,0 +1,23 @@
+name: Update awesome stars list
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 0 * * *
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install starred
+      - name: Fetch list of stars & update repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: starred --username thomasklemm --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'Generate updated list of stars with GitHub Actions CRON'
