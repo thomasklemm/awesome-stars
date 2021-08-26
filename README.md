@@ -666,6 +666,8 @@
 
 ## Go 
 
+- [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
+- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
@@ -920,7 +922,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [orbs-network/orbs-contract-sdk](https://github.com/orbs-network/orbs-contract-sdk) - SDK for developers of smart contracts running on Orbs
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
@@ -1358,6 +1360,7 @@
 
 ## JavaScript 
 
+- [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [Leniolabs/lenio-research](https://github.com/Leniolabs/lenio-research) - The Leniolabs Research Team creates beautiful interactive visualizations of trending topics
 - [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
@@ -2988,7 +2991,7 @@
 - [samayo/country-json](https://github.com/samayo/country-json) - A simple data of the world by country each in JSON format.
 - [addthis/fluxthis](https://github.com/addthis/fluxthis) - super-opinionated, yell-at-you-for-everything, immutable Flux framework
 - [mako-taco/DecorateThis](https://github.com/mako-taco/DecorateThis) - JS Decorators library
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [JedWatson/react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -4386,6 +4389,8 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
@@ -4732,6 +4737,16 @@
 
 ## Ruby 
 
+- [athal7/thermos](https://github.com/athal7/thermos) - Always-warm, auto-rebuilding rails caching without timers or touching
+- [timrogers/airports](https://github.com/timrogers/airports) - Access data on airports from around the world using Ruby
+- [inkstak/activejob-status](https://github.com/inkstak/activejob-status) - A simple monitoring status for ActiveJob
+- [superfly/fly-ruby](https://github.com/superfly/fly-ruby) - Ruby gem for handling requests within a Fly.io multiregion database setup
+- [Creditas/ddd-rails-sample](https://github.com/Creditas/ddd-rails-sample) - A sample Domain Driven Design project using Ruby on Rails :heart:
+- [moneybird/i18n-workflow](https://github.com/moneybird/i18n-workflow) - Workflow for working with I18n in Rails projects
+- [kachick/rspec-matchers-power_assert_matchers](https://github.com/kachick/rspec-matchers-power_assert_matchers) - power_assert integration for RSpec with a custom matcher
+- [hsbt/minitest-power_assert](https://github.com/hsbt/minitest-power_assert) - Power Assert for Minitest
+- [ruby/power_assert](https://github.com/ruby/power_assert) - Power Assert for Ruby
+- [dry-rb/dry-inflector](https://github.com/dry-rb/dry-inflector) - Inflector for Ruby
 - [bensheldon/good_job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 - [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application
 - [rails/rails-contributors](https://github.com/rails/rails-contributors) - The web application that runs https://contributors.rubyonrails.org
@@ -5194,7 +5209,7 @@
 - [fastruby/skunk](https://github.com/fastruby/skunk) - A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 - [fringd/zipline](https://github.com/fringd/zipline) - A gem that lets you stream a zip file from rails
 - [teoljungberg/fx](https://github.com/teoljungberg/fx) - Versioned database functions and triggers for Rails
-- [mfinelli/ruolo](https://github.com/mfinelli/ruolo) - A library to keep your static role-based access control policies in sync with your database.
+- [mfinelli/ruolo](https://github.com/mfinelli/ruolo) - A library to keep your static role-based access control policies in sync with your database
 - [lifull-dev/bucky-core](https://github.com/lifull-dev/bucky-core) - System testing framework for web application.
 - [umbrellio/umbrellio-sequel-plugins](https://github.com/umbrellio/umbrellio-sequel-plugins) - Sequel plugins
 - [seamusabshere/upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
@@ -5587,7 +5602,7 @@
 - [panorama-ed/scan_left](https://github.com/panorama-ed/scan_left) - A tiny Ruby gem to provide the 'scan_left' operation on any Ruby Enumerable.
 - [julianrubisch/attractor-rails](https://github.com/julianrubisch/attractor-rails) - attractor (code complexity metrics visualization and exploration tool for ruby and javascript) running in a rails engine
 - [leastbad/stimulus_reflex_harness](https://github.com/leastbad/stimulus_reflex_harness) - Verify a bare-bones SR application. Branch it to build MVCEs.
-- [julianrubisch/futurism](https://github.com/julianrubisch/futurism) - Lazy-load Rails partials via CableReady
+- [stimulusreflex/futurism](https://github.com/stimulusreflex/futurism) - Lazy-load Rails partials via CableReady
 - [ankane/ownership](https://github.com/ankane/ownership) - Code ownership for Rails
 - [camertron/arel-helpers](https://github.com/camertron/arel-helpers) - Useful tools to help construct database queries with ActiveRecord and Arel.
 - [earaujoassis/sequel-seed](https://github.com/earaujoassis/sequel-seed) - A Sequel extension to make seeds/fixtures manageable like migrations
@@ -6833,7 +6848,7 @@
 - [weheartit/cassie](https://github.com/weheartit/cassie) - The short and sweet Cassandra object mapper from We Heart It.
 - [bdurand/lumberjack](https://github.com/bdurand/lumberjack) - A simple, powerful, and very fast logging utility that can be a drop in replacement for Logger. Provides support for automatically rolling log files, formatting log output, and tagging log entries.
 - [bdurand/seamless_database_pool](https://github.com/bdurand/seamless_database_pool) - Add support for master/slave database clusters in ActiveRecord to improve performance.
-- [ruby-json-schema/json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator
 - [jgarth/herstory](https://github.com/jgarth/herstory) - Records changes to ActiveRecord models
 - [olbrich/ruby-units](https://github.com/olbrich/ruby-units) - A unit handling library for ruby
 - [Shopify/quantified](https://github.com/Shopify/quantified) - Pretty quantifiable measurements which feel like ActiveSupport::Duration
@@ -8105,6 +8120,9 @@
 
 ## TypeScript 
 
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, and Webpack
+- [CyCraft/vue-intellisense](https://github.com/CyCraft/vue-intellisense) - A CLI tool to help enabling IntelliSense on your Vue components
 - [antfu/vite-plugin-components](https://github.com/antfu/vite-plugin-components) - 📲 On-demand components auto importing for Vite
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
@@ -9144,6 +9162,7 @@
 
 ## Vue 
 
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
