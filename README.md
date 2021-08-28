@@ -669,6 +669,8 @@
 
 ## Go 
 
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data + pluralization rules
+- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
@@ -1433,7 +1435,7 @@
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
 - [beyondcode/tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) - Tailwind CSS JIT in your browser
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [ForestAdmin/forest-express](https://github.com/ForestAdmin/forest-express) - 🧱Dependency of Express Lianas for Forest Admin
+- [ForestAdmin/forest-express](https://github.com/ForestAdmin/forest-express) - 🧱 Dependency of Express Lianas for Forest Admin
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
@@ -1504,6 +1506,7 @@
 - [excid3/madmin](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [Kloudless/file-picker](https://github.com/Kloudless/file-picker) - The Kloudless File Picker is a file chooser and uploader for apps that integrates with 20+ cloud storage services with a few lines of code
+- [kaspernj/api_maker](https://github.com/kaspernj/api_maker) - A Rails gem for generating a JavaScript API automatically based on your ActiveRecord models.
 - [sisense/graphql2rest](https://github.com/sisense/graphql2rest) - GraphQL to REST converter: automatically generate a RESTful API from your existing GraphQL API
 - [Nexmo/api-specification](https://github.com/Nexmo/api-specification) - All the OpenAPI specification files for the Nexmo APIs
 - [graphqlcrud/spec](https://github.com/graphqlcrud/spec) - Specification for GraphQLCRUD
@@ -1516,7 +1519,7 @@
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Simply beautiful open source icons, community-sourced
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
@@ -1739,7 +1742,7 @@
 - [amanjagdev/react-builder](https://github.com/amanjagdev/react-builder) - ⚙ A GUI tool to build your react app in the fastest way with all components and pages with routing.
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
-- [beautifulinteractions/beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [UnlyEd/GraphCMS-cache-boilerplate](https://github.com/UnlyEd/GraphCMS-cache-boilerplate) - The main goal of this service is to provide a reliable cache contingency backup plan in case a GraphCMS/GraphQL endpoint is failing.
 - [agershun/alasql](https://github.com/agershun/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
@@ -2570,7 +2573,7 @@
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [OneSignal/emoji-picker](https://github.com/OneSignal/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
 - [imgix/react-imgix](https://github.com/imgix/react-imgix) - React component to display imgix images
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [silvermine/serverless-utils](https://github.com/silvermine/serverless-utils) - 
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -4404,7 +4407,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [awslabs/aws-service-catalog-factory](https://github.com/awslabs/aws-service-catalog-factory) - This is a framework where you define a Service Catalog portfolio, products and versions using YAML. For versions of your products you specify where the source code for them can be found and the framework publishes the portfolio, products and versions in every* AWS Region after validating, linting and testing them.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [authorizon/opal](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
@@ -4746,6 +4749,11 @@
 
 ## Ruby 
 
+- [square/rbs_protobuf](https://github.com/square/rbs_protobuf) - 
+- [kachick/ruby-ulid](https://github.com/kachick/ruby-ulid) - generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`
+- [johansenja/typed_struct](https://github.com/johansenja/typed_struct) - Ruby structs but with type-checked attributes ⚡️🔐
+- [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
+- [unpoly/unpoly-rails](https://github.com/unpoly/unpoly-rails) - Ruby on Rails bindings for Unpoly
 - [shanecav84/rubocop-ordered_methods](https://github.com/shanecav84/rubocop-ordered_methods) - Check that methods are defined alphabetically per access modifier block.
 - [bellroy/rspec-sorbet](https://github.com/bellroy/rspec-sorbet) - A small gem consisting of helpers for using Sorbet & RSpec together.
 - [athal7/thermos](https://github.com/athal7/thermos) - Always-warm, auto-rebuilding rails caching without timers or touching
@@ -5244,7 +5252,6 @@
 - [Shopify/autoload_reloader](https://github.com/Shopify/autoload_reloader) - Experimental implementation of code reloading using Ruby's autoload
 - [keithrbennett/rock_books](https://github.com/keithrbennett/rock_books) - Simple and flexible accounting system, available as a Ruby gem.
 - [appsignal/appsignal-ruby](https://github.com/appsignal/appsignal-ruby) - 🟥 AppSignal for Ruby gem
-- [kaspernj/api_maker](https://github.com/kaspernj/api_maker) - A Rails gem for generating a JavaScript API automatically based on your ActiveRecord models.
 - [ketiko/open_api-rspec](https://github.com/ketiko/open_api-rspec) - 
 - [ngtk/open_api_annotator](https://github.com/ngtk/open_api_annotator) - OpenAPI spec generation by bottom-up.
 - [chancancode/json_expressions](https://github.com/chancancode/json_expressions) - JSON matchmaking for all your API testing needs.
@@ -7729,6 +7736,7 @@
 
 ## Rust 
 
+- [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - CSML is an easy-to-use chatbot programming language and framework.
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -8133,6 +8141,8 @@
 
 ## TypeScript 
 
+- [open-source-labs/obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno - a native GraphQL caching client and server module
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
