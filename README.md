@@ -2089,7 +2089,7 @@
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [flightplan-tool/timetable-fns](https://github.com/flightplan-tool/timetable-fns) - Useful date and time utility functions for working with timetables.
-- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typewriter utility on the planet.
+- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -4749,6 +4749,7 @@
 
 ## Ruby 
 
+- [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analysis tool and a test skipper for RSpec
 - [square/rbs_protobuf](https://github.com/square/rbs_protobuf) - 
 - [kachick/ruby-ulid](https://github.com/kachick/ruby-ulid) - generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`
 - [johansenja/typed_struct](https://github.com/johansenja/typed_struct) - Ruby structs but with type-checked attributes ⚡️🔐
@@ -8264,7 +8265,7 @@
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [whats-good/uniform-graphql](https://github.com/whats-good/uniform-graphql) - Code-first GraphQL apis in TypeScript with complete & robust end-to-end type safety.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
 - [apollographql/apollo-workbench-vscode](https://github.com/apollographql/apollo-workbench-vscode) - Apollo Workbench is a design tool that facilitates planning changes to your supergraph. It enables you to understand the overall composition and execution of any given query at design time.
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
