@@ -1052,6 +1052,7 @@
 
 ## HTML 
 
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [primefaces/primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight flex based responsive grid optimized for mobile phones, tablets and desktops
 - [themeselection/bootstrap-cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet) - The ultimate cheatsheet for Bootstrap5 🚀
@@ -1403,7 +1404,6 @@
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
-- [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [postui/esm.sh](https://github.com/postui/esm.sh) - A fast, global content delivery network for ES Modules.
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
@@ -4278,6 +4278,7 @@
 
 ## PHP 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [tonysm/globalid-laravel](https://github.com/tonysm/globalid-laravel) - Identify app models with a URI. Inspired by the globalid gem.
 - [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte) - 
 - [facade/ignition](https://github.com/facade/ignition) - A beautiful error page for Laravel apps
@@ -4749,6 +4750,7 @@
 
 ## Ruby 
 
+- [postmodern/ruby-masscan](https://github.com/postmodern/ruby-masscan) - A Ruby interface to masscan, an Internet-scale port scanner.
 - [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analysis tool and a test skipper for RSpec
 - [square/rbs_protobuf](https://github.com/square/rbs_protobuf) - 
 - [kachick/ruby-ulid](https://github.com/kachick/ruby-ulid) - generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`
@@ -4797,7 +4799,6 @@
 - [storyblok/storyblok-ruby](https://github.com/storyblok/storyblok-ruby) - Storyblok ruby client for easy access of the content delivery api
 - [pantographe/view_component-form](https://github.com/pantographe/view_component-form) - Rails FormBuilder for ViewComponent
 - [clerkinc/clerk-sdk-ruby](https://github.com/clerkinc/clerk-sdk-ruby) - Access the Clerk Backend API from Ruby
-- [lucemhealth-labs/easy-jsonapi](https://github.com/lucemhealth-labs/easy-jsonapi) - Middleware, parser, and validator, for JSON:API requests and serialized responses.
 - [ElMassimo/oj_serializers](https://github.com/ElMassimo/oj_serializers) - ⚡️ Faster JSON serialization for Ruby on Rails. Easily migrate away from Active Model Serializers.
 - [ElMassimo/pingcrm-vite](https://github.com/ElMassimo/pingcrm-vite) - ⚡️ PingCRM on Vite Rails - A Vite.js + Inertia.js + Rails demo
 - [ElMassimo/better_settings](https://github.com/ElMassimo/better_settings) - ⚙ Settings for Ruby apps – fast, immutable, better.
@@ -4814,6 +4815,7 @@
 - [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample) - A sample app for Shopify's JWT integration with Hotwire Turbo
 - [BlakeWilliams/triplet](https://github.com/BlakeWilliams/triplet) - Simple, experimental HTML DSL for Ruby
 - [baoagency/polaris_view_components](https://github.com/baoagency/polaris_view_components) - ViewComponents for Polaris Design System
+- [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [ioquatix/bake-gem](https://github.com/ioquatix/bake-gem) - 
 - [rubytoolbox/catalog](https://github.com/rubytoolbox/catalog) - The Ruby Toolbox library catalog. If you'd like to contribute to the categorizations of Ruby open source projects on the Ruby Toolbox this is the place you can do so 📬🎉
 - [leandromoreira/redlock-rb](https://github.com/leandromoreira/redlock-rb) - Redlock is a redis-based distributed lock implementation in Ruby
@@ -7737,6 +7739,7 @@
 
 ## Rust 
 
+- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - CSML is an easy-to-use chatbot programming language and framework.
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.
@@ -8142,7 +8145,11 @@
 
 ## TypeScript 
 
-- [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.
+- [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
+- [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
+- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot React Notifications 🔥
+- [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [open-source-labs/obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno - a native GraphQL caching client and server module
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
@@ -8150,7 +8157,7 @@
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, and Webpack
 - [CyCraft/vue-intellisense](https://github.com/CyCraft/vue-intellisense) - A CLI tool to help enabling IntelliSense on your Vue components
-- [antfu/vite-plugin-components](https://github.com/antfu/vite-plugin-components) - 📲 On-demand components auto importing for Vite
+- [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
 - [antfu/unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
@@ -8160,7 +8167,6 @@
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [antfu/vue-global-api](https://github.com/antfu/vue-global-api) - Use Vue Composition API globally
-- [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown with Vue for Vite
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
@@ -9191,6 +9197,7 @@
 
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
+- [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
