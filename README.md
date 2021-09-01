@@ -1253,6 +1253,7 @@
 
 ## Haskell 
 
+- [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
@@ -2273,7 +2274,7 @@
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [Canner/canner](https://github.com/Canner/canner) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
 - [excitement-engineer/graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A set of RFC 3339 compliant date/time GraphQL scalar types.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -2565,7 +2566,7 @@
 - [postlight/lux](https://github.com/postlight/lux) - Build scalable, Node.js-powered REST JSON APIs with almost no code.
 - [Rich-Harris/butternut](https://github.com/Rich-Harris/butternut) - The fast, future-friendly minifier
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [FormidableLabs/freactal](https://github.com/FormidableLabs/freactal) - Clean and robust state management for React and React-like libs.
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -3777,6 +3778,7 @@
 
 ## Others 
 
+- [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [PeytonRG/BootstrapToaster](https://github.com/PeytonRG/BootstrapToaster) - Robust, plug & play generator for Bootstrap toasts.
 - [vuetifyjs/awesome-vuetify](https://github.com/vuetifyjs/awesome-vuetify) - 🎉 The best resources related to Vuetify
 - [spree/spree-dev-docs](https://github.com/spree/spree-dev-docs) - Spree Commerce Developer Documentation - https://dev-docs.spreecommerce.org
@@ -3851,7 +3853,7 @@
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [hyperfiddle/hyperfiddle](https://github.com/hyperfiddle/hyperfiddle) - CRUD apps as a function
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
-- [fastengineer/open-source-cloud](https://github.com/fastengineer/open-source-cloud) - The open source cloud things to build your own cloud
+- [2ndmehmet/open-source-cloud](https://github.com/2ndmehmet/open-source-cloud) - The open source cloud things to build your own cloud
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -7739,6 +7741,7 @@
 
 ## Rust 
 
+- [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
 - [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - CSML is an easy-to-use chatbot programming language and framework.
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
@@ -8145,6 +8148,8 @@
 
 ## TypeScript 
 
+- [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🕸 React library for building workflow editors, flow charts and diagrams
+- [BrunoScheufler/graphql-sonar](https://github.com/BrunoScheufler/graphql-sonar) - An API testing tool for GraphQL, leveraging code generation based on your schema and operations
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
 - [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
@@ -9025,7 +9030,7 @@
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [jamesknelson/govern](https://github.com/jamesknelson/govern) - Component-based state management for JavaScript.
-- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Full-featured reactive state management without the boilerplate
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
