@@ -1372,6 +1372,7 @@
 
 ## JavaScript 
 
+- [iconify/api.js](https://github.com/iconify/api.js) - Node.js version of Iconify API. You can use it to serve Iconify icon sets from your own servers.
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
 - [rails/requestjs-rails](https://github.com/rails/requestjs-rails) - 
@@ -8938,7 +8939,7 @@
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries
 - [davidtheclark/cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
 - [pedronauck/react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro
 - [expo/snack-web](https://github.com/expo/snack-web) - 
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
