@@ -852,7 +852,7 @@
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - The High Code Framework (low-code for devs)
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-- [pressly/goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [appointy/jaal](https://github.com/appointy/jaal) - Develop spec compliant GraphQL servers
 - [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS
@@ -2194,6 +2194,7 @@
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [JodusNodus/react-qr-reader](https://github.com/JodusNodus/react-qr-reader) - React component for reading QR codes from webcam.
 - [terkelg/zet](https://github.com/terkelg/zet) - Set() as it should be.
 - [ezcater/lunar-core](https://github.com/ezcater/lunar-core) - Tools to assist with mocking GraphQL schemas
@@ -5348,7 +5349,7 @@
 - [joshmn/caffeinate](https://github.com/joshmn/caffeinate) - A Rails engine for drip campaigns/scheduled email sequences and periodic emails.
 - [joshmn/metricky](https://github.com/joshmn/metricky) - Build, query, and render metrics from your Rails application.
 - [joshmn/gearhead](https://github.com/joshmn/gearhead) - Generate an API for your database, with searching and filtering, automatically
-- [joshmn/jeanine](https://github.com/joshmn/jeanine) - A lightning-fast, batteries-included Ruby web micro-framework
+- [joshmn/jeanine](https://github.com/joshmn/jeanine) - A lightning-fast, batteries-included Ruby web micro-framework.
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads) - CodeFund is an open source platform that helps fund maintainers, bloggers, and builders through non-tracking ethical ads
 - [logux/logux-rack](https://github.com/logux/logux-rack) - Rack-based Logux integration engine
 - [logux/logux_rails](https://github.com/logux/logux_rails) - Rails client for Logux server
@@ -8146,6 +8147,7 @@
 
 ## TypeScript 
 
+- [relay-tools/relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🕸 React library for building workflow editors, flow charts and diagrams
 - [BrunoScheufler/graphql-sonar](https://github.com/BrunoScheufler/graphql-sonar) - An API testing tool for GraphQL, leveraging code generation based on your schema and operations
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
@@ -8955,7 +8957,6 @@
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
 - [evnbr/bindery](https://github.com/evnbr/bindery) - Book layout in the browser
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
-- [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [wix/vscode-glean](https://github.com/wix/vscode-glean) - The extension provides refactoring tools for your React codebase
 - [sapegin/stack-styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React
 - [KATT/shop](https://github.com/KATT/shop) - 🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example
