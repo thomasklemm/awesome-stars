@@ -7315,7 +7315,7 @@
 - [DavyJonesLocker/ruby-destroyed_at](https://github.com/DavyJonesLocker/ruby-destroyed_at) - ActiveRecord Mixin for Safe Destroys
 - [makandra/query_diet](https://github.com/makandra/query_diet) - A Rails database query counter that stays out of your way
 - [magnusvk/counter_culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app.
-- [dejan/rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development
+- [dejan/rails_panel](https://github.com/dejan/rails_panel) - Chrome extension for Rails development
 - [zeeraw/arcane](https://github.com/zeeraw/arcane) - Rails strong parameters, made object oriented.
 - [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
 - [codetriage/maildown](https://github.com/codetriage/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text
@@ -7837,6 +7837,7 @@
 
 ## SCSS 
 
+- [balmjs/balm-ui](https://github.com/balmjs/balm-ui) - :diamonds: A modular and customizable UI library based on Material Design and Vue
 - [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
 - [nebulab/playbook](https://github.com/nebulab/playbook) - :book: We are Nebulab, and this is how we work.
 - [dkniffin/active_material](https://github.com/dkniffin/active_material) - ActiveAdmin skin based on Google's Material Design
@@ -9201,6 +9202,8 @@
 
 ## Vue 
 
+- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
