@@ -1372,6 +1372,8 @@
 
 ## JavaScript 
 
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
+- [juliomrqz/vue-warehouse](https://github.com/juliomrqz/vue-warehouse) - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [iconify/api.js](https://github.com/iconify/api.js) - Node.js version of Iconify API. You can use it to serve Iconify icon sets from your own servers.
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
@@ -1408,7 +1410,7 @@
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
-- [postui/esm.sh](https://github.com/postui/esm.sh) - A fast, global content delivery network for ES Modules.
+- [alephjs/esm.sh](https://github.com/alephjs/esm.sh) - A fast, global content delivery network for ES Modules.
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
@@ -1774,7 +1776,7 @@
 - [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
 - [frappe/frappejs](https://github.com/frappe/frappejs) - Node + Electron + Vue based metadata web framework (inspired by Frappe)
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
+- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [absinthe-graphql/absinthe-socket](https://github.com/absinthe-graphql/absinthe-socket) - Core JavaScript support for Absinthe WS-based operations
 - [nanoexpress/legacy](https://github.com/nanoexpress/legacy) - [Deprecated] Nano-framework for Node.js. Use PRO version
@@ -7392,7 +7394,7 @@
 - [gma/tconsole](https://github.com/gma/tconsole) - Testing console for Rails. Helps out with test performance and also makes it easier to run specific tests
 - [slim-template/slim-rails](https://github.com/slim-template/slim-rails) - Slim templates generator for Rails
 - [thomasklemm/Prelauncher](https://github.com/thomasklemm/Prelauncher) - Prelaunch signup page boilerplate for quick and easy deploy with Heroku.
-- [blahed/von](https://github.com/blahed/von) - Von is an opinionated Redis stats tracker
+- [trvsdnn/von](https://github.com/trvsdnn/von) - Von is an opinionated Redis stats tracker
 - [n8/multi_fetch_fragments](https://github.com/n8/multi_fetch_fragments) - Multi-fetch Fragments makes rendering and caching a collection of template partials easier and faster.
 - [BetterErrors/better_errors](https://github.com/BetterErrors/better_errors) - Better error page for Rack apps
 - [ryanb/mustard](https://github.com/ryanb/mustard) - Simple "must" expectations for tests and specs in Ruby.
@@ -7409,7 +7411,7 @@
 - [rkh/coder](https://github.com/rkh/coder) - Handle encodings, no matter the Ruby version, Operating System and installed libraries
 - [haileys/xgem](https://github.com/haileys/xgem) - A very tiny shim that dramatically speeds up gem requires
 - [fxn/tkn](https://github.com/fxn/tkn) - Terminal Keynote - A hack for terminal-based talks
-- [blahed/chainsaw](https://github.com/blahed/chainsaw) - Slice up log files into the time-filtered chunks you want
+- [trvsdnn/chainsaw](https://github.com/trvsdnn/chainsaw) - Slice up log files into the time-filtered chunks you want
 - [mattherick/contact_form](https://github.com/mattherick/contact_form) - a contact form engine for rails 4.1.x, 4.0.0 and  3.2
 - [thomasklemm/butler](https://github.com/thomasklemm/butler) - Butler is a Rack Middleware for serving static files in a Rails project. It's based on ActionDispatch::Static but allows to set custom HTTP headers.
 - [ConradIrwin/pry-rescue](https://github.com/ConradIrwin/pry-rescue) - Start a pry session whenever something goes wrong.
@@ -7622,7 +7624,7 @@
 - [dkubb/axiom](https://github.com/dkubb/axiom) - Simplifies querying of structured data using relational algebra
 - [zapnap/resque_mailer](https://github.com/zapnap/resque_mailer) - Rails plugin for sending asynchronous email with ActionMailer and Resque
 - [hashrocket/decent_exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers
-- [blahed/frank](https://github.com/blahed/frank) - Static Site Non-Framework
+- [trvsdnn/frank](https://github.com/trvsdnn/frank) - Static Site Non-Framework
 - [stephencelis/minifacture](https://github.com/stephencelis/minifacture) - factory_girl for minitest
 - [pusher/pusher-http-ruby](https://github.com/pusher/pusher-http-ruby) - Ruby library for Pusher Channels HTTP API
 - [Psynixtuary/rails3_haml_scaffold_generator](https://github.com/Psynixtuary/rails3_haml_scaffold_generator) - Very basic Rails 3 HAML scaffold generator
@@ -8148,6 +8150,9 @@
 
 ## TypeScript 
 
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [moritzsternemann/vue-plausible](https://github.com/moritzsternemann/vue-plausible) - Plausible Analytics Vue.js Plugin and NuxtJS Module
+- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
 - [relay-tools/relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🕸 React library for building workflow editors, flow charts and diagrams
 - [BrunoScheufler/graphql-sonar](https://github.com/BrunoScheufler/graphql-sonar) - An API testing tool for GraphQL, leveraging code generation based on your schema and operations
@@ -8202,7 +8207,6 @@
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for vue ecosystem.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vuejs/vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router
-- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [vuejs/jsx-next](https://github.com/vuejs/jsx-next) - JSX for Vue 3
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
@@ -9202,6 +9206,7 @@
 
 ## Vue 
 
+- [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
