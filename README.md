@@ -1372,6 +1372,7 @@
 
 ## JavaScript 
 
+- [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
 - [juliomrqz/vue-warehouse](https://github.com/juliomrqz/vue-warehouse) - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [iconify/api.js](https://github.com/iconify/api.js) - Node.js version of Iconify API. You can use it to serve Iconify icon sets from your own servers.
@@ -2443,7 +2444,6 @@
 - [Chimeejs/chimee](https://github.com/Chimeejs/chimee) - a video player framework aims to bring wonderful experience on browser
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [davewasmer/readable-id](https://github.com/davewasmer/readable-id) - 
-- [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
@@ -4754,6 +4754,11 @@
 
 ## Ruby 
 
+- [opensourcerails-org/site](https://github.com/opensourcerails-org/site) - Cataloged, analyzed, manually-curated open-source Rails projects directory.
+- [rails/rails-html-sanitizer](https://github.com/rails/rails-html-sanitizer) - 
+- [tmm1/rbtrace](https://github.com/tmm1/rbtrace) - like strace, but for ruby code
+- [gocardless/creditsafe-ruby](https://github.com/gocardless/creditsafe-ruby) - Ruby library for the Creditsafe SOAP API
+- [rails/cssbundling-rails](https://github.com/rails/cssbundling-rails) - Bundle and process CSS in Rails with Tailwind, PostCSS, and Sass via Node.js.
 - [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
 - [postmodern/ruby-masscan](https://github.com/postmodern/ruby-masscan) - A Ruby interface to masscan, an Internet-scale port scanner.
 - [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analysis tool and a test skipper for RSpec
@@ -5360,7 +5365,7 @@
 - [roidrage/redis-session-store](https://github.com/roidrage/redis-session-store) - A simple session store for Rails based on Redis.
 - [bullet-train-co/nice_partials](https://github.com/bullet-train-co/nice_partials) - A little bit of magic to make partials perfect for components.
 - [customink/lambdakiq](https://github.com/customink/lambdakiq) - ActiveJob on SQS & Lambda
-- [Shopify/tapioca](https://github.com/Shopify/tapioca) - Generate RBI files for your project's gem dependencies
+- [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation
 - [oivoodoo/devise_masquerade](https://github.com/oivoodoo/devise_masquerade) - Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it.
 - [styd/apexcharts.rb](https://github.com/styd/apexcharts.rb) - :bar_chart: Awesome charts for your ruby app powered by ApexCharts.JS.
 - [ankane/trove](https://github.com/ankane/trove) - Deploy machine learning models in Ruby (and Rails)
@@ -8151,6 +8156,7 @@
 
 ## TypeScript 
 
+- [mmazzarolo/react-native-dialog](https://github.com/mmazzarolo/react-native-dialog) - Pure JavaScript React-Native dialog
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [moritzsternemann/vue-plausible](https://github.com/moritzsternemann/vue-plausible) - Plausible Analytics Vue.js Plugin and NuxtJS Module
 - [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
@@ -9068,6 +9074,7 @@
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [LessWrong2/Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
 - [oktapodia/coinwatch](https://github.com/oktapodia/coinwatch) - Track your cryptocurrencies from your Osx menubar
+- [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries
