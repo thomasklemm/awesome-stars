@@ -669,6 +669,11 @@
 
 ## Go 
 
+- [elipZis/inertia-echo](https://github.com/elipZis/inertia-echo) - 💻 Echo (Go) Server-Side Adapter for Inertia.js
+- [petaki/inertia-go](https://github.com/petaki/inertia-go) - ⏩ The Inertia.js server-side adapter for Go.
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
@@ -3631,6 +3636,7 @@
 - [babylonhealth/fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [atriumlts/subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
@@ -4768,7 +4774,7 @@
 - [rails/cssbundling-rails](https://github.com/rails/cssbundling-rails) - Bundle and process CSS in Rails with Tailwind, PostCSS, and Sass via Node.js.
 - [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
 - [postmodern/ruby-masscan](https://github.com/postmodern/ruby-masscan) - A Ruby interface to masscan, an Internet-scale port scanner.
-- [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analysis tool and a test skipper for RSpec
+- [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [square/rbs_protobuf](https://github.com/square/rbs_protobuf) - 
 - [kachick/ruby-ulid](https://github.com/kachick/ruby-ulid) - generator, monotonic generator, parser and handy manipulation features around the `ULID(Universally Unique Lexicographically Sortable Identifier)`
 - [johansenja/typed_struct](https://github.com/johansenja/typed_struct) - Ruby structs but with type-checked attributes ⚡️🔐
@@ -7756,6 +7762,7 @@
 
 ## Rust 
 
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
 - [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -9152,7 +9159,6 @@
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
