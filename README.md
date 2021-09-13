@@ -1179,7 +1179,6 @@
 - [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [weshatheleopard/rubyXL](https://github.com/weshatheleopard/rubyXL) - Ruby lib for reading/writing/modifying .xlsx and .xlsm files
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [will-stone/quick-select](https://github.com/will-stone/quick-select) - A jQuery plugin for quick selection of common options in select boxes. Selectual.
 - [devinhunt/typebase.css](https://github.com/devinhunt/typebase.css) - A starting point for good typography on the web.
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
@@ -2923,6 +2922,7 @@
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
 - [flesler/jquery.scrollTo](https://github.com/flesler/jquery.scrollTo) - Lightweight, cross-browser and highly customizable animated scrolling with jQuery
 - [Robdel12/DropKick](https://github.com/Robdel12/DropKick) - A JavaScript plugin for creating beautiful, accessible, and painless custom dropdowns.
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [rawls238/PlanOut.js](https://github.com/rawls238/PlanOut.js) - A JavaScript port of Facebook's PlanOut Experimentation Framework
 - [HubSpot/select](https://github.com/HubSpot/select) - Styleable select elements built on Tether. #hubspot-open-source
 - [RisingStack/graffiti](https://github.com/RisingStack/graffiti) - ⚠️ DEVELOPMENT DISCONTINUED - Node.js GraphQL ORM
@@ -4764,6 +4764,8 @@
 
 ## Ruby 
 
+- [brunofacca/zen-rails-base-app](https://github.com/brunofacca/zen-rails-base-app) - Base application for Ruby on Rails 6 projects. Built to  minimize the time spent writing boilerplate code and performing repetitive  setup tasks.
+- [zombocom/wait_for_it](https://github.com/zombocom/wait_for_it) - Stop sleeping in your tests, instead wait for it...
 - [SciRuby/iruby](https://github.com/SciRuby/iruby) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook
 - [ankane/vega](https://github.com/ankane/vega) - Interactive charts for Ruby, powered by Vega and Vega-Lite
 - [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
@@ -8171,6 +8173,9 @@
 
 ## TypeScript 
 
+- [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
+- [KATT/zart](https://github.com/KATT/zart) - 🤯  zART-stack — Zero-API, React [Native], & TypeScript
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [eidellev/inertiajs-adonisjs](https://github.com/eidellev/inertiajs-adonisjs) - 
 - [deepkit/deepkit-ml](https://github.com/deepkit/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools.
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance web framework for sophisticated web applications.
