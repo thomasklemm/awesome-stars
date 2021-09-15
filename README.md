@@ -1378,6 +1378,7 @@
 
 ## JavaScript 
 
+- [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
@@ -3835,7 +3836,6 @@
 - [opencrud/opencrud](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases
 - [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
-- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [aws/aws-lambda-base-images](https://github.com/aws/aws-lambda-base-images) - 
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [etesync/etebase-ruby](https://github.com/etesync/etebase-ruby) - [COMING SOON] A Ruby client library for Etebase
@@ -4867,7 +4867,7 @@
 - [adzap/active_enum](https://github.com/adzap/active_enum) - Define enum classes in Rails and use them to enumerate ActiveRecord attributes, with I18n support
 - [ledermann/templatus](https://github.com/ledermann/templatus) - Opinionated template for web applications with Ruby on Rails and Vue.js 3
 - [cmer/sanitization](https://github.com/cmer/sanitization) - Clean & sanitize your ActiveRecord data before saving to database
-- [supabase/postgrest-rb](https://github.com/supabase/postgrest-rb) - Isomorphic Ruby client for PostgREST.
+- [supabase-community/postgrest-rb](https://github.com/supabase-community/postgrest-rb) - Isomorphic Ruby client for PostgREST.
 - [haines/pg-aws_rds_iam](https://github.com/haines/pg-aws_rds_iam) - IAM authentication in Ruby for PostgreSQL on Amazon RDS
 - [stevepolitodesign/rails-api-key-authentication](https://github.com/stevepolitodesign/rails-api-key-authentication) - In this tutorial, we'll build a full-featured API in Rails with authentication.
 - [Shopify/job-iteration](https://github.com/Shopify/job-iteration) - Makes your background jobs interruptible and resumable by design.
@@ -8178,6 +8178,8 @@
 
 ## TypeScript 
 
+- [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
+- [reactivestack/cookies](https://github.com/reactivestack/cookies) - Load and save cookies within your React application
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [KATT/zart](https://github.com/KATT/zart) - 🤯  zART-stack — Zero-API, React [Native], & TypeScript
