@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [HellRok/Taylor](https://github.com/HellRok/Taylor) - A simple game engine built using raylib and mruby
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [Shopify/heap-profiler](https://github.com/Shopify/heap-profiler) - Ruby heap profiler
 - [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number lib for Ruby (binds to Google's C++ libphonenumber)
@@ -1156,6 +1157,7 @@
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [minhur/bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [fgrehm/letter_opener_web](https://github.com/fgrehm/letter_opener_web) - A web interface for browsing Ruby on Rails sent emails
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -1420,6 +1422,7 @@
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
+- [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [alephjs/esm.sh](https://github.com/alephjs/esm.sh) - A fast, global content delivery network for ES Modules.
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
@@ -2628,7 +2631,6 @@
 - [jorilallo/jsonbrowse](https://github.com/jorilallo/jsonbrowse) - 🔎 Browse, filter and manipulate your JSON inside the browser
 - [wit-ai/node-wit](https://github.com/wit-ai/node-wit) - Node.js SDK for Wit.ai
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [airbnb/react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
@@ -2853,7 +2855,6 @@
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [watson/airplay-server](https://github.com/watson/airplay-server) - A low level AirPlay server
-- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [matthewmueller/socrates](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included redux store to reduce boilerplate and promote good habits.
 - [bevacqua/trunc-html](https://github.com/bevacqua/trunc-html) - :triangular_ruler: truncate html by text length
@@ -4845,7 +4846,6 @@
 - [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample) - A sample app for Shopify's JWT integration with Hotwire Turbo
 - [BlakeWilliams/triplet](https://github.com/BlakeWilliams/triplet) - Simple, experimental HTML DSL for Ruby
 - [baoagency/polaris_view_components](https://github.com/baoagency/polaris_view_components) - ViewComponents for Polaris Design System
-- [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [ioquatix/bake-gem](https://github.com/ioquatix/bake-gem) - 
 - [rubytoolbox/catalog](https://github.com/rubytoolbox/catalog) - The Ruby Toolbox library catalog. If you'd like to contribute to the categorizations of Ruby open source projects on the Ruby Toolbox this is the place you can do so 📬🎉
 - [leandromoreira/redlock-rb](https://github.com/leandromoreira/redlock-rb) - Redlock is a redis-based distributed lock implementation in Ruby
@@ -8325,7 +8325,7 @@
 - [whats-good/uniform-graphql](https://github.com/whats-good/uniform-graphql) - Code-first GraphQL apis in TypeScript with complete & robust end-to-end type safety.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
 - [apollographql/apollo-workbench-vscode](https://github.com/apollographql/apollo-workbench-vscode) - Apollo Workbench is a design tool that facilitates planning changes to your supergraph. It enables you to understand the overall composition and execution of any given query at design time.
-- [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
@@ -8690,7 +8690,7 @@
 - [hoeck/typesafe-query-builder](https://github.com/hoeck/typesafe-query-builder) - Generate SQL queries leveraging type inference and Postgres Json functions
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [opticdev/optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
-- [contember/contember](https://github.com/contember/contember) - Contember is a standalone server providing GraphQL API for your PostgreSQL database.
+- [contember/engine](https://github.com/contember/engine) - Contember is a standalone server providing GraphQL API for your PostgreSQL database.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [cultureamp/kaizen-design-system](https://github.com/cultureamp/kaizen-design-system) - Culture Amp's Kaizen Design System :seedling:
 - [logux/client](https://github.com/logux/client) - Logux base components to build web client
@@ -9193,6 +9193,7 @@
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
