@@ -686,7 +686,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
@@ -922,7 +922,7 @@
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -1075,6 +1075,7 @@
 - [stimulus-components/stimulus-reveal-controller](https://github.com/stimulus-components/stimulus-reveal-controller) - A Stimulus controller to toggle a class on one or multiple items to show or hide them.
 - [stimulus-components/stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [reidmorrison/rocketjob_mission_control](https://github.com/reidmorrison/rocketjob_mission_control) - Web based management interface for Rocket Job
 - [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [nicovak/slash_admin](https://github.com/nicovak/slash_admin) - A modern and customizable admin gem, just the rails way.
@@ -1137,7 +1138,6 @@
 - [dostu/rails-graphql-realworld-example-app](https://github.com/dostu/rails-graphql-realworld-example-app) - Exemplary real world backend GraphQL API built with Ruby on Rails https://realworld.io
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - 📦 Module thinking, principles, design patterns and best practices.
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [toddwschneider/stocks](https://github.com/toddwschneider/stocks) - A free, lightweight, blazing-fast static page to get stock quotes using IEX Cloud
@@ -2080,7 +2080,7 @@
 - [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [ericelliott/cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
-- [formium/tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [Rich-Harris/react-svelte](https://github.com/Rich-Harris/react-svelte) - Use Svelte components inside a React app
@@ -2296,6 +2296,7 @@
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [palmerhq/react-suspense-starter](https://github.com/palmerhq/react-suspense-starter) - Experiment with React Suspense right meow.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -4961,7 +4962,6 @@
 - [adamniedzielski/tiddle](https://github.com/adamniedzielski/tiddle) - Devise strategy for token authentication in API-only Ruby on Rails applications
 - [benaubin/rails-collab](https://github.com/benaubin/rails-collab) - Collaborative Editing on Rails
 - [sighmon/mjml-rails](https://github.com/sighmon/mjml-rails) - MJML + ERb/Haml/Slim view template
-- [reidmorrison/rocketjob_mission_control](https://github.com/reidmorrison/rocketjob_mission_control) - Web based management interface for Rocket Job
 - [reidmorrison/parallel_minion](https://github.com/reidmorrison/parallel_minion) - Pragmatic approach to parallel and asynchronous processing in Ruby
 - [pythonicrubyist/creek](https://github.com/pythonicrubyist/creek) - Ruby library for parsing large Excel files.
 - [johnsinco/be_valid](https://github.com/johnsinco/be_valid) - Ruby on Rails / ActiveModel custom conditional validation
@@ -7760,12 +7760,12 @@
 - [Locale/localeapp](https://github.com/Locale/localeapp) - Send and retrieve your ruby i18n localizations to the Locale translation service
 - [ernie/valium](https://github.com/ernie/valium) - Access attribute values directly, without instantiating ActiveRecord objects.
 - [airbrake/airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby applications
-- [rweng/pry-rails](https://github.com/rweng/pry-rails) - Rails &gt;= 3 pry initializer
+- [pry/pry-rails](https://github.com/pry/pry-rails) - Rails &gt;= 3 pry initializer
 - [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
 - [ryanb/letter_opener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 - [Mon-Ouie/pry-remote](https://github.com/Mon-Ouie/pry-remote) - Connect to Pry remotely
 - [bradphelan/rocket_tag](https://github.com/bradphelan/rocket_tag) - modern high performance tagging library for Rails 3.1 +
-- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
+- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [piotrmurach/github](https://github.com/piotrmurach/github) - Ruby interface to GitHub API
 - [orslumen/record-cache](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3
 - [cgriego/active_attr](https://github.com/cgriego/active_attr) - What ActiveModel left out
@@ -8276,7 +8276,7 @@
 - [formstjs/formst](https://github.com/formstjs/formst) - Model-driven Form library for React
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
 - [graphql-editor/graphql-js-tree](https://github.com/graphql-editor/graphql-js-tree) - Simpler structure for GraphQL AST
-- [Shopify/polaris](https://github.com/Shopify/polaris) - The experience platform for Shopify.
+- [Shopify/foundational-design-system-proto](https://github.com/Shopify/foundational-design-system-proto) - A prototype for a foundational design system at Shopify
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -9153,7 +9153,7 @@
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build a customizable Design System.
+- [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -9265,7 +9265,7 @@
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
 - [arnauddoub/formyle](https://github.com/arnauddoub/formyle) - Advanced Vue 3 form conception
-- [malikzh/reforms](https://github.com/malikzh/reforms) - Vue 3 and Bootstrap 5 forms and cards generator
+- [malikzh/reforms](https://github.com/malikzh/reforms) - WIP: Vue 3 and Bootstrap 5 forms and cards generator
 - [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [SevenOutman/Hubble](https://github.com/SevenOutman/Hubble) - :telescope: Travel through GitHub Stars' history
