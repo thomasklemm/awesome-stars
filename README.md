@@ -580,7 +580,7 @@
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [semlette/nfc_in_flutter](https://github.com/semlette/nfc_in_flutter) - Cross-platform flutter plugin for reading and writing NFC tags.
+- [semlette/nfc_in_flutter](https://github.com/semlette/nfc_in_flutter) - Cross-platform flutter plugin for reading and writing NFC tags. Not maintained anymore - not looking for new maintainer, fork instead.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
@@ -1386,7 +1386,7 @@
 ## JavaScript 
 
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [ai/nanocolors](https://github.com/ai/nanocolors) - 2x times faster than chalk and use 5x less space in node_modules
+- [ai/nanocolors](https://github.com/ai/nanocolors) - 4x times faster than chalk and use 5x less space in node_modules
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
@@ -3720,7 +3720,6 @@
 
 - [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system) - One place for service teams to find styles, components and patterns for designing government services.
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
-- [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## OCaml 
@@ -4055,6 +4054,7 @@
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [kilimchoi/cryptocurrency](https://github.com/kilimchoi/cryptocurrency) - Overview of top cryptocurrencies
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [rails/activestorage](https://github.com/rails/activestorage) - Store files in Rails applications
 - [larahogan/ally-resources](https://github.com/larahogan/ally-resources) - A handful of things that were helpful to me, or that I developed with other allies, while working at Etsy.
@@ -7892,7 +7892,6 @@
 - [dry-rb/dry-rb.org](https://github.com/dry-rb/dry-rb.org) - The official website of dry-rb
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) - RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example:
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
@@ -8411,6 +8410,7 @@
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [charlypoly/spotify-graphql](https://github.com/charlypoly/spotify-graphql) - GraphQL schema for Spotify WebAPI  — TypeScript / Node.js (v6)
 - [stellar/account-viewer-v2](https://github.com/stellar/account-viewer-v2) - A simple tool to view an account on the Stellar network and make transactions from it.
+- [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API 😋
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
@@ -8578,7 +8578,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring
 - [rowyio/use-algolia](https://github.com/rowyio/use-algolia) - Dead-simple React hook to make Algolia search queries. Supports pagination out of the box.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform that allows you to manage Firestore data in a spreadsheet-like UI, write Cloud Functions in the browser, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
