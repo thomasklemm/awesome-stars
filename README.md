@@ -6798,7 +6798,7 @@
 - [sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
 - [apneadiving/waterfall](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control. Make them flow!
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
-- [typesigs/safebool](https://github.com/typesigs/safebool) - safebool gem / library - safe bool / boolean type adds Bool(), to_b, parse_bool / to_bool, bool?, false?, true?, true.is_a?(Bool)==true, false.is_a?(Bool)==true, and more
+- [cryptopunksnotdead/pixelart-howto](https://github.com/cryptopunksnotdead/pixelart-howto) - pixel art HOWTOs
 - [amatsuda/kawaii_validation](https://github.com/amatsuda/kawaii_validation) - An ActiveRecord extension that adds more kawaii validation syntax
 - [amatsuda/active_decorator](https://github.com/amatsuda/active_decorator) - ORM agnostic truly Object-Oriented view helper for Rails 4, 5, and 6
 - [awesomefoundation/awesomebits](https://github.com/awesomefoundation/awesomebits) - This is the source code for the Awesome Foundation website
