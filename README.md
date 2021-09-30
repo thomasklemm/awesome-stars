@@ -687,7 +687,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
@@ -901,7 +901,7 @@
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
@@ -1084,7 +1084,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
 - [creativetimofficial/notus-js](https://github.com/creativetimofficial/notus-js) - Notus JS: Free Tailwind CSS UI Kit and Admin
-- [thedevdojo/tails](https://github.com/thedevdojo/tails) - Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
 - [factbook/factbook](https://github.com/factbook/factbook) - factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -1299,7 +1299,7 @@
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [MyOutDeskLLC/Tailwind-Formatter](https://github.com/MyOutDeskLLC/Tailwind-Formatter) - Port of Headwind to Intellij. Opinionated class formatter for TailwindCSS
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-- [projectnessie/nessie](https://github.com/projectnessie/nessie) - Nessie provides Git-like capabilities for your Data Lake
+- [projectnessie/nessie](https://github.com/projectnessie/nessie) - Nessie: Transactional Catalog for Data Lakes with Git-like semantics
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
@@ -1998,6 +1998,7 @@
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uber/cadence-web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
+- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [react-component/form](https://github.com/react-component/form) - React High Order Form Component(web & react-native)
@@ -3797,6 +3798,7 @@
 
 ## Others 
 
+- [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [vuetifyjs/awesome-vuetify](https://github.com/vuetifyjs/awesome-vuetify) - 🎉 The best resources related to Vuetify
 - [spree/spree-dev-docs](https://github.com/spree/spree-dev-docs) - Spree Commerce Developer Documentation - https://dev-docs.spreecommerce.org
@@ -4773,6 +4775,11 @@
 
 ## Ruby 
 
+- [ankane/hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL
+- [devnacho/mountain_view](https://github.com/devnacho/mountain_view) - Living styleguide for Rails
+- [MaxLap/activerecord_where_assoc](https://github.com/MaxLap/activerecord_where_assoc) - Make ActiveRecord do conditions on your associations
+- [MaxLap/activerecord_follow_assoc](https://github.com/MaxLap/activerecord_follow_assoc) - Follow associations within your ActiveRecord queries
+- [Shopify/yjit-bench](https://github.com/Shopify/yjit-bench) - Set of benchmarks for the YJIT CRuby JIT compiler
 - [yuki24/shoelace-rails](https://github.com/yuki24/shoelace-rails) - Rails helpers for https://shoelace.style, the design system.
 - [kreeti/kt-paperclip](https://github.com/kreeti/kt-paperclip) - Easy file attachment management for ActiveRecord
 - [FooBarWidget/distributed-lock-google-cloud-storage-ruby](https://github.com/FooBarWidget/distributed-lock-google-cloud-storage-ruby) - Ruby implementation of a distributed lock based on Google Cloud Storage
@@ -5344,7 +5351,6 @@
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin
 - [ParamagicDev/snowpacker](https://github.com/ParamagicDev/snowpacker) - A gem to help use Rails with Snowpack
 - [TristanToye/rails-template](https://github.com/TristanToye/rails-template) - 🚀 MVP Ready Rails - A Template for Your Next Rails App
-- [MaxLap/activerecord_where_assoc](https://github.com/MaxLap/activerecord_where_assoc) - Make ActiveRecord do conditions on your associations
 - [rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) - Human Essentials is an inventory management system for essentials banks, to aid them in distributing items to their partners, tracking their inventory, and providing statistics about their inventory flows.
 - [hooopo/second_level_cache](https://github.com/hooopo/second_level_cache) - Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4, 5 and 6.
 - [rjurado01/rails_jwt_auth](https://github.com/rjurado01/rails_jwt_auth) - Rails-API authentication solution based on JWT and inspired by Devise
@@ -6064,7 +6070,6 @@
 - [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) - WebAuthn ruby server library ― Make your Ruby/Rails web server become a conformant WebAuthn Relying Party
 - [ruby/spec](https://github.com/ruby/spec) - The Ruby Spec Suite aka ruby/spec
 - [ruby/mspec](https://github.com/ruby/mspec) - RSpec-like test runner for the Ruby Spec Suite
-- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [tobymao/snabberb](https://github.com/tobymao/snabberb) - A simple component view framework for Ruby Opal based on Snabbdom
 - [rom-rb/rom-sql](https://github.com/rom-rb/rom-sql) - SQL support for rom-rb
 - [nats-io/nats.rb](https://github.com/nats-io/nats.rb) - Ruby client for NATS, the cloud native messaging system.
@@ -7918,6 +7923,7 @@
 
 ## Shell 
 
+- [github/strap](https://github.com/github/strap) - 👢 Bootstrap your macOS development system.
 - [ZupIT/beagle](https://github.com/ZupIT/beagle) - A framework to help implement Server-Driven UI in your apps natively.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) - NordVpn Docker Client
@@ -8184,6 +8190,8 @@
 
 ## TypeScript 
 
+- [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
+- [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [yandex-cloud/yagr](https://github.com/yandex-cloud/yagr) - Yet another graph renderer
 - [ebs-integrator/ebs-design](https://github.com/ebs-integrator/ebs-design) - A React-based UI toolkit for enterprise grade applications
