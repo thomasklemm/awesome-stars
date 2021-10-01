@@ -6,6 +6,7 @@
 ## Contents
 
   - [ActionScript](#actionscript)
+  - [AsciiDoc](#asciidoc)
   - [Assembly](#assembly)
   - [Blade](#blade)
   - [C](#c)
@@ -86,6 +87,10 @@
 ## ActionScript 
 
 - [nathancolgate/s3-swf-upload-plugin](https://github.com/nathancolgate/s3-swf-upload-plugin) - A rails 3 gem which allow user upload files to S3 through an embedded flash directly. All UI has been moved out of flex and can be controlled by CSS and JavaScript callbacks.
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -581,7 +586,7 @@
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [semlette/nfc_in_flutter](https://github.com/semlette/nfc_in_flutter) - Cross-platform flutter plugin for reading and writing NFC tags. Not maintained anymore - not looking for new maintainer, fork instead.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -673,6 +678,7 @@
 
 ## Go 
 
+- [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
 - [elipZis/inertia-echo](https://github.com/elipZis/inertia-echo) - 💻 Echo (Go) Server-Side Adapter for Inertia.js
@@ -1385,6 +1391,8 @@
 
 ## JavaScript 
 
+- [dayhaysoos/use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) - Shopping cart state and logic for Stripe
+- [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [ai/nanocolors](https://github.com/ai/nanocolors) - 4x times faster than chalk and use 5x less space in node_modules
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
@@ -2016,7 +2024,7 @@
 - [expressjs/csurf](https://github.com/expressjs/csurf) - CSRF token middleware
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [peasy/peasy-js](https://github.com/peasy/peasy-js) - A business logic micro-framework for javascript
-- [thecodingmachine/react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications, using JavaScript or Typescript (you choose).
+- [thecodingmachine/react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙 (you choose).
 - [the-road-to-graphql/react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [DesignRevision/shards-react](https://github.com/DesignRevision/shards-react) - ⚛️A beautiful and modern React design system.
@@ -2252,7 +2260,7 @@
 - [callstack/eslint-config-callstack](https://github.com/callstack/eslint-config-callstack) - ESLint preset extending Flow, Prettier and Jest
 - [amio/font-mess](https://github.com/amio/font-mess) - Obscure text with messed font.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
@@ -3497,7 +3505,6 @@
 - [robrighter/node-boilerplate](https://github.com/robrighter/node-boilerplate) - Everything you need to get started on a Node.js website with express and socket.IO
 - [bevry-archive/jquery-scrollto](https://github.com/bevry-archive/jquery-scrollto) - jQuery ScrollTo - Smooth Scrolling to any jQuery/DOM Element
 - [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript &lt;span&gt; injector for radical Web Typography
-- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [tj/lingo](https://github.com/tj/lingo) - Linguistics module for Node - inflection, transformation, i18n and more
 - [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
@@ -3674,6 +3681,7 @@
 
 ## Liquid 
 
+- [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) - Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 
 ## Lua 
@@ -3842,6 +3850,7 @@
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [opencrud/opencrud](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases
 - [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [aws/aws-lambda-base-images](https://github.com/aws/aws-lambda-base-images) - 
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -4425,6 +4434,7 @@
 
 ## Python 
 
+- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -4619,7 +4629,6 @@
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [airbnb/binaryalert](https://github.com/airbnb/binaryalert) - BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
@@ -4775,6 +4784,7 @@
 
 ## Ruby 
 
+- [stevepolitodesign/unsubscribe](https://github.com/stevepolitodesign/unsubscribe) - Automatically unsubscribe from emails in Rails.
 - [ankane/hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL
 - [devnacho/mountain_view](https://github.com/devnacho/mountain_view) - Living styleguide for Rails
 - [MaxLap/activerecord_where_assoc](https://github.com/MaxLap/activerecord_where_assoc) - Make ActiveRecord do conditions on your associations
@@ -7780,6 +7790,7 @@
 
 ## Rust 
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
@@ -7939,7 +7950,6 @@
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [customink/lamby-vpc](https://github.com/customink/lamby-vpc) - 🦾🌎 Simple VPC for RDS Proxy Tutorial with Rails & Lambda
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -8190,6 +8200,9 @@
 
 ## TypeScript 
 
+- [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
+- [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
@@ -8425,7 +8438,7 @@
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [aerogear/graphql-metadata](https://github.com/aerogear/graphql-metadata) - Annotate your graphql schema with lightweight directives
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [amplication/prisma-schema-dsl](https://github.com/amplication/prisma-schema-dsl) - JavaScript interface for Prisma Schema DSL
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [RStankov/FocusedTask](https://github.com/RStankov/FocusedTask) - MacOS menu bar todo app built with Electron, React and Redux. It goals is to help you do deep work.
@@ -8705,7 +8718,6 @@
 - [railslove/rcvr-app](https://github.com/railslove/rcvr-app) - recover provides localities a privacy-compliant, safe, and easy way for their guests to check in. See https://www.recoverapp.de/ for more details.
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-- [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [hoeck/typesafe-query-builder](https://github.com/hoeck/typesafe-query-builder) - Generate SQL queries leveraging type inference and Postgres Json functions
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [opticdev/optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
@@ -9251,6 +9263,7 @@
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [NodeRedis/node-redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client.
+- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 
 ## Vala 
 
@@ -9288,7 +9301,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [marekmensa/vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Fresh way to create simple or complex forms – without programming!
-- [khatabwedaa/merakiui](https://github.com/khatabwedaa/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+- [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [square/maker](https://github.com/square/maker) - Maker Design System by Square
 - [avo-hq/docs](https://github.com/avo-hq/docs) - The documentation for Avocado
 - [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuejs
