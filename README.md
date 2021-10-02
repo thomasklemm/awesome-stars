@@ -329,6 +329,7 @@
 
 ## CSS 
 
+- [silverhammermba/emberb](https://github.com/silverhammermba/emberb) - A guide to Ruby's C API
 - [primefaces/sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
 - [primefaces/primevue](https://github.com/primefaces/primevue) - The Most Complete Vue UI Component Library
 - [radar/twist-v2](https://github.com/radar/twist-v2) - A book review tool for Leanpub's Markdown Book Format
@@ -678,6 +679,7 @@
 
 ## Go 
 
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that stores, computes, and validates application permissions
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
@@ -1391,6 +1393,9 @@
 
 ## JavaScript 
 
+- [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
+- [jsxgraph/jsxgraph](https://github.com/jsxgraph/jsxgraph) - JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.
+- [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
 - [dayhaysoos/use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) - Shopping cart state and logic for Stripe
 - [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
@@ -1553,7 +1558,6 @@
 - [stellar-expert/operations-notifier](https://github.com/stellar-expert/operations-notifier) - A standalone service that tracks Stellar Network operations and streams notifications to the subscribers.
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Simply beautiful open source icons, community-sourced
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
@@ -2552,7 +2556,7 @@
 - [patrick-michelberger/serverless-shop](https://github.com/patrick-michelberger/serverless-shop) - Building a Serverless E-Commerce App with AWS Lambda,  Stripe and React :moneybag: :globe_with_meridians:
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [algolia/algoliasearch-helper-js](https://github.com/algolia/algoliasearch-helper-js) - Helper for implementing advanced search features with Algolia
 - [node-pcap/node_pcap](https://github.com/node-pcap/node_pcap) - libpcap bindings for node
@@ -3806,6 +3810,8 @@
 
 ## Others 
 
+- [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
+- [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [vuetifyjs/awesome-vuetify](https://github.com/vuetifyjs/awesome-vuetify) - 🎉 The best resources related to Vuetify
@@ -4511,7 +4517,7 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python 🍓
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs
-- [Felienne/hedy](https://github.com/Felienne/hedy) - Hedy is a gradual programming language, which increases in syntactic elements level by level.
+- [Felienne/hedy](https://github.com/Felienne/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
@@ -4784,6 +4790,8 @@
 
 ## Ruby 
 
+- [authzed/authzed-rb](https://github.com/authzed/authzed-rb) - An authzed client library for Ruby
+- [nodunayo/speakerline](https://github.com/nodunayo/speakerline) - Showcasing speakers' proposals and timelines in an effort to demystify the CFP process and help new speakers get started.
 - [stevepolitodesign/unsubscribe](https://github.com/stevepolitodesign/unsubscribe) - Automatically unsubscribe from emails in Rails.
 - [ankane/hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL
 - [devnacho/mountain_view](https://github.com/devnacho/mountain_view) - Living styleguide for Rails
@@ -7790,6 +7798,8 @@
 
 ## Rust 
 
+- [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -7934,6 +7944,7 @@
 
 ## Shell 
 
+- [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
 - [github/strap](https://github.com/github/strap) - 👢 Bootstrap your macOS development system.
 - [ZupIT/beagle](https://github.com/ZupIT/beagle) - A framework to help implement Server-Driven UI in your apps natively.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -8200,6 +8211,8 @@
 
 ## TypeScript 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
+- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
@@ -8250,6 +8263,7 @@
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [antfu/vue-global-api](https://github.com/antfu/vue-global-api) - Use Vue Composition API globally
+- [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown with Vue for Vite
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
@@ -8447,6 +8461,7 @@
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [floydspace/aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - λ💨 AWS CDK Construct to bundle JavaScript and TypeScript AWS lambdas using extremely fast esbuild.
 - [panacloud-modern-global-apps/full-stack-serverless-cdk](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk) - Learn to Build Full-Stack Serverless Apps and APIs using AWS Cloud Development Kit (CDK) in Baby Steps.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Simply beautiful open source icons, community-sourced
 - [erangeles/techstack](https://github.com/erangeles/techstack) - TechStack - An easy way to visualize your tech stack.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [unjs/webpackbar](https://github.com/unjs/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5
@@ -9012,7 +9027,6 @@
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows
 - [rubyide/vscode-ruby](https://github.com/rubyide/vscode-ruby) - Provides Ruby language and debugging support for Visual Studio Code
 - [yjose/reactjs-popup](https://github.com/yjose/reactjs-popup) - React Popup Component - Modals,Tooltips and Menus —  All in one
-- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [AlgusDark/bloomer](https://github.com/AlgusDark/bloomer) - A set of React components for Bulma CSS Framework
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries
@@ -9285,7 +9299,6 @@
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
-- [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
