@@ -679,6 +679,7 @@
 
 ## Go 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [authzed/spicedb](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that stores, computes, and validates application permissions
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
@@ -1393,6 +1394,7 @@
 
 ## JavaScript 
 
+- [kirillplatonov/hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload) - Hotwire::Livereload automatically reloads Turbo when "view" files are modified.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [jsxgraph/jsxgraph](https://github.com/jsxgraph/jsxgraph) - JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.
 - [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
@@ -4206,7 +4208,7 @@
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5900+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6100+ Material Design Icons from the Community
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ankane/shorts](https://github.com/ankane/shorts) - Short, random tutorials and posts
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
@@ -4470,7 +4472,7 @@
 - [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
@@ -4790,6 +4792,7 @@
 
 ## Ruby 
 
+- [kirillplatonov/shopify_graphql](https://github.com/kirillplatonov/shopify_graphql) - Less painful way to work with Shopify Graphql API in Ruby.
 - [authzed/authzed-rb](https://github.com/authzed/authzed-rb) - An authzed client library for Ruby
 - [nodunayo/speakerline](https://github.com/nodunayo/speakerline) - Showcasing speakers' proposals and timelines in an effort to demystify the CFP process and help new speakers get started.
 - [stevepolitodesign/unsubscribe](https://github.com/stevepolitodesign/unsubscribe) - Automatically unsubscribe from emails in Rails.
