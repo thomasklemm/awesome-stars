@@ -1074,6 +1074,7 @@
 
 ## HTML 
 
+- [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight flex based responsive grid optimized for mobile phones, tablets and desktops
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [primefaces/primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries
@@ -1394,6 +1395,8 @@
 
 ## JavaScript 
 
+- [remarkjs/remark-html](https://github.com/remarkjs/remark-html) - plugin to compile Markdown to HTML
+- [octokit/openapi](https://github.com/octokit/openapi) - GitHub's official OpenAPI spec with Octokit extensions
 - [kirillplatonov/hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload) - Hotwire::Livereload automatically reloads Turbo when "view" files are modified.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [jsxgraph/jsxgraph](https://github.com/jsxgraph/jsxgraph) - JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.
@@ -2558,7 +2561,7 @@
 - [patrick-michelberger/serverless-shop](https://github.com/patrick-michelberger/serverless-shop) - Building a Serverless E-Commerce App with AWS Lambda,  Stripe and React :moneybag: :globe_with_meridians:
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [algolia/algoliasearch-helper-js](https://github.com/algolia/algoliasearch-helper-js) - Helper for implementing advanced search features with Algolia
 - [node-pcap/node_pcap](https://github.com/node-pcap/node_pcap) - libpcap bindings for node
@@ -3166,7 +3169,7 @@
 - [andrefarzat/ng-jcrop](https://github.com/andrefarzat/ng-jcrop) - Angular directive to jCrop jQuery plugin
 - [tapmodo/Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop - The Javascript Image Cropping Engine
 - [daniel-lundin/snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [af/JSnoX](https://github.com/af/JSnoX) - A concise, expressive way to build React DOM in pure JavaScript.
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [feross/simple-get](https://github.com/feross/simple-get) - Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines
@@ -4792,6 +4795,7 @@
 
 ## Ruby 
 
+- [lostisland/sawyer](https://github.com/lostisland/sawyer) - Secret User Agent of HTTP
 - [kirillplatonov/shopify_graphql](https://github.com/kirillplatonov/shopify_graphql) - Less painful way to work with Shopify Graphql API in Ruby.
 - [authzed/authzed-rb](https://github.com/authzed/authzed-rb) - An authzed client library for Ruby
 - [nodunayo/speakerline](https://github.com/nodunayo/speakerline) - Showcasing speakers' proposals and timelines in an effort to demystify the CFP process and help new speakers get started.
@@ -8214,6 +8218,10 @@
 
 ## TypeScript 
 
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+- [octokit/webhooks.js](https://github.com/octokit/webhooks.js) - GitHub webhook events toolset for Node.js
+- [octokit/request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node
+- [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
@@ -8322,7 +8330,6 @@
 - [graphql-editor/graphql-js-tree](https://github.com/graphql-editor/graphql-js-tree) - Simpler structure for GraphQL AST
 - [Shopify/foundational-design-system-proto](https://github.com/Shopify/foundational-design-system-proto) - A prototype for a foundational design system at Shopify
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
-- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - (formerly gqless) a GraphQL client built for rapid iteration
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
