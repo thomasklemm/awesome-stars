@@ -679,6 +679,8 @@
 
 ## Go 
 
+- [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the MeiliSearch API
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [authzed/spicedb](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that stores, computes, and validates application permissions
@@ -1076,6 +1078,7 @@
 
 ## HTML 
 
+- [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight flex based responsive grid optimized for mobile phones, tablets and desktops
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1300,6 +1303,8 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
+- [OpenAPITools/openapi-style-validator](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenApi spec follows your organization's standards.
 - [primefaces/primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for JavaServer Faces
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -1397,6 +1402,8 @@
 
 ## JavaScript 
 
+- [meilisearch/documentation](https://github.com/meilisearch/documentation) - MeiliSearch documentation
+- [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [remarkjs/remark-html](https://github.com/remarkjs/remark-html) - plugin to compile Markdown to HTML
@@ -2019,7 +2026,6 @@
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uber/cadence-web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
-- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [react-component/form](https://github.com/react-component/form) - React High Order Form Component(web & react-native)
@@ -3819,6 +3825,8 @@
 
 ## Others 
 
+- [meilisearch/meilisearch-react](https://github.com/meilisearch/meilisearch-react) - 
+- [meilisearch/meilisearch-vue](https://github.com/meilisearch/meilisearch-vue) - 
 - [hacktivist123/content-plan-example](https://github.com/hacktivist123/content-plan-example) - This is an example of a content plan, the idea is for devrel teams to see how to structure an effective content plan.
 - [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
@@ -4202,7 +4210,7 @@
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
@@ -4325,6 +4333,7 @@
 
 ## PHP 
 
+- [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the MeiliSearch API
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [tonysm/globalid-laravel](https://github.com/tonysm/globalid-laravel) - Identify app models with a URI. Inspired by the globalid gem.
 - [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte) - 
@@ -4449,6 +4458,7 @@
 
 ## Python 
 
+- [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into MeiliSearch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
@@ -4568,7 +4578,7 @@
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4800,6 +4810,11 @@
 
 ## Ruby 
 
+- [Manfred/Reynard](https://github.com/Manfred/Reynard) - Minimal OpenAPI client for Ruby.
+- [funbox/tomograph](https://github.com/funbox/tomograph) - Convert API Blueprint, Swagger and OpenAPI to JSON Schema and search through it
+- [funbox/fitting](https://github.com/funbox/fitting) - Coverage API Blueprint, Swagger and OpenAPI with RSpec for easily make high-quality API and documenatiton
+- [meilisearch/meilisearch-ruby](https://github.com/meilisearch/meilisearch-ruby) - Ruby SDK for the MeiliSearch API
+- [gabynaiman/nql](https://github.com/gabynaiman/nql) - Natural Query Language built on top of ActiveRecord and Ransack
 - [jekuno/milia](https://github.com/jekuno/milia) - Easy multi-tenanting for Rails5 (or Rails4) + Devise
 - [hoppergee/multi-tenant-support](https://github.com/hoppergee/multi-tenant-support) - Build a highly secure, no data leak, multi-tenant rails app
 - [shadabahmed/logstasher](https://github.com/shadabahmed/logstasher) - Awesome rails logs
@@ -5456,7 +5471,7 @@
 - [palkan/acli](https://github.com/palkan/acli) - Action Cable command-line client
 - [ruby-next/ruby-next](https://github.com/ruby-next/ruby-next) - Ruby Next makes modern Ruby code run in older versions and alternative implementations
 - [DatabaseCleaner/database_cleaner-active_record](https://github.com/DatabaseCleaner/database_cleaner-active_record) - Strategies for cleaning databases using ActiveRecord.  Can be used to ensure a clean state for testing.
-- [serpapi/turbo_tests](https://github.com/serpapi/turbo_tests) - Runner for grosser/parallel_tests with incremental summarized output. Based on Discourse and Rubygems work in this area.
+- [serpapi/turbo_tests](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like parallel_tests but with incremental summarized output. Originally extracted from the Discourse and Rubygems source code.
 - [ioquatix/turbo_test](https://github.com/ioquatix/turbo_test) - 
 - [renuo/so_many_devices](https://github.com/renuo/so_many_devices) - A list of predefined devices for your tests with Capybara
 - [jamesmartin/inline_svg](https://github.com/jamesmartin/inline_svg) - Embed SVG documents in your Rails views and style them with CSS
@@ -6103,6 +6118,7 @@
 - [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) - WebAuthn ruby server library ― Make your Ruby/Rails web server become a conformant WebAuthn Relying Party
 - [ruby/spec](https://github.com/ruby/spec) - The Ruby Spec Suite aka ruby/spec
 - [ruby/mspec](https://github.com/ruby/mspec) - RSpec-like test runner for the Ruby Spec Suite
+- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [tobymao/snabberb](https://github.com/tobymao/snabberb) - A simple component view framework for Ruby Opal based on Snabbdom
 - [rom-rb/rom-sql](https://github.com/rom-rb/rom-sql) - SQL support for rom-rb
 - [nats-io/nats.rb](https://github.com/nats-io/nats.rb) - Ruby client for NATS, the cloud native messaging system.
@@ -7813,6 +7829,9 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the MeiliSearch API.
+- [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [rubytogether/kirby](https://github.com/rubytogether/kirby) - 
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -8226,6 +8245,15 @@
 
 ## TypeScript 
 
+- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use MeiliSearch with InstantSearch.
+- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - Javascript client for the MeiliSearch API
+- [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
+- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
+- [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
+- [roginfarrer/react-collapsed](https://github.com/roginfarrer/react-collapsed) - A React custom-hook for creating flexible and accessible expand/collapse components.
+- [schummar/schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
+- [unkleho/reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser
+- [bootrino/reactoxide](https://github.com/bootrino/reactoxide) - 
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [octokit/webhooks.js](https://github.com/octokit/webhooks.js) - GitHub webhook events toolset for Node.js
@@ -8296,7 +8324,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [iliyaZelenko/tiptap-vuetify](https://github.com/iliyaZelenko/tiptap-vuetify) - Vuetify editor. Component simplifies integration tiptap editor with vuetify.
 - [deno-libs/gql](https://github.com/deno-libs/gql) - ☁ Universal GraphQL HTTP middleware for Deno
-- [mirumee/saleor-storefront](https://github.com/mirumee/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor.
+- [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor.
 - [vuejs/vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) - The ESLint custom parser for `.vue` files.
 - [vuestorefront/shopware-pwa](https://github.com/vuestorefront/shopware-pwa) - Shopware PWA for eCommerce. Headless storefront solution for Shopware 6, which communicates through the SalesChannel-API. Always Open Source, MIT license. Made with :blue_heart: by shopware AG & Vue Storefront.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
@@ -8688,6 +8716,7 @@
 - [stackworx/formik-material-ui](https://github.com/stackworx/formik-material-ui) - Bindings for using Formik with Material-UI
 - [SAP/ui5-webcomponents-react](https://github.com/SAP/ui5-webcomponents-react) - A wrapper implementation for React of the UI5 Web Components that are compliant with the SAP Fiori User Experience
 - [uiwjs/uiw](https://github.com/uiwjs/uiw) - ⚛️ @uiwjs A high quality UI Toolkit, A Component Library for React 16+.
+- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [coreui/coreui-react](https://github.com/coreui/coreui-react) - CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [ZEISS/precise-ui](https://github.com/ZEISS/precise-ui) - :triangular_ruler: React UI Component Library powered by ZEISS.
@@ -9342,9 +9371,8 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [SAP/fundamental-vue](https://github.com/SAP/fundamental-vue) - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
