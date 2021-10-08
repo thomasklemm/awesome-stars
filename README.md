@@ -61,6 +61,7 @@
   - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Processing](#processing)
+  - [Prolog](#prolog)
   - [Pug](#pug)
   - [Python](#python)
   - [Reason](#reason)
@@ -162,7 +163,6 @@
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [postgrespro/zson](https://github.com/postgrespro/zson) - ZSON is a PostgreSQL extension for transparent JSONB compression
@@ -366,7 +366,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [andev-software/graphql-ide](https://github.com/andev-software/graphql-ide) - ⚡️ GraphQL IDE - An extensive IDE for exploring GraphQL API's
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [livereload/livereload-js](https://github.com/livereload/livereload-js) - LiveReload JavaScript code that communicates with the server and implements reloading
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
@@ -377,7 +376,6 @@
 - [AllienWorks/cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [sbstjn/serverless-analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with Serverless Analytics using Kinesis, Lambda, and TypeScript.
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
@@ -679,6 +677,8 @@
 
 ## Go 
 
+- [valist-io/valist](https://github.com/valist-io/valist) - Universal package repository, code-signing, and CDN system. Build, sign, and distribute any software/firmware globally in just a few steps. Powered by Ethereum, IPFS, and Filecoin.
+- [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the MeiliSearch API
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
@@ -958,7 +958,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [sachaos/note](https://github.com/sachaos/note) - Simple Real-time Markdown previewer
 - [xdrpp/stc](https://github.com/xdrpp/stc) - Stellar transaction compiler
@@ -1142,6 +1142,7 @@
 - [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - The Definitive Guide to Elasticsearch
 - [betaflag/graphql-playground-ruby](https://github.com/betaflag/graphql-playground-ruby) - A rack middleware wrapper for GraphQL Playground
 - [leeoniya/dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [nextapps-de/bulksearch](https://github.com/nextapps-de/bulksearch) - Lightweight and read-write optimized full text search library.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - If you are looking for Bootstrap without jQuery, this is it.
@@ -2464,7 +2465,7 @@
 - [amsul/react-translated](https://github.com/amsul/react-translated) - A dead simple way to add complex translations (i18n) in a React (DOM/Native) project 🌎🌍🌏
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [posthtml/posthtml](https://github.com/posthtml/posthtml) - PostHTML is a tool to transform HTML/XML with JS plugins
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [rrag/react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts with ReactJS and d3
 - [stellar/js-stellar-sdk](https://github.com/stellar/js-stellar-sdk) - Main Stellar client library for the Javascript language
@@ -4450,6 +4451,10 @@
 
 - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript.
 
+## Prolog 
+
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is an open source knowledge graph and document store. Use it to build versioned data products.
+
 ## Pug 
 
 - [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
@@ -4707,6 +4712,7 @@
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
 - [SullyChen/Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) - A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
@@ -4810,6 +4816,7 @@
 
 ## Ruby 
 
+- [amatsuda/routes_lazy_routes](https://github.com/amatsuda/routes_lazy_routes) - A boot time booster for Ruby on Rails that defers loading the whole bloody routes so the app can spin up quickly 🤘
 - [Manfred/Reynard](https://github.com/Manfred/Reynard) - Minimal OpenAPI client for Ruby.
 - [funbox/tomograph](https://github.com/funbox/tomograph) - Convert API Blueprint, Swagger and OpenAPI to JSON Schema and search through it
 - [funbox/fitting](https://github.com/funbox/fitting) - Coverage API Blueprint, Swagger and OpenAPI with RSpec for easily make high-quality API and documenatiton
@@ -5423,7 +5430,6 @@
 - [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) - The Ruby community's gem hosting service.
 - [ankane/authtrail](https://github.com/ankane/authtrail) - Track Devise login activity
 - [jonhue/acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor) - Adds Favorite, Follow, Vote, etc. functionality to ActiveRecord models
-- [amatsuda/routes_lazy_routes](https://github.com/amatsuda/routes_lazy_routes) - A boot time booster for Ruby on Rails that defers loading the whole bloody routes so the app can spin up quickly 🤘
 - [piotrmurach/loaf](https://github.com/piotrmurach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 - [nxt-insurance/nxt_state_machine](https://github.com/nxt-insurance/nxt_state_machine) - A simple but powerful state machine implementation.
 - [nxt-insurance/nxt_registry](https://github.com/nxt-insurance/nxt_registry) - A simple registry to implement the container pattern
@@ -8245,6 +8251,7 @@
 
 ## TypeScript 
 
+- [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use MeiliSearch with InstantSearch.
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - Javascript client for the MeiliSearch API
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
@@ -8343,7 +8350,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vuejs/vue-router-next](https://github.com/vuejs/vue-router-next) - The Vue 3 official router
 - [vuejs/jsx-next](https://github.com/vuejs/jsx-next) - JSX for Vue 3
-- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance Vue language support in some aspects
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
@@ -9224,6 +9231,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
