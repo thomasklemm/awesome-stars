@@ -855,7 +855,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [iCyberon/pg_ulid](https://github.com/iCyberon/pg_ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) for PostgreSQL
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
@@ -4224,7 +4224,7 @@
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6100+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6200+ Material Design Icons from the Community
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ankane/shorts](https://github.com/ankane/shorts) - Short, random tutorials and posts
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
@@ -7836,6 +7836,7 @@
 
 ## Rust 
 
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the MeiliSearch API.
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [rubytogether/kirby](https://github.com/rubytogether/kirby) - 
@@ -8252,6 +8253,8 @@
 
 ## TypeScript 
 
+- [osohq/gitclub](https://github.com/osohq/gitclub) - 
+- [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
