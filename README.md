@@ -1405,6 +1405,7 @@
 
 ## JavaScript 
 
+- [oslabs-beta/sapling](https://github.com/oslabs-beta/sapling) - Sapling - A convenient way to traverse your React app in VS Code
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - MeiliSearch documentation
 - [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -3826,6 +3827,7 @@
 
 ## Others 
 
+- [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [meilisearch/meilisearch-react](https://github.com/meilisearch/meilisearch-react) - 
 - [meilisearch/meilisearch-vue](https://github.com/meilisearch/meilisearch-vue) - 
 - [hacktivist123/content-plan-example](https://github.com/hacktivist123/content-plan-example) - This is an example of a content plan, the idea is for devrel teams to see how to structure an effective content plan.
@@ -4815,6 +4817,8 @@
 
 ## Ruby 
 
+- [Gokul595/api_guard](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs
+- [weppos/publicsuffix-ruby](https://github.com/weppos/publicsuffix-ruby) - Domain name parser for Ruby based on the Public Suffix List.
 - [chef/omnibus](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms.
 - [amatsuda/routes_lazy_routes](https://github.com/amatsuda/routes_lazy_routes) - A boot time booster for Ruby on Rails that defers loading the whole bloody routes so the app can spin up quickly 🤘
 - [Manfred/Reynard](https://github.com/Manfred/Reynard) - Minimal OpenAPI client for Ruby.
@@ -8268,7 +8272,7 @@
 - [schummar/schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
 - [unkleho/reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser
 - [bootrino/reactoxide](https://github.com/bootrino/reactoxide) - 
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [octokit/webhooks.js](https://github.com/octokit/webhooks.js) - GitHub webhook events toolset for Node.js
 - [octokit/request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node
@@ -8673,7 +8677,7 @@
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring
-- [rowyio/use-algolia](https://github.com/rowyio/use-algolia) - Dead-simple React hook to make Algolia search queries. Supports pagination out of the box.
+- [notsidney/use-algolia](https://github.com/notsidney/use-algolia) - Dead-simple React hook to make Algolia search queries. Supports pagination out of the box.
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
