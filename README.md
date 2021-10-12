@@ -959,7 +959,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [sachaos/note](https://github.com/sachaos/note) - Simple Real-time Markdown previewer
 - [xdrpp/stc](https://github.com/xdrpp/stc) - Stellar transaction compiler
@@ -1079,6 +1079,7 @@
 
 ## HTML 
 
+- [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ production-ready website boilerplate built with webpack 5, Babel 7, Sass & more
 - [fernandes/arara](https://github.com/fernandes/arara) - A material design theme for Ruby on Rails 🦜
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
@@ -1405,6 +1406,7 @@
 
 ## JavaScript 
 
+- [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [oslabs-beta/sapling](https://github.com/oslabs-beta/sapling) - Sapling - A convenient way to traverse your React app in VS Code
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - MeiliSearch documentation
 - [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
@@ -3827,6 +3829,7 @@
 
 ## Others 
 
+- [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [meilisearch/meilisearch-react](https://github.com/meilisearch/meilisearch-react) - 
 - [meilisearch/meilisearch-vue](https://github.com/meilisearch/meilisearch-vue) - 
@@ -4817,6 +4820,10 @@
 
 ## Ruby 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+- [Shopify/yjit-bench](https://github.com/Shopify/yjit-bench) - Set of benchmarks for the YJIT CRuby JIT compiler
+- [Shopify/yjit-metrics](https://github.com/Shopify/yjit-metrics) - "Tasks for benchmarking, building and collecting stats for YJIT"
+- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats
 - [Gokul595/api_guard](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs
 - [weppos/publicsuffix-ruby](https://github.com/weppos/publicsuffix-ruby) - Domain name parser for Ruby based on the Public Suffix List.
 - [chef/omnibus](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms.
@@ -4838,7 +4845,6 @@
 - [devnacho/mountain_view](https://github.com/devnacho/mountain_view) - Living styleguide for Rails
 - [MaxLap/activerecord_where_assoc](https://github.com/MaxLap/activerecord_where_assoc) - Make ActiveRecord do conditions on your associations
 - [MaxLap/activerecord_follow_assoc](https://github.com/MaxLap/activerecord_follow_assoc) - Follow associations within your ActiveRecord queries
-- [Shopify/yjit-bench](https://github.com/Shopify/yjit-bench) - Set of benchmarks for the YJIT CRuby JIT compiler
 - [yuki24/shoelace-rails](https://github.com/yuki24/shoelace-rails) - Rails helpers for https://shoelace.style, the design system.
 - [kreeti/kt-paperclip](https://github.com/kreeti/kt-paperclip) - Easy file attachment management for ActiveRecord
 - [FooBarWidget/distributed-lock-google-cloud-storage-ruby](https://github.com/FooBarWidget/distributed-lock-google-cloud-storage-ruby) - Ruby implementation of a distributed lock based on Google Cloud Storage
@@ -7633,7 +7639,6 @@
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [formtastic/formtastic](https://github.com/formtastic/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 - [jeremyevans/scaffolding_extensions](https://github.com/jeremyevans/scaffolding_extensions) - Ruby Web Admin Front-End :: Unmaintained, use AutoForme instead
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [norman/friendly_id](https://github.com/norman/friendly_id) - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [svenfuchs/routing-filter](https://github.com/svenfuchs/routing-filter) - routing-filter wraps around the complex beast that the Rails routing system is, allowing for unseen flexibility and power in Rails URL recognition and generation.
@@ -8257,6 +8262,8 @@
 
 ## TypeScript 
 
+- [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
+- [Zhouzi/docusaurus-graphql-plugin](https://github.com/Zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
 - [osohq/gitclub](https://github.com/osohq/gitclub) - 
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
