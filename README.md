@@ -907,7 +907,6 @@
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [fauna/faunadb-go](https://github.com/fauna/faunadb-go) - Go driver for FaunaDB
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -1406,6 +1405,8 @@
 
 ## JavaScript 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
+- [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [oslabs-beta/sapling](https://github.com/oslabs-beta/sapling) - Sapling - A convenient way to traverse your React app in VS Code
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - MeiliSearch documentation
@@ -3964,6 +3965,7 @@
 - [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) - 
 - [hopsoft/rails_standards](https://github.com/hopsoft/rails_standards) - A developer's guide of practices to follow when building Rails applications.
 - [alangibson/awesome-crdt](https://github.com/alangibson/awesome-crdt) - A collection of awesome CRDT resources
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [redbooth/scrum-poker-cards](https://github.com/redbooth/scrum-poker-cards) - 
 - [EvermeshSolutions/putsreq](https://github.com/EvermeshSolutions/putsreq) - PutsReq lets you record HTTP requests and fake responses like no other tool available
 - [vercel/now-examples](https://github.com/vercel/now-examples) - Old examples of Vercel projects you can deploy yourself
@@ -8132,7 +8134,7 @@
 - [dalezak/turbo-ios-base](https://github.com/dalezak/turbo-ios-base) - Turbo-iOS base project that's entirely driven from your backend Rails app.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
-- [Shopify/syrup](https://github.com/Shopify/syrup) - A type-safe GraphQL model generator for Kotlin and Swift.
+- [Shopify/syrup](https://github.com/Shopify/syrup) - A type-safe GraphQL model generator for Kotlin, Swift, and TypeScript.
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
@@ -8262,6 +8264,10 @@
 
 ## TypeScript 
 
+- [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
+- [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
 - [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [Zhouzi/docusaurus-graphql-plugin](https://github.com/Zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
 - [osohq/gitclub](https://github.com/osohq/gitclub) - 
@@ -8793,7 +8799,7 @@
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Expressive TypeScript Logger for Node.js.
 - [jashmenn/postgraphile-upsert-plugin](https://github.com/jashmenn/postgraphile-upsert-plugin) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [slicknode/slicknode](https://github.com/slicknode/slicknode) - Headless GraphQL CMS to build scalable and extensible content infrastructure, 100% serverless with global CDN
+- [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
@@ -9369,10 +9375,11 @@
 
 ## Vue 
 
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
+- [framevuerk/framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vite + Vue 3 + Tailwind CSS (starter) ⚡
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
