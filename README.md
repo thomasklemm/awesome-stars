@@ -106,7 +106,7 @@
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
-- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
+- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
 - [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - An extra-lightweight Ruby gem for working with SQLite3 databases
 - [digital-fabric/libev_scheduler](https://github.com/digital-fabric/libev_scheduler) - A libev-based fiber scheduler for Ruby 3.0
 - [picoruby/picoruby](https://github.com/picoruby/picoruby) - PicoRuby is an integration of PicoRuby compiler with mruby/c VM for one-chip microcontrollers
@@ -773,6 +773,7 @@
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client for Go
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [web-ridge/sqlboiler-graphql-schema](https://github.com/web-ridge/sqlboiler-graphql-schema) - MOVED TO https://github.com/web-ridge/gqlgen-sqlboiler
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
@@ -1676,7 +1677,6 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [huacnlee/turbolinks-prefetch](https://github.com/huacnlee/turbolinks-prefetch) - Turbolinks extends for prefetch links to speeds up your website.
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [fonoster/fonos](https://github.com/fonoster/fonos) - 🚀 An open-source alternative to Twilio.
 - [iter-tools/iter-tools](https://github.com/iter-tools/iter-tools) - The iterable toolbox
 - [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js) - Build complex rules, serialize them as JSON, and execute them in JavaScript
@@ -2329,7 +2329,6 @@
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [palmerhq/react-suspense-starter](https://github.com/palmerhq/react-suspense-starter) - Experiment with React Suspense right meow.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -4822,6 +4821,9 @@
 
 ## Ruby 
 
+- [zilkey/active_hash](https://github.com/zilkey/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource
+- [ruby-amqp/hutch](https://github.com/ruby-amqp/hutch) - A system for processing messages from RabbitMQ.
+- [infinum/enumerations](https://github.com/infinum/enumerations) - Better Rails Enumerations
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [Shopify/yjit-bench](https://github.com/Shopify/yjit-bench) - Set of benchmarks for the YJIT CRuby JIT compiler
 - [Shopify/yjit-metrics](https://github.com/Shopify/yjit-metrics) - "Tasks for benchmarking, building and collecting stats for YJIT"
@@ -6400,7 +6402,6 @@
 - [nov/rack-oauth2](https://github.com/nov/rack-oauth2) - OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.
 - [pakyow/pakyow](https://github.com/pakyow/pakyow) - Design-First Web Framework
 - [jnunemaker/flipper](https://github.com/jnunemaker/flipper) - :dolphin: Beautiful, performant feature flags for Ruby.
-- [zilkey/active_hash](https://github.com/zilkey/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource
 - [rails/activeresource](https://github.com/rails/activeresource) - Connects business objects and REST web services
 - [RubyMoney/monetize](https://github.com/RubyMoney/monetize) - A library for converting various objects into `Money` objects.
 - [podigee/device_detector](https://github.com/podigee/device_detector) - DeviceDetector is a precise and fast user agent parser and device detector written in Ruby
@@ -7406,7 +7407,6 @@
 - [nixme/jazz_hands](https://github.com/nixme/jazz_hands) - Pry-based enhancements for the default Rails 3 and 4 consoles
 - [ankane/barkick](https://github.com/ankane/barkick) - Barcodes made easy
 - [endofunky/sidetiq](https://github.com/endofunky/sidetiq) - NO LONGER MAINTAINED Recurring jobs for Sidekiq
-- [ruby-amqp/hutch](https://github.com/ruby-amqp/hutch) - A system for processing messages from RabbitMQ.
 - [krainboltgreene/hexpress](https://github.com/krainboltgreene/hexpress) - Human Expressions, a human way to define regular expressions
 - [Springest/ab_panel](https://github.com/Springest/ab_panel) - A/B Testing with Mixpanel backend
 - [n8/tracer_bullets](https://github.com/n8/tracer_bullets) - A simple way to zone in on the slow parts of your Rails app.
@@ -7984,6 +7984,7 @@
 - [softwaremill/magnolia](https://github.com/softwaremill/magnolia) - Easy, fast, transparent generic derivation of typeclass instances
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) - Functional GraphQL library for Scala
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [Graphcool/graphcool-framework](https://github.com/Graphcool/graphcool-framework) - 
 - [Netflix/atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [wavesplatform/Waves](https://github.com/wavesplatform/Waves) - ⛓️ Reference Waves Blockchain Node (client) implementation on Scala
@@ -8132,7 +8133,7 @@
 
 - [turbolinks/turbolinks-ios](https://github.com/turbolinks/turbolinks-ios) - Native iOS adapter for building hybrid apps with Turbolinks 5
 - [dalezak/turbo-ios-base](https://github.com/dalezak/turbo-ios-base) - Turbo-iOS base project that's entirely driven from your backend Rails app.
-- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features
+- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [Shopify/syrup](https://github.com/Shopify/syrup) - A type-safe GraphQL model generator for Kotlin, Swift, and TypeScript.
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
@@ -8264,6 +8265,8 @@
 
 ## TypeScript 
 
+- [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers.
+- [antfu/vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vue 3 on Vite
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
 - [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
@@ -9357,7 +9360,7 @@
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [NodeRedis/node-redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client.
+- [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 
 ## Vala 
