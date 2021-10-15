@@ -57,6 +57,7 @@
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [Others](#others)
+  - [PEG.js](#peg.js)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
@@ -103,6 +104,7 @@
 
 ## C 
 
+- [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
@@ -623,7 +625,7 @@
 - [danschultzer/pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system
 - [otobus/event_bus](https://github.com/otobus/event_bus) - :surfer: Traceable, extendable and minimalist **event bus** implementation for Elixir with built-in **event store** and **event watcher** based on ETS.
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
-- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir
+- [elixir-toniq/vapor](https://github.com/elixir-toniq/vapor) - Runtime configuration system for Elixir
 - [commanded/commanded-scheduler](https://github.com/commanded/commanded-scheduler) - Schedule one-off and recurring commands for Commanded CQRS/ES applications
 - [commanded/commanded-ecto-projections](https://github.com/commanded/commanded-ecto-projections) - Read model projections for Commanded using Ecto
 - [elixir-ecto/db_connection](https://github.com/elixir-ecto/db_connection) - Database connection behaviour
@@ -678,6 +680,8 @@
 
 ## Go 
 
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
+- [portto/solana-go-sdk](https://github.com/portto/solana-go-sdk) - Solana Golang SDK
 - [valist-io/valist](https://github.com/valist-io/valist) - Universal package repository, code-signing, and CDN system. Build, sign, and distribute any software/firmware globally in just a few steps. Powered by Ethereum, IPFS, and Filecoin.
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the MeiliSearch API
@@ -1406,6 +1410,9 @@
 
 ## JavaScript 
 
+- [ElMassimo/vite-plugin-xdm](https://github.com/ElMassimo/vite-plugin-xdm) - Use XDM in VIte.js
+- [wooorm/xdm](https://github.com/wooorm/xdm) - Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins
+- [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
@@ -1623,7 +1630,7 @@
 - [alpine-collective/alpine-magic-helpers](https://github.com/alpine-collective/alpine-magic-helpers) - A collection of magic properties and helper functions for use with Alpine.js
 - [netlify/gotrue-js](https://github.com/netlify/gotrue-js) - JavaScript client library for GoTrue
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
-- [panva/jose](https://github.com/panva/jose) - Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [jails-org/Jails](https://github.com/jails-org/Jails) - An alternative for Javascript Vanilla Applications
 - [BilalBudhani/RailsBooster](https://github.com/BilalBudhani/RailsBooster) - Pre-Configured Ruby On Rails Template To Provide Instant Productivity ⚡️
@@ -2205,7 +2212,6 @@
 - [statianzo/webpack-livereload-plugin](https://github.com/statianzo/webpack-livereload-plugin) - LiveReload during webpack --watch
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [vercel/now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
 - [dbsystel/1BahnQL](https://github.com/dbsystel/1BahnQL) - Single unified API for all DBOpenData APIs implemented with GraphQL.
 - [kitze/twizzle-landing](https://github.com/kitze/twizzle-landing) - The landing page for Twizzle
 - [giantcz/gia](https://github.com/giantcz/gia) - Minimalistic JavaScript framework for server rendered websites.
@@ -3829,6 +3835,9 @@
 
 ## Others 
 
+- [kddnewton/ripper-docs](https://github.com/kddnewton/ripper-docs) - Documentation for the ripper Ruby standard library
+- [sinoglobalcap/how-to-solana](https://github.com/sinoglobalcap/how-to-solana) - Repository of our How to Solana book, open for all to suggest edits and recommendations.
+- [paul-schaaf/awesome-solana](https://github.com/paul-schaaf/awesome-solana) - 🏎️ A curated list of awesome things related to Solana 🏎️
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [meilisearch/meilisearch-react](https://github.com/meilisearch/meilisearch-react) - 
@@ -3873,7 +3882,7 @@
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [teslahunt/awesome-tesla](https://github.com/teslahunt/awesome-tesla) - A curated list of awesome resources related with Tesla Motors.
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
-- [juliandavidmr/awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 😏 Curated list of NestJS
+- [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - 😏 Curated list of NestJS
 - [ARKInvest/ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer experience
 - [json-next/awesome-json-next](https://github.com/json-next/awesome-json-next) - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More
@@ -4338,6 +4347,10 @@
 - [saymedia/sayless](https://github.com/saymedia/sayless) - Bootstrap.less is a collection of mixins and variables for LESS that helps you quickly code with CSS.
 - [rubocop/rails-style-guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide
 
+## PEG.js 
+
+- [redotjs/redot](https://github.com/redotjs/redot) - Graphviz dot file processor powered by plugins based on @unifiedjs
+
 ## PHP 
 
 - [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the MeiliSearch API
@@ -4469,6 +4482,8 @@
 
 ## Python 
 
+- [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to help users of all skill levels store, manipulate, and visualize data.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into MeiliSearch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -4821,6 +4836,9 @@
 
 ## Ruby 
 
+- [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
+- [michaeledgar/laser](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
+- [bsm/attribute-defaults](https://github.com/bsm/attribute-defaults) - Simple ActiveRecord plugin that allows to specify default values for attributes
 - [zilkey/active_hash](https://github.com/zilkey/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource
 - [ruby-amqp/hutch](https://github.com/ruby-amqp/hutch) - A system for processing messages from RabbitMQ.
 - [infinum/enumerations](https://github.com/infinum/enumerations) - Better Rails Enumerations
@@ -5778,7 +5796,7 @@
 - [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
-- [bibendi/graphql-connections](https://github.com/bibendi/graphql-connections) - GraphQL cursor-based stable pagination to work with Active Record relations.
+- [bibendi/graphql-connections](https://github.com/bibendi/graphql-connections) - Additional implementations of cursor-based paginations for GraphQL Ruby gem.
 - [trailblazer/trailblazer-activity-dsl-linear](https://github.com/trailblazer/trailblazer-activity-dsl-linear) - Simple DSL to compile Trailblazer activities.
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
@@ -7847,6 +7865,7 @@
 
 ## Rust 
 
+- [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the MeiliSearch API.
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
@@ -8265,6 +8284,23 @@
 
 ## TypeScript 
 
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
+- [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
+- [unjs/unenv](https://github.com/unjs/unenv) - Run JavaScript Everywhere 🌪
+- [yaacovCR/graphql-executor](https://github.com/yaacovCR/graphql-executor) - A customizable GraphQL Spec compliant Executor
+- [nuxt-contrib/vue-bundle-renderer](https://github.com/nuxt-contrib/vue-bundle-renderer) - SSR Bundle Renderer for Vue 3
+- [unjs/bundle-runner](https://github.com/unjs/bundle-runner) - Run webpack bundles in Node.js with optional VM sandboxing
+- [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 2.
+- [ComponentDriven/componentdriven.org](https://github.com/ComponentDriven/componentdriven.org) - Static site and content for Component Driven
+- [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
+- [ElMassimo/vite-plugin-environment](https://github.com/ElMassimo/vite-plugin-environment) - Easily expose environment variables in Vite.js
+- [slicknode/slicknode-runtime](https://github.com/slicknode/slicknode-runtime) - Library to build custom Slicknode extensions
+- [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
+- [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana
+- [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
+- [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
+- [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 Islands of interactivity with Vue in Vite.js (alpha)
 - [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers.
 - [antfu/vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vue 3 on Vite
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
