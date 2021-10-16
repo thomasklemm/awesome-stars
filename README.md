@@ -491,7 +491,7 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
-- [prestancedesign/pingcrm-clojure](https://github.com/prestancedesign/pingcrm-clojure) - PingCRM on Clojure - A Clojure Ring demo application to illustrate how Inertia.js works.
+- [prestancedesign/pingcrm-clojure](https://github.com/prestancedesign/pingcrm-clojure) - PingCRM on Clojure - A Clojure/Script fullstack demo application to illustrate how Inertia.js works.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [mikub/titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
@@ -688,7 +688,7 @@
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that stores, computes, and validates application permissions
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for centrally managing authorization data across your organization. Inspired by the Google Zanzibar paper.
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
@@ -1311,6 +1311,7 @@
 
 ## Java 
 
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [OpenAPITools/openapi-style-validator](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenApi spec follows your organization's standards.
 - [primefaces/primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for JavaServer Faces
@@ -1698,8 +1699,8 @@
 - [rhalff/dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation
 - [aws-samples/app-2025](https://github.com/aws-samples/app-2025) - Use architecture patterns from the future to build on AWS today!
 - [AnomalyInnovations/serverless-stack-demo-ext-resources](https://github.com/AnomalyInnovations/serverless-stack-demo-ext-resources) - Source for the extended version of the demo app resources in Serverless Stack.
-- [awslabs/smart-product-solution](https://github.com/awslabs/smart-product-solution) - The Smart Product Solution is a customer deployable reference architecture to help manufacturers to jumpstart development of innovative connected/smart product services.
-- [awslabs/serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
+- [aws-solutions/smart-product-solution](https://github.com/aws-solutions/smart-product-solution) - The Smart Product Solution is a customer deployable reference architecture to help manufacturers to jumpstart development of innovative connected/smart product services.
+- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [nearform/polaris](https://github.com/nearform/polaris) - NearForm multi-platform application accelerator
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
@@ -3159,7 +3160,6 @@
 - [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [reactjs/react-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time. (Deprecated: use Fast Refresh instead.)
 - [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [voronianski/flux-comparison](https://github.com/voronianski/flux-comparison) - :pencil: Practical comparison of different Flux solutions
@@ -4482,6 +4482,7 @@
 
 ## Python 
 
+- [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to help users of all skill levels store, manipulate, and visualize data.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into MeiliSearch
@@ -8284,6 +8285,9 @@
 
 ## TypeScript 
 
+- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Routing for React
+- [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - CloudGraph is an open-source GraphQL powered search engine for your cloud infrastructure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Run JavaScript Everywhere 🌪
@@ -8407,7 +8411,7 @@
 - [ElMassimo/vue-custom-element-example](https://github.com/ElMassimo/vue-custom-element-example) - An example on how to define custom elements using Vue 3
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [vueComponent/pro-layout](https://github.com/vueComponent/pro-layout) - easy use `Ant Design Vue` layout
-- [vuedx/preview](https://github.com/vuedx/preview) - 
+- [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for vue ecosystem.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -9382,6 +9386,7 @@
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for React and Preact
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [formatjs/intl-format-cache](https://github.com/formatjs/intl-format-cache) - Produces instances of JavaScript `Intl` formats, and caches them for reuse.
