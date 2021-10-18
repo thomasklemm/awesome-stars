@@ -331,6 +331,7 @@
 
 ## CSS 
 
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [silverhammermba/emberb](https://github.com/silverhammermba/emberb) - A guide to Ruby's C API
 - [primefaces/sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
 - [primefaces/primevue](https://github.com/primefaces/primevue) - The Most Complete Vue UI Component Library
@@ -688,7 +689,7 @@
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for centrally managing authorization data across your organization. Inspired by the Google Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system dedicated to managing security-critical permissions checking in your applications. Inspired by Google's Zanzibar paper.
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [open2b/scriggo](https://github.com/open2b/scriggo) - The world’s most powerful template engine and Go embeddable interpreter
@@ -3599,7 +3600,7 @@
 - [jejacks0n/mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline.
 - [tomgco/gzippo](https://github.com/tomgco/gzippo) - gzippo pronounced `g-zippo` is a nodejs gzip middleware for Connect and express js using the new native node zlib api
 - [webworka/Tagedit](https://github.com/webworka/Tagedit) - Tagedit - jQuery Plugin - The Plugin can be used to edit tags from a database the easy way
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [azer/environ](https://github.com/azer/environ) - Cross-platform environment detection library for JavaScript
@@ -3716,6 +3717,7 @@
 
 ## Lua 
 
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
@@ -4838,6 +4840,10 @@
 
 ## Ruby 
 
+- [mrsool/redis_hash_store](https://github.com/mrsool/redis_hash_store) - 
+- [Shopify/rbi](https://github.com/Shopify/rbi) - RBI generation framework
+- [RenoFi/fishplate](https://github.com/RenoFi/fishplate) - Fishplate is a library allowing running ActiveRecord without Railties
+- [RenoFi/rack-graphql](https://github.com/RenoFi/rack-graphql) - Rack middleware for building ruby services with graphql api.
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 - [michaeledgar/laser](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
 - [bsm/attribute-defaults](https://github.com/bsm/attribute-defaults) - Simple ActiveRecord plugin that allows to specify default values for attributes
@@ -4966,7 +4972,6 @@
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [GGrassiant/api-boilerplate](https://github.com/GGrassiant/api-boilerplate) - My Rails API template for side projects
 - [GGrassiant/api-i18n-boilerplate](https://github.com/GGrassiant/api-i18n-boilerplate) - My i18n Rails api template for side projects
-- [GGrassiant/rails-react-template](https://github.com/GGrassiant/rails-react-template) - Rails / React with fetching service boilerplate
 - [moneybird/active-date-range](https://github.com/moneybird/active-date-range) - Powerful DateRanges for Ruby and ActiveSupport
 - [adzap/active_enum](https://github.com/adzap/active_enum) - Define enum classes in Rails and use them to enumerate ActiveRecord attributes, with I18n support
 - [ledermann/templatus](https://github.com/ledermann/templatus) - Opinionated template for web applications with Ruby on Rails and Vue.js 3
@@ -7867,6 +7872,7 @@
 
 ## Rust 
 
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [robertDurst/stellar-vanity-address-generator](https://github.com/robertDurst/stellar-vanity-address-generator) - Generate Stellar Vanity Wallets
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
@@ -8287,6 +8293,8 @@
 
 ## TypeScript 
 
+- [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - CloudGraph is an open-source GraphQL powered search engine for your cloud infrastructure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
@@ -9452,7 +9460,7 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [SAP/fundamental-vue](https://github.com/SAP/fundamental-vue) - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
