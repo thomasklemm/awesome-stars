@@ -331,6 +331,8 @@
 
 ## CSS 
 
+- [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
+- [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [silverhammermba/emberb](https://github.com/silverhammermba/emberb) - A guide to Ruby's C API
 - [primefaces/sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
@@ -681,6 +683,7 @@
 
 ## Go 
 
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [portto/solana-go-sdk](https://github.com/portto/solana-go-sdk) - Solana Golang SDK
 - [valist-io/valist](https://github.com/valist-io/valist) - Universal package repository, code-signing, and CDN system. Build, sign, and distribute any software/firmware globally in just a few steps. Powered by Ethereum, IPFS, and Filecoin.
@@ -1413,6 +1416,7 @@
 
 ## JavaScript 
 
+- [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [juliangruber/npm-dependants](https://github.com/juliangruber/npm-dependants) - Get dependants of a module on npm.
 - [ElMassimo/vite-plugin-xdm](https://github.com/ElMassimo/vite-plugin-xdm) - Use XDM in VIte.js
 - [wooorm/xdm](https://github.com/wooorm/xdm) - Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins
@@ -1627,7 +1631,6 @@
 - [SimoTod/alpine-turbo-drive-adapter](https://github.com/SimoTod/alpine-turbo-drive-adapter) - Bridge library to enable full support for Alpine components in pages using Turbolinks
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
 - [spotify/reactochart](https://github.com/spotify/reactochart) - :chart_with_upwards_trend: React chart component library :chart_with_downwards_trend:
-- [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [fiverr/passable](https://github.com/fiverr/passable) - Declarative data validations.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [ryangjchandler/spruce](https://github.com/ryangjchandler/spruce) - A lightweight state management layer for Alpine.js. 🌲
@@ -4841,6 +4844,12 @@
 
 ## Ruby 
 
+- [bigcommerce/gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
+- [tenderlove/tenderjit](https://github.com/tenderlove/tenderjit) - JIT for Ruby that is written in Ruby
+- [ruby/error_highlight](https://github.com/ruby/error_highlight) - 
+- [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
+- [aki77/bulma_form_builder](https://github.com/aki77/bulma_form_builder) - Rails form builder
+- [bodrovis/lokalise_rails](https://github.com/bodrovis/lokalise_rails) - Ruby on Rails integration for Lokalise
 - [lostisland/faraday_middleware](https://github.com/lostisland/faraday_middleware) - Various Faraday middlewares for Faraday-based API wrappers
 - [qrush/m](https://github.com/qrush/m) - A Test::Unit runner that can run tests by line number.
 - [mrsool/redis_hash_store](https://github.com/mrsool/redis_hash_store) - 
@@ -8028,6 +8037,7 @@
 
 ## Shell 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
 - [github/strap](https://github.com/github/strap) - 👢 Bootstrap your macOS development system.
 - [ZupIT/beagle](https://github.com/ZupIT/beagle) - A framework to help implement Server-Driven UI in your apps natively.
@@ -8060,7 +8070,7 @@
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [fullstaq-labs/fullstaq-ruby-server-edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition) - A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM
 - [wodby/docker4ruby](https://github.com/wodby/docker4ruby) - Docker-based Ruby stack (works for Rails)
@@ -8296,6 +8306,7 @@
 
 ## TypeScript 
 
+- [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
@@ -8316,7 +8327,7 @@
 - [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
 - [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
-- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 Islands of interactivity with Vue in Vite.js (alpha)
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 Islands of interactivity with Vue in Vite.js (beta)
 - [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers.
 - [antfu/vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vue 3 on Vite
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
@@ -9431,6 +9442,7 @@
 
 ## Vue 
 
+- [supabase-community/database.dev](https://github.com/supabase-community/database.dev) - Curated list of SQL to help you find useful script easily 🚀
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [framevuerk/framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vite + Vue 3 + Tailwind CSS (starter) ⚡
