@@ -5184,7 +5184,7 @@
 - [dry-rb/dry-logic](https://github.com/dry-rb/dry-logic) - Predicate logic with rule composition
 - [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - [Deprecated: Use our new Node server: https://github.com/standardnotes/syncing-server-js]
 - [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap
-- [TFM-Agency/active_entry](https://github.com/TFM-Agency/active_entry) - A flexible access control system for your Rails app
+- [omniploy/active_entry](https://github.com/omniploy/active_entry) - A flexible access control system for your Rails app
 - [scottwillson/racing_on_rails](https://github.com/scottwillson/racing_on_rails) - Manage a bike racing association: riders, teams, calendars, competitions, and results
 - [enova/business_calendar](https://github.com/enova/business_calendar) - Concise, internationalized business date handling.
 - [flipp-oss/deimos](https://github.com/flipp-oss/deimos) - Framework to work with Kafka, Avro and ActiveRecord
@@ -5567,7 +5567,7 @@
 - [noahgibbs/rsb](https://github.com/noahgibbs/rsb) - Rails Simpler Bench - a simple Rails app, with a variety of requests and Ruby versions that it can be tested with
 - [metricfu/metric_fu](https://github.com/metricfu/metric_fu) - A fist full of code metrics
 - [KnapsackPro/knapsack](https://github.com/KnapsackPro/knapsack) - Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
-- [namusyaka/gammo](https://github.com/namusyaka/gammo) - A pure Ruby HTML5-compliant parser with XPath 1.0 traversal
+- [namusyaka/gammo](https://github.com/namusyaka/gammo) - A pure Ruby HTML5-compliant parser with CSS selector and XPath 1.0 traversal
 - [vasilakisfil/SimpleAMS](https://github.com/vasilakisfil/SimpleAMS) - Fast modern plain Ruby serializers using zero dependencies
 - [savonrb/savon](https://github.com/savonrb/savon) - Heavy metal SOAP client
 - [perfectline/validates_url](https://github.com/perfectline/validates_url) - URL Validation for Rails
