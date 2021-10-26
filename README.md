@@ -951,7 +951,7 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Standardize how your microservices run in dev. Run tilt up to work in a complete dev environment that automates all the steps from code change to a new process.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2262,7 +2262,7 @@
 - [f/graphql.js](https://github.com/f/graphql.js) - A Simple and Isomorphic GraphQL Client for JavaScript
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [prettier/prettier-atom](https://github.com/prettier/prettier-atom) - An atom package for the prettier formatter.
-- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -4847,6 +4847,7 @@
 
 ## Ruby 
 
+- [Shopify/schmooze](https://github.com/Shopify/schmooze) - Schmooze lets Ruby and Node.js work together intimately.
 - [spree-contrib/spree_related_products](https://github.com/spree-contrib/spree_related_products) - Related products extension for Spree Commerce.
 - [lucemhealth-archive/easy-jsonapi](https://github.com/lucemhealth-archive/easy-jsonapi) - Middleware, parser, and validator, for JSON:API requests and serialized responses.
 - [bigcommerce/gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
@@ -5392,7 +5393,7 @@
 - [seamusabshere/upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 - [praxis/praxis](https://github.com/praxis/praxis) - Praxis is a framework that focuses on both the design and implementation aspects of creating APIs.
 - [mdominiak/hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
-- [devise-security/devise-security](https://github.com/devise-security/devise-security) - A security extension for devise, meeting industrial standard security demands for web applications.
+- [devise-security/devise-security](https://github.com/devise-security/devise-security) - A security extension for devise, meeting industry-standard security demands for web applications.
 - [heroku/buildpacks-ruby](https://github.com/heroku/buildpacks-ruby) - Heroku's official Cloud Native Buildpacks for the Ruby ecosystem.
 - [amatsuda/erd](https://github.com/amatsuda/erd) - A Rails engine for drawing your app's ER diagram
 - [GoogleCloudPlatform/getting-started-ruby](https://github.com/GoogleCloudPlatform/getting-started-ruby) - A tutorial for creating a complete application using Ruby on Google Cloud Platform
@@ -6032,7 +6033,7 @@
 - [dblock/ruby-enum](https://github.com/dblock/ruby-enum) - A handy way to define enums in Ruby.
 - [hanami/validations](https://github.com/hanami/validations) - Validation mixin for Ruby objects
 - [getkuby/kuby-core](https://github.com/getkuby/kuby-core) - A convention over configuration approach for deploying Rails apps. https://getkuby.io
-- [sferik/rails_admin](https://github.com/sferik/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
 - [rootstrap/active-storage-base64](https://github.com/rootstrap/active-storage-base64) - Base64 support for ActiveStorage
 - [rootstrap/rails_api_base](https://github.com/rootstrap/rails_api_base) - API boilerplate project for Ruby On Rails 6
 - [workarea-commerce/workarea-api](https://github.com/workarea-commerce/workarea-api) - Adds JSON REST APIs to the Workarea Commerce Platform
@@ -8044,6 +8045,7 @@
 
 ## Shell 
 
+- [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
 - [github/strap](https://github.com/github/strap) - 👢 Bootstrap your macOS development system.
