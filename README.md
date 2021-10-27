@@ -338,7 +338,7 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [silverhammermba/emberb](https://github.com/silverhammermba/emberb) - A guide to Ruby's C API
 - [primefaces/sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
-- [primefaces/primevue](https://github.com/primefaces/primevue) - The Most Complete Vue UI Component Library
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [radar/twist-v2](https://github.com/radar/twist-v2) - A book review tool for Leanpub's Markdown Book Format
 - [jorgegorka/demanda](https://github.com/jorgegorka/demanda) - A Ruby on Rails 6 & GraphQL powered e-commerce backend with JWT support. Includes a Svelte JS & TailwindCss admin site.
 - [stevepolitodesign/tailwind-color-palette](https://github.com/stevepolitodesign/tailwind-color-palette) - Utility classes for assigning background and text color based on the TailwindCSS color palette.
@@ -721,6 +721,7 @@
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
+- [alephjs/esm.sh](https://github.com/alephjs/esm.sh) - A fast, global content delivery network for ES Modules.
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -1421,6 +1422,7 @@
 
 ## JavaScript 
 
+- [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [juliangruber/npm-dependants](https://github.com/juliangruber/npm-dependants) - Get dependants of a module on npm.
 - [ElMassimo/vite-plugin-xdm](https://github.com/ElMassimo/vite-plugin-xdm) - Use XDM in VIte.js
@@ -1487,7 +1489,6 @@
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
-- [alephjs/esm.sh](https://github.com/alephjs/esm.sh) - A fast, global content delivery network for ES Modules.
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
@@ -1644,7 +1645,7 @@
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
-- [jails-org/Jails](https://github.com/jails-org/Jails) - An alternative for Javascript Vanilla Applications
+- [jails-org/Jails](https://github.com/jails-org/Jails) - A Functional Javascript Library to build applications on Server Side Rendered and Static Sites.
 - [BilalBudhani/RailsBooster](https://github.com/BilalBudhani/RailsBooster) - Pre-Configured Ruby On Rails Template To Provide Instant Productivity ⚡️
 - [vitejs/create-vite-app](https://github.com/vitejs/create-vite-app) - Create a Vite-powered app in seconds!
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -2045,7 +2046,6 @@
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
@@ -2526,7 +2526,7 @@
 - [endless-commerce/endless](https://github.com/endless-commerce/endless) - Open Source Ecommerce Platform based on Serverless Framework
 - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [Luuun/luuun-react-native](https://github.com/Luuun/luuun-react-native) - Luuun React Native Wallet
@@ -5817,7 +5817,7 @@
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
-- [spree/spree](https://github.com/spree/spree) - Open Source modular headless multi-language/multi-currency/multi-store e-commerce platform
+- [spree/spree](https://github.com/spree/spree) - Open Source headless multi-language/multi-currency/multi-store eCommerce platform
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
@@ -6364,7 +6364,7 @@
 - [GoogleCloudPlatform/appengine-ruby](https://github.com/GoogleCloudPlatform/appengine-ruby) - Optional integration library for the Ruby runtime for Google App Engine
 - [swiftype/swiftype-app-search-ruby](https://github.com/swiftype/swiftype-app-search-ruby) - Swiftype App Search Ruby Client
 - [ledermann/docker-rails](https://github.com/ledermann/docker-rails) - Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - The ultimate pagination gem!
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - The best pagination gem.
 - [michelson/dante-stories](https://github.com/michelson/dante-stories) - A self hosted Medium platform built with Ruby on Rails
 - [FortAwesome/font-awesome-sass](https://github.com/FortAwesome/font-awesome-sass) - Font-Awesome Sass gem for use in Ruby/Rails projects
 - [Shopify/graphql-metrics](https://github.com/Shopify/graphql-metrics) - Extract as much much detail as you want from GraphQL queries, served up from your Ruby app and the graphql gem.
@@ -7130,7 +7130,7 @@
 - [ruby-grape/grape-entity](https://github.com/ruby-grape/grape-entity) - An API focused facade that sits on top of an object model.
 - [crepe/jsonite](https://github.com/crepe/jsonite) - A tiny, HAL-compliant JSON presenter for your Ruby APIs.
 - [bwillis/versioncake](https://github.com/bwillis/versioncake) - :cake: Version Cake is an unobtrusive way to version APIs in your Rails or Rack apps
-- [crepe/crepe](https://github.com/crepe/crepe) - The thin API stack.
+- [crepe/crepe](https://github.com/crepe/crepe) - 🥞 The thin API stack.
 - [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 - [ko1/pretty_backtrace](https://github.com/ko1/pretty_backtrace) - Pretty your exception backtrace.
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
@@ -7988,7 +7988,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -8315,6 +8315,10 @@
 
 ## TypeScript 
 
+- [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
+- [kanzitelli/rn-starter](https://github.com/kanzitelli/rn-starter) - 🦄 Production-ready starter for React Native App! Powered by cli-rn, React Navigation (v6), RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
+- [kanzitelli/rnn-starter](https://github.com/kanzitelli/rnn-starter) - 🤹 Production-ready starter for React Native App! Powered by cli-rn, React Native Navigation, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
+- [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
@@ -8325,7 +8329,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - CloudGraph is an open-source GraphQL powered search engine for your cloud infrastructure
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Run JavaScript Everywhere 🌪
@@ -9068,6 +9072,7 @@
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Errorname/prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - 🧭 Use Prisma as a multi-tenant provider for your application
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
