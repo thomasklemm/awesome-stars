@@ -397,7 +397,7 @@
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [MatejKustec/SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners
 - [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
-- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 - [reworkcss/css](https://github.com/reworkcss/css) - CSS parser / stringifier for Node.js
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
@@ -828,7 +828,6 @@
 - [hasura/graphql-serverless](https://github.com/hasura/graphql-serverless) - Example boilerplates for GraphQL backends hosted on serverless platforms
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
@@ -952,7 +951,7 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Standardize how your microservices run in dev. Run tilt up to work in a complete dev environment that automates all the steps from code change to a new process.
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -1422,6 +1421,8 @@
 
 ## JavaScript 
 
+- [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
+- [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [juliangruber/npm-dependants](https://github.com/juliangruber/npm-dependants) - Get dependants of a module on npm.
@@ -2568,7 +2569,7 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [SEL-Columbia/formhub](https://github.com/SEL-Columbia/formhub) - Mobile Data Collection made easy.
@@ -4569,6 +4570,7 @@
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [javrasya/django-river](https://github.com/javrasya/django-river) - Django workflow library that supports on the fly changes ⛵
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
@@ -4847,6 +4849,7 @@
 
 ## Ruby 
 
+- [joshmn/caffeinate](https://github.com/joshmn/caffeinate) - A Rails engine for drip campaigns/scheduled email sequences and periodic emails.
 - [Shopify/schmooze](https://github.com/Shopify/schmooze) - Schmooze lets Ruby and Node.js work together intimately.
 - [spree-contrib/spree_related_products](https://github.com/spree-contrib/spree_related_products) - Related products extension for Spree Commerce.
 - [lucemhealth-archive/easy-jsonapi](https://github.com/lucemhealth-archive/easy-jsonapi) - Middleware, parser, and validator, for JSON:API requests and serialized responses.
@@ -5498,7 +5501,6 @@
 - [dry-rb/dry-system](https://github.com/dry-rb/dry-system) - Organize your code into reusable components
 - [hopsoft/ellington](https://github.com/hopsoft/ellington) - A different take on flow based programming.
 - [joshmn/activeduty](https://github.com/joshmn/activeduty) - Service objects.
-- [joshmn/caffeinate](https://github.com/joshmn/caffeinate) - A Rails engine for drip campaigns/scheduled email sequences and periodic emails.
 - [joshmn/metricky](https://github.com/joshmn/metricky) - Build, query, and render metrics from your Rails application.
 - [joshmn/gearhead](https://github.com/joshmn/gearhead) - Generate an API for your database, with searching and filtering, automatically
 - [joshmn/jeanine](https://github.com/joshmn/jeanine) - A lightning-fast, batteries-included Ruby web micro-framework.
