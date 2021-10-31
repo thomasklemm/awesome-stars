@@ -1322,6 +1322,7 @@
 
 ## Java 
 
+- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [OpenAPITools/openapi-style-validator](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenApi spec follows your organization's standards.
@@ -1605,7 +1606,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
 - [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
@@ -4377,7 +4378,7 @@
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [livewire-ui/spotlight](https://github.com/livewire-ui/spotlight) - Livewire component that brings Spotlight/Alfred-like functionality to your Laravel application.
+- [wire-elements/spotlight](https://github.com/wire-elements/spotlight) - Livewire component that brings Spotlight/Alfred-like functionality to your Laravel application.
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [statamic/cms](https://github.com/statamic/cms) - Statamic 3: The Core Composer Package
@@ -4516,7 +4517,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [authorizon/opal](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
-- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
@@ -4832,7 +4833,7 @@
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [joelpt/sublimetext-automatic-backups](https://github.com/joelpt/sublimetext-automatic-backups) - Automatic backups with historical navigation for Sublime Text.
 - [myusuf3/octogit](https://github.com/myusuf3/octogit) - giving git more tentacles
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorgebastida/glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate CSS sprites
 - [hayaku/hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -6369,7 +6370,7 @@
 - [GoogleCloudPlatform/appengine-ruby](https://github.com/GoogleCloudPlatform/appengine-ruby) - Optional integration library for the Ruby runtime for Google App Engine
 - [swiftype/swiftype-app-search-ruby](https://github.com/swiftype/swiftype-app-search-ruby) - Swiftype App Search Ruby Client
 - [ledermann/docker-rails](https://github.com/ledermann/docker-rails) - Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem.
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
 - [michelson/dante-stories](https://github.com/michelson/dante-stories) - A self hosted Medium platform built with Ruby on Rails
 - [FortAwesome/font-awesome-sass](https://github.com/FortAwesome/font-awesome-sass) - Font-Awesome Sass gem for use in Ruby/Rails projects
 - [Shopify/graphql-metrics](https://github.com/Shopify/graphql-metrics) - Extract as much much detail as you want from GraphQL queries, served up from your Ruby app and the graphql gem.
@@ -8320,6 +8321,8 @@
 
 ## TypeScript 
 
+- [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries
 - [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
