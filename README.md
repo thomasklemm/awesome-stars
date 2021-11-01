@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
 - [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [HellRok/Taylor](https://github.com/HellRok/Taylor) - A simple game engine built using raylib and mruby
@@ -1096,7 +1097,7 @@
 
 ## HTML 
 
-- [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ production-ready website boilerplate built with webpack 5, Babel 7, Sass & more
+- [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ Production-ready website boilerplate made with webpack 5, modern JS (via Babel 7) & Sass
 - [fernandes/arara](https://github.com/fernandes/arara) - A material design theme for Ruby on Rails 🦜
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
@@ -1178,7 +1179,6 @@
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [toddwschneider/stocks](https://github.com/toddwschneider/stocks) - A free, lightweight, blazing-fast static page to get stock quotes using IEX Cloud
 - [c8r/lab](https://github.com/c8r/lab) - React UI component design tool
-- [senecajs/seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js.
 - [interledger/rfcs](https://github.com/interledger/rfcs) - Specifications for Interledger and related protocols
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
@@ -1322,6 +1322,7 @@
 
 ## Java 
 
+- [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
@@ -1423,6 +1424,7 @@
 
 ## JavaScript 
 
+- [asabaylus/react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
 - [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
@@ -1606,7 +1608,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
@@ -1700,7 +1702,7 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [huacnlee/turbolinks-prefetch](https://github.com/huacnlee/turbolinks-prefetch) - Turbolinks extends for prefetch links to speeds up your website.
-- [fonoster/fonos](https://github.com/fonoster/fonos) - 🚀 An open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 An open-source alternative to Twilio.
 - [iter-tools/iter-tools](https://github.com/iter-tools/iter-tools) - The iterable toolbox
 - [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js) - Build complex rules, serialize them as JSON, and execute them in JavaScript
 - [bozzltron/node-json-transform](https://github.com/bozzltron/node-json-transform) - A node module for restructuring and performing operations  on JSON on the fly.
@@ -2520,7 +2522,6 @@
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [mwlang/gentelella-rails](https://github.com/mwlang/gentelella-rails) - Injects the gentelella theme and javascript files into Rails assets pipeline
-- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [bcoin-org/bcrypto](https://github.com/bcoin-org/bcrypto) - JS crypto library
 - [bcoin-org/bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
@@ -2528,6 +2529,7 @@
 - [stellarterm/stellarterm](https://github.com/stellarterm/stellarterm) - Advanced web based trading client for the Stellar network. 📈📊💹💱
 - [serverless/plugins](https://github.com/serverless/plugins) - Serverless Plugins – Extend the Serverless Framework with these community driven plugins –
 - [endless-commerce/endless](https://github.com/endless-commerce/endless) - Open Source Ecommerce Platform based on Serverless Framework
+- [senecajs/seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js.
 - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
@@ -4853,6 +4855,9 @@
 
 ## Ruby 
 
+- [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
+- [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
+- [ayushn21/maintenance_job](https://github.com/ayushn21/maintenance_job) - Mechanism to run testable one-off jobs in Rails at deploy time to manipulate data
 - [fractaledmind/acidic_job](https://github.com/fractaledmind/acidic_job) - Idempotent operations for Rails apps, built for ActiveJob or Sidekiq.
 - [joshmn/caffeinate](https://github.com/joshmn/caffeinate) - A Rails engine for drip campaigns/scheduled email sequences and periodic emails.
 - [Shopify/schmooze](https://github.com/Shopify/schmooze) - Schmooze lets Ruby and Node.js work together intimately.
@@ -8321,6 +8326,7 @@
 
 ## TypeScript 
 
+- [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
@@ -9332,6 +9338,7 @@
 - [oktapodia/coinwatch](https://github.com/oktapodia/coinwatch) - Track your cryptocurrencies from your Osx menubar
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
+- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
