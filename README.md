@@ -48,7 +48,6 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Mathematica](#mathematica)
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -1322,6 +1321,7 @@
 
 ## Java 
 
+- [capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
@@ -1424,6 +1424,10 @@
 
 ## JavaScript 
 
+- [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
+- [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
 - [asabaylus/react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
 - [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
@@ -1702,7 +1706,7 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [huacnlee/turbolinks-prefetch](https://github.com/huacnlee/turbolinks-prefetch) - Turbolinks extends for prefetch links to speeds up your website.
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 An open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [iter-tools/iter-tools](https://github.com/iter-tools/iter-tools) - The iterable toolbox
 - [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js) - Build complex rules, serialize them as JSON, and execute them in JavaScript
 - [bozzltron/node-json-transform](https://github.com/bozzltron/node-json-transform) - A node module for restructuring and performing operations  on JSON on the fly.
@@ -2336,7 +2340,6 @@
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [iaincollins/nextjs-starter](https://github.com/iaincollins/nextjs-starter) - A starter project for Next.js with authentication
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [florianheinemann/passwordless](https://github.com/florianheinemann/passwordless) - node.js/express module to authenticate users without password
 - [vercel/micro-proxy](https://github.com/vercel/micro-proxy) - [DEPRECATED] Simplest proxy server for microservices
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
@@ -3706,6 +3709,7 @@
 
 ## Kotlin 
 
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [hotwired/turbo-android](https://github.com/hotwired/turbo-android) - Android framework for making Turbo native apps
@@ -3755,10 +3759,6 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
-## Mathematica 
-
-- [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
-
 ## Mustache 
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -3789,6 +3789,7 @@
 
 ## Objective-C 
 
+- [wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
 - [staart/native](https://github.com/staart/native) - 🏁📱 Native smartphone app starter for SaaS startups
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
@@ -4394,8 +4395,8 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [getkirby/editor](https://github.com/getkirby/editor) - A new type of WYSIWYG editor for Kirby
 - [getkirby/kirby](https://github.com/getkirby/kirby) - Kirby's core application folder
-- [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform (ZEIT Now)
-- [protonemedia/laravel-form-components](https://github.com/protonemedia/laravel-form-components) - A set of Blade components to rapidly build forms with Tailwind CSS (v1.0 and v2.0) and Bootstrap 4. Supports validation, model binding, default values, translations, Laravel Livewire, includes default vendor styling and fully customizable!
+- [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
+- [protonemedia/laravel-form-components](https://github.com/protonemedia/laravel-form-components) - A set of Blade components to rapidly build forms with Tailwind CSS (v1.0 and v2.0) and Bootstrap 4/5. Supports validation, model binding, default values, translations, Laravel Livewire, includes default vendor styling and fully customizable!
 - [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
@@ -4519,7 +4520,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [authorizon/opal](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
-- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
@@ -4680,7 +4681,7 @@
 - [kinecosystem/kin-sdk-python](https://github.com/kinecosystem/kin-sdk-python) - Kin SDK for Python
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [enigmampc/catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+- [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [dragonchain/dragonchain](https://github.com/dragonchain/dragonchain) - Dragonchain blockchain platform - simplified integration of advanced blockchain features
 - [hyperledger/indy-node](https://github.com/hyperledger/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
@@ -7944,7 +7945,7 @@
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(JSON based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON based)
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -8192,6 +8193,7 @@
 
 ## Swift 
 
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [turbolinks/turbolinks-ios](https://github.com/turbolinks/turbolinks-ios) - Native iOS adapter for building hybrid apps with Turbolinks 5
 - [dalezak/turbo-ios-base](https://github.com/dalezak/turbo-ios-base) - Turbo-iOS base project that's entirely driven from your backend Rails app.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
@@ -8319,6 +8321,7 @@
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
+- [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 
 ## Twig 
 
@@ -8326,6 +8329,13 @@
 
 ## TypeScript 
 
+- [capacitor-community/react-hooks](https://github.com/capacitor-community/react-hooks) - ⚡️ React hooks for Capacitor ⚡️
+- [capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy
+- [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
+- [IronTony/react-native-boilerplate-starter-app](https://github.com/IronTony/react-native-boilerplate-starter-app) - 📱🚀A POWERFUL React Native starter kit to bootstrap the start of your mobile app development
+- [wix/ricos](https://github.com/wix/ricos) - A super charged rich content editor with an extensible plugin system.
+- [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
+- [infinitered/solidarity](https://github.com/infinitered/solidarity) - Solidarity is an environment checker for project dependencies across multiple machines.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
@@ -9254,6 +9264,7 @@
 - [yosbelms/react-progressive-loader](https://github.com/yosbelms/react-progressive-loader) - Utility to load images and React components progressively, and get code splitting for free
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [nickredmark/ooth](https://github.com/nickredmark/ooth) - User identity/authentication/accounts management microservice for node.js
+- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
