@@ -104,6 +104,7 @@
 
 ## C 
 
+- [postgrespro/jsquery](https://github.com/postgrespro/jsquery) - JsQuery – json query language with GIN indexing support
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -688,6 +689,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [GFTN/gftn-services](https://github.com/GFTN/gftn-services) - 
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL
@@ -1256,7 +1258,6 @@
 - [floere/picky](https://github.com/floere/picky) - Picky is an easy to use and fast Ruby semantic search engine that helps your users find what they are looking for.
 - [elm-city-craftworks/practicing-ruby-manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) - Collection of source manuscripts for publicly released Practicing Ruby articles
 - [bokmann/font-awesome-rails](https://github.com/bokmann/font-awesome-rails) - the font-awesome font bundled as an asset for the rails asset pipeline
-- [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
 - [ndbroadbent/ransack_ui](https://github.com/ndbroadbent/ransack_ui) - Framework for building a search UI with Ransack
 - [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
@@ -1321,6 +1322,7 @@
 
 ## Java 
 
+- [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
@@ -1424,6 +1426,8 @@
 
 ## JavaScript 
 
+- [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
@@ -3709,6 +3713,7 @@
 
 ## Kotlin 
 
+- [ionic-team/ionic-portals](https://github.com/ionic-team/ionic-portals) - Portals Library
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
@@ -4032,7 +4037,6 @@
 - [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [ankane/production_rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production
 - [rails/actiontext](https://github.com/rails/actiontext) - Edit and display rich text in Rails applications
-- [tipeio/tipe](https://github.com/tipeio/tipe) - 🎉 Next Generation API-first CMS for developers. Generate an API-first CMS from a GraphQL schema with offline prototyping and an inline editor
 - [feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) - A list of awesome things related to FeathersJS
 - [paypal/api-standards](https://github.com/paypal/api-standards) - 
 - [vercel/next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
@@ -4323,6 +4327,7 @@
 - [anthonyshort/idiomatic-sass](https://github.com/anthonyshort/idiomatic-sass) - Principles for writing consistent, clean, friendly Sass
 - [ashedryden/freelance-contract](https://github.com/ashedryden/freelance-contract) - My freelance/contractor contract. You can read more about it here: http://ashedryden.com/blog/contract
 - [dpdexter/Stripe-Webhook](https://github.com/dpdexter/Stripe-Webhook) - Simple test page for simulating stripe webook responses.
+- [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [alexbaldwin/error](https://github.com/alexbaldwin/error) - Good enough looking template for error pages, 404s, 500s, and Heroku maintenance mode.
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
 - [thomasklemm/Readme.js](https://github.com/thomasklemm/Readme.js) - Readme.js embeds a Github Repo's README into any website.
@@ -4836,7 +4841,7 @@
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [joelpt/sublimetext-automatic-backups](https://github.com/joelpt/sublimetext-automatic-backups) - Automatic backups with historical navigation for Sublime Text.
 - [myusuf3/octogit](https://github.com/myusuf3/octogit) - giving git more tentacles
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorgebastida/glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate CSS sprites
 - [hayaku/hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -4856,6 +4861,8 @@
 
 ## Ruby 
 
+- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
+- [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern
 - [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
 - [ayushn21/maintenance_job](https://github.com/ayushn21/maintenance_job) - Mechanism to run testable one-off jobs in Rails at deploy time to manipulate data
@@ -4963,7 +4970,7 @@
 - [skroutz/cogy](https://github.com/skroutz/cogy) - Cog commands from your Rails app
 - [ioquatix/covered](https://github.com/ioquatix/covered) - 
 - [ElMassimo/capybara-compose](https://github.com/ElMassimo/capybara-compose) - ✅ Easily write fluent integration tests with Capybara in Ruby
-- [pbcbv/app](https://github.com/pbcbv/app) - Standard Rails starter app
+- [pbcbv/rails-starter-template](https://github.com/pbcbv/rails-starter-template) - Opinionated Rails starter template using esbuild, tailwindcss, postgresql and hotwired.
 - [basecamp/audits1984](https://github.com/basecamp/audits1984) - Auditing tool for Rails console sessions
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [wildbit/postmark-gem](https://github.com/wildbit/postmark-gem) - Official Ruby client library for the Postmark HTTP API
@@ -6287,7 +6294,7 @@
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [evilmartians/terraforming-rails](https://github.com/evilmartians/terraforming-rails) - Terraforming legacy Rails applications guides and tools
 - [evilmartians/chronicles-gql-martian-library](https://github.com/evilmartians/chronicles-gql-martian-library) - 
-- [bibendi/dip](https://github.com/bibendi/dip) - CLI gives the "native" interaction with applications configured with Docker Compose.
+- [bibendi/dip](https://github.com/bibendi/dip) - CLI tool that gives you the native-like interaction with applications through Docker in a development environment
 - [andersonfernandes/puppet_pdf](https://github.com/andersonfernandes/puppet_pdf) - PDF generation solution in Ruby using puppeteer
 - [gel-rb/gel](https://github.com/gel-rb/gel) - A modern gem manager
 - [fetlife/scallop](https://github.com/fetlife/scallop) - Ergonomic shell wrapper for Ruby.
@@ -7903,6 +7910,7 @@
 
 ## Rust 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
 - [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [robertDurst/stellar-vanity-address-generator](https://github.com/robertDurst/stellar-vanity-address-generator) - Generate Stellar Vanity Wallets
@@ -8329,6 +8337,10 @@
 
 ## TypeScript 
 
+- [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
+- [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - Upstash Redis Javascript library
+- [ionic-team/appflow-build](https://github.com/ionic-team/appflow-build) - GitHub Action for triggering Appflow Builds
+- [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli) - The Ionic command-line interface
 - [capacitor-community/react-hooks](https://github.com/capacitor-community/react-hooks) - ⚡️ React hooks for Capacitor ⚡️
 - [capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
@@ -8338,7 +8350,7 @@
 - [infinitered/solidarity](https://github.com/infinitered/solidarity) - Solidarity is an environment checker for project dependencies across multiple machines.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
-- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries
 - [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
