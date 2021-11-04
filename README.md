@@ -104,6 +104,7 @@
 
 ## C 
 
+- [Gargron/blurhash](https://github.com/Gargron/blurhash) - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
 - [postgrespro/jsquery](https://github.com/postgrespro/jsquery) - JsQuery – json query language with GIN indexing support
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
@@ -593,6 +594,7 @@
 
 ## Dart 
 
+- [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) - Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -831,6 +833,7 @@
 - [hasura/graphql-serverless](https://github.com/hasura/graphql-serverless) - Example boilerplates for GraphQL backends hosted on serverless platforms
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
@@ -1322,6 +1325,8 @@
 
 ## Java 
 
+- [capacitor-community/capacitor-googlemaps-native](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
+- [capacitor-community/stripe](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
@@ -1426,6 +1431,11 @@
 
 ## JavaScript 
 
+- [transistorsoft/react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch) - Periodic callbacks in the background for both IOS and Android
+- [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) - Apache Cordova Plugin geolocation
+- [j3k0/cordova-plugin-purchase](https://github.com/j3k0/cordova-plugin-purchase) - In-App Purchase for Cordova on iOS, Android and Windows
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
@@ -2446,7 +2456,7 @@
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [ahfarmer/javascriptstuff-db](https://github.com/ahfarmer/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [sysgears/apollo-universal-starter-kit](https://github.com/sysgears/apollo-universal-starter-kit) - Apollo Universal Starter Kit is an SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.
 - [mridgway/hoist-non-react-statics](https://github.com/mridgway/hoist-non-react-statics) - Copies non-react specific statics from a child component to a parent component
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -2951,7 +2961,7 @@
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [fakiolinho/react-loading](https://github.com/fakiolinho/react-loading) - React component for loading animations
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [insin/newforms](https://github.com/insin/newforms) - Isomorphic form-handling for React
 - [Teamweek/instadate](https://github.com/Teamweek/instadate) - A minimal high performance date library for Node.js and Browser
 - [Spreadsheets/WickedGrid](https://github.com/Spreadsheets/WickedGrid) - Easy & Wicked Fast spreadsheets for the web
@@ -3794,6 +3804,8 @@
 
 ## Objective-C 
 
+- [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+- [transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
 - [staart/native](https://github.com/staart/native) - 🏁📱 Native smartphone app starter for SaaS startups
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
@@ -4583,7 +4595,6 @@
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [javrasya/django-river](https://github.com/javrasya/django-river) - Django workflow library that supports on the fly changes ⛵
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
@@ -4862,7 +4873,7 @@
 ## Ruby 
 
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
-- [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern
+- [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern.
 - [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
 - [ayushn21/maintenance_job](https://github.com/ayushn21/maintenance_job) - Mechanism to run testable one-off jobs in Rails at deploy time to manipulate data
@@ -4879,7 +4890,7 @@
 - [bodrovis/lokalise_rails](https://github.com/bodrovis/lokalise_rails) - Ruby on Rails integration for Lokalise
 - [lostisland/faraday_middleware](https://github.com/lostisland/faraday_middleware) - Various Faraday middlewares for Faraday-based API wrappers
 - [qrush/m](https://github.com/qrush/m) - A Test::Unit runner that can run tests by line number.
-- [mrsool/redis_hash_store](https://github.com/mrsool/redis_hash_store) - 
+- [mrsool/redis_hash_store](https://github.com/mrsool/redis_hash_store) - RedisHashStore extends ActiveSupport's RedisCacheStore to provide the ability to easily use Redis hashes for caching.
 - [Shopify/rbi](https://github.com/Shopify/rbi) - RBI generation framework
 - [RenoFi/fishplate](https://github.com/RenoFi/fishplate) - Fishplate is a library allowing running ActiveRecord without Railties
 - [RenoFi/rack-graphql](https://github.com/RenoFi/rack-graphql) - Rack middleware for building ruby services with graphql api.
@@ -4970,7 +4981,7 @@
 - [skroutz/cogy](https://github.com/skroutz/cogy) - Cog commands from your Rails app
 - [ioquatix/covered](https://github.com/ioquatix/covered) - 
 - [ElMassimo/capybara-compose](https://github.com/ElMassimo/capybara-compose) - ✅ Easily write fluent integration tests with Capybara in Ruby
-- [pbcbv/rails-starter-template](https://github.com/pbcbv/rails-starter-template) - Opinionated Rails starter template using esbuild, tailwindcss, postgresql and hotwired.
+- [peterberkenbosch/rails-starter-template](https://github.com/peterberkenbosch/rails-starter-template) - Opinionated Rails starter template using esbuild, tailwindcss, postgresql and hotwired.
 - [basecamp/audits1984](https://github.com/basecamp/audits1984) - Auditing tool for Rails console sessions
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [wildbit/postmark-gem](https://github.com/wildbit/postmark-gem) - Official Ruby client library for the Postmark HTTP API
@@ -6294,7 +6305,7 @@
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [evilmartians/terraforming-rails](https://github.com/evilmartians/terraforming-rails) - Terraforming legacy Rails applications guides and tools
 - [evilmartians/chronicles-gql-martian-library](https://github.com/evilmartians/chronicles-gql-martian-library) - 
-- [bibendi/dip](https://github.com/bibendi/dip) - CLI tool that gives you the native-like interaction with applications through Docker in a development environment
+- [bibendi/dip](https://github.com/bibendi/dip) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 - [andersonfernandes/puppet_pdf](https://github.com/andersonfernandes/puppet_pdf) - PDF generation solution in Ruby using puppeteer
 - [gel-rb/gel](https://github.com/gel-rb/gel) - A modern gem manager
 - [fetlife/scallop](https://github.com/fetlife/scallop) - Ergonomic shell wrapper for Ruby.
@@ -8006,7 +8017,7 @@
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for Ruby
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -8337,6 +8348,13 @@
 
 ## TypeScript 
 
+- [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on your data in a collaborative way so you can focus on moving your business forward.
+- [draftbit/react-native-jigsaw](https://github.com/draftbit/react-native-jigsaw) - Jigsaw, Draftbit's built-in component library
+- [transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android
+- [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
+- [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+- [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
+- [eventOneHQ/capacitor-stripe-terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 💳 Capacitor plugin for Stripe Terminal (credit card readers)
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
 - [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - Upstash Redis Javascript library
 - [ionic-team/appflow-build](https://github.com/ionic-team/appflow-build) - GitHub Action for triggering Appflow Builds
@@ -8350,7 +8368,7 @@
 - [infinitered/solidarity](https://github.com/infinitered/solidarity) - Solidarity is an environment checker for project dependencies across multiple machines.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
 - [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
-- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries
 - [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
