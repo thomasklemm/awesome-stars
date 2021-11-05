@@ -691,6 +691,7 @@
 
 ## Go 
 
+- [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [GFTN/gftn-services](https://github.com/GFTN/gftn-services) - 
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
@@ -1489,6 +1490,7 @@
 - [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
 - [alphagov/govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
@@ -3383,7 +3385,7 @@
 - [ractivejs/ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation
 - [matthewmueller/date](https://github.com/matthewmueller/date) - Date() for humans
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
-- [liferay/alloy-ui](https://github.com/liferay/alloy-ui) - AlloyUI is a framework built on top of YUI3 (JavaScript) that uses Bootstrap 3 (HTML/CSS) to provide a simple API for building high scalable applications
+- [liferay/alloy-ui](https://github.com/liferay/alloy-ui) - Repo Moved. AlloyUI is a framework built on top of YUI3 (JavaScript) that uses Bootstrap 3 (HTML/CSS) to provide a simple API for building high scalable applications
 - [SimplyDo/markDown](https://github.com/SimplyDo/markDown) - 
 - [mmims/sublime-text-2-ruby-markers](https://github.com/mmims/sublime-text-2-ruby-markers) - Execute and Update '# =&gt;' Markers using xmpfilter from the rcodetools gem.
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
@@ -3805,7 +3807,6 @@
 ## Objective-C 
 
 - [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-- [transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
 - [staart/native](https://github.com/staart/native) - 🏁📱 Native smartphone app starter for SaaS startups
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
@@ -4872,6 +4873,7 @@
 
 ## Ruby 
 
+- [kachick/irb-power_assert](https://github.com/kachick/irb-power_assert) - power_assert in irb
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern.
 - [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
@@ -8212,6 +8214,7 @@
 
 ## Swift 
 
+- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [turbolinks/turbolinks-ios](https://github.com/turbolinks/turbolinks-ios) - Native iOS adapter for building hybrid apps with Turbolinks 5
 - [dalezak/turbo-ios-base](https://github.com/dalezak/turbo-ios-base) - Turbo-iOS base project that's entirely driven from your backend Rails app.
@@ -8348,9 +8351,14 @@
 
 ## TypeScript 
 
+- [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
+- [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
+- [mantinedev/mantine-next-template](https://github.com/mantinedev/mantine-next-template) - Next.js + Mantine template
+- [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @modulz team.
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on your data in a collaborative way so you can focus on moving your business forward.
 - [draftbit/react-native-jigsaw](https://github.com/draftbit/react-native-jigsaw) - Jigsaw, Draftbit's built-in component library
 - [transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android
+- [transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
@@ -9074,7 +9082,7 @@
 - [jpmonette/salesforce-graphql](https://github.com/jpmonette/salesforce-graphql) - Bringing the GraphQL query language to Salesforce ☁️
 - [graphql-compose/graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [graphql-compose/graphql-compose-connection](https://github.com/graphql-compose/graphql-compose-connection) - Plugin for TypeComposer (graphql-compose), that adds `connection` resolver.
-- [CoolBitX-Technology/coolwallet-sdk](https://github.com/CoolBitX-Technology/coolwallet-sdk) - JavaScript SDK to communicate with CoolWalletS.
+- [CoolBitX-Technology/coolwallet-sdk](https://github.com/CoolBitX-Technology/coolwallet-sdk) - JavaScript SDK to communicate with CoolWallet Pro.
 - [borisowsky/next-advanced-apollo-starter](https://github.com/borisowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [aerogear/offix](https://github.com/aerogear/offix) - GraphQL Offline Client and Server
@@ -9277,7 +9285,7 @@
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
 - [tannerlinsley/react-charts](https://github.com/tannerlinsley/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [resugar/resugar](https://github.com/resugar/resugar) - Rewrite your JavaScript & TypeScript source code with sweet new features.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
@@ -9532,7 +9540,6 @@
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
-- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
