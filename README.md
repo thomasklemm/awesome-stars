@@ -260,6 +260,7 @@
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
@@ -691,6 +692,7 @@
 
 ## Go 
 
+- [astroband/astrologer](https://github.com/astroband/astrologer) - Index Stellar historical data with ElasticSearch
 - [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [GFTN/gftn-services](https://github.com/GFTN/gftn-services) - 
@@ -1102,6 +1104,7 @@
 
 ## HTML 
 
+- [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ Production-ready website boilerplate made with webpack 5, modern JS (via Babel 7) & Sass
 - [fernandes/arara](https://github.com/fernandes/arara) - A material design theme for Ruby on Rails 🦜
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -1141,7 +1144,6 @@
 - [igorkasyanchuk/rails_pdf](https://github.com/igorkasyanchuk/rails_pdf) - A reliable way to generate PDF of any complexity in Ruby on Rails apps
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [stimulus-components/stimulus-checkbox-select-all](https://github.com/stimulus-components/stimulus-checkbox-select-all) - A Stimulus controller for managing checkbox lists.
-- [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Samples for using the Monaco Editor
 - [harryheman/Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template) - Modern HTML Starter Template
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [stefanfrede/11st-starter-kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Snowpack with Tailwind CSS and Alpine.js.
@@ -1326,6 +1328,14 @@
 
 ## Java 
 
+- [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
+- [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Show your appreciation with a Github ★
+- [calvinckho/capacitor-jitsi-meet](https://github.com/calvinckho/capacitor-jitsi-meet) - This plugin is used to make video calls using Jitsi video platform (https://meet.jit.si) on iOS and Android using Ionic Capacitor.
+- [capacitor-community/contacts](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor
+- [capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code
+- [capacitor-community/http](https://github.com/capacitor-community/http) - Community plugin for native HTTP
+- [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
+- [XRFoundation/native-xr-for-web](https://github.com/XRFoundation/native-xr-for-web) - Add iOS and Android build with AR capabilities to your website or web-based app.
 - [capacitor-community/capacitor-googlemaps-native](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
 - [capacitor-community/stripe](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
@@ -1432,6 +1442,10 @@
 
 ## JavaScript 
 
+- [acidb/mobiscroll](https://github.com/acidb/mobiscroll) - Cross platform UI controls for progressive web and hybrid apps (plain JS, jQuery, Angular and React)
+- [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
+- [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
+- [urin/qrono](https://github.com/urin/qrono) - 🕥 Just right date time library
 - [transistorsoft/react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch) - Periodic callbacks in the background for both IOS and Android
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
@@ -2038,7 +2052,6 @@
 - [graphile-contrib/pg-many-to-many](https://github.com/graphile-contrib/pg-many-to-many) - Add connection fields for many-to-many relations
 - [db-migrate/node-db-migrate](https://github.com/db-migrate/node-db-migrate) - Database migration framework for node
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [OneGraph/graphiql-with-extensions](https://github.com/OneGraph/graphiql-with-extensions) - A convenience package for those who just want a single-line drop-in replacement for existing GraphiQL usage
 - [OneGraph/graphql-codex](https://github.com/OneGraph/graphql-codex) - Static GraphQL schema reference
 - [luciopaiva/heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
@@ -3872,6 +3885,8 @@
 
 ## Others 
 
+- [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
+- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR) - A curated list of awesome AR (Augmented Reality) resources
 - [kddnewton/ripper-docs](https://github.com/kddnewton/ripper-docs) - Documentation for the ripper Ruby standard library
 - [sinoglobalcap/how-to-solana](https://github.com/sinoglobalcap/how-to-solana) - Repository of our How to Solana book, open for all to suggest edits and recommendations.
 - [paul-schaaf/awesome-solana](https://github.com/paul-schaaf/awesome-solana) - 🏎️ A curated list of awesome things related to Solana 🏎️
@@ -3929,6 +3944,7 @@
 - [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+- [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Moved to https://github.com/microsoft/monaco-editor
 - [aws/aws-lambda-base-images](https://github.com/aws/aws-lambda-base-images) - 
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [etesync/etebase-ruby](https://github.com/etesync/etebase-ruby) - [COMING SOON] A Ruby client library for Etebase
@@ -4873,8 +4889,13 @@
 
 ## Ruby 
 
+- [Shopify/cli-ui](https://github.com/Shopify/cli-ui) - Terminal user interface library
+- [railsbump/app](https://github.com/railsbump/app) - Check which gems are compatible with which Rails version!
+- [hakanensari/vacuum](https://github.com/hakanensari/vacuum) - Amazon Product Advertising API client
+- [hakanensari/frankfurter](https://github.com/hakanensari/frankfurter) - 💱 Exchange rates and currency data API
+- [astroband/ruby-xdr](https://github.com/astroband/ruby-xdr) - Read/write XDR encoded data structures (RFC 4506)
 - [kachick/irb-power_assert](https://github.com/kachick/irb-power_assert) - power_assert in irb
-- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
+- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern.
 - [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
@@ -5302,7 +5323,7 @@
 - [bazzel/bs5](https://github.com/bazzel/bs5) - [WIP] Rails engine to include Bootstrap 5
 - [elastic/enterprise-search-ruby](https://github.com/elastic/enterprise-search-ruby) - Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
 - [AndyObtiva/glimmer-dsl-swt](https://github.com/AndyObtiva/glimmer-dsl-swt) - Glimmer DSL for SWT (JRuby Desktop Development GUI Framework)
-- [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Tk (MRI Ruby Desktop Development GUI Library), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS
+- [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Tk (MRI Ruby Desktop Development GUI Library), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS
 - [dpaola2/bootstrap-viewcomponent](https://github.com/dpaola2/bootstrap-viewcomponent) - View Components for Bootstrap
 - [hopsoft/sr_mini](https://github.com/hopsoft/sr_mini) - A single file Rails app that will have you running a StimulusReflex and CableReady demo in just 2 steps.
 - [markbates/configatron](https://github.com/markbates/configatron) - A super cool, simple, and feature rich configuration system for Ruby apps.
@@ -5926,7 +5947,6 @@
 - [bellroy/clean-architecture](https://github.com/bellroy/clean-architecture) - An attempt at building a reusable Clean Architecture framework for Ruby
 - [manuelmeurer/common-gems](https://github.com/manuelmeurer/common-gems) - Just some common gems I use in every Ruby project.
 - [redis/hiredis-rb](https://github.com/redis/hiredis-rb) - Ruby wrapper for hiredis
-- [railsbump/app](https://github.com/railsbump/app) - Check which gems are compatible with which Rails version!
 - [honeybadger-io/heya](https://github.com/honeybadger-io/heya) - Heya 👋 is a campaign mailer for Rails. Think of it like ActionMailer, but for timed email sequences. It can also perform other actions like sending a text message.
 - [gocardless/business](https://github.com/gocardless/business) - Ruby business day calculations
 - [dafalcon/pgreset](https://github.com/dafalcon/pgreset) - Automatically kill postgres connections during db:reset
@@ -8214,6 +8234,12 @@
 
 ## Swift 
 
+- [TeamHive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor
+- [capacitor-community/date-picker](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps
+- [danielsogl/capacitor-face-id](https://github.com/danielsogl/capacitor-face-id) - Allow users to authenticate with Face ID or Touch ID on iOS devices
+- [jepiqueau/capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQLite Plugin for IOS and Android
+- [capacitor-community/photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities
+- [capacitor-community/sqlite](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [turbolinks/turbolinks-ios](https://github.com/turbolinks/turbolinks-ios) - Native iOS adapter for building hybrid apps with Turbolinks 5
@@ -8351,6 +8377,13 @@
 
 ## TypeScript 
 
+- [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [ionic-team/capacitor-configure](https://github.com/ionic-team/capacitor-configure) - Manage Capacitor projects through code or configuration
+- [capacitor-community/tauri](https://github.com/capacitor-community/tauri) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Tauri platform! 🖥️
+- [getsentry/sentry-capacitor](https://github.com/getsentry/sentry-capacitor) - The official Sentry SDK for Capacitor
+- [jepiqueau/react-sqlite-app-starter](https://github.com/jepiqueau/react-sqlite-app-starter) - Ionic/React SQLite Application Starter
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🚀🚀🚀
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [mantinedev/mantine-next-template](https://github.com/mantinedev/mantine-next-template) - Next.js + Mantine template
@@ -8755,7 +8788,7 @@
 - [n1ru4l/graphql-bleeding-edge-playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground) - Demonstration of queries/mutations/defer/stream/subscriptions/live
 - [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) - 📚 Functions and algorithms implemented purely with TypeScript's type system
-- [contrawork/graphql-helix](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server 🧬
+- [contra/graphql-helix](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server 🧬
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Authentication Providers and UI components for Microsoft Graph 🦒
 - [benawad/create-graphql-api](https://github.com/benawad/create-graphql-api) - Set up a Typescript GraphQL API by running one command.
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
@@ -9062,7 +9095,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
-- [fivethree-team/nestjs-prisma-starter](https://github.com/fivethree-team/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
+- [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 - [microenv/graphql-prisma-boilerplate](https://github.com/microenv/graphql-prisma-boilerplate) - 🚀 Minimalist boilerplate for super fast Graphql ⭐Run Graphql Playground in your local environment in less than a minute (w/ docker-compose).
 - [Urigo/WhatsApp-Clone-Server](https://github.com/Urigo/WhatsApp-Clone-Server) - https://www.tortilla.academy/Urigo/WhatsApp-Clone-Tutorial
 - [Urigo/tortilla](https://github.com/Urigo/tortilla) - The Framework for tutorials
@@ -9096,7 +9129,7 @@
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js
 - [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js) 🍷
-- [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [aerogear/graphback](https://github.com/aerogear/graphback) - Graphback - Out of the box GraphQL server and client
