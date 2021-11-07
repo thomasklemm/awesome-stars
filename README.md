@@ -1328,6 +1328,7 @@
 
 ## Java 
 
+- [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Show your appreciation with a Github ★
 - [calvinckho/capacitor-jitsi-meet](https://github.com/calvinckho/capacitor-jitsi-meet) - This plugin is used to make video calls using Jitsi video platform (https://meet.jit.si) on iOS and Android using Ionic Capacitor.
@@ -1442,6 +1443,9 @@
 
 ## JavaScript 
 
+- [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media) - Apache Cordova Plugin media
+- [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
+- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [acidb/mobiscroll](https://github.com/acidb/mobiscroll) - Cross platform UI controls for progressive web and hybrid apps (plain JS, jQuery, Angular and React)
 - [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
@@ -2084,7 +2088,6 @@
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
@@ -8377,6 +8380,8 @@
 
 ## TypeScript 
 
+- [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
+- [liqvidjs/player](https://github.com/liqvidjs/player) - Library for interactive videos in React
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [ionic-team/capacitor-configure](https://github.com/ionic-team/capacitor-configure) - Manage Capacitor projects through code or configuration
@@ -9171,6 +9176,7 @@
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Errorname/prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - 🧭 Use Prisma as a multi-tenant provider for your application
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
