@@ -763,7 +763,7 @@
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into SQL database for easy monitoring, governance and security.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory backed by PostgreSQL.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -1443,6 +1443,7 @@
 
 ## JavaScript 
 
+- [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media) - Apache Cordova Plugin media
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
@@ -4625,7 +4626,7 @@
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
-- [remorses/mongoke](https://github.com/remorses/mongoke) - Instant Graphql for MongoDb (active branch is golang, rewrite in process)
+- [remorses/mongoke](https://github.com/remorses/mongoke) - 
 - [Ambro17/graphql-schema-diff](https://github.com/Ambro17/graphql-schema-diff) - 🔎 Compare GraphQL Schemas and detect Breaking Changes
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
@@ -8380,6 +8381,12 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
+- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - This is a very early version of the ionic react conference app.
+- [chintan9/plyr-react](https://github.com/chintan9/plyr-react) - A simple, accessible and customisable react media player for Video, Audio, YouTube and Vimeo
+- [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
+- [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
+- [ionic-team/pwa-elements](https://github.com/ionic-team/pwa-elements) - Quality UI experiences for Web APIs that require custom UI (such as media/camera).
 - [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [liqvidjs/player](https://github.com/liqvidjs/player) - Library for interactive videos in React
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
@@ -9568,6 +9575,7 @@
 
 ## Vue 
 
+- [ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app) - Ionic Conference app ported to Vue
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [supabase-community/database.dev](https://github.com/supabase-community/database.dev) - Curated list of SQL to help you find useful script easily 🚀
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
