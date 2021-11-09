@@ -239,7 +239,6 @@
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
 - [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
-- [HellRok/Taylor](https://github.com/HellRok/Taylor) - A simple game engine built using raylib and mruby
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [Shopify/heap-profiler](https://github.com/Shopify/heap-profiler) - Ruby heap profiler
 - [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number lib for Ruby (binds to Google's C++ libphonenumber)
@@ -693,7 +692,7 @@
 ## Go 
 
 - [astroband/astrologer](https://github.com/astroband/astrologer) - Index Stellar historical data with ElasticSearch
-- [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
+- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [GFTN/gftn-services](https://github.com/GFTN/gftn-services) - 
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
@@ -763,7 +762,7 @@
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory backed by PostgreSQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -1443,6 +1442,8 @@
 
 ## JavaScript 
 
+- [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
+- [capacitor-community/examples](https://github.com/capacitor-community/examples) - Examples of using Capacitor with popular web frameworks and libraries
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media) - Apache Cordova Plugin media
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
@@ -3781,6 +3782,7 @@
 
 ## Makefile 
 
+- [immersive-web/webxr-ar-module](https://github.com/immersive-web/webxr-ar-module) - Repository for the WebXR Augmented Reality Module
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -4953,6 +4955,7 @@
 - [MaxLap/activerecord_where_assoc](https://github.com/MaxLap/activerecord_where_assoc) - Make ActiveRecord do conditions on your associations
 - [MaxLap/activerecord_follow_assoc](https://github.com/MaxLap/activerecord_follow_assoc) - Follow associations within your ActiveRecord queries
 - [yuki24/shoelace-rails](https://github.com/yuki24/shoelace-rails) - Rails helpers for https://shoelace.style, the design system.
+- [HellRok/Taylor](https://github.com/HellRok/Taylor) - A simple game engine built using raylib and mruby
 - [kreeti/kt-paperclip](https://github.com/kreeti/kt-paperclip) - Easy file attachment management for ActiveRecord
 - [FooBarWidget/distributed-lock-google-cloud-storage-ruby](https://github.com/FooBarWidget/distributed-lock-google-cloud-storage-ruby) - Ruby implementation of a distributed lock based on Google Cloud Storage
 - [mrkn/enumerable-statistics](https://github.com/mrkn/enumerable-statistics) - 
@@ -8060,7 +8063,6 @@
 ## SCSS 
 
 - [balmjs/balm-ui](https://github.com/balmjs/balm-ui) - :diamonds: A modular and customizable UI library based on Material Design and Vue
-- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
 - [nebulab/playbook](https://github.com/nebulab/playbook) - :book: We are Nebulab, and this is how we work.
 - [dkniffin/active_material](https://github.com/dkniffin/active_material) - ActiveAdmin skin based on Google's Material Design
 - [hotwired/turbo-site](https://github.com/hotwired/turbo-site) - turbo.hotwired.dev web site
@@ -8381,6 +8383,8 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - This is a very early version of the ionic react conference app.
 - [chintan9/plyr-react](https://github.com/chintan9/plyr-react) - A simple, accessible and customisable react media player for Video, Audio, YouTube and Vimeo
@@ -8572,6 +8576,7 @@
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
@@ -8888,7 +8893,7 @@
 - [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring
 - [notsidney/use-algolia](https://github.com/notsidney/use-algolia) - Dead-simple React hook to make Algolia search queries. Supports pagination out of the box.
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar) - 
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
