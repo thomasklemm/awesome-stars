@@ -22,6 +22,7 @@
   - [Cucumber](#cucumber)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
@@ -197,7 +198,7 @@
 - [vmg/rinku](https://github.com/vmg/rinku) - Autolinking. Ruby. Yes, that's pretty much it.
 - [deepfryed/http-parser-lite](https://github.com/deepfryed/http-parser-lite) - A Lite Ruby HTTP Parser based on Joyent http-parser
 - [ohler55/oj](https://github.com/ohler55/oj) - Optimized JSON
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [ohler55/ox](https://github.com/ohler55/ox) - Ruby Optimized XML Parser
 - [vmg/redcarpet](https://github.com/vmg/redcarpet) - The safe Markdown parser, reloaded.
@@ -359,7 +360,6 @@
 - [rails/tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 
 - [paljs/nextjs-admin-template](https://github.com/paljs/nextjs-admin-template) - Free admin dashboard template based on Next.Js with @paljs/ui component package
 - [aerogear/graphql-link](https://github.com/aerogear/graphql-link) - graphql-link is a GraphQL server that composes other GraphQL or OpenAPI endpoints
-- [hotwired/turbo-native-demo](https://github.com/hotwired/turbo-native-demo) - Demo web server for the Turbo Native adapters
 - [hotwired/hotwire-site](https://github.com/hotwired/hotwire-site) - hotwired.dev web site
 - [zzak/sdoc](https://github.com/zzak/sdoc) - Standalone sdoc generator
 - [aws-samples/aws-cdk-intro-workshop](https://github.com/aws-samples/aws-cdk-intro-workshop) - Introduction to the AWS CDK - Workshop
@@ -616,6 +616,10 @@
 - [pacuna/rails5-docker-alpine](https://github.com/pacuna/rails5-docker-alpine) - Lightweight Docker development environment for Rails using Alpine Linux
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 - [vladgolubev/serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
+
+## EJS 
+
+- [hotwired/turbo-native-demo](https://github.com/hotwired/turbo-native-demo) - Demo web server for the Turbo Native adapters
 
 ## Elixir 
 
@@ -1541,7 +1545,6 @@
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - The tiny JavaScript runtime built with QuickJS, libuv and ❤️
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
-- [fast-crud/fast-crud](https://github.com/fast-crud/fast-crud) - 面向配置的crud框架，开发crud 快如闪电；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3
 - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is the hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Useful for tagging, contact lists, etc.
 - [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turing Signing Server protocol
@@ -1742,7 +1745,7 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [huacnlee/turbolinks-prefetch](https://github.com/huacnlee/turbolinks-prefetch) - Turbolinks extends for prefetch links to speeds up your website.
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [iter-tools/iter-tools](https://github.com/iter-tools/iter-tools) - The iterable toolbox
 - [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js) - Build complex rules, serialize them as JSON, and execute them in JavaScript
 - [bozzltron/node-json-transform](https://github.com/bozzltron/node-json-transform) - A node module for restructuring and performing operations  on JSON on the fly.
@@ -4541,6 +4544,7 @@
 
 ## Python 
 
+- [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - Library for creating dataframes from functions.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
@@ -8427,7 +8431,7 @@
 - [expo/turtle](https://github.com/expo/turtle) - Standalone app builder service
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
-- [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries
+- [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
 - [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [kanzitelli/rn-starter](https://github.com/kanzitelli/rn-starter) - 🦄 Production-ready starter for React Native App! Powered by cli-rn, React Navigation (v6), RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
@@ -8999,7 +9003,7 @@
 - [earl-js/earl](https://github.com/earl-js/earl) - ☕ Ergonomic, modern and type-safe assertion library for TypeScript
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Expressive TypeScript Logger for Node.js.
 - [jashmenn/postgraphile-upsert-plugin](https://github.com/jashmenn/postgraphile-upsert-plugin) - 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
@@ -9601,6 +9605,7 @@
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [SevenOutman/Hubble](https://github.com/SevenOutman/Hubble) - :telescope: Travel through GitHub Stars' history
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [fast-crud/fast-crud](https://github.com/fast-crud/fast-crud) - 面向配置的crud框架，开发crud 快如闪电；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [marekmensa/vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Fresh way to create simple or complex forms – without programming!
