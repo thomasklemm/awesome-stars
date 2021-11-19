@@ -1451,6 +1451,11 @@
 
 ## JavaScript 
 
+- [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A low code Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
+- [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+- [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
+- [CoCreate-app/CoCreate-google-maps](https://github.com/CoCreate-app/CoCreate-google-maps) - A simple google-maps component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.
 - [mapbox/mapbox-react-examples](https://github.com/mapbox/mapbox-react-examples) - Example patterns for building React apps with Mapbox GL JS
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
@@ -1640,7 +1645,7 @@
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [n-elements/core](https://github.com/n-elements/core) - Native HTML Elements with CSS superpowers. 🕶
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
@@ -4924,6 +4929,7 @@
 
 ## Ruby 
 
+- [Qurasoft/teams_connector](https://github.com/Qurasoft/teams_connector) - Publish Cards to your Microsoft Teams channels directly from Ruby.
 - [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
 - [metaskills/minitest-spec-rails](https://github.com/metaskills/minitest-spec-rails) - :bento: Make Rails Use MiniTest::Spec!
 - [thoughtbot/appraisal](https://github.com/thoughtbot/appraisal) - A Ruby library for testing your library against different versions of dependencies.
@@ -8028,7 +8034,7 @@
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -8097,6 +8103,7 @@
 
 ## SCSS 
 
+- [paperbits/paperbits-demo](https://github.com/paperbits/paperbits-demo) - This repository shows an example how developers can use Paperbits to build web apps with rich content authoring capabilities.
 - [balmjs/balm-ui](https://github.com/balmjs/balm-ui) - :diamonds: A modular and customizable UI library based on Material Design and Vue
 - [nebulab/playbook](https://github.com/nebulab/playbook) - :book: We are Nebulab, and this is how we work.
 - [dkniffin/active_material](https://github.com/dkniffin/active_material) - ActiveAdmin skin based on Google's Material Design
@@ -8201,7 +8208,7 @@
 - [satoshipay/docker-stellar-core](https://github.com/satoshipay/docker-stellar-core) - Fully configurable docker image for Stellar Core
 - [nicksp/dotfiles](https://github.com/nicksp/dotfiles) - My OS X environment
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
-- [stellar/docker-stellar-core-horizon](https://github.com/stellar/docker-stellar-core-horizon) - Home of the stellar/quickstart docker image
+- [stellar/quickstart](https://github.com/stellar/quickstart) - Home of the stellar/quickstart docker image for development and testing
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [ComboStrikeHQ/docker-rails](https://github.com/ComboStrikeHQ/docker-rails) - An opinionated docker image for running Rails apps in production.
 - [eventide-project/eventide-postgres](https://github.com/eventide-project/eventide-postgres) - Event Sourcing and Microservices Stack for Ruby
@@ -8421,6 +8428,10 @@
 
 ## TypeScript 
 
+- [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core) - This repository contains core Paperbits components
+- [ubilabs/google-maps-react-hooks](https://github.com/ubilabs/google-maps-react-hooks) - Add a Google Map to your project using the React Hooks API.
+- [Tintef/react-google-places-autocomplete](https://github.com/Tintef/react-google-places-autocomplete) - React Google Places Autocomplete input -- fully customizable
+- [uber/nebula.gl](https://github.com/uber/nebula.gl) - A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visually build pages and frontends, lightning-fast. Plug into your React codebase. Empower anyone to ship.
 - [googlemaps/js-three](https://github.com/googlemaps/js-three) - Add ThreeJS objects to Google Maps.
 - [googlemaps/js-api-loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
@@ -8526,7 +8537,7 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
 - [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [Zhouzi/docusaurus-graphql-plugin](https://github.com/Zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
-- [osohq/gitclub](https://github.com/osohq/gitclub) - 
+- [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
@@ -8858,7 +8869,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Form Validation for Vue.js
 - [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
-- [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more
+- [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more
 - [n1ru4l/graphql-bleeding-edge-playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground) - Demonstration of queries/mutations/defer/stream/subscriptions/live
 - [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) - 📚 Functions and algorithms implemented purely with TypeScript's type system
