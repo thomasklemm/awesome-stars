@@ -8430,6 +8430,7 @@
 
 ## TypeScript 
 
+- [googlemaps/js-markerclusterer](https://github.com/googlemaps/js-markerclusterer) - Create and manage clusters for large amounts of markers
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
 - [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core) - This repository contains core Paperbits components
