@@ -241,7 +241,6 @@
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [Shopify/heap-profiler](https://github.com/Shopify/heap-profiler) - Ruby heap profiler
 - [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number lib for Ruby (binds to Google's C++ libphonenumber)
@@ -1112,6 +1111,7 @@
 
 ## HTML 
 
+- [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ Production-ready website boilerplate made with webpack 5, modern JS (via Babel 7) & Sass
 - [fernandes/arara](https://github.com/fernandes/arara) - A material design theme for Ruby on Rails 🦜
@@ -1337,6 +1337,8 @@
 
 ## Java 
 
+- [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
+- [riderx/capacitor-updater](https://github.com/riderx/capacitor-updater) - 
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Show your appreciation with a Github ★
@@ -1451,6 +1453,8 @@
 
 ## JavaScript 
 
+- [antoinejaussoin/react-vr-player](https://github.com/antoinejaussoin/react-vr-player) - VR / 360° Video Player as a React Component
+- [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - ⚛️📝The unofficial editor-js component for React
 - [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A low code Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -1497,6 +1501,7 @@
 - [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [juliangruber/npm-dependants](https://github.com/juliangruber/npm-dependants) - Get dependants of a module on npm.
 - [ElMassimo/vite-plugin-xdm](https://github.com/ElMassimo/vite-plugin-xdm) - Use XDM in VIte.js
@@ -1764,6 +1769,7 @@
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com) - 
+- [prism-rb/prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
 - [mauricioklein/vscode-cdk-snippets](https://github.com/mauricioklein/vscode-cdk-snippets) - CDK snippets for VSCode
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [networknt/react-schema-form](https://github.com/networknt/react-schema-form) - react form based on json schema for form generation and validation
@@ -1971,7 +1977,7 @@
 - [pablodenadai/node-liquibase](https://github.com/pablodenadai/node-liquibase) - Node.js wrap for Liquibase
 - [prisma-archive/gcl](https://github.com/prisma-archive/gcl) - 📖  Type-safe configuration format (similar to JSON/YAML) based on GraphQL with auto-completion and validation
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
-- [snowpackjs/create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
+- [withastro/create-snowpack-app](https://github.com/withastro/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [SAP/node-hdb](https://github.com/SAP/node-hdb) - SAP HANA Database Client for Node
 - [hopsoft/stimulus_controllers](https://github.com/hopsoft/stimulus_controllers) - [WIP] Stimulus controller library common enough to span multiple projects
@@ -2105,7 +2111,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
-- [snowpackjs/pack](https://github.com/snowpackjs/pack) - 📦⚡️ Build your npm package using composable plugins. https://www.pika.dev/blog/introducing-pika-pack/
+- [withastro/pack](https://github.com/withastro/pack) - 📦⚡️ Build your npm package using composable plugins. https://www.pika.dev/blog/introducing-pika-pack/
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
@@ -2231,7 +2237,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [diogomoretti/react-snakke](https://github.com/diogomoretti/react-snakke) - 🐍 Reading position indicator for React
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [koala-interactive/frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js) - The blazing fast lightweight internationalization (i18n) module for javascript
 - [autoNumeric/autoNumeric](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
@@ -3288,7 +3294,7 @@
 - [reflux/refluxjs](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [anthonyshort/deku](https://github.com/anthonyshort/deku) - Render interfaces using pure functions and virtual DOM
-- [techlayer/espresso.js](https://github.com/techlayer/espresso.js) - Super minimal MVC library
+- [akrymski/espresso.js](https://github.com/akrymski/espresso.js) - Super minimal MVC library
 - [skatejs/skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
 - [shime/livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [box/viewer.js](https://github.com/box/viewer.js) - A viewer for documents converted with the Box View API
@@ -5090,7 +5096,6 @@
 - [kaka-ruto/graphql-on-rails-auth](https://github.com/kaka-ruto/graphql-on-rails-auth) - GraphQL on Rails Auth System
 - [spatie/ruby-ray](https://github.com/spatie/ruby-ray) - Easily debug Ruby applications
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
-- [GGrassiant/api-boilerplate](https://github.com/GGrassiant/api-boilerplate) - My Rails API template for side projects
 - [GGrassiant/api-i18n-boilerplate](https://github.com/GGrassiant/api-i18n-boilerplate) - My i18n Rails api template for side projects
 - [moneybird/active-date-range](https://github.com/moneybird/active-date-range) - Powerful DateRanges for Ruby and ActiveSupport
 - [adzap/active_enum](https://github.com/adzap/active_enum) - Define enum classes in Rails and use them to enumerate ActiveRecord attributes, with I18n support
@@ -5731,7 +5736,6 @@
 - [jonspalmer/view_component_storybook](https://github.com/jonspalmer/view_component_storybook) - ViewComponent previews and testing in Storybook
 - [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
 - [excid3/pay](https://github.com/excid3/pay) - The easiest payments library for Rails, Stripe, and Braintree
-- [prism-rb/prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
 - [guillaumebriday/modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
 - [magiclabs/magic-admin-ruby](https://github.com/magiclabs/magic-admin-ruby) - Magic admin Ruby SDK makes it easy to leverage Decentralized ID tokens to protect routes and restricted resources for your application.
 - [MatheusRich/benchable](https://github.com/MatheusRich/benchable) - Write benchmarks without the hassle.
@@ -8430,6 +8434,11 @@
 
 ## TypeScript 
 
+- [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - 
+- [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
+- [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
+- [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
+- [remix-run/remix](https://github.com/remix-run/remix) - Build better websites
 - [googlemaps/js-markerclusterer](https://github.com/googlemaps/js-markerclusterer) - Create and manage clusters for large amounts of markers
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
@@ -8517,7 +8526,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS and Azure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
@@ -8704,7 +8713,7 @@
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
 - [dapilab/react-nice-avatar](https://github.com/dapilab/react-nice-avatar) - react library for generating avatar
-- [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 - [egoist/preader](https://github.com/egoist/preader) - Extract the main content from a web page.
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful 👕
@@ -8764,7 +8773,7 @@
 - [Shopify/shopify-node-api](https://github.com/Shopify/shopify-node-api) - Shopify Admin API Library for Node. Accelerate development with support for authentication, graphql proxy, webhooks
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - 🥚 faster ui kit
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [mashmatrix/react-lightning-design-system](https://github.com/mashmatrix/react-lightning-design-system) - Salesforce Lightning Design System components built with React
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
@@ -9029,7 +9038,7 @@
 - [ava/use-http](https://github.com/ava/use-http) - 🐶  React hook for making isomorphic http requests
 - [pubkey/event-reduce](https://github.com/pubkey/event-reduce) - An algorithm to optimize database queries that run multiple times
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -9340,7 +9349,7 @@
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) - wolkenkit is an open-source CQRS and event-sourcing framework based on Node.js, and it supports JavaScript and TypeScript.
 - [graphql-js/graphene](https://github.com/graphql-js/graphene) - GraphQL Framework for Javascript
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Enterprise open-source serverless CMS. Includes a headless CMS, page builder, form builder and file manager. Easy to customize and expand. Deploys to AWS.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
@@ -9524,7 +9533,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify’s admin product component library
-- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
