@@ -731,7 +731,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
@@ -1453,6 +1453,7 @@
 
 ## JavaScript 
 
+- [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
 - [antoinejaussoin/react-vr-player](https://github.com/antoinejaussoin/react-vr-player) - VR / 360° Video Player as a React Component
 - [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - ⚛️📝The unofficial editor-js component for React
 - [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A low code Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
@@ -1656,6 +1657,7 @@
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [brodybits/prettierx](https://github.com/brodybits/prettierx) - a less opinionated fork of Prettier code formatter
 - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System
+- [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, MongoDB, Node.js and React
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [ralixjs/ralix](https://github.com/ralixjs/ralix) - ✨ Microframework for building and organizing Rails front-ends
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -2999,7 +3001,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [tbranyen/diffhtml](https://github.com/tbranyen/diffhtml) - diffHTML is a web framework that helps you build applications and other interactive content
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
-- [keystonejs/react-easy-universal](https://github.com/keystonejs/react-easy-universal) - Universal Routing & Rendering with React & Redux was too hard. Now it's easy.
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [jamesallardice/Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute
 - [elementalui/elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
@@ -3793,7 +3794,6 @@
 
 ## Less 
 
-- [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, MongoDB, Node.js and React
 - [graphjs/graphjs](https://github.com/graphjs/graphjs) - A set of widgets for a meaningfully social web.
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [danielfarrell/bootstrap-combobox](https://github.com/danielfarrell/bootstrap-combobox) - A combobox plugin that works with twitter bootstrap
@@ -8438,7 +8438,7 @@
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [remix-run/remix](https://github.com/remix-run/remix) - Build better websites
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [googlemaps/js-markerclusterer](https://github.com/googlemaps/js-markerclusterer) - Create and manage clusters for large amounts of markers
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
