@@ -238,6 +238,7 @@
 
 ## C++ 
 
+- [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
@@ -1338,7 +1339,6 @@
 ## Java 
 
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
-- [riderx/capacitor-updater](https://github.com/riderx/capacitor-updater) - 
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Show your appreciation with a Github ★
@@ -1453,6 +1453,8 @@
 
 ## JavaScript 
 
+- [wmik/use-media-recorder](https://github.com/wmik/use-media-recorder) - React based hooks to utilize the media recorder api for audio, video and screen recording
+- [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
 - [antoinejaussoin/react-vr-player](https://github.com/antoinejaussoin/react-vr-player) - VR / 360° Video Player as a React Component
 - [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - ⚛️📝The unofficial editor-js component for React
@@ -1771,7 +1773,6 @@
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com) - 
-- [prism-rb/prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
 - [mauricioklein/vscode-cdk-snippets](https://github.com/mauricioklein/vscode-cdk-snippets) - CDK snippets for VSCode
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [networknt/react-schema-form](https://github.com/networknt/react-schema-form) - react form based on json schema for form generation and validation
@@ -5736,6 +5737,7 @@
 - [jonspalmer/view_component_storybook](https://github.com/jonspalmer/view_component_storybook) - ViewComponent previews and testing in Storybook
 - [primer/view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
 - [excid3/pay](https://github.com/excid3/pay) - The easiest payments library for Rails, Stripe, and Braintree
+- [prism-rb/prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
 - [guillaumebriday/modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
 - [magiclabs/magic-admin-ruby](https://github.com/magiclabs/magic-admin-ruby) - Magic admin Ruby SDK makes it easy to leverage Decentralized ID tokens to protect routes and restricted resources for your application.
 - [MatheusRich/benchable](https://github.com/MatheusRich/benchable) - Write benchmarks without the hassle.
@@ -8289,6 +8291,7 @@
 
 ## Swift 
 
+- [riderx/capacitor-updater](https://github.com/riderx/capacitor-updater) - Download app update form url and install it
 - [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [TeamHive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor
 - [capacitor-community/date-picker](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps
@@ -8434,6 +8437,9 @@
 
 ## TypeScript 
 
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
+- [E-Kuerschner/useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - Custom React hook & context for controlling browser audio
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - 
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
