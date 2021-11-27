@@ -1168,6 +1168,7 @@
 - [timshingyu/saaskit](https://github.com/timshingyu/saaskit) - SaaSKit is the Rails SaaS starter kit for building your SaaS business
 - [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
 - [GavinRay97/graphql-bench](https://github.com/GavinRay97/graphql-bench) - 
+- [isomorfeus/isomorfeus-project](https://github.com/isomorfeus/isomorfeus-project) - The powerful, isomorphic full stack web application development environment.
 - [ruby-rdf/json-ld](https://github.com/ruby-rdf/json-ld) - Ruby JSON-LD reader/writer for RDF.rb
 - [excid3/jumpstart](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -1453,6 +1454,11 @@
 
 ## JavaScript 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+- [thangngoc89/react-howler](https://github.com/thangngoc89/react-howler) - A React.js wrapper for howler.js (audio player)
+- [madzadev/audio-player](https://github.com/madzadev/audio-player) - 🎵 Music player with custom controls, playlist, filters, and search.
+- [lijinke666/react-music-player](https://github.com/lijinke666/react-music-player) - :musical_note: Maybe the best beautiful HTML5 responsive player component for react :)
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [wmik/use-media-recorder](https://github.com/wmik/use-media-recorder) - React based hooks to utilize the media recorder api for audio, video and screen recording
 - [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
@@ -1555,6 +1561,7 @@
 - [leezng/vue-json-pretty](https://github.com/leezng/vue-json-pretty) - A JSON tree view component that is easy to use and also supports data selection.
 - [imgly/cesdk-web-examples](https://github.com/imgly/cesdk-web-examples) - Examples Repository for CreativeEditor SDK
 - [thysultan/stylis.js](https://github.com/thysultan/stylis.js) - light – weight css preprocessor
+- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
 - [storyblok/storyblok](https://github.com/storyblok/storyblok) - You found an issue with one of our products? - submit it here as an issue!
 - [longshotlabs/simpl-schema](https://github.com/longshotlabs/simpl-schema) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
 - [alibaba/scalable-form-platform](https://github.com/alibaba/scalable-form-platform) - A solution for building dynamic web forms with visual editor
@@ -4864,7 +4871,6 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [reubano/meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data
@@ -4935,6 +4941,9 @@
 
 ## Ruby 
 
+- [socketry/cloudflare](https://github.com/socketry/cloudflare) - An asynchronous Ruby wrapper for the CloudFlare V4 API.
+- [socketry/async-pool](https://github.com/socketry/async-pool) - Provides support for connection pooling both singleplex and multiplex resources.
+- [socketry/async-websocket](https://github.com/socketry/async-websocket) - Asynchronous WebSocket client and server, supporting HTTP/1 and HTTP/2 for Ruby.
 - [googleapis/gapic-generator-ruby](https://github.com/googleapis/gapic-generator-ruby) - Generate Ruby gRPC client libraries from Protocol Buffer definitions.
 - [Qurasoft/teams_connector](https://github.com/Qurasoft/teams_connector) - Publish Cards to your Microsoft Teams channels directly from Ruby.
 - [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
@@ -6173,7 +6182,6 @@
 - [discourse/prometheus_exporter](https://github.com/discourse/prometheus_exporter) - A framework for collecting and aggregating prometheus metrics
 - [pgharts/trusty-cms](https://github.com/pgharts/trusty-cms) - TrustyCMS is a modern, Ruby on Rails-driven CMS that can be extended for any business needs.
 - [hooopo/petri_flow](https://github.com/hooopo/petri_flow) - Petri Net Workflow Engine for Ruby.
-- [isomorfeus/isomorfeus-project](https://github.com/isomorfeus/isomorfeus-project) - The powerful, isomorphic full stack web application development environment.
 - [jeremyevans/roda-sequel-stack](https://github.com/jeremyevans/roda-sequel-stack) - Application Skeleton For Roda/Sequel stack
 - [ruby-git/ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
 - [heartcombo/simple_form-bootstrap](https://github.com/heartcombo/simple_form-bootstrap) - Example application with SimpleForm and Twitter Bootstrap
@@ -8437,10 +8445,12 @@
 
 ## TypeScript 
 
+- [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) - A helper library to use react-query more efficient, consistency
+- [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
 - [E-Kuerschner/useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - Custom React hook & context for controlling browser audio
-- [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - 
+- [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
@@ -8664,7 +8674,6 @@
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
@@ -9605,6 +9614,7 @@
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [contentful/ui-extensions-sdk](https://github.com/contentful/ui-extensions-sdk) - A JavaScript library that allows developers to create custom Apps for the Contentful Web App
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - GraphQL API & React UI components for Elasticsearch. The easiest way to build a great search experience
