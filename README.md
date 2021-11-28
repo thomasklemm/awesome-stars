@@ -105,6 +105,7 @@
 
 ## C 
 
+- [eulerto/pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [Gargron/blurhash](https://github.com/Gargron/blurhash) - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
 - [postgrespro/jsquery](https://github.com/postgrespro/jsquery) - JsQuery – json query language with GIN indexing support
@@ -1339,6 +1340,7 @@
 
 ## Java 
 
+- [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
@@ -1454,6 +1456,8 @@
 
 ## JavaScript 
 
+- [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [thangngoc89/react-howler](https://github.com/thangngoc89/react-howler) - A React.js wrapper for howler.js (audio player)
 - [madzadev/audio-player](https://github.com/madzadev/audio-player) - 🎵 Music player with custom controls, playlist, filters, and search.
@@ -8445,6 +8449,8 @@
 
 ## TypeScript 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [dminkovsky/use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy
 - [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) - A helper library to use react-query more efficient, consistency
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
@@ -9698,7 +9704,7 @@
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
 - [arnauddoub/formyle](https://github.com/arnauddoub/formyle) - Advanced Vue 3 form conception
 - [malikzh/reforms](https://github.com/malikzh/reforms) - WIP: Vue 3 and Bootstrap 5 forms and cards generator
-- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [SevenOutman/Hubble](https://github.com/SevenOutman/Hubble) - :telescope: Travel through GitHub Stars' history
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
