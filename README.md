@@ -1533,7 +1533,7 @@
 - [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
-- [remarkjs/remark-html](https://github.com/remarkjs/remark-html) - plugin to compile Markdown to HTML
+- [remarkjs/remark-html](https://github.com/remarkjs/remark-html) - plugin to add support for serializing HTML
 - [octokit/openapi](https://github.com/octokit/openapi) - GitHub's official OpenAPI spec with Octokit extensions
 - [kirillplatonov/hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload) - Hotwire::Livereload automatically reloads Turbo when "view" files are modified.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
@@ -2567,7 +2567,6 @@
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [graphile/graphile-engine](https://github.com/graphile/graphile-engine) - Monorepo home of graphile-build, graphile-build-pg, graphile-utils, postgraphile-core and graphql-parse-resolve-info. Build a high-performance easily-extensible GraphQL schema by combining plugins!
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
@@ -4730,7 +4729,7 @@
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce) - A very simple Salesforce.com REST API client for Python
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -8752,7 +8751,7 @@
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
 - [dapilab/react-nice-avatar](https://github.com/dapilab/react-nice-avatar) - react library for generating avatar
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 - [egoist/preader](https://github.com/egoist/preader) - Extract the main content from a web page.
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful 👕
@@ -9541,6 +9540,7 @@
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [jackkleeman/stellar-stripe-anchor](https://github.com/jackkleeman/stellar-stripe-anchor) - Node server for running a USD anchor on Stellar using Stripe
@@ -9594,7 +9594,7 @@
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
-- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Reusable date picker component for React
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
