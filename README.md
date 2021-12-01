@@ -1136,6 +1136,7 @@
 - [nicovak/slash_admin](https://github.com/nicovak/slash_admin) - A modern and customizable admin gem, just the rails way.
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
+- [udecode/plate](https://github.com/udecode/plate) - A plugin framework for building rich text editors with slate.
 - [creativetimofficial/notus-js](https://github.com/creativetimofficial/notus-js) - Notus JS: Free Tailwind CSS UI Kit and Admin
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
 - [factbook/factbook](https://github.com/factbook/factbook) - factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)
@@ -1456,6 +1457,8 @@
 
 ## JavaScript 
 
+- [Light-Keeper/react-singleton-hook](https://github.com/Light-Keeper/react-singleton-hook) - Create singleton hook from regular react hook
+- [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
 - [datocms/react-urql-demo](https://github.com/datocms/react-urql-demo) - A demo project with DatoCMS and URQL
 - [datocms/js-datocms-client](https://github.com/datocms/js-datocms-client) - NodeJS/Browser client for DatoCMS
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
@@ -2623,7 +2626,7 @@
 - [senecajs/seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js.
 - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [Luuun/luuun-react-native](https://github.com/Luuun/luuun-react-native) - Luuun React Native Wallet
@@ -8055,7 +8058,6 @@
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
@@ -8454,6 +8456,7 @@
 
 ## TypeScript 
 
+- [alex3165/react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js
 - [datocms/structured-text](https://github.com/datocms/structured-text) - 
 - [datocms/vue-datocms](https://github.com/datocms/vue-datocms) - Vue.js components for DatoCMS
 - [datocms/datocms-listen](https://github.com/datocms/datocms-listen) - A lightweight, TypeScript-ready package that offers utilities to work with DatoCMS Real-time Updates API inside a browser.
@@ -8801,7 +8804,6 @@
 - [Acidic9/prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
 - [appleple/smartblock](https://github.com/appleple/smartblock) - intuitive block based wysiwyg editor built with React and ProseMirror
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform.
-- [udecode/plate](https://github.com/udecode/plate) - A plugin framework for building rich text editors with slate.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [stipsan/react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Accessible ♿️, Delightful ✨, & Fast 🚀
 - [JetBrains/web-types](https://github.com/JetBrains/web-types) - JSON standard for documenting web component libraries for IDEs, documentation generators and other tools
@@ -9068,7 +9070,7 @@
 - [stackworx/formik-mui](https://github.com/stackworx/formik-mui) - Bindings for using Formik with Material-UI
 - [SAP/ui5-webcomponents-react](https://github.com/SAP/ui5-webcomponents-react) - A wrapper implementation for React of the UI5 Web Components that are compliant with the SAP Fiori User Experience
 - [uiwjs/uiw](https://github.com/uiwjs/uiw) - ⚛️ @uiwjs A high quality UI Toolkit, A Component Library for React 16+.
-- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
+- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces and extends the Bootstrap 5 javascript. Components have been built from scratch as true Vue 3 components.
 - [coreui/coreui-react](https://github.com/coreui/coreui-react) - CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [ZEISS/precise-ui](https://github.com/ZEISS/precise-ui) - :triangular_ruler: React UI Component Library powered by ZEISS.
