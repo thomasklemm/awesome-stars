@@ -1460,6 +1460,8 @@
 
 ## JavaScript 
 
+- [AndreasFaust/react-ticker](https://github.com/AndreasFaust/react-ticker) - React Ticker is a lightweight, performant React component, that moves text, images and videos infinitely like a newsticker.
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [atomiks/floating-ui](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [cellular/speech-builder](https://github.com/cellular/speech-builder) - Utility to generate SSML markup for different voice platforms
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
@@ -3641,7 +3643,7 @@
 - [mape/connect-assetmanager](https://github.com/mape/connect-assetmanager) - Middleware for Connect (node.js) for handling your static assets.
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [esamattis/underscore.string](https://github.com/esamattis/underscore.string) - String manipulation helpers for javascript
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [fredwu/jquery-inline-confirmation](https://github.com/fredwu/jquery-inline-confirmation) - Inline Confirmation plugin for jQuery. One of the less obtrusive ways of implementing confirmation dialogues.
 - [robrighter/node-boilerplate](https://github.com/robrighter/node-boilerplate) - Everything you need to get started on a Node.js website with express and socket.IO
 - [bevry-archive/jquery-scrollto](https://github.com/bevry-archive/jquery-scrollto) - jQuery ScrollTo - Smooth Scrolling to any jQuery/DOM Element
@@ -3803,6 +3805,7 @@
 
 ## Kotlin 
 
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
 - [ionic-team/ionic-portals](https://github.com/ionic-team/ionic-portals) - Portals Library
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
@@ -4557,6 +4560,7 @@
 
 ## PLpgSQL 
 
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [oetiker/pg-audit-json](https://github.com/oetiker/pg-audit-json) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
 - [tobyhede/postgresql-event-sourcing](https://github.com/tobyhede/postgresql-event-sourcing) - postgresql event sourcing
 - [m-martinez/pg-audit-json](https://github.com/m-martinez/pg-audit-json) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
@@ -5137,7 +5141,7 @@
 - [stevepolitodesign/rails-api-key-authentication](https://github.com/stevepolitodesign/rails-api-key-authentication) - In this tutorial, we'll build a full-featured API in Rails with authentication.
 - [Shopify/job-iteration](https://github.com/Shopify/job-iteration) - Makes your background jobs interruptible and resumable by design.
 - [vitoravelino/modular_routes](https://github.com/vitoravelino/modular_routes) - Dedicated controllers for each of your Rails route actions.
-- [onyxblade/smart_collection](https://github.com/onyxblade/smart_collection) - rails plugin for shopify style smart collection (currently under redesign)
+- [onyxblade/smart_collection](https://github.com/onyxblade/smart_collection) - rails plugin for shopify style smart collection
 - [onyxblade/associationist](https://github.com/onyxblade/associationist) - A gem to define virtual associations on Rails models
 - [alec-c4/kickstart](https://github.com/alec-c4/kickstart) - Ruby on Rails application templates
 - [kddnewton/regular_expression](https://github.com/kddnewton/regular_expression) - A regular expression engine written in Ruby.
@@ -8104,7 +8108,7 @@
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [astroband/astrocore](https://github.com/astroband/astrocore) - Stellar-core implementation in Rust (WIP)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -8591,7 +8595,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for Azure (beta) and AWS
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
@@ -9729,6 +9733,7 @@
 
 ## Vue 
 
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app) - Ionic Conference app ported to Vue
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
