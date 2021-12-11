@@ -1461,8 +1461,8 @@
 
 ## JavaScript 
 
-- [minhtc/audiobookapp](https://github.com/minhtc/audiobookapp) - Audiobook mobile application accomplished with React Native and React ecosystem, just a single code base.
 - [benwiley4000/cassette](https://github.com/benwiley4000/cassette) - 📼 A flexible media player component library for React that requires no up-front config
+- [minhtc/audiobookapp](https://github.com/minhtc/audiobookapp) - Audiobook mobile application accomplished with React Native and React ecosystem, just a single code base.
 - [AndreasFaust/react-ticker](https://github.com/AndreasFaust/react-ticker) - React Ticker is a lightweight, performant React component, that moves text, images and videos infinitely like a newsticker.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [atomiks/floating-ui](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more
@@ -4627,7 +4627,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [awslabs/aws-service-catalog-factory](https://github.com/awslabs/aws-service-catalog-factory) - This is a framework where you define a Service Catalog portfolio, products and versions using YAML. For versions of your products you specify where the source code for them can be found and the framework publishes the portfolio, products and versions in every* AWS Region after validating, linting and testing them.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
-- [authorizon/opal](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -8473,6 +8473,7 @@
 
 ## TypeScript 
 
+- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [folathecoder/audiophile](https://github.com/folathecoder/audiophile) - An online store built with React, Next.js, Redux Toolkit, Styled Components, Heroku-Hosted API, React Hook Forms, and TypeScript 🐱‍🏍🤞
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
@@ -8616,7 +8617,7 @@
 - [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
 - [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
-- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 Islands of interactivity with Vue in Vite.js (beta)
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The enjoyable site generator
 - [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers
 - [antfu/vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vue 3 on Vite
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
@@ -9130,7 +9131,6 @@
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [alfonsobries/vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
@@ -9278,7 +9278,7 @@
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [graphql-compose/graphql-compose-examples](https://github.com/graphql-compose/graphql-compose-examples) - Live examples of schemas builded with graphql-compose
 - [graphql-compose/graphql-compose-json](https://github.com/graphql-compose/graphql-compose-json) - This is a plugin for graphql-compose, which generates GraphQLTypes from any JSON.
-- [logary/sdk](https://github.com/logary/sdk) - A browser JavaScript client for Logary or any other HTTP server you wish to send to.
+- [causiq/sdk](https://github.com/causiq/sdk) - A browser JavaScript client for Logary or any other HTTP server you wish to send to.
 - [DanielMSchmidt/apollo-opentracing](https://github.com/DanielMSchmidt/apollo-opentracing) - Performance trace your Apollo GraphQL server with Opentracing
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [piglovesyou/graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader / babel-plugin / babel-plugin-macros / CLI / generated file manager of GraphQL code generator.
@@ -9780,7 +9780,7 @@
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-- [frappe/books](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+- [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Akryum/awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using
