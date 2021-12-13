@@ -501,6 +501,7 @@
 
 ## Clojure 
 
+- [nrepl/nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
 - [prestancedesign/pingcrm-clojure](https://github.com/prestancedesign/pingcrm-clojure) - PingCRM on Clojure - A Clojure/Script fullstack demo application to illustrate how Inertia.js works.
@@ -1115,6 +1116,7 @@
 
 ## HTML 
 
+- [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins.
 - [ionic-team/ionic-docs](https://github.com/ionic-team/ionic-docs) - 
@@ -1153,6 +1155,7 @@
 - [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - A modern Stimulus library delivering common JavaScript behaviors with a bunch of customizable controllers.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [planetruby/books](https://github.com/planetruby/books) - List of all Ruby books
+- [papodaca/graphql_playground-rails](https://github.com/papodaca/graphql_playground-rails) - An engine to provide GraphQL Playground on Rails
 - [planetruby/gems](https://github.com/planetruby/gems) - Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series
 - [rails/weblog](https://github.com/rails/weblog) - 
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -1346,6 +1349,8 @@
 
 ## Java 
 
+- [capacitor-community/admob](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob
+- [capacitor-community/firebase-crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - ⚡️ Capacitor plugin for Firebase Crashlytics.
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
@@ -1462,6 +1467,13 @@
 
 ## JavaScript 
 
+- [planetscale/nextjs-conf-2021](https://github.com/planetscale/nextjs-conf-2021) - The code from "Databases as Code with PlanetScale and Prisma" talk at Next.js Conf 2021
+- [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
+- [microlinkhq/metatags](https://github.com/microlinkhq/metatags) - Ensure your HTML is previewed beautifully across social networks.
+- [microlinkhq/www](https://github.com/microlinkhq/www) - Browser as API
+- [microlinkhq/recipes](https://github.com/microlinkhq/recipes) - 
+- [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
+- [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
 - [google/marzipano](https://github.com/google/marzipano) - A 360° media viewer for the modern web.
 - [mudin/vue-vr](https://github.com/mudin/vue-vr) - A framework for building VR applications with Vue
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display Photo Sphere panoramas.
@@ -1609,7 +1621,6 @@
 - [Purple-Magic/tramway-admin](https://github.com/Purple-Magic/tramway-admin) - Fast admin panel development
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
-- [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
@@ -4620,7 +4631,7 @@
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
-- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to help users of all skill levels store, manipulate, and visualize data.
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to provide an intuitive user experience to databases.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into MeiliSearch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -4970,6 +4981,8 @@
 
 ## Ruby 
 
+- [pat/render_api](https://github.com/pat/render_api) - Ruby interface for the render.com API.
+- [substancelab/activemodel-email_address_validator](https://github.com/substancelab/activemodel-email_address_validator) - Opinionated email address validation for ActiveModels/ActiveRecord
 - [balvig/spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner
 - [streamio/streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
 - [dejan/espeak-http](https://github.com/dejan/espeak-http) - Micro web app for Text-To-Speech conversion via HTTP powered by Ruby, Roda, lame, espeak and espeak-ruby.
@@ -5558,7 +5571,6 @@
 - [pawurb/activerecord-analyze](https://github.com/pawurb/activerecord-analyze) - Add EXPLAIN ANALYZE to Rails Active Record query objects
 - [cookpad/omniauth-rails_csrf_protection](https://github.com/cookpad/omniauth-rails_csrf_protection) - Provides CSRF protection on OmniAuth request endpoint on Rails application.
 - [seattlerb/ruby_parser](https://github.com/seattlerb/ruby_parser) - ruby_parser is a ruby parser written in pure ruby. It outputs s-expressions which can be manipulated and converted back to ruby via the ruby2ruby gem.
-- [papodaca/graphql_playground-rails](https://github.com/papodaca/graphql_playground-rails) - An engine to provide GraphQL Playground on Rails
 - [ruby-formatter/rufo](https://github.com/ruby-formatter/rufo) - The Ruby Formatter
 - [Shopify/autoload_reloader](https://github.com/Shopify/autoload_reloader) - Experimental implementation of code reloading using Ruby's autoload
 - [keithrbennett/rock_books](https://github.com/keithrbennett/rock_books) - Simple and flexible accounting system, available as a Ruby gem.
@@ -8039,6 +8051,8 @@
 
 ## Rust 
 
+- [memc-rs/memc-rs](https://github.com/memc-rs/memc-rs) - A general-purpose distributed memory cache system compatible with Memcached
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
 - [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
@@ -8481,6 +8495,11 @@
 
 ## TypeScript 
 
+- [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
+- [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
+- [capacitor-community/fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps
+- [capacitor-community/intercom](https://github.com/capacitor-community/intercom) - Enable Intercom for Capacitor apps
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [naver/egjs-view3d](https://github.com/naver/egjs-view3d) - Fast & customizable 3D model viewer for everyone
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
@@ -8769,6 +8788,7 @@
 - [Shopify/foundational-design-system-proto](https://github.com/Shopify/foundational-design-system-proto) - A prototype for a foundational design system at Shopify
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - (formerly gqless) a GraphQL client built for rapid iteration
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code.
