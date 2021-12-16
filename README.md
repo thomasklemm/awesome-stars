@@ -342,6 +342,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
@@ -433,6 +434,7 @@
 - [chrisnager/ungrid](https://github.com/chrisnager/ungrid) - ungrid - the simplest responsive css grid
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [railsware/applepie](https://github.com/railsware/applepie) - Semantic and Modular CSS Toolkit
 - [mblode/burger](https://github.com/mblode/burger) - Burger - The minimal hamburger menu with fullscreen navigation.
@@ -1036,7 +1038,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
-- [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
+- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [serverless/event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
@@ -1156,7 +1158,7 @@
 - [planetruby/books](https://github.com/planetruby/books) - List of all Ruby books
 - [papodaca/graphql_playground-rails](https://github.com/papodaca/graphql_playground-rails) - An engine to provide GraphQL Playground on Rails
 - [planetruby/gems](https://github.com/planetruby/gems) - Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series
-- [rails/weblog](https://github.com/rails/weblog) - 
+- [rails/weblog](https://github.com/rails/weblog) - Superseded by https://github.com/rails/website
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [igorkasyanchuk/rails_pdf](https://github.com/igorkasyanchuk/rails_pdf) - A reliable way to generate PDF of any complexity in Ruby on Rails apps
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -1253,7 +1255,6 @@
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [flavorjones/chromedriver-helper](https://github.com/flavorjones/chromedriver-helper) - Deprecated in favor of the `webdrivers` gem.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1348,6 +1349,7 @@
 
 ## Java 
 
+- [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [capacitor-community/admob](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob
 - [capacitor-community/firebase-crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - ⚡️ Capacitor plugin for Firebase Crashlytics.
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
@@ -5240,7 +5242,7 @@
 - [rlister/stax](https://github.com/rlister/stax) - Highly-opinionated AWS Cloudformation stack handling tools
 - [robkinyon/ruby-dsl-maker](https://github.com/robkinyon/ruby-dsl-maker) - A quasi-DSL for creating DSLs. In Ruby.
 - [socketry/rubydns](https://github.com/socketry/rubydns) - A DSL for building fun, high-performance DNS servers.
-- [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - An extra-lightweight Ruby gem for working with SQLite3 databases
+- [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - An fast Ruby gem for working with SQLite3 databases
 - [erector/erector](https://github.com/erector/erector) - A builder-like widget html generation framework.
 - [markaby/markaby](https://github.com/markaby/markaby) - markup as ruby (official repository)
 - [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
@@ -6130,7 +6132,7 @@
 - [palkan/anyway_config](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications
 - [davydovanton/kan](https://github.com/davydovanton/kan) - Simple, functional authorization library and role management for ruby
 - [chaps-io/faire](https://github.com/chaps-io/faire) - Manage application logic with Interactors
-- [Unleash/unleash-client-ruby](https://github.com/Unleash/unleash-client-ruby) - Unleash client for Ruby
+- [Unleash/unleash-client-ruby](https://github.com/Unleash/unleash-client-ruby) - Unleash client SDK for Ruby
 - [antek-drzewiecki/wine_bouncer](https://github.com/antek-drzewiecki/wine_bouncer) - A Ruby gem that allows Oauth2 protection with Doorkeeper for Grape Api's
 - [nbulaj/doorkeeper-sequel](https://github.com/nbulaj/doorkeeper-sequel) - Doorkeeper Sequel ORM
 - [teeparham/gemdiff](https://github.com/teeparham/gemdiff) - Find source repositories for ruby gems. Open, compare, and update outdated gem versions
@@ -8499,6 +8501,11 @@
 
 ## TypeScript 
 
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
+- [streamich/use-media](https://github.com/streamich/use-media) - useMedia React hook to track CSS media query state
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [dotansimha/graphql-typed-document-node](https://github.com/dotansimha/graphql-typed-document-node) - An improved version of `DocumentNode` for seamless TypeScript integration for GraphQL.
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [capaj/graphql-codegen-vscode](https://github.com/capaj/graphql-codegen-vscode) - vscode extension which runs graphql-codegen whenever you save a query/mutation
@@ -8799,7 +8806,7 @@
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
-- [posva/pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [supabase/storage-api](https://github.com/supabase/storage-api) - A S3 compatible object storage service that integrates with Postgres and Gotrue
 - [unjs/h3](https://github.com/unjs/h3) - Minimal h(ttp) framework built for high performance and portability ⚡️
@@ -8873,7 +8880,7 @@
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [dabit3/cdk-appsync-neptune](https://github.com/dabit3/cdk-appsync-neptune) - A GraphQL API built with Amazon Neptune, AWS AppSync, and AWS Lambda
-- [Acidic9/prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
+- [tqwewe/prettier-plugin-tailwind](https://github.com/tqwewe/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
 - [appleple/smartblock](https://github.com/appleple/smartblock) - intuitive block based wysiwyg editor built with React and ProseMirror
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
@@ -8945,7 +8952,6 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
-- [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 - [glimmerjs/glimmer.js](https://github.com/glimmerjs/glimmer.js) - Central repository for the Glimmer.js project
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build SSR realtime SPA with Typescript
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
@@ -9291,7 +9297,7 @@
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [dotansimha/graphql-binding](https://github.com/dotansimha/graphql-binding) - Auto-generated SDK for your GraphQL API (supports schema stitching & codegen)
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [helios1138/graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint. The client allows writing GraphQL queries as plain JS objects (with type safety, awesome code completion experience, custom scalar type mapping, type guards and more)
 - [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
@@ -9785,7 +9791,7 @@
 - [supabase-community/database.dev](https://github.com/supabase-community/database.dev) - Curated list of SQL to help you find useful script easily 🚀
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [framevuerk/framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js.
-- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vite + Vue 3 + Tailwind CSS (starter) ⚡
+- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - ⚡ Vite + Vue 3 + Tailwind CSS ✔
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
