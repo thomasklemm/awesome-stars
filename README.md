@@ -1437,7 +1437,6 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [iotaledger/iri](https://github.com/iotaledger/iri) - IOTA Reference Implementation
 - [OneSignal/OneSignal-Android-SDK](https://github.com/OneSignal/OneSignal-Android-SDK) - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native Android or Amazon app with OneSignal. https://onesignal.com
-- [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [novoda/spikes](https://github.com/novoda/spikes) - Where ideas & concepts are born & incubated
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -1752,7 +1751,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
@@ -2194,7 +2193,6 @@
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
-- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uber/cadence-web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
@@ -4777,6 +4775,7 @@
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
+- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
@@ -6175,7 +6174,6 @@
 - [pitr/angular-rails-templates](https://github.com/pitr/angular-rails-templates) - Use your angular templates with rails' asset pipeline
 - [lewagon/rails-templates](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices
 - [thooams/pattern_bibz](https://github.com/thooams/pattern_bibz) - Rails Pattern Generator
-- [GetSjabloon/sjabloon-lite](https://github.com/GetSjabloon/sjabloon-lite) - The lite version of the SaaS Rails 6 starter kit Sjabloon, includes setup for Webpacker, Tailwind (inc. PurgeCss) and Stimulus
 - [dao42/rails-template](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
 - [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 - [mbryzek/schema-evolution-manager](https://github.com/mbryzek/schema-evolution-manager) - Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.
@@ -7978,7 +7976,7 @@
 - [presidentbeef/brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [diogob/activerecord-postgres-hstore](https://github.com/diogob/activerecord-postgres-hstore) - Goodbye serialize, hello hstore. Speed up hashes in the database.
 - [nathanvda/on_the_spot_tester](https://github.com/nathanvda/on_the_spot_tester) - example application for on_the_spot gem
-- [rubysherpas/paranoia](https://github.com/rubysherpas/paranoia) - acts_as_paranoid for Rails 3, 4 and 5
+- [rubysherpas/paranoia](https://github.com/rubysherpas/paranoia) - acts_as_paranoid for Rails 5, 6 and 7
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
 - [redis/redis-doc](https://github.com/redis/redis-doc) - Redis documentation source code for markdown and metadata files, conversion scripts, and so forth
 - [beerlington/classy_enum](https://github.com/beerlington/classy_enum) - A class-based enumerator gem for Rails
@@ -8461,7 +8459,7 @@
 - [marmelroy/FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift
 - [allenwong/30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - A self-taught project to learn Swift.
 - [CosmicMind/Material](https://github.com/CosmicMind/Material) - A UI/UX framework for creating beautiful applications.
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
+- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - Rapid GraphQL prototyping, development, and testing. Core Server, Admin Console, iOS SDK, Web SDK.
 - [Swift-AI/Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 - [IBAnimatable/IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 - [JensRavens/Interstellar](https://github.com/JensRavens/Interstellar) - Simple and lightweight Functional Reactive Coding in Swift for the rest of us
@@ -8673,7 +8671,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS and Azure
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS and Azure (GCP coming soon!)
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
@@ -8783,7 +8781,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [iliyaZelenko/tiptap-vuetify](https://github.com/iliyaZelenko/tiptap-vuetify) - Vuetify editor. Component simplifies integration tiptap editor with vuetify.
 - [deno-libs/gql](https://github.com/deno-libs/gql) - ☁ Universal GraphQL HTTP middleware for Deno
-- [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor.
+- [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is [DEPRACETED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
 - [vuejs/vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) - The ESLint custom parser for `.vue` files.
 - [vuestorefront/shopware-pwa](https://github.com/vuestorefront/shopware-pwa) - Shopware PWA for eCommerce. Headless storefront solution for Shopware 6, which communicates through the SalesChannel-API. Always Open Source, MIT license. Made with :blue_heart: by shopware AG & Vue Storefront.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
@@ -8909,7 +8907,7 @@
 - [dabit3/cdk-appsync-neptune](https://github.com/dabit3/cdk-appsync-neptune) - A GraphQL API built with Amazon Neptune, AWS AppSync, and AWS Lambda
 - [tqwewe/prettier-plugin-tailwind](https://github.com/tqwewe/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
 - [appleple/smartblock](https://github.com/appleple/smartblock) - intuitive block based wysiwyg editor built with React and ProseMirror
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform. Drag-and-drop blocks to build internal tools, CRM, ERP in minutes.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform. Drag and drop blocks to build internal tools, CRM, ERP in minutes.
 - [udecode/plate](https://github.com/udecode/plate) - A plugin framework for building rich text editors with slate.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [stipsan/react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Accessible ♿️, Delightful ✨, & Fast 🚀
@@ -9681,6 +9679,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify’s admin product component library
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+- [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
