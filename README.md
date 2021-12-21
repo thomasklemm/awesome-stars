@@ -67,6 +67,7 @@
   - [Python](#python)
   - [Reason](#reason)
   - [Rich Text Format](#rich-text-format)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -333,6 +334,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [jandersen/node-language-detect](https://github.com/jandersen/node-language-detect) - Node extension wrapping the chromium small language detector
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
 
@@ -2865,7 +2867,6 @@
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [codevise/pageflow](https://github.com/codevise/pageflow) - Multimedia story telling for the web.
 - [mathisonian/premonish](https://github.com/mathisonian/premonish) - Predict which DOM element a user will interact with next.
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
 - [skx/bookmarks.public](https://github.com/skx/bookmarks.public) - A template for self-hosted bookmarks using HTML & jQuery.
@@ -4995,6 +4996,10 @@
 ## Rich Text Format 
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
+
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -8251,7 +8256,6 @@
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [customink/lamby-vpc](https://github.com/customink/lamby-vpc) - 🦾🌎 Simple VPC for RDS Proxy Tutorial with Rails & Lambda
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -8338,7 +8342,6 @@
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [qrush/sub](https://github.com/qrush/sub) - a delicious way to organize programs
 - [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [jruby/heroku-buildpack-jruby](https://github.com/jruby/heroku-buildpack-jruby) - 
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [stomita/heroku-buildpack-phantomjs](https://github.com/stomita/heroku-buildpack-phantomjs) - 
@@ -8959,7 +8962,7 @@
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [aerogear/graphql-metadata](https://github.com/aerogear/graphql-metadata) - Annotate your graphql schema with lightweight directives
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 - [amplication/prisma-schema-dsl](https://github.com/amplication/prisma-schema-dsl) - JavaScript interface for Prisma Schema DSL
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [RStankov/FocusedTask](https://github.com/RStankov/FocusedTask) - MacOS menu bar todo app built with Electron, React and Redux. It goals is to help you do deep work.
@@ -9107,7 +9110,7 @@
 - [construct-catalog/catalog](https://github.com/construct-catalog/catalog) - Catalog for aggregating CDK Constructs
 - [kcwinner/aws-cdk-appsync-transformer](https://github.com/kcwinner/aws-cdk-appsync-transformer) - AWS Amplify inspired CDK construct for creating directive based AppSync APIs
 - [serverless-stack/sst-cdk](https://github.com/serverless-stack/sst-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [aws-actions/aws-cloudformation-github-deploy](https://github.com/aws-actions/aws-cloudformation-github-deploy) - Deploys AWS CloudFormation Stacks
@@ -9723,6 +9726,7 @@
 - [FrDH/dotdotdot-js](https://github.com/FrDH/dotdotdot-js) - dotdotdot.js, advanced cross-browser ellipsis for multiple line content.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [contentful/contentful-management.js](https://github.com/contentful/contentful-management.js) - JavaScript library for Contentful's Management API (node & browser)
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
