@@ -1478,7 +1478,6 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
-- [datocms/plugins](https://github.com/datocms/plugins) - Repository providing samples using the Plugins SDK
 - [kentcdodds/advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks) - Learn Advanced React Hooks workshop
 - [frandiox/vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering and fullstack Vite framework
 - [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
@@ -1862,7 +1861,6 @@
 - [aws-samples/app-2025](https://github.com/aws-samples/app-2025) - Use architecture patterns from the future to build on AWS today!
 - [AnomalyInnovations/serverless-stack-demo-ext-resources](https://github.com/AnomalyInnovations/serverless-stack-demo-ext-resources) - Source for the extended version of the demo app resources in Serverless Stack.
 - [aws-solutions/smart-product-solution](https://github.com/aws-solutions/smart-product-solution) - The Smart Product Solution is a customer deployable reference architecture to help manufacturers to jumpstart development of innovative connected/smart product services.
-- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [nearform/polaris](https://github.com/nearform/polaris) - NearForm multi-platform application accelerator
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
@@ -2795,7 +2793,6 @@
 - [silvermine/serverless-utils](https://github.com/silvermine/serverless-utils) - 
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [aws-samples/aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
@@ -4532,7 +4529,7 @@
 - [laravel-filament/filament](https://github.com/laravel-filament/filament) - A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [rebing/graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL
-- [tonysm/turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
+- [tonysm/turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [getkirby/editor](https://github.com/getkirby/editor) - A new type of WYSIWYG editor for Kirby
 - [getkirby/kirby](https://github.com/getkirby/kirby) - Kirby's core application folder
@@ -5003,6 +5000,7 @@
 
 ## Ruby 
 
+- [stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) - This is a work in progress.
 - [okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks) - Hook control for developers, by a developer
 - [rspec/rspec-metagem](https://github.com/rspec/rspec-metagem) - RSpec meta-gem that depends on the other components
 - [pat/render_api](https://github.com/pat/render_api) - Ruby interface for the render.com API.
@@ -5031,7 +5029,7 @@
 - [kachick/irb-power_assert](https://github.com/kachick/irb-power_assert) - power_assert in irb
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [bibendi/downstream](https://github.com/bibendi/downstream) - Straightforward way to implement communication between Rails Engines using the Publish-Subscribe pattern.
-- [digital-fabric/rubyoshka](https://github.com/digital-fabric/rubyoshka) - Composable HTML templating for Ruby
+- [digital-fabric/papercraft](https://github.com/digital-fabric/papercraft) - Composable HTML templating for Ruby
 - [YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby) - A Ruby port of Puppeteer
 - [ayushn21/maintenance_job](https://github.com/ayushn21/maintenance_job) - Mechanism to run testable one-off jobs in Rails at deploy time to manipulate data
 - [fractaledmind/acidic_job](https://github.com/fractaledmind/acidic_job) - Idempotent operations for Rails apps, built for ActiveJob or Sidekiq.
@@ -7409,7 +7407,7 @@
 - [rharriso/bower-rails](https://github.com/rharriso/bower-rails) - Bundler-like DSL + rake tasks for Bower on Rails
 - [ruby/did_you_mean](https://github.com/ruby/did_you_mean) - The gem that has been saving people from typos since 2014
 - [payolapayments/payola](https://github.com/payolapayments/payola) - Drop-in Rails engine for accepting payments with Stripe
-- [fnando/signal](https://github.com/fnando/signal) - A simple observer implementation on POROs (Plain Old Ruby Object) and ActiveRecord objects.
+- [fnando/voltage](https://github.com/fnando/voltage) - A simple observer implementation on POROs (Plain Old Ruby Object) and ActiveRecord objects.
 - [guilhermesad/rspotify](https://github.com/guilhermesad/rspotify) - A ruby wrapper for the Spotify Web API
 - [railsgsoc/actionform](https://github.com/railsgsoc/actionform) - Create nested forms with ease.
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
@@ -8519,6 +8517,7 @@
 
 ## TypeScript 
 
+- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
 - [ionic-team/docs-demo](https://github.com/ionic-team/docs-demo) - A demo/kitchen sink for the docs
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A jsdom alternative with support for server side rendering of web components.
 - [juanfranblanco/vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension for Solidity smart contracts in Ethereum
@@ -8528,6 +8527,7 @@
 - [use-cookie-consent/use-cookie-consent-core](https://github.com/use-cookie-consent/use-cookie-consent-core) - Tiny (~1kB gzipped) hook for managing GDPR cookie consent state.
 - [segmentio/consent-manager](https://github.com/segmentio/consent-manager) - Drop-in consent management plugin for analytics.js
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
+- [datocms/plugins](https://github.com/datocms/plugins) - Repository providing samples using the Plugins SDK
 - [divriots/browser-vite](https://github.com/divriots/browser-vite) - Vite in the browser.
 - [zenclabs/viteshot](https://github.com/zenclabs/viteshot) - Viteshot 📸 is a fast and simple component screenshot tool based on Vite.
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
@@ -9068,6 +9068,7 @@
 - [cdk-cosmos/cosmos](https://github.com/cdk-cosmos/cosmos) - Cdk Cosmos Packages
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
+- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [lambda-extensions/parameter-store](https://github.com/lambda-extensions/parameter-store) - AWS Lambda Extensions to access AWS Systems Manager Parameter Store
 - [cdk-dev/create-cdk-app](https://github.com/cdk-dev/create-cdk-app) - Create CDK Apps from Templates
 - [nearform/mira-cdk-solutions-constructs](https://github.com/nearform/mira-cdk-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
@@ -9497,7 +9498,7 @@
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) - wolkenkit is an open-source CQRS and event-sourcing framework based on Node.js, and it supports JavaScript and TypeScript.
 - [graphql-js/graphene](https://github.com/graphql-js/graphene) - GraphQL Framework for Javascript
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Enterprise open-source serverless CMS. Includes a headless CMS, page builder, form builder and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
@@ -9712,6 +9713,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -9793,7 +9795,6 @@
 - [artsy/force](https://github.com/artsy/force) - The Artsy.net website
 - [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [daneden/basehold.it](https://github.com/daneden/basehold.it) - A quick, painless, Javascript-free baseline overlay.
-- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
