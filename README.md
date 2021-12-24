@@ -106,6 +106,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [eulerto/pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
@@ -704,6 +705,7 @@
 
 ## Go 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
@@ -1119,6 +1121,7 @@
 
 ## HTML 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
@@ -1469,6 +1472,8 @@
 
 ## JavaScript 
 
+- [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
+- [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
 - [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [use-cookie-consent/use-cookie-consent-react](https://github.com/use-cookie-consent/use-cookie-consent-react) - Tiny (&lt;2kB) useCookieConsent hook for React apps
@@ -4639,6 +4644,7 @@
 
 ## Python 
 
+- [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - Library for creating dataframes from functions.
@@ -5000,6 +5006,9 @@
 
 ## Ruby 
 
+- [digital-fabric/qeweney](https://github.com/digital-fabric/qeweney) - Cross-library feature rich HTTP request / response API
+- [yammer/circuitbox](https://github.com/yammer/circuitbox) - Circuit breaker built with large Ruby apps in mind.
+- [basecamp/mass_encryption](https://github.com/basecamp/mass_encryption) - 
 - [stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) - This is a work in progress.
 - [okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks) - Hook control for developers, by a developer
 - [rspec/rspec-metagem](https://github.com/rspec/rspec-metagem) - RSpec meta-gem that depends on the other components
@@ -8517,6 +8526,9 @@
 
 ## TypeScript 
 
+- [Aslemammad/tinyspy](https://github.com/Aslemammad/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
+- [marcjulian/nestjs-prisma](https://github.com/marcjulian/nestjs-prisma) - Library and schematics to add Prisma integration to a NestJS application
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [RevenueCat/cordova-plugin-purchases](https://github.com/RevenueCat/cordova-plugin-purchases) - Cordova in-app purchases and subscriptions made easy.
 - [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
 - [ionic-team/docs-demo](https://github.com/ionic-team/docs-demo) - A demo/kitchen sink for the docs
