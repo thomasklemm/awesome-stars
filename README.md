@@ -1472,6 +1472,7 @@
 
 ## JavaScript 
 
+- [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
@@ -1532,7 +1533,7 @@
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
 - [antoinejaussoin/react-vr-player](https://github.com/antoinejaussoin/react-vr-player) - VR / 360° Video Player as a React Component
 - [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - ⚛️📝The unofficial editor-js component for React
-- [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A low code Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
+- [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A low code headless CMS and Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
@@ -1691,9 +1692,8 @@
 - [excid3/stimulus-slimselect](https://github.com/excid3/stimulus-slimselect) - A Stimulus wrapper around SlimSelect
 - [Threespot/tolaria](https://github.com/Threespot/tolaria) - A Rails CMS framework for making your editors happy.
 - [standardnotes/listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters. https://listed.to
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yamasolutions/block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
-- [yamasolutions/integral](https://github.com/yamasolutions/integral) - Ruby on Rails CMS for Rails 5+. Integral aims to lower the barrier of entry to creating great websites.
 - [postlight/trimmings](https://github.com/postlight/trimmings) - 🌲 Get back to HTML.
 - [pretzelhands/notebag](https://github.com/pretzelhands/notebag) - A note taking app that does not break your workflow
 - [fulcrumapp/fulcrum-core](https://github.com/fulcrumapp/fulcrum-core) - Fulcrum Core
@@ -5393,6 +5393,7 @@
 - [palkan/view_component-contrib](https://github.com/palkan/view_component-contrib) - A collection of extension and developer tools for ViewComponent
 - [shlima/translate_enum](https://github.com/shlima/translate_enum) - Easily Translate Enums in Rails
 - [cloud66-oss/unrestful](https://github.com/cloud66-oss/unrestful) - Simple, lightweight and mountable RPC for Rails
+- [yamasolutions/integral](https://github.com/yamasolutions/integral) - Ruby on Rails CMS for Rails 6+. Integral aims to lower the barrier of entry to creating great websites.
 - [refIekt/lit](https://github.com/refIekt/lit) - Shine a light on terminal commands. 🔥
 - [refIekt/reflekt](https://github.com/refIekt/reflekt) - Reflective testing.
 - [postmodern/command_kit.rb](https://github.com/postmodern/command_kit.rb) - A Ruby toolkit for building complete and robust CLI commands.
@@ -8863,7 +8864,7 @@
 - [planetscale/planetscale-node](https://github.com/planetscale/planetscale-node) - PlanetScale SQL Proxy NPM Module
 - [pubpub/pubpub](https://github.com/pubpub/pubpub) - Open Community Publishing
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
-- [TinkoffCreditSystems/taiga-ui](https://github.com/TinkoffCreditSystems/taiga-ui) - Angular UI Kit and components library for awesome people
+- [Tinkoff/taiga-ui](https://github.com/Tinkoff/taiga-ui) - Angular UI Kit and components library for awesome people
 - [FrontLabsOfficial/vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - 💯 Tiny Vue Validate Composition
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [callstack/repack](https://github.com/callstack/repack) - A Webpack-based toolkit to build your React Native application with full support of Webpack ecosystem.
