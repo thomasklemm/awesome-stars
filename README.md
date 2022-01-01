@@ -2984,7 +2984,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
-- [akshaykmr/hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
+- [akshaykmr/hogwatch](https://github.com/akshaykmr/hogwatch) - [not maintained] find out what's hogging your internet connection.
 - [ducksboard/gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 - [JedWatson/react-md-editor](https://github.com/JedWatson/react-md-editor) - React.js Markdown Editor Component
 - [reactjs/react-autocomplete](https://github.com/reactjs/react-autocomplete) - WAI-ARIA compliant React autocomplete (combobox) component
@@ -9883,7 +9883,7 @@
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Akryum/awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [RonaldR/CoinMenu](https://github.com/RonaldR/CoinMenu) - Menubar app to keep track of your Cryptocoins 💰
 - [AT-UI/at-ui](https://github.com/AT-UI/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)
