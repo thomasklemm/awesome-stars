@@ -5407,7 +5407,7 @@
 - [AlchemyCMS/alchemy-json_api](https://github.com/AlchemyCMS/alchemy-json_api) - A JSON:API compliant API for AlchemyCMS
 - [citizensadvice/capybara_accessible_selectors](https://github.com/citizensadvice/capybara_accessible_selectors) - Custom selectors for Capybara
 - [leschenko/ab_admin](https://github.com/leschenko/ab_admin) - Fully featured admin interface with both DSL and raw controller resource definition based on bootstrap, inherited_resources, simple_form, device, cancan
-- [shoma07/ransack-enum](https://github.com/shoma07/ransack-enum) - Allow Enum values to be used in Ransack searches
+- [shoma07/ransack-enum](https://github.com/shoma07/ransack-enum) - Enable enum values in Ransack search
 - [shioyama/mobility-ransack](https://github.com/shioyama/mobility-ransack) - Search attributes translated by Mobility with Ransack
 - [fulcrumapp/atacama](https://github.com/fulcrumapp/atacama) - DRYer than a desert
 - [alphagov/imminence](https://github.com/alphagov/imminence) - "Find My Nearest" API and management tools on GOV.UK
@@ -6190,7 +6190,7 @@
 - [lewagon/rails-templates](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices
 - [thooams/pattern_bibz](https://github.com/thooams/pattern_bibz) - Rails Pattern Generator
 - [dao42/rails-template](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
-- [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) - Application template for Rails 7 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+- [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) - Application template for Rails 7 projects; preloaded with best practices for TDD, security, deployment, and developer productivity. Now with optional Vite integration! ⚡️
 - [mbryzek/schema-evolution-manager](https://github.com/mbryzek/schema-evolution-manager) - Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.
 - [toptal/granite](https://github.com/toptal/granite) - Business Actions architecture for Rails apps
 - [aidewoode/black_candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
@@ -9733,11 +9733,11 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A powerful toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus and more
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [atom-community/markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
