@@ -242,6 +242,7 @@
 
 ## C++ 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
@@ -1139,7 +1140,7 @@
 - [themeselection/bootstrap-cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet) - The ultimate cheatsheet for Bootstrap5 🚀
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [clerkinc/clerk-rails-starter](https://github.com/clerkinc/clerk-rails-starter) - Official guide on how to use Clerk.dev with Rails
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free bootstrap admin template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [stimulus-components/stimulus-reveal-controller](https://github.com/stimulus-components/stimulus-reveal-controller) - A Stimulus controller to toggle a class on one or multiple items to show or hide them.
 - [stimulus-components/stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -1472,6 +1473,8 @@
 
 ## JavaScript 
 
+- [primefaces/primereact-examples](https://github.com/primefaces/primereact-examples) - PrimeReact Example Projects
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [kirillplatonov/hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload) - Hotwire::Livereload automatically reloads Turbo when "view" files are modified.
 - [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
@@ -1983,7 +1986,7 @@
 - [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
 - [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
 - [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
-- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: A Web Extension starter kit built with React, TypeScript, SCSS, Storybook, Jest, EsLint, Prettier, Webpack and Bootstrap. Supports Google Chrome + Mozilla Firefox + Brave Browser :fire:
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Microsoft Edge :fire:
 - [mbalabash/estimo](https://github.com/mbalabash/estimo) - Evaluates how long the browser will execute your javascript code.
 - [wearebraid/vue-formulate](https://github.com/wearebraid/vue-formulate) - ⚡️ The easiest way to build forms with Vue.
 - [formio/formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
@@ -4646,6 +4649,7 @@
 
 ## Python 
 
+- [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -5191,7 +5195,7 @@
 - [GGrassiant/api-i18n-boilerplate](https://github.com/GGrassiant/api-i18n-boilerplate) - My i18n Rails api template for side projects
 - [moneybird/active-date-range](https://github.com/moneybird/active-date-range) - Powerful DateRanges for Ruby and ActiveSupport
 - [adzap/active_enum](https://github.com/adzap/active_enum) - Define enum classes in Rails and use them to enumerate ActiveRecord attributes, with I18n support
-- [ledermann/templatus](https://github.com/ledermann/templatus) - Opinionated template for web applications with Ruby on Rails and Vue.js 3
+- [ledermann/templatus](https://github.com/ledermann/templatus) - Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3
 - [cmer/sanitization](https://github.com/cmer/sanitization) - Clean & sanitize your ActiveRecord data before saving to database
 - [supabase-community/postgrest-rb](https://github.com/supabase-community/postgrest-rb) - Isomorphic Ruby client for PostgREST.
 - [haines/pg-aws_rds_iam](https://github.com/haines/pg-aws_rds_iam) - IAM authentication in Ruby for PostgreSQL on Amazon RDS
@@ -5327,7 +5331,7 @@
 - [coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system
 - [markets/sudo_rails](https://github.com/markets/sudo_rails) - :lock: Sudo mode for your Rails controllers
 - [WeTransfer/wt_activerecord_index_spy](https://github.com/WeTransfer/wt_activerecord_index_spy) - A gem to spy queries running with Active Record and report missing indexes
-- [solectrus/solectrus](https://github.com/solectrus/solectrus) - Photovoltaics Dashboard
+- [solectrus/solectrus](https://github.com/solectrus/solectrus) - Solectrus is an alternative photo­voltaic dashboard that visualizes the yield and consumption of a PV system
 - [markets/maily](https://github.com/markets/maily) - :mailbox: Rails Engine to preview emails in the browser
 - [AtomicPair/wolfentext3d](https://github.com/AtomicPair/wolfentext3d) - 3-D dungeon crawling in your terminal!
 - [piotrmurach/awesome-ruby-cli-apps](https://github.com/piotrmurach/awesome-ruby-cli-apps) - A curated list of awesome command-line applications in Ruby.
@@ -8217,7 +8221,6 @@
 - [dgraph-io/graphql-dgraph-web](https://github.com/dgraph-io/graphql-dgraph-web) - GraphQL Web
 - [dry-rb/dry-rb.org](https://github.com/dry-rb/dry-rb.org) - The official website of dry-rb
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
-- [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) - RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example:
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [MatejKustec/SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners
@@ -8529,6 +8532,7 @@
 
 ## TypeScript 
 
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) - Official JavaScript + TypeScript client library for Prismic
 - [Enricopv/turbo-boilerplate](https://github.com/Enricopv/turbo-boilerplate) - Turborepo Boiler Plate with Next, Remix, Expo, and React Native projects.
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [egoist/haya](https://github.com/egoist/haya) - ⚡️ esbuild based dev server and production bundler, it's really fast
@@ -9714,6 +9718,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
+- [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) - RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example:
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
