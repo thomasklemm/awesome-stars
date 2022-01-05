@@ -714,7 +714,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [GFTN/gftn-services](https://github.com/GFTN/gftn-services) - 
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL
+- [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -902,7 +902,7 @@
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [postgres-ai/postgres-checkup](https://github.com/postgres-ai/postgres-checkup) - Postgres Health Check and SQL Performance Analysis. :point_right: THIS IS A MIRROR OF https://gitlab.com/postgres-ai/postgres-checkup
 - [postgres-ai/joe](https://github.com/postgres-ai/joe) - Query optimization assistant :point_right: THIS IS A MIRROR OF https://gitlab.com/postgres-ai/joe
@@ -1121,6 +1121,7 @@
 
 ## HTML 
 
+- [spotify/web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
@@ -1472,6 +1473,8 @@
 
 ## JavaScript 
 
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async) - Thread-safe Helmet for React 16+ and friends
 - [valeriansaliou/chappe](https://github.com/valeriansaliou/chappe) - 🧑‍💻 Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.
@@ -3997,6 +4000,8 @@
 
 ## Others 
 
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [Nachimak28/awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) - A curated list of all the Awesome --Topic Name-- lists I've found till date relevant to Data lifecycle, ML and DL.
 - [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) - 😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
 - [PicchiKevin/WebXR-games](https://github.com/PicchiKevin/WebXR-games) - Curated list of cool WebXR Games & Experiences
@@ -4126,7 +4131,7 @@
 - [shankari/covid-19-tracing-projects](https://github.com/shankari/covid-19-tracing-projects) - Crowdsourced list of projects related to COVID-19 contact tracing
 - [coryhouse/timeless-skills](https://github.com/coryhouse/timeless-skills) - These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
 - [JohnSundell/IndieSupportWeeks](https://github.com/JohnSundell/IndieSupportWeeks) - A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.
-- [prisma/studio](https://github.com/prisma/studio) - The easiest way to explore and manipulate your data in all of your Prisma projects.
+- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [graphql-cats/graphql-cats](https://github.com/graphql-cats/graphql-cats) - GraphQL Compatibility Acceptance Tests
 - [ardatan/graphql-toolkit](https://github.com/ardatan/graphql-toolkit) - A set of utils for faster development of GraphQL tools
 - [the-guild-org/Stack](https://github.com/the-guild-org/Stack) - Tech Stack developed by The Guild
@@ -4145,7 +4150,6 @@
 - [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) - 
 - [hopsoft/rails_standards](https://github.com/hopsoft/rails_standards) - A developer's guide of practices to follow when building Rails applications.
 - [alangibson/awesome-crdt](https://github.com/alangibson/awesome-crdt) - A collection of awesome CRDT resources
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [redbooth/scrum-poker-cards](https://github.com/redbooth/scrum-poker-cards) - 
 - [EvermeshSolutions/putsreq](https://github.com/EvermeshSolutions/putsreq) - PutsReq lets you record HTTP requests and fake responses like no other tool available
 - [vercel/now-examples](https://github.com/vercel/now-examples) - Old examples of Vercel projects you can deploy yourself
@@ -4800,7 +4804,7 @@
 - [unoconv/unoconv](https://github.com/unoconv/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 - [cloudmarker/cloudmarker](https://github.com/cloudmarker/cloudmarker) - Cloud security monitoring tool and framework
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [b12io/orchestra](https://github.com/b12io/orchestra) - Orchestra is a Robotic Process Automation system for orchestrating project teams of experts and machines.
 - [tartiflette/tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
@@ -5022,7 +5026,7 @@
 - [digital-fabric/qeweney](https://github.com/digital-fabric/qeweney) - Cross-library feature rich HTTP request / response API
 - [yammer/circuitbox](https://github.com/yammer/circuitbox) - Circuit breaker built with large Ruby apps in mind.
 - [basecamp/mass_encryption](https://github.com/basecamp/mass_encryption) - 
-- [stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) - This is a work in progress.
+- [stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) - A step-by-step guide on how to build your own authentication system in Rails from scratch.
 - [okuramasafumi/tiny_hooks](https://github.com/okuramasafumi/tiny_hooks) - Hook control for developers, by a developer
 - [rspec/rspec-metagem](https://github.com/rspec/rspec-metagem) - RSpec meta-gem that depends on the other components
 - [pat/render_api](https://github.com/pat/render_api) - Ruby interface for the render.com API.
@@ -5061,7 +5065,7 @@
 - [lucemhealth-archive/easy-jsonapi](https://github.com/lucemhealth-archive/easy-jsonapi) - Middleware, parser, and validator, for JSON:API requests and serialized responses.
 - [bigcommerce/gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
 - [tenderlove/tenderjit](https://github.com/tenderlove/tenderjit) - JIT for Ruby that is written in Ruby
-- [ruby/error_highlight](https://github.com/ruby/error_highlight) - 
+- [ruby/error_highlight](https://github.com/ruby/error_highlight) - The gem enhances Exception#message by adding a short explanation where the exception is raised
 - [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
 - [aki77/bulma_form_builder](https://github.com/aki77/bulma_form_builder) - Rails form builder
 - [bodrovis/lokalise_rails](https://github.com/bodrovis/lokalise_rails) - Ruby on Rails integration for Lokalise
@@ -5312,7 +5316,7 @@
 - [raisedevs/remote_record](https://github.com/raisedevs/remote_record) - Ready-made remote resource structures.
 - [Ruby-Starter-Kits/Docker-Rails-Template](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
 - [railslink/railslink](https://github.com/railslink/railslink) - Official website of Ruby on Rails Link Slack Community
-- [zachahn/super](https://github.com/zachahn/super) - A simple, powerful, zero dependency Rails admin framework
+- [superadministration/super](https://github.com/superadministration/super) - A simple, powerful, zero dependency Rails admin framework
 - [github/licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [martijn/xsv](https://github.com/martijn/xsv) - Fast, lightweight xlsx parser for Ruby that provides nothing a CSV parser wouldn't
 - [dry-rb/dry-files](https://github.com/dry-rb/dry-files) - File utilities
@@ -7641,7 +7645,7 @@
 - [jbender/chart_record](https://github.com/jbender/chart_record) - 
 - [paypal/merchant-sdk-ruby](https://github.com/paypal/merchant-sdk-ruby) - 
 - [alexch/rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
-- [seejohnrun/ice_cube](https://github.com/seejohnrun/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
+- [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
 - [jquery-ui-rails/jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository
 - [jackc/tod](https://github.com/jackc/tod) - Time of day and shift types for Ruby
@@ -8119,7 +8123,7 @@
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - Engine components of Prisma 2+
+- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma 2+
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
@@ -8540,6 +8544,8 @@
 
 ## TypeScript 
 
+- [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
+- [nxtexe/react-motion-router](https://github.com/nxtexe/react-motion-router) - Declarative routing library for React ⚛ with page transitions and animations. Under Development 🧪.
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - TestContainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) - Official JavaScript + TypeScript client library for Prismic
 - [Enricopv/turbo-boilerplate](https://github.com/Enricopv/turbo-boilerplate) - Turborepo Boiler Plate with Next, Remix, Expo, and React Native projects.
@@ -8707,7 +8713,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS and Azure (GCP coming soon!)
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS, Azure, and GCP (k8s coming soon!)
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
