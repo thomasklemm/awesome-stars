@@ -236,7 +236,7 @@
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [elucidsoft/dotnet-stellar-sdk](https://github.com/elucidsoft/dotnet-stellar-sdk) - Stellar API SDK for .NET Core 2.x and .NET Standard 2.0
 - [coinapi/coinapi-sdk](https://github.com/coinapi/coinapi-sdk) - SDKs for CoinAPI
-- [dotnet/docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+- [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 
@@ -4840,7 +4840,7 @@
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
 - [instacart/lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Management & Orchestration Platform (Monorepo for Polyaxon's MLOps Tools)
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [StellarCN/py-stellar-base](https://github.com/StellarCN/py-stellar-base) - Stellar client library for the Python language
@@ -5027,6 +5027,7 @@
 
 ## Ruby 
 
+- [panorama-ed/memo_wise](https://github.com/panorama-ed/memo_wise) - The wise choice for Ruby memoization
 - [elsoul/souls](https://github.com/elsoul/souls) - SOULs 🔥  Build Serverless Apps faster like Rails. Powered by Ruby GraphQL, RBS/Steep, Active Record, RSpec, RuboCop, and Google Cloud.
 - [bkuhlmann/rubysmith](https://github.com/bkuhlmann/rubysmith) - A command line interface for smithing Ruby projects.
 - [ankane/immudb-ruby](https://github.com/ankane/immudb-ruby) - Ruby client for immudb, the immutable database
@@ -5207,7 +5208,6 @@
 - [krystal/apia](https://github.com/krystal/apia) - An opinionated framework for building APIs in Ruby.
 - [mrkamel/search_flip](https://github.com/mrkamel/search_flip) - Full-Featured ElasticSearch Ruby Client with a Chainable DSL
 - [norman/babosa](https://github.com/norman/babosa) - A library for creating slugs. Babosa is an extraction and improvement of the string code from FriendlyId, intended to help developers create similar libraries or plugins.
-- [panorama-ed/memo_wise](https://github.com/panorama-ed/memo_wise) - The wise choice for Ruby memoization
 - [caxlsx/caxlsx](https://github.com/caxlsx/caxlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.
 - [kaka-ruto/graphql-on-rails-auth](https://github.com/kaka-ruto/graphql-on-rails-auth) - GraphQL on Rails Auth System
 - [spatie/ruby-ray](https://github.com/spatie/ruby-ray) - Easily debug Ruby applications
@@ -8552,6 +8552,8 @@
 
 ## TypeScript 
 
+- [react-component/progress](https://github.com/react-component/progress) - React Progress Bar
+- [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast alternative to Storybook. Powered by Vite.
 - [vidstack/elements](https://github.com/vidstack/elements) - ALPHA: Collection of headless web components that make integrating media on the a web a breeze.
@@ -8858,7 +8860,7 @@
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites.
+- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you the foundation for building high quality, accessible, and customizable Vue.js Design Systems.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
@@ -9907,7 +9909,7 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [SAP/fundamental-vue](https://github.com/SAP/fundamental-vue) - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
