@@ -748,7 +748,7 @@
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
-- [alephjs/esm.sh](https://github.com/alephjs/esm.sh) - A fast, global content delivery network for ES Modules.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network for ES Modules.
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
@@ -910,7 +910,7 @@
 - [postgres-ai/joe](https://github.com/postgres-ai/joe) - Query optimization assistant :point_right: THIS IS A MIRROR OF https://gitlab.com/postgres-ai/joe
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Database Lab Engine (DLE) enables instant thin cloning for Postgres to scale the development process. DLE can run many independent Postgres copies on a single machine, helping you solve development, testing, SQL optimization, and troubleshooting tasks much faster.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [keratin/authn-server](https://github.com/keratin/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
@@ -1145,7 +1145,6 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [stimulus-components/stimulus-reveal-controller](https://github.com/stimulus-components/stimulus-reveal-controller) - A Stimulus controller to toggle a class on one or multiple items to show or hide them.
 - [stimulus-components/stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [reidmorrison/rocketjob_mission_control](https://github.com/reidmorrison/rocketjob_mission_control) - Web based management interface for Rocket Job
 - [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
@@ -1154,6 +1153,7 @@
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
 - [creativetimofficial/notus-js](https://github.com/creativetimofficial/notus-js) - Notus JS: Free Tailwind CSS UI Kit and Admin
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [factbook/factbook](https://github.com/factbook/factbook) - factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -1687,6 +1687,7 @@
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [bpmn-io/form-js](https://github.com/bpmn-io/form-js) - View and visually edit JSON-based forms.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
@@ -1733,7 +1734,6 @@
 - [acode/copenhagen](https://github.com/acode/copenhagen) - Free, lightweight and hackable open source code editor for the web
 - [praveenjuge/windstrap](https://github.com/praveenjuge/windstrap) - Tailwind CSS with Bootstrap JS
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) - 
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app) - :email: The desktop app for MJML
 - [tophat/yvm](https://github.com/tophat/yvm) - 🧶 Manage multiple versions of Yarn
 - [powerhome/playbook](https://github.com/powerhome/playbook) - Playbook Design System
@@ -4666,7 +4666,7 @@
 ## Python 
 
 - [Clivern/Pindo](https://github.com/Clivern/Pindo) - 🐺 Securely Build and Run Code in Docker.
-- [Clivern/Cattle](https://github.com/Clivern/Cattle) - 🐺 Platform to Run and Share Code.
+- [Clivern/Cattle](https://github.com/Clivern/Cattle) - 🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.
 - [stellar/django-polaris](https://github.com/stellar/django-polaris) - An extendable Django app for building modular Stellar services
 - [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
@@ -4687,7 +4687,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [awslabs/aws-service-catalog-factory](https://github.com/awslabs/aws-service-catalog-factory) - This is a framework where you define a Service Catalog portfolio, products and versions using YAML. For versions of your products you specify where the source code for them can be found and the framework publishes the portfolio, products and versions in every* AWS Region after validating, linting and testing them.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
@@ -5336,7 +5336,7 @@
 - [martijn/xsv](https://github.com/martijn/xsv) - Fast, lightweight xlsx parser for Ruby that provides nothing a CSV parser wouldn't
 - [dry-rb/dry-files](https://github.com/dry-rb/dry-files) - File utilities
 - [leastbad/chrono_trigger](https://github.com/leastbad/chrono_trigger) - A clock-based scheduler for Rails. It has nothing to do with cron or ActiveJob. You use it to make your app feel like stuff is happening, even if you're the only user.
-- [leastbad/all_futures](https://github.com/leastbad/all_futures) - A Redis-backed virtual ActiveModel that makes building faceted search UIs a snap.
+- [leastbad/all_futures](https://github.com/leastbad/all_futures) - A Redis ORM for reactive applications. Quacks just like Active Record. 🦆
 - [camertron/rux-rails](https://github.com/camertron/rux-rails) - Rux view components on Rails.
 - [camertron/rux](https://github.com/camertron/rux) - A jsx-inspired way to render view components in Ruby.
 - [topfunky/gruff](https://github.com/topfunky/gruff) - Gruff graphing library for Ruby
@@ -8437,6 +8437,7 @@
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
 - [Dimillian/MortyUI](https://github.com/Dimillian/MortyUI) - A very simple Rick & Morty app to demo GraphQL + SwiftUI
+- [GraphCMS/graphcms-examples](https://github.com/GraphCMS/graphcms-examples) - Example projects to help you get started with GraphCMS
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
@@ -8727,8 +8728,8 @@
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
-- [kanzitelli/rn-starter](https://github.com/kanzitelli/rn-starter) - 🦄 Production-ready starter for React Native App! Powered by cli-rn, React Navigation (v6), Expo Modules, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
-- [kanzitelli/rnn-starter](https://github.com/kanzitelli/rnn-starter) - 🤹 Production-ready starter for React Native App! Powered by cli-rn, React Native Navigation, Expo Modules, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
+- [kanzitelli/rn-starter](https://github.com/kanzitelli/rn-starter) - 🦄 Starter for React Native App! Powered by cli-rn, React Navigation (v6), Expo Modules, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
+- [kanzitelli/rnn-starter](https://github.com/kanzitelli/rnn-starter) - 🤹 Starter for React Native App! Powered by cli-rn, React Native Navigation, Expo Modules, RNN Screens, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
 - [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
@@ -8740,7 +8741,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS, Azure, and GCP (k8s coming soon!)
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS, Azure, GCP, and K8s.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
@@ -9076,7 +9077,6 @@
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
 - [karthikv/purview](https://github.com/karthikv/purview) - A server-side component framework. What if your React components ran on the server-side?
 - [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
-- [GraphCMS/graphcms-examples](https://github.com/GraphCMS/graphcms-examples) - Example projects to help you get started with GraphCMS
 - [RobinBuschmann/sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) - Decorators and some other features for sequelize
 - [googleapis/cloud-trace-nodejs](https://github.com/googleapis/cloud-trace-nodejs) - Node.js agent for Cloud Trace: automatically gather latency data about your application
 - [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
