@@ -1860,7 +1860,6 @@
 - [cwlsn/rinse-react](https://github.com/cwlsn/rinse-react) - 🚿 Rinse, React, repeat. A boilerplate to build a React component library.
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
-- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com) - 
 - [mauricioklein/vscode-cdk-snippets](https://github.com/mauricioklein/vscode-cdk-snippets) - CDK snippets for VSCode
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案
@@ -2363,7 +2362,7 @@
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [lukeed/flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache
 - [heroku/heroku-accounts](https://github.com/heroku/heroku-accounts) - Helps use multiple accounts on Heroku.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - A browser driver on top of puppeteer, ready for production scenarios.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - An high efficent browser driver on top of puppeteer, ready for production scenarios.
 - [jxnblk/mdx-docs](https://github.com/jxnblk/mdx-docs) - :memo: Document and develop React components with MDX and Next.js
 - [KidkArolis/jetpack](https://github.com/KidkArolis/jetpack) - 🚀 Jetpack – Webpack made more convenient.
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
@@ -3895,6 +3894,7 @@
 ## Makefile 
 
 - [immersive-web/webxr-ar-module](https://github.com/immersive-web/webxr-ar-module) - Repository for the WebXR Augmented Reality Module
+- [alec-c4/kickstart](https://github.com/alec-c4/kickstart) - Ruby on Rails application templates
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -4041,7 +4041,6 @@
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [planetscale/beta](https://github.com/planetscale/beta) - 
-- [alec-c4/kickstart](https://github.com/alec-c4/kickstart) - Ruby on Rails application templates
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [yongfook/saas-growth-articles](https://github.com/yongfook/saas-growth-articles) - A list of articles about growing SaaS businesses
 - [stripe/carbon-removal-source-materials](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases (http://stripe.com/climate)
@@ -4999,7 +4998,7 @@
 - [sixpack/sixpack](https://github.com/sixpack/sixpack) - Sixpack is a language-agnostic a/b-testing framework
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [jcartledge/sublime-worksheet](https://github.com/jcartledge/sublime-worksheet) - An inline REPL for JavaScript, PHP, Ruby & more in Sublime Text 2 and 3
-- [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX!
+- [openedx/edx-platform](https://github.com/openedx/edx-platform) - The Open edX platform, the software that powers edX!
 - [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Sublime Text 2 plugin for running ruby tests! (Unit, RSpec, Cucumber)
 - [SublimeText-Markdown/MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
@@ -5625,7 +5624,7 @@
 - [praxis/praxis](https://github.com/praxis/praxis) - Praxis is a framework that focuses on both the design and implementation aspects of creating APIs.
 - [mdominiak/hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
 - [devise-security/devise-security](https://github.com/devise-security/devise-security) - A security extension for devise, meeting industry-standard security demands for web applications.
-- [heroku/buildpacks-ruby](https://github.com/heroku/buildpacks-ruby) - Heroku's official Cloud Native Buildpacks for the Ruby ecosystem.
+- [heroku/buildpacks-ruby](https://github.com/heroku/buildpacks-ruby) - An experimental Cloud Native Buildpack for Ruby
 - [amatsuda/erd](https://github.com/amatsuda/erd) - A Rails engine for drawing your app's ER diagram
 - [GoogleCloudPlatform/getting-started-ruby](https://github.com/GoogleCloudPlatform/getting-started-ruby) - A tutorial for creating a complete application using Ruby on Google Cloud Platform
 - [GoogleCloudPlatform/ruby-docs-samples](https://github.com/GoogleCloudPlatform/ruby-docs-samples) - Ruby samples for Google Cloud Platform products.
@@ -8563,12 +8562,13 @@
 
 ## TypeScript 
 
+- [discord/react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend) - An add-on backend for `react-dnd` that provides support for keyboards and screenreaders by default.
 - [vortesnail/qier-player](https://github.com/vortesnail/qier-player) - :clapper:  A simple and easy-to-use h5 video player with highly customizable UI and rich features. / 简单易用的h5播放器，UI 高度定制化，功能丰富。
 - [react-component/progress](https://github.com/react-component/progress) - React Progress Bar
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast alternative to Storybook. Powered by Vite.
-- [vidstack/elements](https://github.com/vidstack/elements) - ALPHA: Collection of headless web components that make integrating media on the a web a breeze.
+- [vidstack/player](https://github.com/vidstack/player) - ALPHA: Collection of headless web components that make integrating media on the a web a breeze.
 - [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [stellar/freighter](https://github.com/stellar/freighter) - Stellar chrome extension
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
@@ -8929,7 +8929,7 @@
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
 - [dapilab/react-nice-avatar](https://github.com/dapilab/react-nice-avatar) - react library for generating avatar
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 - [egoist/preader](https://github.com/egoist/preader) - Extract the main content from a web page.
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful 👕
@@ -9108,6 +9108,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [wakirin/Litepicker](https://github.com/wakirin/Litepicker) - Date range picker - lightweight, no dependencies
 - [duetds/date-picker](https://github.com/duetds/date-picker) - Duet Date Picker is an open source version of Duet Design System’s accessible date picker. Try live example at https://duetds.github.io/date-picker/
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [magiclabs/magic-js](https://github.com/magiclabs/magic-js) - Magic browser/React Native JavaScript SDK is your entry-point to integrating passwordless authentication inside your application.
 - [magiclabs/magic-admin-js](https://github.com/magiclabs/magic-admin-js) - Magic admin Node.js SDK makes it easy to leverage Decentralized ID tokens to protect routes and restricted resources for your application.
 - [contentful/forma-36](https://github.com/contentful/forma-36) - A design system by Contentful
@@ -9734,7 +9735,7 @@
 - [dabbott/javascript-playgrounds](https://github.com/dabbott/javascript-playgrounds) - An interactive JavaScript sandbox
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
-- [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
+- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum, based on Vulcan JS
 - [oktapodia/coinwatch](https://github.com/oktapodia/coinwatch) - Track your cryptocurrencies from your Osx menubar
