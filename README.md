@@ -121,7 +121,7 @@
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
-- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “POLARDB_11_STABLE” is the stable branch which is based on PostgreSQL 11.9. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
+- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
 - [digital-fabric/libev_scheduler](https://github.com/digital-fabric/libev_scheduler) - A libev-based fiber scheduler for Ruby 3.0
 - [picoruby/picoruby](https://github.com/picoruby/picoruby) - PicoRuby is an integration of PicoRuby compiler with mruby/c VM for one-chip microcontrollers
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -617,7 +617,7 @@
 
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
 - [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 9, Debian 10, and Debian 11.
-- [linuxserver/docker-openvpn-as](https://github.com/linuxserver/docker-openvpn-as) - DEPRECATED
+- [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
 - [GraphQL-Portal/graphql-portal-docker](https://github.com/GraphQL-Portal/graphql-portal-docker) - Docker builds for GraphQL Portal Gateway and Dashboard
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [render-examples/hasura-graphql](https://github.com/render-examples/hasura-graphql) - Hasura GraphQL Engine on Render
@@ -710,6 +710,7 @@
 
 - [stellar/starbridge](https://github.com/stellar/starbridge) - Software that facilitates bridge builders who are connecting the Stellar network to other blockchains.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
@@ -1480,6 +1481,9 @@
 
 ## JavaScript 
 
+- [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
+- [h2non/videoshow](https://github.com/h2non/videoshow) - Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg
+- [urbica/react-map-gl](https://github.com/urbica/react-map-gl) - React Component Library for Mapbox GL JS
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest JavaScript animation engine on the web
 - [videojs/videojs-vr](https://github.com/videojs/videojs-vr) - A plugin to add 360 and VR video support to video.js.
 - [videojs/http-streaming](https://github.com/videojs/http-streaming) - HLS, DASH, and future HTTP streaming protocols library for video.js
@@ -3673,7 +3677,6 @@
 - [brianmario/jquery-infinite-scroll](https://github.com/brianmario/jquery-infinite-scroll) - jQuery Infinite Scroll plugin
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [posabsolute/jQuery-Validation-Engine](https://github.com/posabsolute/jQuery-Validation-Engine) - jQuery form validation plugin
-- [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [defunkt/hurl](https://github.com/defunkt/hurl) - Hurl makes HTTP requests.
 - [skaes/logjam_core](https://github.com/skaes/logjam_core) - the engine which powers the logjam application
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
@@ -4011,6 +4014,7 @@
 
 ## Others 
 
+- [hexdevs/ruby-best-practices-list](https://github.com/hexdevs/ruby-best-practices-list) - A list of well-written Ruby codebases to help you extract the best practices.
 - [awslabs/smithy-vscode](https://github.com/awslabs/smithy-vscode) - A Visual Studio Code extension to provide syntax highlighting for the Smithy IDL.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -5040,7 +5044,7 @@
 - [nepalez/pg_trunk](https://github.com/nepalez/pg_trunk) - Empower PostgreSQL migrations in Rails app
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects.
 - [zverok/yard-junk](https://github.com/zverok/yard-junk) - Get rid of the junk in your YARD docs
-- [bullet-train-co/bullet_train-roles](https://github.com/bullet-train-co/bullet_train-roles) - 
+- [bullet-train-co/bullet_train-roles](https://github.com/bullet-train-co/bullet_train-roles) - Bullet Train Roles provides a Yaml-based configuration layer on top of CanCanCan.
 - [awslabs/smithy-ruby](https://github.com/awslabs/smithy-ruby) - 
 - [ruby/set](https://github.com/ruby/set) - This library provides the Set class, which deals with a collection of unordered values with no duplicates.
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
@@ -5231,7 +5235,7 @@
 - [kaka-ruto/graphql-on-rails-auth](https://github.com/kaka-ruto/graphql-on-rails-auth) - GraphQL on Rails Auth System
 - [spatie/ruby-ray](https://github.com/spatie/ruby-ray) - Easily debug Ruby applications
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
-- [GGrassiant/api-i18n-boilerplate](https://github.com/GGrassiant/api-i18n-boilerplate) - My i18n Rails api template for side projects
+- [GGrassiant/api-i18n-boilerplate](https://github.com/GGrassiant/api-i18n-boilerplate) - My i18n Rails api template for side projects 💎
 - [moneybird/active-date-range](https://github.com/moneybird/active-date-range) - Powerful DateRanges for Ruby and ActiveSupport
 - [adzap/active_enum](https://github.com/adzap/active_enum) - Define enum classes in Rails and use them to enumerate ActiveRecord attributes, with I18n support
 - [ledermann/templatus](https://github.com/ledermann/templatus) - Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3
@@ -7985,6 +7989,7 @@
 - [flavorjones/loofah](https://github.com/flavorjones/loofah) - HTML/XML manipulation and sanitization based on Nokogiri
 - [grosser/parallel](https://github.com/grosser/parallel) - Ruby: parallel processing made simple and fast
 - [hulihanapplications/Opal](https://github.com/hulihanapplications/Opal) - Opal is a powerful Item & Content Management System powered by Ruby on Rails. You can use Opal for blogging, listing items, storing files/images/videos, or for powering any awesome website.
+- [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [twilio/twilio-ruby](https://github.com/twilio/twilio-ruby) - A Ruby gem for communicating with the Twilio API and generating TwiML
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [mongodb/mongoid](https://github.com/mongodb/mongoid) - Ruby ODM framework for MongoDB
@@ -8573,6 +8578,13 @@
 
 ## TypeScript 
 
+- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vitejs/vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A vite framework for building react app. Especially suitable for document site and demos/playgrounds of react components.
+- [scenify/scenify-sdk](https://github.com/scenify/scenify-sdk) - SDK for making design editors for the web.
+- [scenify/design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
+- [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - A fully automated News Podcast Maker
+- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [artsy/fresnel](https://github.com/artsy/fresnel) - An SSR compatible approach to CSS media query based responsive layouts for React.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [discord/react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend) - An add-on backend for `react-dnd` that provides support for keyboards and screenreaders by default.
@@ -8885,7 +8897,6 @@
 - [vuejs/jsx-next](https://github.com/vuejs/jsx-next) - JSX for Vue 3
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you the foundation for building high quality, accessible, and customizable Vue.js Design Systems.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -9902,7 +9913,7 @@
 
 ## Vue 
 
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [CharlieDigital/vue3-pinia-quasar-ts](https://github.com/CharlieDigital/vue3-pinia-quasar-ts) - A minimal template that hooks up Vue 3, Pinia (Vuex 5), Quasar, Vue Router 4, and TypeScript
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app) - Ionic Conference app ported to Vue
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
