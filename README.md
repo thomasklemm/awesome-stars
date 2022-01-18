@@ -911,7 +911,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [postgres-ai/postgres-checkup](https://github.com/postgres-ai/postgres-checkup) - Postgres Health Check and SQL Performance Analysis. :point_right: THIS IS A MIRROR OF https://gitlab.com/postgres-ai/postgres-checkup
 - [postgres-ai/joe](https://github.com/postgres-ai/joe) - Query optimization assistant :point_right: THIS IS A MIRROR OF https://gitlab.com/postgres-ai/joe
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Database Lab Engine (DLE) enables instant thin cloning for Postgres to scale the development process. DLE can run many independent Postgres copies on a single machine, helping you solve development, testing, SQL optimization, and troubleshooting tasks much faster.
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
@@ -8579,6 +8579,9 @@
 
 ## TypeScript 
 
+- [GetMural/Mural](https://github.com/GetMural/Mural) - Mural is a tool for visual storytelling. It’s a program that helps you sequence your visual story, and then generates everything needed for that story to be displayed on most modern web browsers and served from any web server.
+- [adonisjs/ace](https://github.com/adonisjs/ace) - Node.js framework for creating command line applications
+- [snakesilk/react-fullscreen](https://github.com/snakesilk/react-fullscreen) - Fullscreen helper component for React.
 - [marcusstenbeck/remotion-template-audiogram](https://github.com/marcusstenbeck/remotion-template-audiogram) - A template for making podcast video clips with Remotion.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vitejs/vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A vite framework for building react app. Especially suitable for document site and demos/playgrounds of react components.
@@ -8595,7 +8598,7 @@
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast alternative to Storybook. Powered by Vite.
-- [vidstack/player](https://github.com/vidstack/player) - ALPHA: Headless web components that make integrating media on the a web a breeze - alternative to Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - Video player built with headless web components to truly make it your own - alternative to Video.js.
 - [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [stellar/freighter](https://github.com/stellar/freighter) - Stellar chrome extension
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
@@ -8670,7 +8673,7 @@
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [dminkovsky/use-prosemirror](https://github.com/dminkovsky/use-prosemirror) - ProseMirror + React made easy
+- [ponymessenger/use-prosemirror](https://github.com/ponymessenger/use-prosemirror) - ProseMirror + React made easy
 - [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) - A helper library to use react-query more efficient, consistency
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
@@ -9054,7 +9057,7 @@
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [aerogear/graphql-metadata](https://github.com/aerogear/graphql-metadata) - Annotate your graphql schema with lightweight directives
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [amplication/prisma-schema-dsl](https://github.com/amplication/prisma-schema-dsl) - JavaScript interface for Prisma Schema DSL
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [RStankov/FocusedTask](https://github.com/RStankov/FocusedTask) - MacOS menu bar todo app built with Electron, React and Redux. It goals is to help you do deep work.
@@ -9226,7 +9229,7 @@
 - [cdk-patterns/serverless](https://github.com/cdk-patterns/serverless) - This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [dabit3/cdk-graphql-backend](https://github.com/dabit3/cdk-graphql-backend) - A real-time GraphQL API deployed with CDK using AWS AppSync, AWS Lambda, and DynamoDB
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [n1ru4l/graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
