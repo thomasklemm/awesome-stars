@@ -1156,7 +1156,6 @@
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
 - [creativetimofficial/notus-js](https://github.com/creativetimofficial/notus-js) - Notus JS: Free Tailwind CSS UI Kit and Admin
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [factbook/factbook](https://github.com/factbook/factbook) - factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -1481,6 +1480,7 @@
 
 ## JavaScript 
 
+- [serverless/cloud](https://github.com/serverless/cloud) - Serverless Cloud makes building, deploying, and managing serverless applications easier and more accessible to everyone.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
 - [h2non/videoshow](https://github.com/h2non/videoshow) - Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg
@@ -1706,7 +1706,7 @@
 - [beyondcode/tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) - Tailwind CSS JIT in your browser
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ForestAdmin/forest-express](https://github.com/ForestAdmin/forest-express) - 🧱 Dependency of Express Lianas for Forest Admin
-- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -1746,6 +1746,7 @@
 - [acode/copenhagen](https://github.com/acode/copenhagen) - Free, lightweight and hackable open source code editor for the web
 - [praveenjuge/windstrap](https://github.com/praveenjuge/windstrap) - Tailwind CSS with Bootstrap JS
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) - 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app) - :email: The desktop app for MJML
 - [tophat/yvm](https://github.com/tophat/yvm) - 🧶 Manage multiple versions of Yarn
 - [powerhome/playbook](https://github.com/powerhome/playbook) - Playbook Design System
@@ -2374,7 +2375,7 @@
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [lukeed/flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache
 - [heroku/heroku-accounts](https://github.com/heroku/heroku-accounts) - Helps use multiple accounts on Heroku.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - A high efficent browser driver on top of puppeteer, ready for production scenarios.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The high efficent browser driver on top of puppeteer, ready for production scenarios.
 - [jxnblk/mdx-docs](https://github.com/jxnblk/mdx-docs) - :memo: Document and develop React components with MDX and Next.js
 - [KidkArolis/jetpack](https://github.com/KidkArolis/jetpack) - 🚀 Jetpack – Webpack made more convenient.
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
@@ -4675,6 +4676,8 @@
 
 ## Python 
 
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guess work.
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [Clivern/Pindo](https://github.com/Clivern/Pindo) - 🐺 Securely Build and Run Code in Docker.
 - [Clivern/Cattle](https://github.com/Clivern/Cattle) - 🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.
@@ -5042,6 +5045,7 @@
 
 ## Ruby 
 
+- [infinum/default_rails_template](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
 - [nepalez/pg_trunk](https://github.com/nepalez/pg_trunk) - Empower PostgreSQL migrations in Rails app
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects.
 - [zverok/yard-junk](https://github.com/zverok/yard-junk) - Get rid of the junk in your YARD docs
@@ -8579,6 +8583,9 @@
 
 ## TypeScript 
 
+- [maincode-org/maincode-ui](https://github.com/maincode-org/maincode-ui) - 🚀 A collection of freely available React.js UI components by Maincode!
+- [hyperledger/cactus](https://github.com/hyperledger/cactus) - Hyperledger Cactus is a new approach to the blockchain interoperability problem
+- [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
 - [GetMural/Mural](https://github.com/GetMural/Mural) - Mural is a tool for visual storytelling. It’s a program that helps you sequence your visual story, and then generates everything needed for that story to be displayed on most modern web browsers and served from any web server.
 - [adonisjs/ace](https://github.com/adonisjs/ace) - Node.js framework for creating command line applications
 - [snakesilk/react-fullscreen](https://github.com/snakesilk/react-fullscreen) - Fullscreen helper component for React.
