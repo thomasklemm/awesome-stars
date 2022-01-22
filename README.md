@@ -213,6 +213,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
@@ -1480,6 +1481,9 @@
 
 ## JavaScript 
 
+- [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
+- [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [dotcore64/i18next-fetch-backend](https://github.com/dotcore64/i18next-fetch-backend) - Fetch i18next translations with the fetch API
 - [i18next/i18next-icu](https://github.com/i18next/i18next-icu) - i18nFormat plugin to use ICU format with i18next
@@ -2035,6 +2039,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
 - [frappe/frappejs](https://github.com/frappe/frappejs) - Node + Electron + Vue based metadata web framework (inspired by Frappe)
+- [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [absinthe-graphql/absinthe-socket](https://github.com/absinthe-graphql/absinthe-socket) - Core JavaScript support for Absinthe WS-based operations
@@ -2862,7 +2867,7 @@
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
-- [airbnb/react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+- [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [adeekshith/netflix-categories](https://github.com/adeekshith/netflix-categories) - Unlock Netflix Hidden Categories With This Browser Extension
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [sendgrid/docs](https://github.com/sendgrid/docs) - Repository of Twilio SendGrid's product documentation.
@@ -5049,6 +5054,9 @@
 
 ## Ruby 
 
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails
+- [rails/dartsass-rails](https://github.com/rails/dartsass-rails) - Integrate Dart Sass with the asset pipeline in Rails
+- [testdouble/maybe_later](https://github.com/testdouble/maybe_later) - Run code after the current Rack response or Rails action completes
 - [ledermann/templatus-hotwire](https://github.com/ledermann/templatus-hotwire) - Opinionated template for starting new web applications with Ruby on Rails and Hotwire
 - [infinum/default_rails_template](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
 - [nepalez/pg_trunk](https://github.com/nepalez/pg_trunk) - Empower PostgreSQL migrations in Rails app
@@ -7802,7 +7810,6 @@
 - [thoughtbot/griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails
 - [Arjeno/validates_belongs_to](https://github.com/Arjeno/validates_belongs_to) - Validates wether a Rails association belongs to the same owner
 - [apigy/selfstarter](https://github.com/apigy/selfstarter) - Roll your own crowdfunding
-- [xdite/bootstrappers](https://github.com/xdite/bootstrappers) - Bootstrappers is the base Rails application using Bootstrap template and other goodies.
 - [ashchan/timeago-rails](https://github.com/ashchan/timeago-rails) - Use smart-time-ago with your Rails 3 app.
 - [davejacobs/letters](https://github.com/davejacobs/letters) - A tiny debugging library for Ruby
 - [ndbroadbent/turbo-sprockets-rails3](https://github.com/ndbroadbent/turbo-sprockets-rails3) - Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets
@@ -8588,6 +8595,9 @@
 
 ## TypeScript 
 
+- [inertiajs/server](https://github.com/inertiajs/server) - Inertia.js (SSR) Server
+- [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
+- [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [contentful/field-editors](https://github.com/contentful/field-editors) - React components and extensions for building Contentful entry editor
 - [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions) - 
 - [Shopify/remote-ui](https://github.com/Shopify/remote-ui) - 
@@ -8918,7 +8928,7 @@
 - [vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx) - JSX for Vue 3
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
-- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI UX DX Components library that gives you the foundation for building high quality, accessible, and customizable Vue.js Design Systems.
+- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
@@ -9682,7 +9692,7 @@
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
 - [tannerlinsley/react-charts](https://github.com/tannerlinsley/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [resugar/resugar](https://github.com/resugar/resugar) - Rewrite your JavaScript & TypeScript source code with sweet new features.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
@@ -9976,7 +9986,6 @@
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-- [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Akryum/awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using
