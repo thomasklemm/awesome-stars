@@ -747,7 +747,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
@@ -1263,7 +1263,7 @@
 - [will-stone/quick-select](https://github.com/will-stone/quick-select) - A jQuery plugin for quick selection of common options in select boxes. Selectual.
 - [devinhunt/typebase.css](https://github.com/devinhunt/typebase.css) - A starting point for good typography on the web.
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
-- [planetruby/conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2021? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
+- [planetruby/conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2022? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -1481,6 +1481,7 @@
 
 ## JavaScript 
 
+- [matt-taylor/rails_base](https://github.com/matt-taylor/rails_base) - Starter Engine for Rails projects. Includes authentication, administrative capabilities, auditing, MultiFactor authentication, and insane amount of extensibility.
 - [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
 - [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
@@ -4025,6 +4026,8 @@
 
 ## Others 
 
+- [asyraffff/Open-Source-Ruby-and-Rails-Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) - Awesome Ruby and Rails Open Source applications 🌈
+- [neinteractiveliterature/civil_service](https://github.com/neinteractiveliterature/civil_service) - A tiny service object framework for Rails apps
 - [hexdevs/ruby-best-practices-list](https://github.com/hexdevs/ruby-best-practices-list) - A list of well-written Ruby codebases to help you extract the best practices.
 - [awslabs/smithy-vscode](https://github.com/awslabs/smithy-vscode) - A Visual Studio Code extension to provide syntax highlighting for the Smithy IDL.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -5054,6 +5057,33 @@
 
 ## Ruby 
 
+- [davetron5000/gli](https://github.com/davetron5000/gli) - Make awesome command-line applications the easy way
+- [jcypret/hashid-rails](https://github.com/jcypret/hashid-rails) - Use Hashids (http://hashids.org/ruby/) in your Rails app ActiveRecord models.
+- [taylorthurlow/interaktor](https://github.com/taylorthurlow/interaktor) - a fork of collectiveidea/interactor which takes a more strict approach to service objects
+- [brycesenz/simple_action](https://github.com/brycesenz/simple_action) - A simple Service Object class for internal services, API endpoints, etc.
+- [light-ruby/light-services](https://github.com/light-ruby/light-services) - Implementation of Service Object pattern for Ruby / Rails
+- [tstaetter/nanites](https://github.com/tstaetter/nanites) - Command pattern framework for Ruby
+- [lukaszsliwa/action_action](https://github.com/lukaszsliwa/action_action) - Simpler way to build and use Service Objects in Ruby.
+- [Cado-Labs/smart_operation](https://github.com/Cado-Labs/smart_operation) - Smart implementation of the most-used programming pattern - Service Object. Powered by smart_injection, smart_container, smart_types and smart_initializer (https://github.com/smart-rb)
+- [drexed/lite-command](https://github.com/drexed/lite-command) - Ruby Command based framework (aka service objects)
+- [adham90/command_service_object](https://github.com/adham90/command_service_object) - :package: :octopus: command_service_object gem helps you to generate service and command objects using rails generator.
+- [markets/serviz](https://github.com/markets/serviz) - :triangular_ruler: Command object Interface for Ruby
+- [smart-rb/smart_operation](https://github.com/smart-rb/smart_operation) - Smart implementation of the most-used programming pattern - Service Object. Powered by smart_injection, smart_container, smart_types and smart_initializer.
+- [operators-rb/operators-service](https://github.com/operators-rb/operators-service) - Service Object based on Either Monad
+- [iago-silva/service_it](https://github.com/iago-silva/service_it) - [Service Objects] Simple gem to keep your controllers and models slim and readable
+- [simple-and-powerful/act-form](https://github.com/simple-and-powerful/act-form) - The simple way to create form objects or command/service objects with ActiveModel
+- [fidelisrafael/nifty_services](https://github.com/fidelisrafael/nifty_services) - The dead simple services object oriented layer for Ruby applications to give robustness and cohesion back to your code.
+- [chloerei/active_service](https://github.com/chloerei/active_service) - ActiveService is a service object framework.
+- [antulik/active_interaction-extras](https://github.com/antulik/active_interaction-extras) - Useful extensions for active_interaction gem
+- [jspillers/simple_service](https://github.com/jspillers/simple_service) - Lightweight service object library for Ruby
+- [lukaszsliwa/active_action](https://github.com/lukaszsliwa/active_action) - A simple way to build and use Service Objects in Ruby.
+- [fnordfish/teckel](https://github.com/fnordfish/teckel) - Ruby operations with enforced contracts for input/output/error data structures
+- [Fretadao/f_service](https://github.com/Fretadao/f_service) - Simpler, safer and more composable operations
+- [tranquangvu/go-rails-template](https://github.com/tranquangvu/go-rails-template) - A template to build large scale web applications in Ruby On Rails. Focus on extending, performance and best practices
+- [yhirano55/poro-rails](https://github.com/yhirano55/poro-rails) - Simple Rails Generators for Plain Old Ruby Objects, Form Objects, and Service Objects
+- [ergoserv/auxiliary_rails](https://github.com/ergoserv/auxiliary_rails) - 💎 AuxiliaryRails gem - a collection of classes, scripts, generators for Ruby on Rails helping you get things done, better and faster.
+- [nxt-insurance/nxt_pipeline](https://github.com/nxt-insurance/nxt_pipeline) - A simple orchestration framework to reduce over your (service) objects like a pro.
+- [sunny/actor](https://github.com/sunny/actor) - Composable Ruby service objects
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails
 - [rails/dartsass-rails](https://github.com/rails/dartsass-rails) - Integrate Dart Sass with the asset pipeline in Rails
 - [testdouble/maybe_later](https://github.com/testdouble/maybe_later) - Run code after the current Rack response or Rails action completes
@@ -9963,7 +9993,7 @@
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
 - [arnauddoub/formyle](https://github.com/arnauddoub/formyle) - Advanced Vue 3 form conception
 - [malikzh/reforms](https://github.com/malikzh/reforms) - WIP: Vue 3 and Bootstrap 5 forms and cards generator
-- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [SevenOutman/Hubble](https://github.com/SevenOutman/Hubble) - :telescope: Travel through GitHub Stars' history
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
