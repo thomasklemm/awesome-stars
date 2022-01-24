@@ -709,6 +709,7 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
 - [stellar/starbridge](https://github.com/stellar/starbridge) - Software that facilitates bridge builders who are connecting the Stellar network to other blockchains.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1481,6 +1482,7 @@
 
 ## JavaScript 
 
+- [datocms/nextjs-demo](https://github.com/datocms/nextjs-demo) - Next.js powered blog with DatoCMS integration
 - [matt-taylor/rails_base](https://github.com/matt-taylor/rails_base) - Starter Engine for Rails projects. Includes authentication, administrative capabilities, auditing, MultiFactor authentication, and insane amount of extensibility.
 - [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
 - [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework
@@ -2937,7 +2939,6 @@
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [musically-ut/appreciate](https://github.com/musically-ut/appreciate) - ✨ Don't forget to say thank you!
-- [fermentation/ferment](https://github.com/fermentation/ferment) - A peer-to-peer audio publishing and streaming application. Think SoundCloud or Spotify, but entirely decentralized and free.
 - [Zacqary/rubix](https://github.com/Zacqary/rubix) - A Rubik's Cube built with CSS Animations, React, and Redux
 - [web-pal/DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
 - [flow-typed/flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
@@ -4026,6 +4027,7 @@
 
 ## Others 
 
+- [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [asyraffff/Open-Source-Ruby-and-Rails-Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) - Awesome Ruby and Rails Open Source applications 🌈
 - [neinteractiveliterature/civil_service](https://github.com/neinteractiveliterature/civil_service) - A tiny service object framework for Rails apps
 - [hexdevs/ruby-best-practices-list](https://github.com/hexdevs/ruby-best-practices-list) - A list of well-written Ruby codebases to help you extract the best practices.
@@ -4718,7 +4720,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
-- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
