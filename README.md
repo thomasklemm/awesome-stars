@@ -1213,6 +1213,7 @@
 - [frontarm/async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
 - [coinbase/salus](https://github.com/coinbase/salus) - Security scanner coordinator
 - [dostu/rails-graphql-realworld-example-app](https://github.com/dostu/rails-graphql-realworld-example-app) - Exemplary real world backend GraphQL API built with Ruby on Rails https://realworld.io
+- [tannerlinsley/react-charts](https://github.com/tannerlinsley/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - 📦 Module thinking, principles, design patterns and best practices.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -2883,7 +2884,6 @@
 - [callmecavs/gotem](https://github.com/callmecavs/gotem) - Copy to clipboard for modern browsers in less than 1kb.
 - [iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
 - [rowanmanning/joblint](https://github.com/rowanmanning/joblint) - Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.
-- [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [taggon/fonty](https://github.com/taggon/fonty) - A simple library and CLI tool for generating web fonts
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -3838,7 +3838,7 @@
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
-- [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
+- [ruby-ml/ml-stack](https://github.com/ruby-ml/ml-stack) - Machine learning Docker images for Ruby
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [k-sys/covid-19](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19
@@ -6083,8 +6083,8 @@
 - [ankane/thundersvm-ruby](https://github.com/ankane/thundersvm-ruby) - High performance parallel SVMs for Ruby
 - [ankane/youtokentome-ruby](https://github.com/ankane/youtokentome-ruby) - High performance unsupervised text tokenization for Ruby
 - [ankane/clockwork_web](https://github.com/ankane/clockwork_web) - A web interface for Clockwork
-- [ankane/lightgbm-ruby](https://github.com/ankane/lightgbm-ruby) - High performance gradient boosting for Ruby
-- [ankane/xgboost-ruby](https://github.com/ankane/xgboost-ruby) - High performance gradient boosting for Ruby
+- [ruby-ml/lightgbm-ruby](https://github.com/ruby-ml/lightgbm-ruby) - High performance gradient boosting for Ruby
+- [ruby-ml/xgboost-ruby](https://github.com/ruby-ml/xgboost-ruby) - High performance gradient boosting for Ruby
 - [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [ankane/midas-ruby](https://github.com/ankane/midas-ruby) - Edge stream anomaly detection for Ruby
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
@@ -9008,7 +9008,7 @@
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [ParamagicDev/mrujs](https://github.com/ParamagicDev/mrujs) - UJS for modern javascript.
-- [hayes/giraphql](https://github.com/hayes/giraphql) - GiraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
+- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL (formerly GiraphQL) is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [egoist/next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
@@ -9065,7 +9065,7 @@
 - [dabit3/cdk-appsync-neptune](https://github.com/dabit3/cdk-appsync-neptune) - A GraphQL API built with Amazon Neptune, AWS AppSync, and AWS Lambda
 - [tqwewe/prettier-plugin-tailwind](https://github.com/tqwewe/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
 - [appleple/smartblock](https://github.com/appleple/smartblock) - intuitive block based wysiwyg editor built with React and ProseMirror
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform. Drag and drop blocks to build internal tools, CRM, ERP in minutes.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform. | 极易扩展的无代码和低代码开发平台
 - [udecode/plate](https://github.com/udecode/plate) - A plugin framework for building rich text editors with slate.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [stipsan/react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Accessible ♿️, Delightful ✨, & Fast 🚀
@@ -9723,7 +9723,6 @@
 - [KATT/shop](https://github.com/KATT/shop) - 🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
-- [tannerlinsley/react-charts](https://github.com/tannerlinsley/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [resugar/resugar](https://github.com/resugar/resugar) - Rewrite your JavaScript & TypeScript source code with sweet new features.
@@ -9883,6 +9882,7 @@
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [FrDH/dotdotdot-js](https://github.com/FrDH/dotdotdot-js) - dotdotdot.js, advanced cross-browser ellipsis for multiple line content.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
