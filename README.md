@@ -710,6 +710,7 @@
 
 ## Go 
 
+- [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
 - [stellar/starbridge](https://github.com/stellar/starbridge) - Software that facilitates bridge builders who are connecting the Stellar network to other blockchains.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -730,7 +731,7 @@
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [valist-io/valist](https://github.com/valist-io/valist) - Web3-native software distribution system. Publish and install executables, Docker images, WebAssembly, and more. Powered by Ethereum, IPFS, and Filecoin.
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
-- [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the MeiliSearch API
+- [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the Meilisearch API
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
@@ -1128,6 +1129,8 @@
 
 ## HTML 
 
+- [GoogleForCreators/wp.stories.google](https://github.com/GoogleForCreators/wp.stories.google) - This repository contains the code for the Web Stories for WordPress landing page.
+- [hfpp2012/railstart-niceadmin](https://github.com/hfpp2012/railstart-niceadmin) - Backend admin dashboard management system based on Bootstrap 5 and NiceAdmin and Rails 7
 - [spotify/web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
@@ -1167,7 +1170,6 @@
 - [learn-awesome/learn](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - A modern Stimulus library delivering common JavaScript behaviors with a bunch of customizable controllers.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-- [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [planetruby/books](https://github.com/planetruby/books) - List of all Ruby books
 - [papodaca/graphql_playground-rails](https://github.com/papodaca/graphql_playground-rails) - An engine to provide GraphQL Playground on Rails
 - [planetruby/gems](https://github.com/planetruby/gems) - Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series
@@ -1484,6 +1486,8 @@
 
 ## JavaScript 
 
+- [GoogleForCreators/web-stories-wp](https://github.com/GoogleForCreators/web-stories-wp) - Web Stories for WordPress
+- [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [datocms/nextjs-demo](https://github.com/datocms/nextjs-demo) - Next.js powered blog with DatoCMS integration
 - [matt-taylor/rails_base](https://github.com/matt-taylor/rails_base) - Starter Engine for Rails projects. Includes authentication, administrative capabilities, auditing, MultiFactor authentication, and insane amount of extensibility.
 - [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
@@ -1916,7 +1920,7 @@
 - [Vincit/objection-find](https://github.com/Vincit/objection-find) - Build search queries for objection.js models using HTTP query parameters.
 - [gajus/graphql-deduplicator](https://github.com/gajus/graphql-deduplicator) - A GraphQL response deduplicator. Removes duplicate entities from the GraphQL response.
 - [gajus/format-graphql](https://github.com/gajus/format-graphql) - Formats GraphQL schema definition language (SDL) document.
-- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda
+- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [awspilot/dynamodb-oop](https://github.com/awspilot/dynamodb-oop) - Speak fluent DynamoDB, write code with fashion, I Promise() 😃
 - [serverless-cqrs/serverless-cqrs](https://github.com/serverless-cqrs/serverless-cqrs) - The main package for serverless-cqrs
 - [jeremydaly/serverless-mysql](https://github.com/jeremydaly/serverless-mysql) - A module for managing MySQL connections at SERVERLESS scale
@@ -2042,7 +2046,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
+- [frappe/datatable](https://github.com/frappe/datatable) - The Missing Javascript Datatable for the Web
 - [frappe/frappejs](https://github.com/frappe/frappejs) - Node + Electron + Vue based metadata web framework (inspired by Frappe)
 - [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [RecallGraph/RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
@@ -2557,7 +2561,6 @@
 - [c8r/iso](https://github.com/c8r/iso) - Build pages and prototypes with Lab UI components. No configuration or build setup required.
 - [c8r/kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing React component libraries
 - [c8r/x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat
-- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [planttheidea/utilities](https://github.com/planttheidea/utilities) - A collection of utilities used across projects
@@ -2661,7 +2664,6 @@
 - [vadimdemedes/lanterns](https://github.com/vadimdemedes/lanterns) - ⛩Write Markdown and get a GraphQL API for querying them for free
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
-- [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [GFTNetwork/stellar-federation-resolver-node](https://github.com/GFTNetwork/stellar-federation-resolver-node) - NodeJS implementation of Stellar Federation protocol
 - [alibaba/beidou](https://github.com/alibaba/beidou) - :milky_way: Isomorphic framework for server-rendered React apps
@@ -3896,6 +3898,7 @@
 ## Less 
 
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
+- [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [graphjs/graphjs](https://github.com/graphjs/graphjs) - A set of widgets for a meaningfully social web.
 - [danielfarrell/bootstrap-combobox](https://github.com/danielfarrell/bootstrap-combobox) - A combobox plugin that works with twitter bootstrap
 
@@ -4028,6 +4031,8 @@
 
 ## Others 
 
+- [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
+- [getstoryteller/storyteller-sample-web](https://github.com/getstoryteller/storyteller-sample-web) - Sample app showing integration with the Storyteller Web SDK for adding stories to your website
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [asyraffff/Open-Source-Ruby-and-Rails-Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) - Awesome Ruby and Rails Open Source applications 🌈
 - [neinteractiveliterature/civil_service](https://github.com/neinteractiveliterature/civil_service) - A tiny service object framework for Rails apps
@@ -4562,7 +4567,7 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
 - [innocenzi/laravel-vite](https://github.com/innocenzi/laravel-vite) - Vite integration for Laravel
-- [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the MeiliSearch API
+- [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the Meilisearch API
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [tonysm/globalid-laravel](https://github.com/tonysm/globalid-laravel) - Identify app models with a URI. Inspired by the globalid gem.
 - [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte) - 
@@ -4705,7 +4710,7 @@
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to provide an intuitive user experience to databases.
-- [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into MeiliSearch
+- [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
@@ -5058,6 +5063,7 @@
 
 ## Ruby 
 
+- [alexdalitz/dnsruby](https://github.com/alexdalitz/dnsruby) - Dnsruby is a feature-complete DNS(SEC) client for Ruby, as used by many of the world's largest DNS registries and the OpenDNSSEC project
 - [davetron5000/gli](https://github.com/davetron5000/gli) - Make awesome command-line applications the easy way
 - [jcypret/hashid-rails](https://github.com/jcypret/hashid-rails) - Use Hashids (http://hashids.org/ruby/) in your Rails app ActiveRecord models.
 - [taylorthurlow/interaktor](https://github.com/taylorthurlow/interaktor) - a fork of collectiveidea/interactor which takes a more strict approach to service objects
@@ -5336,7 +5342,7 @@
 - [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
 - [mirego/activerecord_json_validator](https://github.com/mirego/activerecord_json_validator) - 🔩 ActiveRecord::JSONValidator makes it easy to validate JSON attributes against a JSON schema.
 - [nulogy/nulogy_graphql_api](https://github.com/nulogy/nulogy_graphql_api) - Standard tooling for building GraphQL APIs
-- [meilisearch/meilisearch-rails](https://github.com/meilisearch/meilisearch-rails) - MeiliSearch integration for Ruby on Rails
+- [meilisearch/meilisearch-rails](https://github.com/meilisearch/meilisearch-rails) - Meilisearch integration for Ruby on Rails
 - [HoneyryderChuck/idnx](https://github.com/HoneyryderChuck/idnx) - Encode and decode internationalized domain names using libidn2, winnls and ruby FFI
 - [WeTransfer/zip_tricks](https://github.com/WeTransfer/zip_tricks) - Compact ZIP file writing/reading for Ruby, for streaming applications
 - [ruby/csv](https://github.com/ruby/csv) - CSV Reading and Writing
@@ -5416,7 +5422,7 @@
 - [holidays/definitions](https://github.com/holidays/definitions) - Holiday definition files. You deserve a holiday!
 - [jubishop/duration](https://github.com/jubishop/duration) - Ruby class representing a duration in time.
 - [andriy-baran/steel_wheel](https://github.com/andriy-baran/steel_wheel) - Steel Wheel - exactly what you need when you are on Rails
-- [ohmysmtp/ohmysmtp-rails](https://github.com/ohmysmtp/ohmysmtp-rails) - A plugin for ActionMailer to send emails via OhMySMTP.com
+- [mailpace/mailpace-rails](https://github.com/mailpace/mailpace-rails) - A plugin for ActionMailer to send emails via OhMySMTP.com
 - [dnsimple/dnsimple-ruby](https://github.com/dnsimple/dnsimple-ruby) - The DNSimple API client for Ruby.
 - [rubocop/rubocop-rails](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
 - [coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow) - 🏦 ⌛ A time banking system
@@ -8192,7 +8198,7 @@
 - [robertDurst/stellar-vanity-address-generator](https://github.com/robertDurst/stellar-vanity-address-generator) - Generate Stellar Vanity Wallets
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-- [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the MeiliSearch API.
+- [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the Meilisearch API.
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [rubytogether/kirby](https://github.com/rubytogether/kirby) - 
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite
@@ -8278,14 +8284,14 @@
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
-- [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for Ruby
+- [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
@@ -8627,6 +8633,9 @@
 
 ## TypeScript 
 
+- [unseen1980/awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
+- [abeledovictor/react-google-stories](https://github.com/abeledovictor/react-google-stories) - React library to use google stories easily
+- [vikejs/telefunc](https://github.com/vikejs/telefunc) - Remote Functions. Instead of API.
 - [inertiajs/server](https://github.com/inertiajs/server) - Inertia.js (SSR) Server
 - [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
@@ -8749,7 +8758,7 @@
 - [ubilabs/google-maps-react-hooks](https://github.com/ubilabs/google-maps-react-hooks) - Add a Google Map to your project using the React Hooks API.
 - [Tintef/react-google-places-autocomplete](https://github.com/Tintef/react-google-places-autocomplete) - React Google Places Autocomplete input -- fully customizable
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) - A suite of 3D-enabled data editing overlays, suitable for deck.gl
-- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visually build pages and frontends, lightning-fast. Plug into your React codebase. Empower anyone to ship.
+- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [googlemaps/js-three](https://github.com/googlemaps/js-three) - Add ThreeJS objects to Google Maps.
 - [googlemaps/js-api-loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
@@ -8860,8 +8869,8 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
-- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use MeiliSearch with InstantSearch.
-- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - Javascript client for the MeiliSearch API
+- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
+- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
 - [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
@@ -9767,6 +9776,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [deamme/laco](https://github.com/deamme/laco) - ⚡️Ultra lightweight state management for React and Inferno
+- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [prisma-labs/prisma-binding](https://github.com/prisma-labs/prisma-binding) - GraphQL Binding for Prisma 1 (using GraphQL schema delegation)
 - [graphql/vscode-graphql](https://github.com/graphql/vscode-graphql) - VSCode GraphQL extension (autocompletion, go-to definition, syntax highlighting)
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
@@ -9814,6 +9824,7 @@
 - [jackkleeman/stellar-stripe-anchor](https://github.com/jackkleeman/stellar-stripe-anchor) - Node server for running a USD anchor on Stellar using Stripe
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
+- [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [coinbase/coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit) - DEPRECATED — The Coinbase Pro trading toolkit
