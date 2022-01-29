@@ -717,7 +717,7 @@
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [astroband/astrologer](https://github.com/astroband/astrologer) - Index Stellar historical data with ElasticSearch
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -4031,6 +4031,8 @@
 
 ## Others 
 
+- [ampproject/wg-stories](https://github.com/ampproject/wg-stories) - Responsible for implementing and improving AMP's story format (amp-story). Facilitator: @newmuis
+- [heyalexej/awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [getstoryteller/storyteller-sample-web](https://github.com/getstoryteller/storyteller-sample-web) - Sample app showing integration with the Storyteller Web SDK for adding stories to your website
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
@@ -5063,6 +5065,9 @@
 
 ## Ruby 
 
+- [alphagov/signon](https://github.com/alphagov/signon) - Single sign-on service for GOV.UK
+- [wildbit/postmark-rails](https://github.com/wildbit/postmark-rails) - Official integration library for using Rails and ActionMailer with the Postmark HTTP API
+- [zmbacker/enum_help](https://github.com/zmbacker/enum_help) - Help ActiveRecord::Enum feature to work fine with I18n and simple_form.
 - [alexdalitz/dnsruby](https://github.com/alexdalitz/dnsruby) - Dnsruby is a feature-complete DNS(SEC) client for Ruby, as used by many of the world's largest DNS registries and the OpenDNSSEC project
 - [davetron5000/gli](https://github.com/davetron5000/gli) - Make awesome command-line applications the easy way
 - [jcypret/hashid-rails](https://github.com/jcypret/hashid-rails) - Use Hashids (http://hashids.org/ruby/) in your Rails app ActiveRecord models.
@@ -5908,7 +5913,7 @@
 - [sunny/graph_attack](https://github.com/sunny/graph_attack) - Ruby GraphQL analyser for blocking & throttling calls by IP
 - [anjlab/graphql_authorize](https://github.com/anjlab/graphql_authorize) - Authorization helpers for ruby-graphql fields
 - [RenoFi/graphql-pagination](https://github.com/RenoFi/graphql-pagination) - Page-based pagination for graphql-ruby
-- [broadlume/dry-graphql](https://github.com/broadlume/dry-graphql) - Integrate dry-types/dry-struct with graphql-ruby
+- [ianks/dry-graphql](https://github.com/ianks/dry-graphql) - Integrate dry-types/dry-struct with graphql-ruby
 - [parablesoft/stardust_rails](https://github.com/parablesoft/stardust_rails) - 
 - [QultureRocks/graphqr](https://github.com/QultureRocks/graphqr) - Extensions and helpers for graphql-ruby
 - [samesystem/active_graphql](https://github.com/samesystem/active_graphql) - 
@@ -8186,6 +8191,8 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
@@ -8633,6 +8640,9 @@
 
 ## TypeScript 
 
+- [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
+- [cdklabs/jsii-docgen](https://github.com/cdklabs/jsii-docgen) - Generates reference documentation for jsii modules
+- [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
 - [unseen1980/awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
 - [abeledovictor/react-google-stories](https://github.com/abeledovictor/react-google-stories) - React library to use google stories easily
 - [vikejs/telefunc](https://github.com/vikejs/telefunc) - Remote Functions. Instead of API.
