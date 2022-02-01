@@ -1181,7 +1181,7 @@
 - [stimulus-components/stimulus-checkbox-select-all](https://github.com/stimulus-components/stimulus-checkbox-select-all) - A Stimulus controller for managing checkbox lists.
 - [harryheman/Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template) - Modern HTML Starter Template
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
-- [stefanfrede/11st-starter-kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Snowpack with Tailwind CSS and Alpine.js.
+- [stefanfrede/11st-starter-kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 - [thoughtbot/ruby-science](https://github.com/thoughtbot/ruby-science) - The reference for writing fantastic Rails applications
 - [customink/lamby-cookiecutter](https://github.com/customink/lamby-cookiecutter) - AWS SAM Cookiecutter to Quick Start Rails & Lambda 🐑🛤
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - 
@@ -1531,7 +1531,6 @@
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
 - [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [use-cookie-consent/use-cookie-consent-react](https://github.com/use-cookie-consent/use-cookie-consent-react) - Tiny (&lt;2kB) useCookieConsent hook for React apps
 - [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
@@ -4711,6 +4710,7 @@
 - [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - Library for creating dataframes from functions.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
@@ -6058,7 +6058,7 @@
 - [t6d/smart_properties](https://github.com/t6d/smart_properties) - Ruby accessors on steroids
 - [t6d/composable_operations](https://github.com/t6d/composable_operations) - Composable Operations is a tool set for creating operations and assembling multiple of these operations in operation pipelines.
 - [t6d/active_operation](https://github.com/t6d/active_operation) - ActiveOperation is a micro-framework for modelling business processes
-- [Theorem/coercive](https://github.com/Theorem/coercive) - Ruby library to validate and coerce user input
+- [TheoremOne/coercive](https://github.com/TheoremOne/coercive) - Ruby library to validate and coerce user input
 - [jetruby/apollo_upload_server-ruby](https://github.com/jetruby/apollo_upload_server-ruby) - 
 - [komposable/komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Ruby on Rails, based on components
 - [archonic/limestone-accounts](https://github.com/archonic/limestone-accounts) - Boilerplate Rails 5.2 multitenant SaaS application with webpack and Docker integration. Billing is scoped to accounts.
@@ -8202,6 +8202,7 @@
 
 ## Rust 
 
+- [valeriansaliou/raider](https://github.com/valeriansaliou/raider) - 🐎 Affiliates dashboard. Used by affiliates to generate tracking codes and review their balance.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -8651,6 +8652,7 @@
 
 ## TypeScript 
 
+- [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
 - [cdklabs/jsii-docgen](https://github.com/cdklabs/jsii-docgen) - Generates reference documentation for jsii modules
 - [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
@@ -9062,7 +9064,7 @@
 - [whats-good/uniform-graphql](https://github.com/whats-good/uniform-graphql) - Code-first GraphQL apis in TypeScript with complete & robust end-to-end type safety.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [apollographql/apollo-workbench-vscode](https://github.com/apollographql/apollo-workbench-vscode) - Apollo Workbench is a design tool that facilitates planning changes to your supergraph. It enables you to understand the overall composition and execution of any given query at design time.
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
@@ -9230,7 +9232,7 @@
 - [magiclabs/magic-js](https://github.com/magiclabs/magic-js) - Magic browser/React Native JavaScript SDK is your entry-point to integrating passwordless authentication inside your application.
 - [magiclabs/magic-admin-js](https://github.com/magiclabs/magic-admin-js) - Magic admin Node.js SDK makes it easy to leverage Decentralized ID tokens to protect routes and restricted resources for your application.
 - [contentful/forma-36](https://github.com/contentful/forma-36) - A design system by Contentful
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [kcwinner/cdk-appsync-transformer-demo](https://github.com/kcwinner/cdk-appsync-transformer-demo) - Accompanying repo for blog post regarding CDK AppSync Transformations
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-project) - Projen managed AppSync Transformer project
 - [kcwinner/advocacy](https://github.com/kcwinner/advocacy) - Somewhere to share my code for blog posts, tweets, and public availability
@@ -9430,7 +9432,7 @@
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [hoeck/typesafe-query-builder](https://github.com/hoeck/typesafe-query-builder) - Generate SQL queries leveraging type inference and Postgres Json functions
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [opticdev/optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [contember/engine](https://github.com/contember/engine) - Define your own data model with TypeScript and instantly turn it into a GraphQL API.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
