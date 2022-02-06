@@ -1684,7 +1684,7 @@
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [leezng/vue-json-pretty](https://github.com/leezng/vue-json-pretty) - A JSON tree view component that is easy to use and also supports data selection.
 - [imgly/cesdk-web-examples](https://github.com/imgly/cesdk-web-examples) - Examples Repository for CreativeEditor SDK
-- [thysultan/stylis.js](https://github.com/thysultan/stylis.js) - light – weight css preprocessor
+- [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
 - [storyblok/storyblok](https://github.com/storyblok/storyblok) - You found an issue with one of our products? - submit it here as an issue!
 - [longshotlabs/simpl-schema](https://github.com/longshotlabs/simpl-schema) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
 - [alibaba/scalable-form-platform](https://github.com/alibaba/scalable-form-platform) - A solution for building dynamic web forms with visual editor
@@ -2464,7 +2464,7 @@
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-- [JodusNodus/react-qr-reader](https://github.com/JodusNodus/react-qr-reader) - React component for reading QR codes from webcam.
+- [react-qr-reader/react-qr-reader](https://github.com/react-qr-reader/react-qr-reader) - React component for reading QR codes from webcam.
 - [terkelg/zet](https://github.com/terkelg/zet) - Set() as it should be.
 - [ezcater/lunar-core](https://github.com/ezcater/lunar-core) - Tools to assist with mocking GraphQL schemas
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -5074,6 +5074,7 @@
 
 ## Ruby 
 
+- [ntkme/sass-embedded-host-ruby](https://github.com/ntkme/sass-embedded-host-ruby) - :gem: A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol
 - [nileshtrivedi/openai](https://github.com/nileshtrivedi/openai) - Wrapper for calling OpenAI and GPT-3's HTTP APIs
 - [YusukeIwaki/capybara-playwright-driver](https://github.com/YusukeIwaki/capybara-playwright-driver) - Playwright driver for Capybara
 - [YusukeIwaki/playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright client for Ruby
@@ -5748,7 +5749,7 @@
 - [bigbinary/wheel](https://github.com/bigbinary/wheel) - Don't reinvent the wheel for every new Rails project. Use sane Defaults.
 - [bigbinary/org_incineration](https://github.com/bigbinary/org_incineration) - 
 - [bigbinary/acts_in_sequence](https://github.com/bigbinary/acts_in_sequence) - Adds sequencing to the database records.
-- [AndyObtiva/yasl](https://github.com/AndyObtiva/yasl) - A pure Ruby serialization library that works across different Ruby implementations like Opal and JRuby as an alternative to YAML/Marshal.
+- [AndyObtiva/yasl](https://github.com/AndyObtiva/yasl) - Yet Another Serialization Library - A pure Ruby serialization library that works across different Ruby implementations like Opal and JRuby as an alternative to YAML/Marshal.
 - [scoutapp/scout_apm_ruby](https://github.com/scoutapp/scout_apm_ruby) - ScoutAPM Ruby Agent. Supports Rails, Sinatra, Grape, Rack, and many other frameworks
 - [ruby/ostruct](https://github.com/ruby/ostruct) - OpenStruct implementation
 - [GeorgeKaraszi/ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds additional postgres functionality to an ActiveRecord / Rails application
