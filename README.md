@@ -2123,7 +2123,7 @@
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [tannerlinsley/react-show](https://github.com/tannerlinsley/react-show) - ⚛️ A 3kb css animation component for React.
 - [tannerlinsley/use-select](https://github.com/tannerlinsley/use-select) - ⚛️ A react-hook for building enhanced input components.
-- [tannerlinsley/react-virtual](https://github.com/tannerlinsley/react-virtual) - ⚛️ Hooks for virtualizing scrollable elements in React
+- [TanStack/react-virtual](https://github.com/TanStack/react-virtual) - ⚛️ Hooks for virtualizing scrollable elements in React
 - [yazz/visualjavascript](https://github.com/yazz/visualjavascript) - Visual Basic + MS Access + Javascript = Visual Javascript
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
@@ -2785,7 +2785,7 @@
 - [patrick-michelberger/serverless-shop](https://github.com/patrick-michelberger/serverless-shop) - Building a Serverless E-Commerce App with AWS Lambda,  Stripe and React :moneybag: :globe_with_meridians:
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [algolia/algoliasearch-helper-js](https://github.com/algolia/algoliasearch-helper-js) - Helper for implementing advanced search features with Algolia
 - [node-pcap/node_pcap](https://github.com/node-pcap/node_pcap) - libpcap bindings for node
@@ -4703,6 +4703,7 @@
 
 ## Python 
 
+- [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [aws-samples/aws-transcribe-captioning-tools](https://github.com/aws-samples/aws-transcribe-captioning-tools) - Convert AWS Transcribe output into multiple caption formats.
 - [e-tornike/Story_Generator](https://github.com/e-tornike/Story_Generator) - A Streamlit web app that generates Rick and Morty stories using GPT2.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -5074,6 +5075,9 @@
 
 ## Ruby 
 
+- [igorkasyanchuk/calculate_in_group](https://github.com/igorkasyanchuk/calculate_in_group) - Group Active Record by ranges or set of values with a single SQL query.
+- [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
+- [trailblazer/cells-rails](https://github.com/trailblazer/cells-rails) - Rails support for Cells.
 - [ntkme/sass-embedded-host-ruby](https://github.com/ntkme/sass-embedded-host-ruby) - :gem: A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol
 - [nileshtrivedi/openai](https://github.com/nileshtrivedi/openai) - Wrapper for calling OpenAI and GPT-3's HTTP APIs
 - [YusukeIwaki/capybara-playwright-driver](https://github.com/YusukeIwaki/capybara-playwright-driver) - Playwright driver for Capybara
@@ -8216,7 +8220,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [memc-rs/memc-rs](https://github.com/memc-rs/memc-rs) - A general-purpose distributed memory cache system compatible with Memcached
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
@@ -8914,7 +8918,7 @@
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-- [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
+- [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
