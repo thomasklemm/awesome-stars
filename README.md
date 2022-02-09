@@ -709,6 +709,7 @@
 
 ## Go 
 
+- [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 - [pgvector/pgvector-go](https://github.com/pgvector/pgvector-go) - pgvector examples for Go
 - [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -1370,6 +1371,9 @@
 
 ## Java 
 
+- [capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) - ⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
+- [capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) - ⚡️ Capacitor plugin for synthesizing speech from text.
+- [capacitor-community/native-audio](https://github.com/capacitor-community/native-audio) - 
 - [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 - [awslabs/smithy-typescript](https://github.com/awslabs/smithy-typescript) - Smithy code generators for TypeScript. (in development)
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
@@ -1491,6 +1495,7 @@
 
 ## JavaScript 
 
+- [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [mozilla/vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification
 - [osk/node-webvtt](https://github.com/osk/node-webvtt) - Parse WebVTT files, segments and generates HLS playlists for them
 - [w3c/webvtt.js](https://github.com/w3c/webvtt.js) - WebVTT parser and validator
@@ -1652,7 +1657,7 @@
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [oslabs-beta/sapling](https://github.com/oslabs-beta/sapling) - Sapling - A convenient way to traverse your React app in VS Code
-- [meilisearch/documentation](https://github.com/meilisearch/documentation) - MeiliSearch documentation
+- [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
 - [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
@@ -2806,7 +2811,6 @@
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [mikeal/r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
 - [RisingStack/risingstack-bootcamp](https://github.com/RisingStack/risingstack-bootcamp) - This is the Node.js Bootcamp we ask new recruits at RisingStack to finish in their first weeks. It helps to get the basics right, and prepare you to work on enterprise projects.
-- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
@@ -4710,6 +4714,7 @@
 
 ## Python 
 
+- [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [tjunttila/pdf2video](https://github.com/tjunttila/pdf2video) - A tool for making videos from PDF presentations.
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
@@ -5086,6 +5091,8 @@
 
 ## Ruby 
 
+- [cpetersen/srt](https://github.com/cpetersen/srt) - SRT stands for SubRip text file format, which is a file for storing subtitles. This is a Ruby library for manipulating SRT files.
+- [jronallo/webvtt](https://github.com/jronallo/webvtt) - Parse WEBVTT files with Ruby.
 - [jbd0101/happyscribe-client](https://github.com/jbd0101/happyscribe-client) - 
 - [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby) - WebVTT Ruby parser and segmenter
 - [pgvector/pgvector-ruby](https://github.com/pgvector/pgvector-ruby) - pgvector support for Ruby
@@ -6158,7 +6165,7 @@
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [spree/spree](https://github.com/spree/spree) - Open Source headless multi-language/multi-currency/multi-store eCommerce platform
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
@@ -6757,7 +6764,7 @@
 - [ruby-amqp/bunny](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, mature Ruby client for RabbitMQ
 - [tombenner/reports_kit](https://github.com/tombenner/reports_kit) - Beautiful, interactive charts and tables for Ruby on Rails
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
-- [rzane/baby_squeel](https://github.com/rzane/baby_squeel) - :pig: An expressive query DSL for Active Record 4 and 5
+- [rzane/baby_squeel](https://github.com/rzane/baby_squeel) - :pig: An expressive query DSL for Active Record
 - [nesaulov/surrealist](https://github.com/nesaulov/surrealist) - to_json but I wrote it myself
 - [renderedtext/render_async](https://github.com/renderedtext/render_async) - render_async lets you include pages asynchronously with AJAX
 - [Betterment/webvalve](https://github.com/Betterment/webvalve) - Betterment's framework for locally developing and testing service-oriented apps in isolation with WebMock and Sinatra-based fakes
@@ -8680,6 +8687,9 @@
 
 ## TypeScript 
 
+- [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
+- [1c7/srt-parser-2](https://github.com/1c7/srt-parser-2) - SRT parser that can handle wrong SRT format too (like 00:00:12.682 use dot as separator, which is wrong, it should be a comma)
+- [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
 - [Code-Hex/graphql-codegen-typescript-validation-schema](https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema) - GraphQL Code Generator plugin to generate form validation schema from your GraphQL schema
 - [thalesrc/js-utils](https://github.com/thalesrc/js-utils) - Javascript utility functions for web development
 - [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
@@ -9323,7 +9333,6 @@
 - [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [projen/projen](https://github.com/projen/projen) - A new generation of project generators
-- [construct-catalog/catalog](https://github.com/construct-catalog/catalog) - Catalog for aggregating CDK Constructs
 - [kcwinner/aws-cdk-appsync-transformer](https://github.com/kcwinner/aws-cdk-appsync-transformer) - AWS Amplify inspired CDK construct for creating directive based AppSync APIs
 - [serverless-stack/sst-cdk](https://github.com/serverless-stack/sst-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
@@ -9917,6 +9926,7 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
