@@ -106,6 +106,7 @@
 
 ## C 
 
+- [huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha) - Captcha gem for Rails Application. No dependencies. No ImageMagick, No RMagick.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [ruby-debug/debase](https://github.com/ruby-debug/debase) - 
@@ -1495,6 +1496,8 @@
 
 ## JavaScript 
 
+- [abhaynikam/react-trix-rte](https://github.com/abhaynikam/react-trix-rte) - React wrapper for Trix rich text editor created by Basecamp
+- [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [mozilla/vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification
 - [osk/node-webvtt](https://github.com/osk/node-webvtt) - Parse WebVTT files, segments and generates HLS playlists for them
@@ -1642,7 +1645,6 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
 - [asabaylus/react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
 - [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
@@ -1889,6 +1891,7 @@
 - [AnomalyInnovations/aws-api-gateway-cli-test](https://github.com/AnomalyInnovations/aws-api-gateway-cli-test) - A simple CLI to test API Gateway endpoints with IAM authorization
 - [AnomalyInnovations/serverless-bundle](https://github.com/AnomalyInnovations/serverless-bundle) - Optimized packages for ES6 and TypeScript Node.js Lambda functions without any configuration.
 - [hopsoft/debounced](https://github.com/hopsoft/debounced) - Debounced versions of standard DOM events
+- [jaredmdobson/rack-livereload](https://github.com/jaredmdobson/rack-livereload) - Bring in livereload.js into handy Rack middleware
 - [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
 - [theburningmonk/appsyncmasterclass-backend](https://github.com/theburningmonk/appsyncmasterclass-backend) - Backend for the AppSync Masterclass demo app
 - [microlinkhq/cards](https://github.com/microlinkhq/cards) - The easiest way to create and share dynamic images at scale.
@@ -2257,6 +2260,7 @@
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -3982,6 +3986,7 @@
 
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 - [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [wix/AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) - A collection of command-line utils for Apple simulators.
 - [staart/native](https://github.com/staart/native) - 🏁📱 Native smartphone app starter for SaaS startups
 - [threema-ch/threema-ios](https://github.com/threema-ch/threema-ios) - Threema App for iOS.
@@ -5927,7 +5932,6 @@
 - [rsim/ruby-plsql](https://github.com/rsim/ruby-plsql) - ruby-plsql gem provides simple Ruby API for calling Oracle PL/SQL procedures. It could be used both for accessing Oracle PL/SQL API procedures in legacy applications as well as it could be used to create PL/SQL unit tests using Ruby testing libraries.
 - [vshvedov/capybara-extensions-custom](https://github.com/vshvedov/capybara-extensions-custom) - 
 - [trailblazer/trailblazer-rails](https://github.com/trailblazer/trailblazer-rails) - Trailblazer in Rails.
-- [jaredmdobson/rack-livereload](https://github.com/jaredmdobson/rack-livereload) - Bring in livereload.js into handy Rack middleware
 - [procore/blueprinter](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby
 - [aws/aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web applications using DynamoDB as a backend.
 - [amazon-archives/cloudsearchable](https://github.com/amazon-archives/cloudsearchable) - An ActiveRecord-style ORM query interface for AWS CloudSearch.
@@ -8687,6 +8691,9 @@
 
 ## TypeScript 
 
+- [formkit/formkit](https://github.com/formkit/formkit) - The FormKit mono repo
+- [sumup-oss/circuit-ui](https://github.com/sumup-oss/circuit-ui) - SumUp's component library for the web
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [1c7/srt-parser-2](https://github.com/1c7/srt-parser-2) - SRT parser that can handle wrong SRT format too (like 00:00:12.682 use dot as separator, which is wrong, it should be a comma)
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
@@ -8933,7 +8940,7 @@
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
-- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
+- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based headless framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
 - [roginfarrer/react-collapsed](https://github.com/roginfarrer/react-collapsed) - A React custom-hook for creating flexible and accessible expand/collapse components.
 - [schummar/schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
@@ -9645,7 +9652,6 @@
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Errorname/prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - 🧭 Use Prisma as a multi-tenant provider for your application
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
@@ -9798,7 +9804,6 @@
 - [resugar/resugar](https://github.com/resugar/resugar) - Rewrite your JavaScript & TypeScript source code with sweet new features.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
 - [davnicwil/react-frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server
-- [sumup-oss/circuit-ui](https://github.com/sumup-oss/circuit-ui) - SumUp's component library for the web
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [madebywild/wild-next](https://github.com/madebywild/wild-next) - Our next.js boilerplate with sane base configuration.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
