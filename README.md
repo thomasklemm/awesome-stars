@@ -518,7 +518,7 @@
 - [prestancedesign/pingcrm-clojure](https://github.com/prestancedesign/pingcrm-clojure) - PingCRM on Clojure - A Clojure/Script fullstack demo application to illustrate how Inertia.js works.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
-- [mikub/titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
+- [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [oliyh/re-graph](https://github.com/oliyh/re-graph) - A graphql client for clojurescript and clojure
 - [graphqlize/graphqlize](https://github.com/graphqlize/graphqlize) - A Clojure & JVM library for developing GraphQL API instantly from Postgres and MySQL databases
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -1735,7 +1735,7 @@
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view
@@ -2851,7 +2851,7 @@
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [FormidableLabs/freactal](https://github.com/FormidableLabs/freactal) - Clean and robust state management for React and React-like libs.
-- [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
+- [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
@@ -5098,6 +5098,8 @@
 
 ## Ruby 
 
+- [dewyze/dato_dast](https://github.com/dewyze/dato_dast) - Gem for converting DatoCMS Structured text into html, including an extension for Middleman.
+- [hanami/router](https://github.com/hanami/router) - Ruby/Rack HTTP router
 - [cpetersen/srt](https://github.com/cpetersen/srt) - SRT stands for SubRip text file format, which is a file for storing subtitles. This is a Ruby library for manipulating SRT files.
 - [jronallo/webvtt](https://github.com/jronallo/webvtt) - Parse WEBVTT files with Ruby.
 - [jbd0101/happyscribe-client](https://github.com/jbd0101/happyscribe-client) - 
@@ -6551,7 +6553,7 @@
 - [dingxizheng/model_to_graphql](https://github.com/dingxizheng/model_to_graphql) - Convert ORM defintions into graphql definition
 - [ConsultingMD/schlepper](https://github.com/ConsultingMD/schlepper) - A utility gem for running and cataloging onetime tasks for Rails
 - [googleworkspace/ruby-samples](https://github.com/googleworkspace/ruby-samples) - 💎 Ruby samples for Google Workspace APIs
-- [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Matestack enables you to create sophisticated, reactive UIs in pure Ruby, without touching JavaScript and HTML. You end up writing 50% less code while increasing productivity, maintainability and developer happiness.
+- [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [bugsnag/bugsnag-ruby](https://github.com/bugsnag/bugsnag-ruby) - Bugsnag error monitoring & reporting software for rails, sinatra, rack and ruby
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [sorbet/sorbet-typed](https://github.com/sorbet/sorbet-typed) - A central repository for sharing type definitions for Ruby gems
@@ -9156,7 +9158,7 @@
 - [Shopify/shopify-node-api](https://github.com/Shopify/shopify-node-api) - Shopify Admin API Library for Node. Accelerate development with support for authentication, graphql proxy, webhooks
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [mashmatrix/react-lightning-design-system](https://github.com/mashmatrix/react-lightning-design-system) - Salesforce Lightning Design System components built with React
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
