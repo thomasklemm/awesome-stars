@@ -5098,6 +5098,7 @@
 
 ## Ruby 
 
+- [piotrmurach/tty-reader](https://github.com/piotrmurach/tty-reader) - A set of methods for processing keyboard input in character, line and multiline modes.
 - [dewyze/dato_dast](https://github.com/dewyze/dato_dast) - Gem for converting DatoCMS Structured text into html, including an extension for Middleman.
 - [hanami/router](https://github.com/hanami/router) - Ruby/Rack HTTP router
 - [cpetersen/srt](https://github.com/cpetersen/srt) - SRT stands for SubRip text file format, which is a file for storing subtitles. This is a Ruby library for manipulating SRT files.
@@ -8242,6 +8243,7 @@
 
 ## Rust 
 
+- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
 - [bahlo/happyscribe2podlove](https://github.com/bahlo/happyscribe2podlove) - Smol cli tool that converts Happy Scribe JSON to VTT understood by Podlove.
 - [pgvector/pgvector-rust](https://github.com/pgvector/pgvector-rust) - pgvector support for Rust
 - [valeriansaliou/raider](https://github.com/valeriansaliou/raider) - 🐎 Affiliates dashboard. Used by affiliates to generate tracking codes and review their balance.
@@ -8695,6 +8697,7 @@
 
 ## TypeScript 
 
+- [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [formkit/formkit](https://github.com/formkit/formkit) - The FormKit mono repo
 - [sumup-oss/circuit-ui](https://github.com/sumup-oss/circuit-ui) - SumUp's component library for the web
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
@@ -9429,7 +9432,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [nodkz/wrike-graphql](https://github.com/nodkz/wrike-graphql) - Wrap REST API with GraphQL
@@ -9566,7 +9569,7 @@
 - [dotansimha/graphql-binding](https://github.com/dotansimha/graphql-binding) - Auto-generated SDK for your GraphQL API (supports schema stitching & codegen)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [helios1138/graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint. The client allows writing GraphQL queries as plain JS objects (with type safety, awesome code completion experience, custom scalar type mapping, type guards and more)
-- [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
+- [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
