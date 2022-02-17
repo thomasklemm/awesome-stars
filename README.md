@@ -1499,6 +1499,7 @@
 
 ## JavaScript 
 
+- [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - 
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
@@ -1656,7 +1657,7 @@
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
 - [asabaylus/react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
-- [vercel/next-rsc-demo](https://github.com/vercel/next-rsc-demo) - Demo repository for Next.js + React server components
+- [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
@@ -1835,7 +1836,7 @@
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
-- [vercel/next-server-components](https://github.com/vercel/next-server-components) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
+- [vercel/server-components-notes-demo](https://github.com/vercel/server-components-notes-demo) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
 - [hotwired/stimulus-rails](https://github.com/hotwired/stimulus-rails) - Use Stimulus in your Ruby on Rails app
@@ -1910,7 +1911,7 @@
 - [maximevaillancourt/turven](https://github.com/maximevaillancourt/turven) - turven lets people on your website see how many other people are also reading the same page 👀
 - [dabit3/next.js-amplify-workshop](https://github.com/dabit3/next.js-amplify-workshop) - AWS Amplify Next.js workshop
 - [mrin9/RapiDoc](https://github.com/mrin9/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
-- [i5ik/sirdb](https://github.com/i5ik/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
+- [crisdosyago/sirdb](https://github.com/crisdosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [rob-balfre/svelte-select](https://github.com/rob-balfre/svelte-select) - A select component for Svelte apps
 - [ing-bank/lion](https://github.com/ing-bank/lion) - Fundamental white label web component features for your design system.
@@ -2269,7 +2270,6 @@
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -2489,7 +2489,6 @@
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-- [react-qr-reader/react-qr-reader](https://github.com/react-qr-reader/react-qr-reader) - React component for reading QR codes from webcam.
 - [terkelg/zet](https://github.com/terkelg/zet) - Set() as it should be.
 - [ezcater/lunar-core](https://github.com/ezcater/lunar-core) - Tools to assist with mocking GraphQL schemas
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -4061,6 +4060,7 @@
 
 ## Others 
 
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [lostisland/awesome-faraday](https://github.com/lostisland/awesome-faraday) - A curated list of awesome middleware and adapters for Faraday
 - [ampproject/wg-stories](https://github.com/ampproject/wg-stories) - Responsible for implementing and improving AMP's story format (amp-story). Facilitator: @newmuis
 - [heyalexej/awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
@@ -8192,7 +8192,7 @@
 - [rubysherpas/forem](https://github.com/rubysherpas/forem) - The best Rails 3 and Rails 4 forum engine. Ever.
 - [comfy/active_link_to](https://github.com/comfy/active_link_to) - Rails view helper to manage "active" state of a link
 - [freeformz/logglier](https://github.com/freeformz/logglier) - 
-- [chaps-io/public_activity](https://github.com/chaps-io/public_activity) - Easy activity tracking for models - similar to Github's Public Activity
+- [public-activity/public_activity](https://github.com/public-activity/public_activity) - Easy activity tracking for models - similar to Github's Public Activity
 - [winton/stasis](https://github.com/winton/stasis) - Static sites made powerful
 - [james2m/seedbank](https://github.com/james2m/seedbank) - Seedbank gives your seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.
 - [thetron/css3buttons_rails_helpers](https://github.com/thetron/css3buttons_rails_helpers) - Rails helpers to generate beautiful css3 buttons, based on the 'css3-github-buttons'
@@ -8709,6 +8709,8 @@
 
 ## TypeScript 
 
+- [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
+- [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [formkit/formkit](https://github.com/formkit/formkit) - The FormKit mono repo
@@ -9082,7 +9084,7 @@
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - (formerly gqless) a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
@@ -9302,7 +9304,7 @@
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-project) - Projen managed AppSync Transformer project
 - [kcwinner/advocacy](https://github.com/kcwinner/advocacy) - Somewhere to share my code for blog posts, tweets, and public availability
 - [earthstar-project/react-earthstar](https://github.com/earthstar-project/react-earthstar) - A UI toolkit for making collaborative, offline-first applets for small groups.
-- [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - A distributed, syncable document database for making p2p apps
+- [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - A specification and Javascript library for building online tools you can truly call your own.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [BryanPan342/starwars-code-first](https://github.com/BryanPan342/starwars-code-first) - An api for Star Wars built with AppSync and CDK through a code-first approach
 - [egoist/presite](https://github.com/egoist/presite) - A static site generator based on Puppeteer.
@@ -9460,7 +9462,7 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
 - [alfonsobries/vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
 - [vuex-orm/plugin-graphql](https://github.com/vuex-orm/plugin-graphql) - Vuex ORM persistence plugin to sync the store against a GraphQL API.
 - [jbielick/faktory_worker_node](https://github.com/jbielick/faktory_worker_node) - a node.js client and worker framework for Faktory job server
@@ -9672,6 +9674,7 @@
 - [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment) - Code-First Type-Safe GraphQL Framework
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Errorname/prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - 🧭 Use Prisma as a multi-tenant provider for your application
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
@@ -9815,6 +9818,7 @@
 - [evnbr/bindery](https://github.com/evnbr/bindery) - Book layout in the browser
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
 - [wix/vscode-glean](https://github.com/wix/vscode-glean) - The extension provides refactoring tools for your React codebase
+- [react-qr-reader/react-qr-reader](https://github.com/react-qr-reader/react-qr-reader) - React component for reading QR codes from webcam.
 - [sapegin/stack-styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React
 - [KATT/shop](https://github.com/KATT/shop) - 🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
