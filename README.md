@@ -1499,6 +1499,7 @@
 
 ## JavaScript 
 
+- [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - 
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
@@ -4007,7 +4008,6 @@
 - [KnuffApp/Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
 - [wix/react-native-notifications](https://github.com/wix/react-native-notifications) - React Native Notifications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
 - [firebase/FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS) - iOS UI bindings for Firebase.
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
@@ -5104,6 +5104,7 @@
 
 ## Ruby 
 
+- [rgeo/rgeo-geojson](https://github.com/rgeo/rgeo-geojson) - RGeo component for reading and writing GeoJSON
 - [yuki24/capybara-shadowdom](https://github.com/yuki24/capybara-shadowdom) - Shadow DOM support for Capybara
 - [driggl/rails-api-complete-guide](https://github.com/driggl/rails-api-complete-guide) - This is a repository related to the material covered in the course: Ruby on Rails API: Complete Guide
 - [awinabi/sinatra-graphql](https://github.com/awinabi/sinatra-graphql) - Step by step tutorial to write a graphql server in sinatra (ruby)
@@ -5709,7 +5710,7 @@
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
 - [vinistock/sail](https://github.com/vinistock/sail) - Sail is a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app
 - [varvet/godmin](https://github.com/varvet/godmin) - Admin framework for Rails 5+
-- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing maintenance tasks.
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing maintenance tasks for data migrations and backfills.
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
 - [igorkasyanchuk/mini-guard](https://github.com/igorkasyanchuk/mini-guard) - 
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
@@ -8616,6 +8617,7 @@
 - [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 - [ApplikeySolutions/VegaScroll](https://github.com/ApplikeySolutions/VegaScroll) - ↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.
 - [NovatecConsulting/FaceRecognition-in-ARKit](https://github.com/NovatecConsulting/FaceRecognition-in-ARKit) - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Nirma/UIFontComplete](https://github.com/Nirma/UIFontComplete) - Font management (System & Custom) for iOS and tvOS
 - [alexdrone/Render](https://github.com/alexdrone/Render) - UIKit a-là SwiftUI.framework [min deployment target iOS10]
 - [louisdh/panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
@@ -8709,6 +8711,7 @@
 
 ## TypeScript 
 
+- [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -8765,7 +8768,7 @@
 - [Enricopv/turbo-boilerplate](https://github.com/Enricopv/turbo-boilerplate) - Turborepo Boiler Plate with Next, Remix, Expo, and React Native projects.
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [egoist/haya](https://github.com/egoist/haya) - ⚡️ esbuild based dev server and production bundler, it's really fast
-- [Aslemammad/tinyspy](https://github.com/Aslemammad/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
+- [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
 - [marcjulian/nestjs-prisma](https://github.com/marcjulian/nestjs-prisma) - Library and schematics to add Prisma integration to a NestJS application
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [RevenueCat/cordova-plugin-purchases](https://github.com/RevenueCat/cordova-plugin-purchases) - Cordova in-app purchases and subscriptions made easy.
@@ -9728,7 +9731,7 @@
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [seek-oss/treat](https://github.com/seek-oss/treat) - :candy: Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
-- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Fluent and powerful mobile component library based on React.
+- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [react-navigation/stack](https://github.com/react-navigation/stack) - Stack navigator for React Navigation
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
