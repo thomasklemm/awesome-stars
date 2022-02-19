@@ -4152,7 +4152,7 @@
 - [cdk-dev/base](https://github.com/cdk-dev/base) - Repo for organizing things around cdk.dev
 - [dabit3/awesome-aws-amplify](https://github.com/dabit3/awesome-aws-amplify) - Curated list of AWS Amplify Resources
 - [graphql/graphql-js-wg](https://github.com/graphql/graphql-js-wg) - Working group notes for graphql-js
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.
 - [tailwindlabs/tailwindcss-setup-examples](https://github.com/tailwindlabs/tailwindcss-setup-examples) - 
 - [awsdocs/aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide) - The open source version of the AWS CloudFormation User Guide
 - [obie/guide-to-reactive-rails](https://github.com/obie/guide-to-reactive-rails) - A comprehensive guide to online resources about "Reactive" Ruby on Rails development
@@ -7461,7 +7461,7 @@
 - [trailblazer/roar](https://github.com/trailblazer/roar) - Parse and render REST API documents using representers.
 - [mnelson/dyn_meta](https://github.com/mnelson/dyn_meta) - Automate the lookup of page meta information based on the current request
 - [guideline-tech/stator](https://github.com/guideline-tech/stator) - Super simple state machine
-- [guideline-tech/subroutine](https://github.com/guideline-tech/subroutine) - Perform generic operations in a simple, testable way
+- [guideline-tech/subroutine](https://github.com/guideline-tech/subroutine) - Subroutine makes it easy to write encapsulated, feature-driven code. It handles the boilerplate of inputs, outputs, type casting, and validation and lets you focus on the important functional code.
 - [taskrabbit/waistband](https://github.com/taskrabbit/waistband) - Ruby tools for Elastic Search
 - [queue-bus/queue-bus](https://github.com/queue-bus/queue-bus) - Message bus via the background queue you're already using.
 - [instacart/makara](https://github.com/instacart/makara) - A Read-Write Proxy for Connections; Also provides an ActiveRecord adapter.
@@ -8887,7 +8887,7 @@
 - [capacitor-community/tauri](https://github.com/capacitor-community/tauri) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Tauri platform! 🖥️
 - [getsentry/sentry-capacitor](https://github.com/getsentry/sentry-capacitor) - The official Sentry SDK for Capacitor
 - [jepiqueau/react-sqlite-app-starter](https://github.com/jepiqueau/react-sqlite-app-starter) - Ionic/React SQLite Application Starter
-- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🚀🚀🚀
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [mantinedev/mantine-next-template](https://github.com/mantinedev/mantine-next-template) - Next.js + Mantine template
