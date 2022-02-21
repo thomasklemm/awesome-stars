@@ -1501,6 +1501,8 @@
 
 ## JavaScript 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+- [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - 
@@ -1745,7 +1747,7 @@
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view
@@ -1797,7 +1799,7 @@
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) - 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app) - :email: The desktop app for MJML
-- [tophat/yvm](https://github.com/tophat/yvm) - 🧶 Manage multiple versions of Yarn
+- [tophat/yvm](https://github.com/tophat/yvm) - 🧶 Manage multiple versions of Yarn (deprecated)
 - [powerhome/playbook](https://github.com/powerhome/playbook) - Playbook Design System
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
@@ -2099,7 +2101,7 @@
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [thejibz/graphql-compose-mysql](https://github.com/thejibz/graphql-compose-mysql) - Generates GraphQL types and resolvers from a MySQL database.
 - [bookshelf/case-converter-plugin](https://github.com/bookshelf/case-converter-plugin) - Bookshelf plugin for handling the conversion between the database's snake_cased and a model's camelCased properties automatically.
@@ -4808,7 +4810,7 @@
 - [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.8
 - [DataDog/datadog-serverless-functions](https://github.com/DataDog/datadog-serverless-functions) - Repo of AWS Lambda and Azure Functions functions that process streams and send data to Datadog
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
@@ -5639,7 +5641,7 @@
 - [bazzel/bs5](https://github.com/bazzel/bs5) - [WIP] Rails engine to include Bootstrap 5
 - [elastic/enterprise-search-ruby](https://github.com/elastic/enterprise-search-ruby) - Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
 - [AndyObtiva/glimmer-dsl-swt](https://github.com/AndyObtiva/glimmer-dsl-swt) - Glimmer DSL for SWT (JRuby Desktop Development GUI Framework)
-- [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Tk (MRI Ruby Desktop Development GUI Library), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS
+- [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for Tk (Ruby Tk Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS
 - [dpaola2/bootstrap-viewcomponent](https://github.com/dpaola2/bootstrap-viewcomponent) - View Components for Bootstrap
 - [hopsoft/sr_mini](https://github.com/hopsoft/sr_mini) - A single file Rails app that will have you running a StimulusReflex and CableReady demo in just 2 steps.
 - [markbates/configatron](https://github.com/markbates/configatron) - A super cool, simple, and feature rich configuration system for Ruby apps.
@@ -8168,7 +8170,7 @@
 - [lunich/table_for](https://github.com/lunich/table_for) - simple helper to render table using given collection
 - [jacquescrocker/heroku-rails](https://github.com/jacquescrocker/heroku-rails) - easy configuration / multi-environment setup with heroku with deployment hooks *NOTE* I no longer use Heroku. If anyone would like to take over this gem, just github msg me. Thanks!
 - [moocode/asset_id](https://github.com/moocode/asset_id) - Rails 3 library that uploads all static assets to amazon s3 with a unique id encoded into the path
-- [fnando/notifier](https://github.com/fnando/notifier) - Send system notifications on several platforms with a simple and unified API. Currently supports Growl, Notification Center, Libnotify, OSD, KDE (Knotify and Kdialog) and Snarl
+- [fnando/notifier](https://github.com/fnando/notifier) - Send system notifications on several platforms with a simple and unified API. Currently supports Notification Center, Libnotify, OSD, KDE (Knotify and Kdialog) and Snarl
 - [ksylvest/attached](https://github.com/ksylvest/attached) - A file attachment tool that lets users upload to the cloud
 - [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality
 - [redbooth/immortal](https://github.com/redbooth/immortal) - Make any ActiveRecord model paranoid by just including Immortal, and instead of being deleted from the database, the object will just marked as 'deleted' with a boolean field in the database.
@@ -8713,6 +8715,17 @@
 
 ## TypeScript 
 
+- [figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp) - This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
+- [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON Joy 🦄🌈—JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSON Brand, JSON Expression, JSON Size, JSON Type, JSON Schema, JSON deep equality, JSON utilities for joy and collaborative editing
+- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
+- [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+- [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
+- [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
+- [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 
 - [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
@@ -8933,7 +8946,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [TanStack/react-location](https://github.com/TanStack/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [CharlesStover/use-mui](https://github.com/CharlesStover/use-mui) - React hooks for Material UI
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The GraphQL API for AWS, Azure, GCP, and K8s.
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, and K8s.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [kesne/ethereal-react](https://github.com/kesne/ethereal-react) - A suspense-compatible React library for Ethereum development
 - [unjs/unenv](https://github.com/unjs/unenv) - Framework-agnostic system for converting JavaScript code to be platform-agnostic and working in any environment including Browsers, Workers, Node.js, or pure JavaScript runtime.
