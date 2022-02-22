@@ -224,7 +224,7 @@
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [JasperFx/jasper](https://github.com/JasperFx/jasper) - Next generation application development framework for .Net
 - [JasperFx/marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
-- [rdagumampan/yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and database migration made natively with .NET Core.
+- [rdagumampan/yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and database migration made natively with .NET Core. NEW! v1.2.25 released!
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Chinchilla-Software-Com/CQRS](https://github.com/Chinchilla-Software-Com/CQRS) - A lightweight enterprise Function as a Service (FaaS) framework to write function based serverless and micro-service applications in hybrid multi-datacentre, on-premise and Azure environments.
@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [Maaarcocr/webview_ruby](https://github.com/Maaarcocr/webview_ruby) - WebViewRuby is a library that provide bindings for webview/webview a tiny tiny cross-platform webview library to build modern cross-platform GUIs
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
@@ -659,7 +660,7 @@
 - [pow-auth/pow_assent](https://github.com/pow-auth/pow_assent) - Multi-provider authentication for your Pow enabled app
 - [danschultzer/pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system
 - [otobus/event_bus](https://github.com/otobus/event_bus) - :surfer: Traceable, extendable and minimalist **event bus** implementation for Elixir with built-in **event store** and **event watcher** based on ETS.
-- [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
+- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
 - [elixir-toniq/vapor](https://github.com/elixir-toniq/vapor) - Runtime configuration system for Elixir
 - [commanded/commanded-scheduler](https://github.com/commanded/commanded-scheduler) - Schedule one-off and recurring commands for Commanded CQRS/ES applications
 - [commanded/commanded-ecto-projections](https://github.com/commanded/commanded-ecto-projections) - Read model projections for Commanded using Ecto
@@ -4731,6 +4732,7 @@
 
 ## Python 
 
+- [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [tjunttila/pdf2video](https://github.com/tjunttila/pdf2video) - A tool for making videos from PDF presentations.
@@ -5107,6 +5109,8 @@
 
 ## Ruby 
 
+- [veeqo/activejob-uniqueness](https://github.com/veeqo/activejob-uniqueness) - Unique jobs for ActiveJob. Ensure the uniqueness of jobs in the queue.
+- [assaf/vanity](https://github.com/assaf/vanity) - Experiment Driven Development for Ruby
 - [fatkodima/online_migrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc).
 - [rgeo/rgeo-geojson](https://github.com/rgeo/rgeo-geojson) - RGeo component for reading and writing GeoJSON
 - [yuki24/capybara-shadowdom](https://github.com/yuki24/capybara-shadowdom) - Shadow DOM support for Capybara
@@ -8715,6 +8719,7 @@
 
 ## TypeScript 
 
+- [heyitsarpit/react-hooks-library](https://github.com/heyitsarpit/react-hooks-library) - A collection of hooks and utilities for modern React
 - [figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp) - This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
