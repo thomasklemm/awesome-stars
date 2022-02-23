@@ -197,7 +197,6 @@
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [reorg/pg_repack](https://github.com/reorg/pg_repack) - Reorganize tables in PostgreSQL databases with minimal locks
-- [msgpack/msgpack-ruby](https://github.com/msgpack/msgpack-ruby) - MessagePack implementation for Ruby / msgpack.org[Ruby]
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [k0dai/density](https://github.com/k0dai/density) - Superfast compression library
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -214,6 +213,7 @@
 
 ## C# # 
 
+- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
@@ -377,7 +377,6 @@
 - [furiouscollective/gridforms](https://github.com/furiouscollective/gridforms) - Data entry can be beautiful
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
 - [Mermade/reslate](https://github.com/Mermade/reslate) - Beautiful static documentation for your API
-- [rails/tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 
 - [paljs/nextjs-admin-template](https://github.com/paljs/nextjs-admin-template) - Free admin dashboard template based on Next.Js with @paljs/ui component package
 - [aerogear/graphql-link](https://github.com/aerogear/graphql-link) - graphql-link is a GraphQL server that composes other GraphQL or OpenAPI endpoints
 - [hotwired/hotwire-site](https://github.com/hotwired/hotwire-site) - hotwired.dev web site
@@ -614,6 +613,7 @@
 
 ## Dart 
 
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.
 - [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) - Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -623,6 +623,7 @@
 
 ## Dockerfile 
 
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
 - [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 9, Debian 10, and Debian 11.
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
@@ -1757,7 +1758,7 @@
 - [bpmn-io/form-js](https://github.com/bpmn-io/form-js) - View and visually edit JSON-based forms.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
 - [beyondcode/tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) - Tailwind CSS JIT in your browser
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [ForestAdmin/forest-express](https://github.com/ForestAdmin/forest-express) - 🧱 Dependency of Express Lianas for Forest Admin
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
@@ -1815,7 +1816,7 @@
 - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System
 - [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, Mongo, Node and React
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
-- [ralixjs/ralix](https://github.com/ralixjs/ralix) - ✨ Microframework for building and organizing Rails front-ends
+- [ralixjs/ralix](https://github.com/ralixjs/ralix) - ✨  Microframework for building and organizing your front-end
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [magma-labs/spreadsheet](https://github.com/magma-labs/spreadsheet) - Component framework for creating web-based spreadsheets using Reactive Rails
@@ -3097,7 +3098,6 @@
 - [optimizely/nuclear-js](https://github.com/optimizely/nuclear-js) - Reactive Flux built with ImmutableJS data structures. Framework agnostic.
 - [FormidableLabs/component-playground](https://github.com/FormidableLabs/component-playground) - A component for rendering React components with editable source and live preview
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
 - [mirkokiefer/aws-lib](https://github.com/mirkokiefer/aws-lib) - Extensible Node.js library for the Amazon Web Services API
 - [amazon-archives/web-app-starter-kit-for-fire-tv](https://github.com/amazon-archives/web-app-starter-kit-for-fire-tv) - Web App Starter Kit Examples
@@ -4174,7 +4174,7 @@
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [hyperfiddle/hyperfiddle](https://github.com/hyperfiddle/hyperfiddle) - CRUD apps as a function
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
-- [2ndmehmet/open-source-cloud](https://github.com/2ndmehmet/open-source-cloud) - The open source cloud things to build your own cloud
+- [mehmetaydogduu/open-source-cloud](https://github.com/mehmetaydogduu/open-source-cloud) - The open source cloud things to build your own cloud
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -5781,6 +5781,7 @@
 - [tongueroo/dynomite](https://github.com/tongueroo/dynomite) - A simple wrapper library to make DynamoDB usage a little more friendly
 - [pawurb/activerecord-analyze](https://github.com/pawurb/activerecord-analyze) - Add EXPLAIN ANALYZE to Rails Active Record query objects
 - [cookpad/omniauth-rails_csrf_protection](https://github.com/cookpad/omniauth-rails_csrf_protection) - Provides CSRF protection on OmniAuth request endpoint on Rails application.
+- [rails/tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 
 - [seattlerb/ruby_parser](https://github.com/seattlerb/ruby_parser) - ruby_parser is a ruby parser written in pure ruby. It outputs s-expressions which can be manipulated and converted back to ruby via the ruby2ruby gem.
 - [ruby-formatter/rufo](https://github.com/ruby-formatter/rufo) - The Ruby Formatter
 - [Shopify/autoload_reloader](https://github.com/Shopify/autoload_reloader) - Experimental implementation of code reloading using Ruby's autoload
@@ -7381,6 +7382,7 @@
 - [harvesthq/simple_xlsx_writer](https://github.com/harvesthq/simple_xlsx_writer) - Simpe writer for Office 2007 Excel files
 - [wpeterson/emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone. ❤
 - [mongodb/bson-ruby](https://github.com/mongodb/bson-ruby) - Ruby Implementation of the BSON Specification (2.0.0+)
+- [msgpack/msgpack-ruby](https://github.com/msgpack/msgpack-ruby) - MessagePack implementation for Ruby / msgpack.org[Ruby]
 - [geekq/workflow](https://github.com/geekq/workflow) - Ruby finite-state-machine-inspired API for modeling workflow
 - [rtomayko/tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 - [tpope/mta-settings](https://github.com/tpope/mta-settings) - Configure ActionMailer or Mail delivery settings based on the environment
@@ -8260,6 +8262,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise ready webhooks service 🦀
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
@@ -8719,6 +8722,7 @@
 
 ## TypeScript 
 
+- [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
 - [heyitsarpit/react-hooks-library](https://github.com/heyitsarpit/react-hooks-library) - A collection of hooks and utilities for modern React
 - [figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp) - This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
@@ -8731,7 +8735,7 @@
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 
-- [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components.
+- [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple JS framework for native web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -10039,6 +10043,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - GraphQL API & React UI components for Elasticsearch. The easiest way to build a great search experience
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
