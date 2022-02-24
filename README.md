@@ -623,7 +623,6 @@
 
 ## Dockerfile 
 
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
 - [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 9, Debian 10, and Debian 11.
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
@@ -1379,6 +1378,7 @@
 
 ## Java 
 
+- [robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - ⚡️ Capacitor plugin that allows the user to select a file.
 - [capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) - ⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
 - [capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) - ⚡️ Capacitor plugin for synthesizing speech from text.
 - [capacitor-community/native-audio](https://github.com/capacitor-community/native-audio) - 
@@ -1564,6 +1564,7 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [kirillplatonov/hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload) - Live reload for Hotwire Rails apps.
 - [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
@@ -3593,7 +3594,7 @@
 - [nornagon/scrubby](https://github.com/nornagon/scrubby) - Tweak values in JavaScript without having to reload.
 - [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 - [brtstk/projector](https://github.com/brtstk/projector) - 📽 A simple mockup presentation engine
-- [scripted-editor/scripted](https://github.com/scripted-editor/scripted) - The Scripted code editor
+- [vmware-archive/scripted](https://github.com/vmware-archive/scripted) - The Scripted code editor
 - [codrops/Windy](https://github.com/codrops/Windy) - A jQuery Plugin for Swift Content Navigation
 - [Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [vhmth/Balloon](https://github.com/vhmth/Balloon) - Sticky header with no jQuery dependency.
@@ -4732,6 +4733,7 @@
 
 ## Python 
 
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
@@ -5109,6 +5111,8 @@
 
 ## Ruby 
 
+- [NullVoxPopuli/skinny_controllers](https://github.com/NullVoxPopuli/skinny_controllers) - A pattern for allowing for easier testing of large projects' business logic
+- [t6d/active_operation](https://github.com/t6d/active_operation) - ActiveOperation is a micro-framework for modelling business processes
 - [veeqo/activejob-uniqueness](https://github.com/veeqo/activejob-uniqueness) - Unique jobs for ActiveJob. Ensure the uniqueness of jobs in the queue.
 - [assaf/vanity](https://github.com/assaf/vanity) - Experiment Driven Development for Ruby
 - [fatkodima/online_migrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc).
@@ -6116,7 +6120,6 @@
 - [cenit-io/cenit](https://github.com/cenit-io/cenit) - :rocket: Cenit IO - 100% open source integration Platform (iPaaS)
 - [t6d/smart_properties](https://github.com/t6d/smart_properties) - Ruby accessors on steroids
 - [t6d/composable_operations](https://github.com/t6d/composable_operations) - Composable Operations is a tool set for creating operations and assembling multiple of these operations in operation pipelines.
-- [t6d/active_operation](https://github.com/t6d/active_operation) - ActiveOperation is a micro-framework for modelling business processes
 - [TheoremOne/coercive](https://github.com/TheoremOne/coercive) - Ruby library to validate and coerce user input
 - [jetruby/apollo_upload_server-ruby](https://github.com/jetruby/apollo_upload_server-ruby) - 
 - [komposable/komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Ruby on Rails, based on components
@@ -8734,7 +8737,7 @@
 - [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系
 - [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple JS framework for native web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
@@ -8790,7 +8793,6 @@
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - TestContainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) - The official JavaScript + TypeScript client library for Prismic
 - [Enricopv/turbo-boilerplate](https://github.com/Enricopv/turbo-boilerplate) - Turborepo Boiler Plate with Next, Remix, Expo, and React Native projects.
-- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [egoist/haya](https://github.com/egoist/haya) - ⚡️ esbuild based dev server and production bundler, it's really fast
 - [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
 - [marcjulian/nestjs-prisma](https://github.com/marcjulian/nestjs-prisma) - Library and schematics to add Prisma integration to a NestJS application
