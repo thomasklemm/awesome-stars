@@ -424,7 +424,7 @@
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
 - [rohitkrai03/pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans. View Demo -
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
-- [steshaw/plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
+- [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [cjcenizal/flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
 - [select2/select2-bootstrap-theme](https://github.com/select2/select2-bootstrap-theme) - A Select2 v4 Theme for Bootstrap 3
 - [mdo/wtf-forms](https://github.com/mdo/wtf-forms) - Friendlier HTML form controls with a little CSS magic.
@@ -1398,7 +1398,7 @@
 - [capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code
 - [capacitor-community/http](https://github.com/capacitor-community/http) - Community plugin for native HTTP
 - [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-- [XRFoundation/native-xr-for-web](https://github.com/XRFoundation/native-xr-for-web) - Add iOS and Android build with AR capabilities to your website or web-based app.
+- [XRFoundation/Native-XR-for-Web](https://github.com/XRFoundation/Native-XR-for-Web) - Add iOS and Android build with AR capabilities to your website or web-based app.
 - [capacitor-community/capacitor-googlemaps-native](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
 - [capacitor-community/stripe](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
@@ -1476,7 +1476,6 @@
 - [novoda/spikes](https://github.com/novoda/spikes) - Where ideas & concepts are born & incubated
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Tencent/soter](https://github.com/Tencent/soter) - A secure and quick biometric authentication standard and platform in Android held by Tencent.
-- [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 - [pchmn/MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput) - Implementation of Material Design Chips component for Android
 - [yarolegovich/SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) - DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
 - [airbnb/native-navigation](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -1503,6 +1502,7 @@
 
 ## JavaScript 
 
+- [ShinyChang/React-Text-Truncate](https://github.com/ShinyChang/React-Text-Truncate) - Truncate multi-lines text for all browsers base on react.js
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
@@ -3926,6 +3926,7 @@
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
 - [neo4j-graphql/neo4j-graphql](https://github.com/neo4j-graphql/neo4j-graphql) - GraphQL bindings for Neo4j, generates and runs Cypher
 - [corda/corda](https://github.com/corda/corda) - Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
+- [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [mrcljx/rubocop-for-rubymine](https://github.com/mrcljx/rubocop-for-rubymine) - DEPRECATED: RubyMine supports RuboCop now
 - [dkandalov/scratch](https://github.com/dkandalov/scratch) - Scratch is IntelliJ IDEs plugin to quickly open temporary text editor
@@ -4066,6 +4067,7 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [lostisland/awesome-faraday](https://github.com/lostisland/awesome-faraday) - A curated list of awesome middleware and adapters for Faraday
 - [ampproject/wg-stories](https://github.com/ampproject/wg-stories) - Responsible for implementing and improving AMP's story format (amp-story). Facilitator: @newmuis
@@ -5111,6 +5113,7 @@
 
 ## Ruby 
 
+- [stripe-ruby-mock/stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing stripe ruby
 - [NullVoxPopuli/skinny_controllers](https://github.com/NullVoxPopuli/skinny_controllers) - A pattern for allowing for easier testing of large projects' business logic
 - [t6d/active_operation](https://github.com/t6d/active_operation) - ActiveOperation is a micro-framework for modelling business processes
 - [veeqo/activejob-uniqueness](https://github.com/veeqo/activejob-uniqueness) - Unique jobs for ActiveJob. Ensure the uniqueness of jobs in the queue.
@@ -8725,6 +8728,8 @@
 
 ## TypeScript 
 
+- [joyceworks/flowchart-react](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+- [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
 - [heyitsarpit/react-hooks-library](https://github.com/heyitsarpit/react-hooks-library) - A collection of hooks and utilities for modern React
 - [figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp) - This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
@@ -8857,7 +8862,7 @@
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
-- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
+- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [ponymessenger/use-prosemirror](https://github.com/ponymessenger/use-prosemirror) - ProseMirror + React made easy
 - [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) - A helper library to use react-query more efficient, consistency
