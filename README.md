@@ -8728,6 +8728,7 @@
 
 ## TypeScript 
 
+- [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) - 🌀 Insert Awesome Shapes into Your React Site with Ease.
 - [joyceworks/flowchart-react](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
@@ -9173,7 +9174,7 @@
 - [DevExpress/devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - Business React components for Bootstrap and Material-UI
 - [StarpTech/graphql-registry](https://github.com/StarpTech/graphql-registry) - GraphQL registry - single source of truth for registering and tracking your graph.
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API.
-- [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literal notebooks
+- [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by Modulz.
 - [connorshea/vscode-ruby-test-adapter](https://github.com/connorshea/vscode-ruby-test-adapter) - A Ruby test adapter extension for the VS Code Test Explorer
 - [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
