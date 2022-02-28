@@ -172,7 +172,6 @@
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
@@ -1392,7 +1391,7 @@
 - [riderx/capacitor-updater](https://github.com/riderx/capacitor-updater) - OTA update for capacitor
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
-- [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Show your appreciation with a Github ★
+- [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Stop the war in Ukraine!
 - [calvinckho/capacitor-jitsi-meet](https://github.com/calvinckho/capacitor-jitsi-meet) - This plugin is used to make video calls using Jitsi video platform (https://meet.jit.si) on iOS and Android using Ionic Capacitor.
 - [capacitor-community/contacts](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor
 - [capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code
@@ -4997,6 +4996,7 @@
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [tensorflow/fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [dzhibas/SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
 - [keenlabs/KeenClient-Python](https://github.com/keenlabs/KeenClient-Python) - Official Python client for the Keen IO API. Build analytics features directly into your Python apps.
