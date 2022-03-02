@@ -724,7 +724,7 @@
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [astroband/astrologer](https://github.com/astroband/astrologer) - Index Stellar historical data with ElasticSearch
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1203,7 +1203,7 @@
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [justalever/kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 7 application template for personal use bundled with Tailwind CSS
 - [timshingyu/saaskit](https://github.com/timshingyu/saaskit) - SaaSKit is the Rails SaaS starter kit for building your SaaS business
-- [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
+- [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia https://motionia.netlify.app/
 - [GavinRay97/graphql-bench](https://github.com/GavinRay97/graphql-bench) - 
 - [isomorfeus/isomorfeus-project](https://github.com/isomorfeus/isomorfeus-project) - The powerful, isomorphic full stack web application development environment.
 - [ruby-rdf/json-ld](https://github.com/ruby-rdf/json-ld) - Ruby JSON-LD reader/writer for RDF.rb
@@ -1388,7 +1388,7 @@
 - [capacitor-community/firebase-crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - ⚡️ Capacitor plugin for Firebase Crashlytics.
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
-- [riderx/capacitor-updater](https://github.com/riderx/capacitor-updater) - OTA update for capacitor
+- [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Stop the war in Ukraine!
@@ -1501,6 +1501,7 @@
 
 ## JavaScript 
 
+- [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
 - [ShinyChang/React-Text-Truncate](https://github.com/ShinyChang/React-Text-Truncate) - Truncate multi-lines text for all browsers base on react.js
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
@@ -4066,6 +4067,7 @@
 
 ## Others 
 
+- [dalezak/rails-blueprint](https://github.com/dalezak/rails-blueprint) - A starter blueprint for fast tracking Rails development
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
@@ -5114,6 +5116,10 @@
 
 ## Ruby 
 
+- [julianrubisch/cubism](https://github.com/julianrubisch/cubism) - Lightweight Resource-Based Presence Solution with CableReady
+- [baldowl/rack_csrf](https://github.com/baldowl/rack_csrf) - Anti-CSRF Rack middleware
+- [ackama/rails-template](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+- [kddnewton/snip_snip](https://github.com/kddnewton/snip_snip) - Snip snip cuts the deadweight
 - [stripe-ruby-mock/stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing stripe ruby
 - [NullVoxPopuli/skinny_controllers](https://github.com/NullVoxPopuli/skinny_controllers) - A pattern for allowing for easier testing of large projects' business logic
 - [t6d/active_operation](https://github.com/t6d/active_operation) - ActiveOperation is a micro-framework for modelling business processes
@@ -8394,6 +8400,7 @@
 
 ## SCSS 
 
+- [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [bahlo/arnes-notes](https://github.com/bahlo/arnes-notes) - 🧠 My working notes.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [ionic-team/capacitor-site](https://github.com/ionic-team/capacitor-site) - Capacitor website
@@ -8728,6 +8735,7 @@
 
 ## TypeScript 
 
+- [antfu/magic-string-extra](https://github.com/antfu/magic-string-extra) - Extended magic-string with extra utilities
 - [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) - 🌀 Insert Awesome Shapes into Your React Site with Ease.
 - [joyceworks/flowchart-react](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -8933,7 +8941,7 @@
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
 - [eventOneHQ/capacitor-stripe-terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 💳 Capacitor plugin for Stripe Terminal (credit card readers)
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
-- [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - Upstash Redis Javascript library
+- [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions
 - [ionic-team/appflow-build](https://github.com/ionic-team/appflow-build) - GitHub Action for triggering Appflow Builds
 - [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli) - The Ionic command-line interface
 - [capacitor-community/react-hooks](https://github.com/capacitor-community/react-hooks) - ⚡️ React hooks for Capacitor ⚡️
@@ -8985,7 +8993,7 @@
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
 - [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
 - [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [zhouzi/docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
