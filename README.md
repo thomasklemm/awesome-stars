@@ -622,6 +622,7 @@
 
 ## Dockerfile 
 
+- [bkuhlmann/docker-alpine-ruby](https://github.com/bkuhlmann/docker-alpine-ruby) - Provides a Docker Ruby image for development purposes.
 - [dockette/dbdump](https://github.com/dockette/dbdump) - :whale: MariaDB / MySQL / Postgres dumper
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
 - [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 9, Debian 10, and Debian 11.
@@ -715,6 +716,7 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [Code-Hex/gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
@@ -1757,7 +1759,6 @@
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
@@ -5125,6 +5126,19 @@
 
 ## Ruby 
 
+- [gregschmit/rails-rest-framework](https://github.com/gregschmit/rails-rest-framework) - A framework for DRY RESTful APIs in Ruby on Rails.
+- [fjl82/fuzzily](https://github.com/fjl82/fuzzily) - Fast fuzzy string searching/matching for Rails
+- [bkuhlmann/caliber](https://github.com/bkuhlmann/caliber) - Provides a high quality style guide and configuration for your projects.
+- [bkuhlmann/git_plus](https://github.com/bkuhlmann/git_plus) - Provides an Object API around Git.
+- [bkuhlmann/refinements](https://github.com/bkuhlmann/refinements) - A collection of refinements to core Ruby objects.
+- [bkuhlmann/tocer](https://github.com/bkuhlmann/tocer) - A command line interface for generating table of contents for Markdown files.
+- [bkuhlmann/versionaire](https://github.com/bkuhlmann/versionaire) - Provides an immutable, thread-safe, and semantic version type.
+- [bkuhlmann/auto_injector](https://github.com/bkuhlmann/auto_injector) - Automates the injection of dependencies for your class.
+- [bkuhlmann/gemsmith](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing Ruby gems.
+- [bkuhlmann/marameters](https://github.com/bkuhlmann/marameters) - Provides method parameter introspection which is useful when metaprogramming.
+- [bkuhlmann/auther](https://github.com/bkuhlmann/auther) - Enhances Rails with multi-account, form-based, database-less, application-wide authentication.
+- [Kukunin/cursor_pagination](https://github.com/Kukunin/cursor_pagination) - ActiveRecord plugin for cursor based pagination
+- [baygeldin/tantiny](https://github.com/baygeldin/tantiny) - Tiny full-text search for Ruby powered by Tantivy
 - [shayonj/pg-osc](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills  in PostgreSQL
 - [maxim/enum_utils](https://github.com/maxim/enum_utils) - Functions for mixing and matching lazy, potentially infinite enumerables.
 - [ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree) - A fast Ruby parser and formatter
@@ -5366,7 +5380,7 @@
 - [ElMassimo/oj_serializers](https://github.com/ElMassimo/oj_serializers) - ⚡️ Faster JSON serialization for Ruby on Rails. Easily migrate away from Active Model Serializers.
 - [ElMassimo/pingcrm-vite](https://github.com/ElMassimo/pingcrm-vite) - ⚡️ PingCRM on Vite Rails - A Vite.js + Inertia.js + Rails demo
 - [ElMassimo/better_settings](https://github.com/ElMassimo/better_settings) - ⚙ Settings for Ruby apps – fast, immutable, better.
-- [seven1m/natalie](https://github.com/seven1m/natalie) - a unique Ruby implementation, compiled to C++ (WIP)
+- [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a unique Ruby implementation, compiled to C++ (WIP)
 - [looorent/keycloak-admin-ruby](https://github.com/looorent/keycloak-admin-ruby) - Keycloak Admin REST API client written in Ruby
 - [Purple-Magic/tramway-core](https://github.com/Purple-Magic/tramway-core) - Core engine for Tramway Apps
 - [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk) - LaunchDarkly Server-side SDK for Ruby
@@ -8752,6 +8766,7 @@
 
 ## TypeScript 
 
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [noona-hq/react-native-week-month-date-picker](https://github.com/noona-hq/react-native-week-month-date-picker) - Date picker with a week and month view 📅
 - [Borewit/music-metadata-browser](https://github.com/Borewit/music-metadata-browser) - Browser version of music-metadata parser Supporting a wide range of audio and tag formats.
@@ -8782,7 +8797,7 @@
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-- [formkit/formkit](https://github.com/formkit/formkit) - The FormKit mono repo
+- [formkit/formkit](https://github.com/formkit/formkit) - Industry-leading form development. 10x faster. For Vue 3.
 - [sumup-oss/circuit-ui](https://github.com/sumup-oss/circuit-ui) - SumUp's component library for the web
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
@@ -9036,7 +9051,7 @@
 - [schummar/schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js.
 - [unkleho/reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser
 - [bootrino/reactoxide](https://github.com/bootrino/reactoxide) - 
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [octokit/webhooks.js](https://github.com/octokit/webhooks.js) - GitHub webhook events toolset for Node.js
 - [octokit/request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node
@@ -9183,6 +9198,7 @@
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
 - [dapilab/react-nice-avatar](https://github.com/dapilab/react-nice-avatar) - react library for generating avatar
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 - [egoist/preader](https://github.com/egoist/preader) - Extract the main content from a web page.
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful 👕
