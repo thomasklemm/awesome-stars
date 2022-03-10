@@ -65,6 +65,7 @@
   - [Prolog](#prolog)
   - [Pug](#pug)
   - [Python](#python)
+  - [ReScript](#rescript)
   - [Reason](#reason)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
@@ -716,6 +717,7 @@
 
 ## Go 
 
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [Code-Hex/gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
@@ -1020,7 +1022,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [sachaos/note](https://github.com/sachaos/note) - Simple Real-time Markdown previewer
 - [xdrpp/stc](https://github.com/xdrpp/stc) - Stellar transaction compiler
@@ -1852,7 +1854,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [afcapel/stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - Stimulus autocomplete component
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [vercel/server-components-notes-demo](https://github.com/vercel/server-components-notes-demo) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [taylorbryant/next-starter-tailwind](https://github.com/taylorbryant/next-starter-tailwind) - Next.js starter styled with Tailwind CSS
@@ -4747,9 +4749,11 @@
 
 ## Python 
 
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
+- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [tjunttila/pdf2video](https://github.com/tjunttila/pdf2video) - A tool for making videos from PDF presentations.
@@ -4774,7 +4778,7 @@
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [michaelhly/solana-py](https://github.com/michaelhly/solana-py) - Solana Python SDK
-- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Project to provide an intuitive user experience to databases.
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -5109,6 +5113,10 @@
 - [robertkrimen/gist-it](https://github.com/robertkrimen/gist-it) - An AppEngine app to embed files from a github repository like a gist
 - [somerandomdude/Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
 
+## ReScript 
+
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
+
 ## Reason 
 
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason
@@ -5126,6 +5134,8 @@
 
 ## Ruby 
 
+- [stytchauth/stytch-ruby](https://github.com/stytchauth/stytch-ruby) - 
+- [digital-fabric/impression](https://github.com/digital-fabric/impression) - A modern web framework for Ruby
 - [gregschmit/rails-rest-framework](https://github.com/gregschmit/rails-rest-framework) - A framework for DRY RESTful APIs in Ruby on Rails.
 - [fjl82/fuzzily](https://github.com/fjl82/fuzzily) - Fast fuzzy string searching/matching for Rails
 - [bkuhlmann/caliber](https://github.com/bkuhlmann/caliber) - Provides a high quality style guide and configuration for your projects.
@@ -8306,7 +8316,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise ready webhooks service 🦀
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
+- [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [bahlo/happyscribe2podlove](https://github.com/bahlo/happyscribe2podlove) - Smol cli tool that converts Happy Scribe JSON to VTT understood by Podlove.
 - [pgvector/pgvector-rust](https://github.com/pgvector/pgvector-rust) - pgvector support for Rust
 - [valeriansaliou/raider](https://github.com/valeriansaliou/raider) - 🐎 Affiliates dashboard. Used by affiliates to generate tracking codes and review their balance.
@@ -8319,7 +8329,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [voltpkg/volt](https://github.com/voltpkg/volt) - Fast, clean, lightweight, robust, and efficient package management.
+- [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [robertDurst/stellar-vanity-address-generator](https://github.com/robertDurst/stellar-vanity-address-generator) - Generate Stellar Vanity Wallets
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
@@ -8766,6 +8776,8 @@
 
 ## TypeScript 
 
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [noona-hq/react-native-week-month-date-picker](https://github.com/noona-hq/react-native-week-month-date-picker) - Date picker with a week and month view 📅
@@ -8785,7 +8797,6 @@
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [streamich/json-joy](https://github.com/streamich/json-joy) - JSON Joy 🦄🌈—JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSON Brand, JSON Expression, JSON Size, JSON Type, JSON Schema, JSON deep equality, JSON utilities for joy and collaborative editing
-- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 - [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
 - [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
