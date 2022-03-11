@@ -546,6 +546,7 @@
 
 ## CoffeeScript 
 
+- [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) - Podcast Web Player
 - [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [nicklandgrebe/active-resource.js](https://github.com/nicklandgrebe/active-resource.js) - ActiveResource.js - API resource relational mapping in JavaScript
@@ -742,7 +743,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [portto/solana-go-sdk](https://github.com/portto/solana-go-sdk) - Solana Golang SDK
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
-- [valist-io/valist](https://github.com/valist-io/valist) - Web3-native software distribution system. Publish and install executables, Docker images, WebAssembly, and more. Powered by Ethereum, IPFS, and Filecoin.
+- [valist-io/valist](https://github.com/valist-io/valist) - Web3-native software distribution. Publish and install executables, Docker images, WebAssembly, and more. Powered by Ethereum, IPFS, and Filecoin.
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [meilisearch/meilisearch-go](https://github.com/meilisearch/meilisearch-go) - Golang wrapper for the Meilisearch API
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
@@ -1143,6 +1144,8 @@
 
 ## HTML 
 
+- [w3c/web-share](https://github.com/w3c/web-share) - Web API proposal for sharing data from a web page
+- [lazaronixon/administration-zero](https://github.com/lazaronixon/administration-zero) - An administration system generator for Rails applications.
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [ampproject/amp-toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
 - [Neodelf/lecter](https://github.com/Neodelf/lecter) - :boom: Show executable code by request
@@ -4011,6 +4014,7 @@
 
 ## Objective-C 
 
+- [EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin) - 👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 - [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
@@ -4749,6 +4753,7 @@
 
 ## Python 
 
+- [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
@@ -4867,7 +4872,6 @@
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [olirice/nebulo](https://github.com/olirice/nebulo) - Instant GraphQL API for PostgreSQL and SQLAlchemy
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
@@ -5134,6 +5138,10 @@
 
 ## Ruby 
 
+- [motine/fixpoints](https://github.com/motine/fixpoints) - Fixpoints enables saving, restoring and comparing the database state before & after tests.
+- [motine/dsl_factory](https://github.com/motine/dsl_factory) - Define DSLs quickly and avoid the boilerplate write getters and setters. Oh, and it does validation too.
+- [williamkennedy/sign_well](https://github.com/williamkennedy/sign_well) - A Ruby wrapper around the SignWell Api.
+- [podigee/pod-ident.rb](https://github.com/podigee/pod-ident.rb) - PodIdent ruby implementation
 - [stytchauth/stytch-ruby](https://github.com/stytchauth/stytch-ruby) - 
 - [digital-fabric/impression](https://github.com/digital-fabric/impression) - A modern web framework for Ruby
 - [gregschmit/rails-rest-framework](https://github.com/gregschmit/rails-rest-framework) - A framework for DRY RESTful APIs in Ruby on Rails.
@@ -8423,7 +8431,7 @@
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -8776,6 +8784,7 @@
 
 ## TypeScript 
 
+- [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
@@ -8802,7 +8811,7 @@
 - [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack for scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple JS framework for native web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
@@ -9144,7 +9153,7 @@
 - [railsdiff/railsdiff](https://github.com/railsdiff/railsdiff) - What you should change about your app's configuration when upgrading Rails versions
 - [ElMassimo/vue-custom-element-example](https://github.com/ElMassimo/vue-custom-element-example) - An example on how to define custom elements using Vue 3
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
-- [vueComponent/pro-layout](https://github.com/vueComponent/pro-layout) - easy use `Ant Design Vue` layout
+- [vueComponent/pro-components](https://github.com/vueComponent/pro-components) - easy use `Ant Design Vue` layout
 - [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.
@@ -9538,6 +9547,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
