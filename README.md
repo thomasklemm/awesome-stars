@@ -1672,6 +1672,7 @@
 - [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) - Apache Cordova Plugin geolocation
 - [j3k0/cordova-plugin-purchase](https://github.com/j3k0/cordova-plugin-purchase) - In-App Purchase for Cordova on iOS, Android and Windows
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
+- [ionic-team/ionic-portals](https://github.com/ionic-team/ionic-portals) - Portals Library
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -3930,7 +3931,6 @@
 ## Kotlin 
 
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
-- [ionic-team/ionic-portals](https://github.com/ionic-team/ionic-portals) - Portals Library
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
@@ -4758,7 +4758,6 @@
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
-- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [tjunttila/pdf2video](https://github.com/tjunttila/pdf2video) - A tool for making videos from PDF presentations.
@@ -5138,6 +5137,7 @@
 
 ## Ruby 
 
+- [arielj/vanilla-nested](https://github.com/arielj/vanilla-nested) - Rails dynamic nested forms using vanilla JS
 - [motine/fixpoints](https://github.com/motine/fixpoints) - Fixpoints enables saving, restoring and comparing the database state before & after tests.
 - [motine/dsl_factory](https://github.com/motine/dsl_factory) - Define DSLs quickly and avoid the boilerplate write getters and setters. Oh, and it does validation too.
 - [williamkennedy/sign_well](https://github.com/williamkennedy/sign_well) - A Ruby wrapper around the SignWell Api.
@@ -7849,7 +7849,7 @@
 - [thomasklemm/TodoMVC-Rails-jQuery](https://github.com/thomasklemm/TodoMVC-Rails-jQuery) - An experiment in building a todolist with persistance in Rails and jQuery using mainly javascript responses as outlined in RailsCast #136.
 - [ankane/searchjoy](https://github.com/ankane/searchjoy) - Search analytics made easy
 - [tobi/highlights](https://github.com/tobi/highlights) - download your kindle highlights and email random ones to your inbox
-- [ifad/chronomodel](https://github.com/ifad/chronomodel) - Temporal PostgreSQL (9.4+) system with "flashback" framework for ActiveRecord (5.x)
+- [ifad/chronomodel](https://github.com/ifad/chronomodel) - Temporal PostgreSQL (9.4+) system with "flashback" framework for ActiveRecord (5.0+)
 - [brendon/ranked-model](https://github.com/brendon/ranked-model) - An acts_as_sortable/acts_as_list replacement built for Rails 4, 5 and 6
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
 - [algolia/algoliasearch-client-ruby](https://github.com/algolia/algoliasearch-client-ruby) - ⚡️ A fully-featured and blazing-fast Ruby API client to interact with Algolia.
@@ -8320,6 +8320,7 @@
 
 ## Rust 
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise ready webhooks service 🦀
@@ -8806,12 +8807,13 @@
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [streamich/json-joy](https://github.com/streamich/json-joy) - JSON Joy 🦄🌈—JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSON Brand, JSON Expression, JSON Size, JSON Type, JSON Schema, JSON deep equality, JSON utilities for joy and collaborative editing
+- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 - [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
 - [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack for scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple JS framework for native web components.
 - [stripe/react-stripe-js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements
 - [microsoft/griffel](https://github.com/microsoft/griffel) - ✏️ CSS-in-JS with ahead-of-time compilation.
@@ -9053,7 +9055,7 @@
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
 - [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [zhouzi/docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
@@ -9413,7 +9415,7 @@
 - [egoist/presite](https://github.com/egoist/presite) - A static site generator based on Puppeteer.
 - [SSHcom/c3](https://github.com/SSHcom/c3) - 𝗖𝟯 provides compliant AWS CDK components to various security standards.
 - [botpress/cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [rimeto/tform](https://github.com/rimeto/tform) - Transform JSON records easily
@@ -10122,7 +10124,7 @@
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - GraphQL API & React UI components for Elasticsearch. The easiest way to build a great search experience
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node & Browser SDK & React UI components for Elasticsearch. The easiest way to build a great search experience
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
