@@ -2407,7 +2407,6 @@
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [diogomoretti/react-snakke](https://github.com/diogomoretti/react-snakke) - 🐍 Reading position indicator for React
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -7956,7 +7955,7 @@
 - [Wardrop/Scorched](https://github.com/Wardrop/Scorched) - Light-weight, DRY as a desert, web framework for Ruby.
 - [banister/method_source](https://github.com/banister/method_source) - return the sourcecode for a method
 - [defunkt/unicorn](https://github.com/defunkt/unicorn) - Unofficial Unicorn Mirror.
-- [djonasson/worldwise](https://github.com/djonasson/worldwise) - Worldwise knows things. About continents. About countries. About regions. About languages. About locales. About currencies. About you. Well... maybe not about you, but still pretty impressive, huh?
+- [djonasson/worldwise](https://github.com/djonasson/worldwise) - Worldwise knows things about continents, countries, regions, languages, locales and currencies.
 - [adhearsion/adhearsion](https://github.com/adhearsion/adhearsion) - A Ruby framework for building telephony applications
 - [JoshCheek/ruby-kickstart](https://github.com/JoshCheek/ruby-kickstart) - An interactive guide to learning the Ruby programming language.
 - [codegram/date_validator](https://github.com/codegram/date_validator) - A simple, ORM agnostic, Ruby &gt;=2.2 compatible date validator for Rails, based on ActiveModel.
@@ -8444,6 +8443,7 @@
 - [penelopezone/rubyfmt](https://github.com/penelopezone/rubyfmt) - Ruby Autoformatter!
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
@@ -8803,6 +8803,7 @@
 
 ## TypeScript 
 
+- [souporserious/jsxui](https://github.com/souporserious/jsxui) - The design compiler for JSX.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [gentics/headless-cms-comparison](https://github.com/gentics/headless-cms-comparison) - Source repository for the headless cms comparison site
 - [oslabs-beta/AtomiQL](https://github.com/oslabs-beta/AtomiQL) - Next Generation GraphQL Client fully integrated with Jotai Atomic State
