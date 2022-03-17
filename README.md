@@ -1396,6 +1396,7 @@
 - [capacitor-community/native-audio](https://github.com/capacitor-community/native-audio) - 
 - [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 - [awslabs/smithy-typescript](https://github.com/awslabs/smithy-typescript) - Smithy code generators for TypeScript. (in development)
+- [awslabs/smithy-ruby](https://github.com/awslabs/smithy-ruby) - 
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [capacitor-community/admob](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob
 - [capacitor-community/firebase-crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - ⚡️ Capacitor plugin for Firebase Crashlytics.
@@ -1412,7 +1413,7 @@
 - [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
 - [XRFoundation/Native-XR-for-Web](https://github.com/XRFoundation/Native-XR-for-Web) - Add iOS and Android build with AR capabilities to your website or web-based app.
 - [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
-- [capacitor-community/capacitor-googlemaps-native](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
+- [capacitor-community/google-maps](https://github.com/capacitor-community/google-maps) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
 - [capacitor-community/stripe](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor
@@ -4761,6 +4762,7 @@
 
 ## Python 
 
+- [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [zverok/wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
@@ -5146,6 +5148,12 @@
 
 ## Ruby 
 
+- [evilmartians/ruby-on-whales](https://github.com/evilmartians/ruby-on-whales) - Ruby on Whales example and templates
+- [nebulab/erb-formatter](https://github.com/nebulab/erb-formatter) - Format ERB files with speed and precision
+- [spree/spree_legacy_frontend](https://github.com/spree/spree_legacy_frontend) - Legacy Spree Rails storefront
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - A Ruby gem for the OpenAI GPT-3 API
+- [aki77/activestorage-validator](https://github.com/aki77/activestorage-validator) - ActiveStorage blob validator.
+- [aki77/activemodel-csv_validator](https://github.com/aki77/activemodel-csv_validator) - CSV Validator for Active Model
 - [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps
 - [github/erblint-github](https://github.com/github/erblint-github) - Template style checking for GitHub's Ruby projects
 - [piotrmurach/tty-option](https://github.com/piotrmurach/tty-option) - A declarative command-line parser
@@ -5261,7 +5269,6 @@
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects.
 - [zverok/yard-junk](https://github.com/zverok/yard-junk) - Get rid of the junk in your YARD docs
 - [bullet-train-co/bullet_train-roles](https://github.com/bullet-train-co/bullet_train-roles) - Bullet Train Roles provides a Yaml-based configuration layer on top of CanCanCan.
-- [awslabs/smithy-ruby](https://github.com/awslabs/smithy-ruby) - 
 - [ruby/set](https://github.com/ruby/set) - This library provides the Set class, which deals with a collection of unordered values with no duplicates.
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
 - [camertron/gelauto](https://github.com/camertron/gelauto) - Automatically annotate your code with Sorbet type definitions.
@@ -8654,7 +8661,7 @@
 
 ## Svelte 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -8809,6 +8816,8 @@
 
 ## TypeScript 
 
+- [themeselection/materio-mui-react-nextjs-admin-template-free](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Materio is the Most Powerful & Comprehensive free Next.js React admin template based on MUI !! 🚀
+- [gooddata/gooddata-ui-sdk](https://github.com/gooddata/gooddata-ui-sdk) - GoodData.UI SDK
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React components faster.
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
@@ -9887,7 +9896,7 @@
 - [stellar/js-stellar-wallets](https://github.com/stellar/js-stellar-wallets) - A library to make it easier to write wallets that interact with Stellar
 - [frontier-forms/frontier-forms](https://github.com/frontier-forms/frontier-forms) - The smartest web-forms.
 - [honeybadger-io/honeybadger-js](https://github.com/honeybadger-io/honeybadger-js) - Universal JavaScript library for reporting errors to Honeybadger.io :zap:
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
@@ -10102,7 +10111,7 @@
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
