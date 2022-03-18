@@ -1203,7 +1203,7 @@
 - [igorkasyanchuk/rails_pdf](https://github.com/igorkasyanchuk/rails_pdf) - A reliable way to generate PDF of any complexity in Ruby on Rails apps
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [stimulus-components/stimulus-checkbox-select-all](https://github.com/stimulus-components/stimulus-checkbox-select-all) - A Stimulus controller for managing checkbox lists.
-- [harryheman/Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template) - Modern HTML Starter Template
+- [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [stefanfrede/11st-starter-kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 - [thoughtbot/ruby-science](https://github.com/thoughtbot/ruby-science) - The reference for writing fantastic Rails applications
@@ -1785,7 +1785,7 @@
 - [bpmn-io/form-js](https://github.com/bpmn-io/form-js) - View and visually edit JSON-based forms.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
 - [beyondcode/tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) - Tailwind CSS JIT in your browser
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ForestAdmin/forest-express](https://github.com/ForestAdmin/forest-express) - 🧱 Dependency of Express Lianas for Forest Admin
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
@@ -2088,7 +2088,7 @@
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [UnlyEd/GraphCMS-cache-boilerplate](https://github.com/UnlyEd/GraphCMS-cache-boilerplate) - The main goal of this service is to provide a reliable cache contingency backup plan in case a GraphCMS/GraphQL endpoint is failing.
-- [agershun/alasql](https://github.com/agershun/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+- [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [SAP/fundamental-react](https://github.com/SAP/fundamental-react) - React implementation of the reusable component library designed in Fundamental Library Styles
 - [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
@@ -3709,7 +3709,7 @@
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [i18next/i18next-node](https://github.com/i18next/i18next-node) - [deprecated] can be replaced with v2 of i18next
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language
-- [niftylettuce/express-cachebuster](https://github.com/niftylettuce/express-cachebuster) - Provides cross-browser version-control/cache-busting as a dynamic view helper in express.
+- [ladjs/express-cachebuster](https://github.com/ladjs/express-cachebuster) - Provides cross-browser version-control/cache-busting as a dynamic view helper in express.
 - [visionmedia/screenshot-app](https://github.com/visionmedia/screenshot-app) - website screenshot service & app - powered by node.js, express, redis, node-canvas, phantomjs and more
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [tblobaum/pixel-tracker](https://github.com/tblobaum/pixel-tracker) - a simple pixel tracker for node.js
@@ -4091,6 +4091,7 @@
 
 ## Others 
 
+- [bruno-/fiber_scheduler_list](https://github.com/bruno-/fiber_scheduler_list) - A list of available Fiber Schedulers for Ruby.
 - [dalezak/rails-blueprint](https://github.com/dalezak/rails-blueprint) - A starter blueprint for fast tracking Rails development
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -4968,7 +4969,7 @@
 - [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [dragonchain/dragonchain](https://github.com/dragonchain/dragonchain) - Dragonchain blockchain platform - simplified integration of advanced blockchain features
 - [hyperledger/indy-node](https://github.com/hyperledger/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [ethereum/research](https://github.com/ethereum/research) - 
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [blockchain-certificates/cert-issuer](https://github.com/blockchain-certificates/cert-issuer) - Issues Blockcerts using either the Bitcoin or Ethereum blockchain
@@ -5148,6 +5149,8 @@
 
 ## Ruby 
 
+- [datocms/middleman-dato](https://github.com/datocms/middleman-dato) - A Middleman extension to integrate your website with DatoCMS
+- [dsh0416/evt](https://github.com/dsh0416/evt) - The Event Library (Fiber Scheduler) that designed for Ruby 3.0.
 - [evilmartians/ruby-on-whales](https://github.com/evilmartians/ruby-on-whales) - Ruby on Whales example and templates
 - [nebulab/erb-formatter](https://github.com/nebulab/erb-formatter) - Format ERB files with speed and precision
 - [spree/spree_legacy_frontend](https://github.com/spree/spree_legacy_frontend) - Legacy Spree Rails storefront
@@ -6805,7 +6808,7 @@
 - [FidMe/active_mappers](https://github.com/FidMe/active_mappers) - The cleanest way to declare your Rails API view layer. Period.
 - [libvips/ruby-vips](https://github.com/libvips/ruby-vips) - Ruby extension for the libvips image processing library.
 - [Freaky/monotime](https://github.com/Freaky/monotime) - A sensible interface to monotonic time in Ruby
-- [csvreader/csvreader](https://github.com/csvreader/csvreader) - csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)
+- [rubycoco/csvreader](https://github.com/rubycoco/csvreader) - csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)
 - [nickjj/orats](https://github.com/nickjj/orats) - Opinionated rails application templates.
 - [lucascaton/enumerate_it](https://github.com/lucascaton/enumerate_it) - Enumerations for Ruby with some magic powers! 🎩
 - [github/rubocop-github](https://github.com/github/rubocop-github) - Code style checking for GitHub's Ruby projects
@@ -8351,6 +8354,8 @@
 
 ## Rust 
 
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
@@ -8903,7 +8908,7 @@
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast alternative to Storybook. Powered by Vite.
-- [vidstack/player](https://github.com/vidstack/player) - Video player built with headless web components to truly make it your own - alternative to Video.js.
+- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Video player built with headless web components to truly make it your own - alternative to Video.js.
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [stellar/freighter](https://github.com/stellar/freighter) - Stellar chrome extension
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
