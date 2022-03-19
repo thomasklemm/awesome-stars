@@ -830,7 +830,6 @@
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [felixge/sqlbench](https://github.com/felixge/sqlbench) - sqlbench measures and compares the execution time of one or more SQL queries.
-- [BrunoScheufler/lode](https://github.com/BrunoScheufler/lode) - Process Postgres changes in real-time, build streaming systems and audit logs with ease
 - [ysugimoto/grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - A protoc plugin that generates graphql execution code from Protocol Buffers.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [nautilus/gateway](https://github.com/nautilus/gateway) - A federated api gateway for graphql services. https://gateway.nautilus.dev/
@@ -1516,6 +1515,7 @@
 
 ## JavaScript 
 
+- [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [yjs/y-prosemirror](https://github.com/yjs/y-prosemirror) - ProseMirror editor binding for Yjs
 - [yjs/y-monaco](https://github.com/yjs/y-monaco) - Monaco editor bindings for Yjs
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -1555,7 +1555,6 @@
 - [matt-taylor/rails_base](https://github.com/matt-taylor/rails_base) - Starter Engine for Rails projects. Includes authentication, administrative capabilities, auditing, MultiFactor authentication, and insane amount of extensibility.
 - [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
 - [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework
-- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [dotcore64/i18next-fetch-backend](https://github.com/dotcore64/i18next-fetch-backend) - Fetch i18next translations with the fetch API
 - [i18next/i18next-icu](https://github.com/i18next/i18next-icu) - i18nFormat plugin to use ICU format with i18next
@@ -2082,7 +2081,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [amanjagdev/react-builder](https://github.com/amanjagdev/react-builder) - ⚙ A GUI tool to build your react app in the fastest way with all components and pages with routing.
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
@@ -4091,6 +4090,7 @@
 
 ## Others 
 
+- [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [bruno-/fiber_scheduler_list](https://github.com/bruno-/fiber_scheduler_list) - A list of available Fiber Schedulers for Ruby.
 - [dalezak/rails-blueprint](https://github.com/dalezak/rails-blueprint) - A starter blueprint for fast tracking Rails development
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -5149,6 +5149,10 @@
 
 ## Ruby 
 
+- [OpenGems/redis_web_manager](https://github.com/OpenGems/redis_web_manager) - Manage your Redis instance (see keys, memory used, connected client, etc...)
+- [k-p-jones/data_snapshots](https://github.com/k-p-jones/data_snapshots) - 
+- [westonganger/active_snapshot](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+- [midnightmonster/activerecord-summarize](https://github.com/midnightmonster/activerecord-summarize) - Speed up your Rails app dashboards by collecting groups of related ActiveRecord calculations into a single query _without_ rewriting, and take it to the next level with a clean API for building fast queries that would be too complex or too slow with plain ActiveRecord.
 - [datocms/middleman-dato](https://github.com/datocms/middleman-dato) - A Middleman extension to integrate your website with DatoCMS
 - [dsh0416/evt](https://github.com/dsh0416/evt) - The Event Library (Fiber Scheduler) that designed for Ruby 3.0.
 - [evilmartians/ruby-on-whales](https://github.com/evilmartians/ruby-on-whales) - Ruby on Whales example and templates
@@ -8821,6 +8825,7 @@
 
 ## TypeScript 
 
+- [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps!
 - [themeselection/materio-mui-react-nextjs-admin-template-free](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Materio is the Most Powerful & Comprehensive free Next.js React admin template based on MUI !! 🚀
 - [gooddata/gooddata-ui-sdk](https://github.com/gooddata/gooddata-ui-sdk) - GoodData.UI SDK
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React components faster.
@@ -8883,6 +8888,7 @@
 - [vikejs/telefunc](https://github.com/vikejs/telefunc) - Remote Functions. Instead of API.
 - [inertiajs/server](https://github.com/inertiajs/server) - Inertia.js (SSR) Server
 - [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [contentful/field-editors](https://github.com/contentful/field-editors) - React components and extensions for building Contentful entry editor
 - [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions) - 
@@ -8908,7 +8914,7 @@
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast alternative to Storybook. Powered by Vite.
-- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Video player built with headless web components to truly make it your own - alternative to Video.js.
+- [vidstack/vidstack](https://github.com/vidstack/vidstack) - A collection of modern video tools for frontend developers.
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [stellar/freighter](https://github.com/stellar/freighter) - Stellar chrome extension
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
@@ -9155,7 +9161,6 @@
 - [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
 - [relay-tools/relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🕸 React library for building workflow editors, flow charts and diagrams
-- [BrunoScheufler/graphql-sonar](https://github.com/BrunoScheufler/graphql-sonar) - An API testing tool for GraphQL, leveraging code generation based on your schema and operations
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
 - [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
