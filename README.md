@@ -412,7 +412,6 @@
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [damln/localtower](https://github.com/damln/localtower) - Manage your Ruby On Rails models, relations, and migrations from a simple UI.
-- [zavoloklom/material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) - Material Design Iconic Font and CSS toolkit
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [citusdata/citus-example-ad-analytics](https://github.com/citusdata/citus-example-ad-analytics) - Reference App for Ad Analytics, using Ruby on Rails.
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
@@ -1231,7 +1230,6 @@
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [nextapps-de/bulksearch](https://github.com/nextapps-de/bulksearch) - Lightweight and read-write optimized full text search library.
-- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - If you are looking for Bootstrap without jQuery, this is it.
 - [pikock/bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator made with AngularJS
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
@@ -2447,6 +2445,7 @@
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 - [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react) - A GraphQL client for React using modern context and hooks APIs that is lightweight (&lt; 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
+- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - If you are looking for Bootstrap without jQuery, this is it.
 - [lukeed/formee](https://github.com/lukeed/formee) - A tiny (532B) library for handling &lt;form&gt; elements.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
@@ -4114,7 +4113,7 @@
 - [PicchiKevin/WebXR-games](https://github.com/PicchiKevin/WebXR-games) - Curated list of cool WebXR Games & Experiences
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
-- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube.
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
 - [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
 - [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR) - A curated list of awesome AR (Augmented Reality) resources
 - [kddnewton/ripper-docs](https://github.com/kddnewton/ripper-docs) - Documentation for the ripper Ruby standard library
@@ -6092,7 +6091,6 @@
 - [first-try-software/navigable-graphql](https://github.com/first-try-software/navigable-graphql) - An extension of Navigable Server for building GraphQL APIs.
 - [first-try-software/navigable](https://github.com/first-try-software/navigable) - A small Ruby gem with big ideas about business logic.
 - [EnjoyTech/apollo-studio-tracing-ruby](https://github.com/EnjoyTech/apollo-studio-tracing-ruby) - A Ruby implementation of Apollo Studio tracing
-- [solnic/hanami-api-system-template](https://github.com/solnic/hanami-api-system-template) - :warning: [WIP] :warning: hanami-api + dry-system + rom application template
 - [julianrubisch/stimulus_reflex_profiler](https://github.com/julianrubisch/stimulus_reflex_profiler) - A Rails engine with profiling options for StimulusReflex
 - [nepalez/fixturama](https://github.com/nepalez/fixturama) - Collection of helpers for dealing with fixtures in RSpec
 - [tzinfo/tzinfo-data](https://github.com/tzinfo/tzinfo-data) - TZInfo::Data - Timezone Data for TZInfo
@@ -8509,6 +8507,7 @@
 - [dry-rb/dry-rb.org](https://github.com/dry-rb/dry-rb.org) - The official website of dry-rb
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+- [zavoloklom/material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) - Material Design Iconic Font and CSS toolkit
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [MatejKustec/SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners
 - [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
