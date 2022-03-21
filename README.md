@@ -735,7 +735,7 @@
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [astroband/astrologer](https://github.com/astroband/astrologer) - Index Stellar historical data with ElasticSearch
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1546,6 +1546,7 @@
 - [smlum/scription](https://github.com/smlum/scription) - An editor for speech-to-text transcripts such as AWS Transcribe and Mozilla DeepSpeech
 - [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
+- [YusukeIwaki/playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright client for Ruby
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [GoogleForCreators/web-stories-wp](https://github.com/GoogleForCreators/web-stories-wp) - Web Stories for WordPress
 - [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
@@ -5231,7 +5232,6 @@
 - [ntkme/sass-embedded-host-ruby](https://github.com/ntkme/sass-embedded-host-ruby) - :gem: A Ruby library that will communicate with Embedded Dart Sass using the Embedded Sass protocol
 - [nileshtrivedi/openai](https://github.com/nileshtrivedi/openai) - Wrapper for calling OpenAI and GPT-3's HTTP APIs
 - [YusukeIwaki/capybara-playwright-driver](https://github.com/YusukeIwaki/capybara-playwright-driver) - Playwright driver for Capybara
-- [YusukeIwaki/playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright client for Ruby
 - [NielsSteensma/Dhalang](https://github.com/NielsSteensma/Dhalang) - Generate PDFs and make screenshots of HTML using Puppeteer in Ruby
 - [blocknotes/prawn-html](https://github.com/blocknotes/prawn-html) - HTML to PDF renderer using Prawn PDF
 - [ioquatix/sus](https://github.com/ioquatix/sus) - 
@@ -7016,7 +7016,7 @@
 - [treasure-data/td-client-ruby](https://github.com/treasure-data/td-client-ruby) - Ruby Client Library for Treasure Data
 - [keenlabs/keen-gem](https://github.com/keenlabs/keen-gem) - Official Ruby client for the Keen IO API. Build analytics features directly into your Ruby apps.
 - [bengler/grove](https://github.com/bengler/grove) - Grove is a structured document storage module for storing things like comments, blog posts, events etc. and organize these documents for easy retrieval later.
-- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [sbscully/functo](https://github.com/sbscully/functo) - Composable method objects in ruby.
 - [salahsheikh/libcache](https://github.com/salahsheikh/libcache) - A caching library that provides an in-memory and file based cache for Ruby
 - [citusdata/activerecord-multi-tenant](https://github.com/citusdata/activerecord-multi-tenant) - Rails/ActiveRecord support for distributed multi-tenant databases like Postgres+Citus
