@@ -28,6 +28,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [FreeMarker](#freemarker)
+  - [GLSL](#glsl)
   - [Gherkin](#gherkin)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
@@ -710,6 +711,10 @@
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
+## GLSL 
+
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+
 ## Gherkin 
 
 - [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
@@ -1389,6 +1394,7 @@
 
 ## Java 
 
+- [robingenz/capacitor-firebase](https://github.com/robingenz/capacitor-firebase) - ⚡️ Firebase plugins for Capacitor. Supports Android, iOS and the web.
 - [robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - ⚡️ Capacitor plugin that allows the user to select a file.
 - [capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) - ⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
 - [capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) - ⚡️ Capacitor plugin for synthesizing speech from text.
@@ -1468,7 +1474,7 @@
 - [fauna/faunadb-jvm](https://github.com/fauna/faunadb-jvm) - Scala and Java driver for FaunaDB
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
-- [camunda-cloud/zeebe](https://github.com/camunda-cloud/zeebe) - Distributed Workflow Engine for Microservices Orchestration
+- [camunda/zeebe](https://github.com/camunda/zeebe) - Distributed Workflow Engine for Microservices Orchestration
 - [oracle/fastr](https://github.com/oracle/fastr) - A high-performance implementation of the R programming language, built on GraalVM.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [eventuate-tram/eventuate-tram-core](https://github.com/eventuate-tram/eventuate-tram-core) - Transactional messaging for microservices
@@ -1641,7 +1647,6 @@
 - [thangngoc89/react-howler](https://github.com/thangngoc89/react-howler) - A React.js wrapper for howler.js (audio player)
 - [madzadev/audio-player](https://github.com/madzadev/audio-player) - 🎵 Music player with custom controls, playlist, filters, and search.
 - [lijinke666/react-music-player](https://github.com/lijinke666/react-music-player) - [Stop the maintenance] :musical_note: Maybe the best beautiful HTML5 responsive player component for react :)
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [wmik/use-media-recorder](https://github.com/wmik/use-media-recorder) - React based hooks to utilize the media recorder api for audio, video and screen recording
 - [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [enactjs/enact](https://github.com/enactjs/enact) - An app development framework built atop React that’s easy to use, performant and customizable.
@@ -1756,7 +1761,6 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [Purple-Magic/tramway-admin](https://github.com/Purple-Magic/tramway-admin) - Fast admin panel development
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
-- [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
@@ -4265,7 +4269,7 @@
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [twhite96/js-dev-reads](https://github.com/twhite96/js-dev-reads) - A list of books 📚and articles 📝 for the discerning web developer to read.
-- [optionalvalue/awesome-server-side-swift](https://github.com/optionalvalue/awesome-server-side-swift) - A community curated list of resources about Server Side Swift
+- [cak/awesome-server-side-swift](https://github.com/cak/awesome-server-side-swift) - A community curated list of resources about Server Side Swift
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [projectriff/riff](https://github.com/projectriff/riff) - riff is for functions
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
@@ -4295,7 +4299,6 @@
 - [ankane/production_rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production
 - [rails/actiontext](https://github.com/rails/actiontext) - Edit and display rich text in Rails applications
 - [feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) - A list of awesome things related to FeathersJS
-- [paypal/api-standards](https://github.com/paypal/api-standards) - 
 - [vercel/next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -5149,6 +5152,7 @@
 
 ## Ruby 
 
+- [Shopify/turbolinks-jwt-sample-app](https://github.com/Shopify/turbolinks-jwt-sample-app) - A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks
 - [kaspernj/baza](https://github.com/kaspernj/baza) - A database abstraction layer and framework for Ruby.
 - [kaspernj/simple_form_ransack](https://github.com/kaspernj/simple_form_ransack) - SimpleForm and Ransack combined.
 - [kaspernj/awesome_translations](https://github.com/kaspernj/awesome_translations) - Semi-automatic maintenance of most translations in a Rails app.
@@ -5451,6 +5455,7 @@
 - [egonSchiele/contracts.ruby](https://github.com/egonSchiele/contracts.ruby) - Contracts for Ruby.
 - [getkuby/kube-dsl](https://github.com/getkuby/kube-dsl) - A Ruby DSL for defining Kubernetes resources.
 - [infinum/dox](https://github.com/infinum/dox) - Automated API documentation from Rspec
+- [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [rubykit/kit](https://github.com/rubykit/kit) - Kit is an all inclusive web framework to build growth-ready applications, fast!
 - [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample) - A sample app for Shopify's JWT integration with Hotwire Turbo
 - [BlakeWilliams/triplet](https://github.com/BlakeWilliams/triplet) - Simple, experimental HTML DSL for Ruby
@@ -6898,7 +6903,7 @@
 - [Betterment/webvalve](https://github.com/Betterment/webvalve) - Betterment's framework for locally developing and testing service-oriented apps in isolation with WebMock and Sinatra-based fakes
 - [dblock/graphlient](https://github.com/dblock/graphlient) - Ruby GraphQL Client
 - [fetlife/rollout](https://github.com/fetlife/rollout) - Feature flippers.
-- [jclr/seed_migration](https://github.com/jclr/seed_migration) - Seed Migration
+- [pboling/seed_migration](https://github.com/pboling/seed_migration) - Seed Migration
 - [ComboStrikeHQ/rails_migrate_mutex](https://github.com/ComboStrikeHQ/rails_migrate_mutex) - Runs rails migrations in a redis-backed mutex.
 - [awslabs/amazon-kinesis-client-ruby](https://github.com/awslabs/amazon-kinesis-client-ruby) - A Ruby interface for the Amazon Kinesis Client Library. Allows developers to easily create robust application to process Amazon Kinesis streams in Ruby.
 - [zendesk/delivery_boy](https://github.com/zendesk/delivery_boy) - A simple way to publish messages to Kafka from Ruby applications
@@ -8422,7 +8427,7 @@
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(RBSON based)
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -10189,7 +10194,7 @@
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node & Browser SDK & React UI components for Elasticsearch. The easiest way to build a great search experience
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node.js & Browser SDK & React UI components for Elasticsearch.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
@@ -10288,7 +10293,7 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [SAP/fundamental-vue](https://github.com/SAP/fundamental-vue) - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
