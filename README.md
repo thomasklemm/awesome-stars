@@ -1161,6 +1161,7 @@
 - [Neodelf/lecter](https://github.com/Neodelf/lecter) - :boom: Show executable code by request
 - [GoogleForCreators/wp.stories.google](https://github.com/GoogleForCreators/wp.stories.google) - This repository contains the code for the Web Stories for WordPress landing page.
 - [hfpp2012/railstart-niceadmin](https://github.com/hfpp2012/railstart-niceadmin) - Backend admin dashboard management system based on Bootstrap 5 and NiceAdmin and Rails 7
+- [serverless/cloud](https://github.com/serverless/cloud) - Serverless Cloud makes building, deploying, and managing serverless applications easier and more accessible to everyone.
 - [spotify/web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
@@ -1337,6 +1338,7 @@
 - [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime
 - [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
 - [hakimel/Avgrund](https://github.com/hakimel/Avgrund) - A JS/CSS3 modal UI concept
+- [tolk/tolk](https://github.com/tolk/tolk) - Tolk is a web interface for doing i18n translations packaged as an engine for Rails 4 applications
 - [fontello/brandico.font](https://github.com/fontello/brandico.font) - Font with logos of social services & messagers
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
@@ -1407,7 +1409,7 @@
 - [capacitor-community/firebase-crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - ⚡️ Capacitor plugin for Firebase Crashlytics.
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
-- [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor
+- [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor apps
 - [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Stop the war in Ukraine!
@@ -1520,6 +1522,8 @@
 
 ## JavaScript 
 
+- [auth0/auth0.js](https://github.com/auth0/auth0.js) - Auth0 headless browser sdk
+- [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [wojtekmaj/react-qr-svg](https://github.com/wojtekmaj/react-qr-svg) - Render QR codes as SVG in your React app.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -1998,7 +2002,6 @@
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [dougmoscrop/serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda 🎉
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) - 
-- [supabase/benchmarks](https://github.com/supabase/benchmarks) - Infrastucture benchmarks
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [docs/liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
@@ -4004,6 +4007,7 @@
 
 ## Nix 
 
+- [supabase/benchmarks](https://github.com/supabase/benchmarks) - Infrastucture benchmarks
 - [emptyflask/rails-nix](https://github.com/emptyflask/rails-nix) - Example Rails 6 app using nix for dependencies
 
 ## Nunjucks 
@@ -5152,6 +5156,7 @@
 
 ## Ruby 
 
+- [stytchauth/stytch-rails-magic-links](https://github.com/stytchauth/stytch-rails-magic-links) - Using Stytch magic links in a Rails app
 - [Shopify/turbolinks-jwt-sample-app](https://github.com/Shopify/turbolinks-jwt-sample-app) - A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks
 - [kaspernj/baza](https://github.com/kaspernj/baza) - A database abstraction layer and framework for Ruby.
 - [kaspernj/simple_form_ransack](https://github.com/kaspernj/simple_form_ransack) - SimpleForm and Ransack combined.
@@ -8076,7 +8081,6 @@
 - [Arjeno/catche](https://github.com/Arjeno/catche) - Automatic resource and collection caching/expiration for Ruby on Rails
 - [labcoder/Twilio-Hackpack-for-Heroku-and-Sinatra](https://github.com/labcoder/Twilio-Hackpack-for-Heroku-and-Sinatra) - The Fastest way to start using Twilio with Ruby
 - [mintdigital/rack-access-control-headers](https://github.com/mintdigital/rack-access-control-headers) - 
-- [tolk/tolk](https://github.com/tolk/tolk) - Tolk is a web interface for doing i18n translations packaged as an engine for Rails 4 applications
 - [noahhl/batsd](https://github.com/noahhl/batsd) - A ruby statsd server implementation storing to Redis and disk
 - [argerim/select2-rails](https://github.com/argerim/select2-rails) - Integrate Select2 javascript library with Rails asset pipeline
 - [thomasklemm/rocket_tag](https://github.com/thomasklemm/rocket_tag) - modern high performance tagging library for Rails 3.1 +
@@ -8439,7 +8443,7 @@
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [iwilsonq/rust-graphql-example](https://github.com/iwilsonq/rust-graphql-example) - The accompanying project for a tutorial. Uses Rust, Juniper GraphQL Server + Actix, and Diesel ORM.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [wasmerio/wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [subzerocloud/pg-amqp-bridge](https://github.com/subzerocloud/pg-amqp-bridge) - Send messages to RabbitMQ from PostgreSQL
@@ -8681,7 +8685,6 @@
 
 ## Svelte 
 
-- [serverless/cloud](https://github.com/serverless/cloud) - Serverless Cloud makes building, deploying, and managing serverless applications easier and more accessible to everyone.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
@@ -8837,6 +8840,10 @@
 
 ## TypeScript 
 
+- [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev) - Mantine UI website and components
+- [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool
+- [auth0/auth0-react](https://github.com/auth0/auth0-react) - Auth0 SDK for React Single Page Applications (SPA)
+- [auth0/auth0-vue](https://github.com/auth0/auth0-vue) - Auth0 SDK for Vue.js
 - [auth0/auth0-spa-js](https://github.com/auth0/auth0-spa-js) - Auth0 authentication for Single Page Applications (SPA) with PKCE
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps!
@@ -10116,7 +10123,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s admin product component library
+- [Shopify/polaris](https://github.com/Shopify/polaris) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
