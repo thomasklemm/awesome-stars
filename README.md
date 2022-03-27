@@ -634,7 +634,6 @@
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
 - [GraphQL-Portal/graphql-portal-docker](https://github.com/GraphQL-Portal/graphql-portal-docker) - Docker builds for GraphQL Portal Gateway and Dashboard
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-- [ledermann/docker-rails-base](https://github.com/ledermann/docker-rails-base) - Optimized Docker base images for Rails applications
 - [render-examples/hasura-graphql](https://github.com/render-examples/hasura-graphql) - Hasura GraphQL Engine on Render
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Puppeteer/ Chrome. Self-hosted service for rendering PDFs
 - [hasura/graphql-engine-heroku](https://github.com/hasura/graphql-engine-heroku) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -1766,6 +1765,7 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [Purple-Magic/tramway-admin](https://github.com/Purple-Magic/tramway-admin) - Fast admin panel development
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
+- [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
@@ -4773,6 +4773,7 @@
 
 ## Python 
 
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [zverok/wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia
@@ -5160,6 +5161,9 @@
 
 ## Ruby 
 
+- [nhosoya/omniauth-apple](https://github.com/nhosoya/omniauth-apple) - OmniAuth strategy for Sign In with Apple
+- [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Framework
+- [fedora-ruby/gem-compare](https://github.com/fedora-ruby/gem-compare) - A RubyGems plugin that compares versions of the given gem
 - [stytchauth/stytch-rails-magic-links](https://github.com/stytchauth/stytch-rails-magic-links) - Using Stytch magic links in a Rails app
 - [Shopify/turbolinks-jwt-sample-app](https://github.com/Shopify/turbolinks-jwt-sample-app) - A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks
 - [kaspernj/baza](https://github.com/kaspernj/baza) - A database abstraction layer and framework for Ruby.
@@ -5464,7 +5468,6 @@
 - [egonSchiele/contracts.ruby](https://github.com/egonSchiele/contracts.ruby) - Contracts for Ruby.
 - [getkuby/kube-dsl](https://github.com/getkuby/kube-dsl) - A Ruby DSL for defining Kubernetes resources.
 - [infinum/dox](https://github.com/infinum/dox) - Automated API documentation from Rspec
-- [allmarkedup/lookbook](https://github.com/allmarkedup/lookbook) - A native development UI for ViewComponent
 - [rubykit/kit](https://github.com/rubykit/kit) - Kit is an all inclusive web framework to build growth-ready applications, fast!
 - [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample) - A sample app for Shopify's JWT integration with Hotwire Turbo
 - [BlakeWilliams/triplet](https://github.com/BlakeWilliams/triplet) - Simple, experimental HTML DSL for Ruby
@@ -6039,6 +6042,7 @@
 - [AndyObtiva/puts_debuggerer](https://github.com/AndyObtiva/puts_debuggerer) - Ruby library for improved puts debugging, automatically displaying bonus useful information such as source line number and source code.
 - [rails/marcel](https://github.com/rails/marcel) - Find the mime type of files, examining file, filename and declared type
 - [basecamp/google_sign_in](https://github.com/basecamp/google_sign_in) - Sign in (or up) with Google for Rails applications
+- [ledermann/docker-rails-base](https://github.com/ledermann/docker-rails-base) - Optimized Docker base images for Rails applications
 - [ruby/resolv](https://github.com/ruby/resolv) - 
 - [joshbuddy/jsonpath](https://github.com/joshbuddy/jsonpath) - Ruby implementation of http://goessner.net/articles/JsonPath/
 - [mame/optcarrot](https://github.com/mame/optcarrot) - A NES emulator written in Ruby
