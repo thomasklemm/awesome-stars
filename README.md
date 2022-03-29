@@ -1521,6 +1521,7 @@
 
 ## JavaScript 
 
+- [buildable/templates](https://github.com/buildable/templates) - ⚡️ A collection of open-source solution templates to integrate within Buildable Flows.
 - [tomsouthall/turnstone](https://github.com/tomsouthall/turnstone) - React customisable autocomplete component with typeahead and grouped results from multiple APIs.
 - [jhawthorn/curl-to-ruby](https://github.com/jhawthorn/curl-to-ruby) - :arrow_down: Convert a curl command into ruby's net/http
 - [auth0/auth0.js](https://github.com/auth0/auth0.js) - Auth0 headless browser sdk
@@ -4097,6 +4098,7 @@
 
 ## Others 
 
+- [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [robingenz/awesome-capacitorjs](https://github.com/robingenz/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Discussions, issues, docs and roadmap
@@ -4824,7 +4826,7 @@
 - [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-- [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+- [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -5160,6 +5162,9 @@
 
 ## Ruby 
 
+- [nov/signin-with-apple](https://github.com/nov/signin-with-apple) - Sample app for “apple_id” ruby gem.
+- [nov/apple_id](https://github.com/nov/apple_id) - Sign in with Apple backend library in Ruby
+- [rootstrap/apple_auth](https://github.com/rootstrap/apple_auth) - Complete Ruby gem for Sign in with Apple. Actively maintained by rootstrap.com
 - [nhosoya/omniauth-apple](https://github.com/nhosoya/omniauth-apple) - OmniAuth strategy for Sign In with Apple
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Framework
 - [fedora-ruby/gem-compare](https://github.com/fedora-ruby/gem-compare) - A RubyGems plugin that compares versions of the given gem
@@ -5764,7 +5769,7 @@
 - [DFE-Digital/govuk-components](https://github.com/DFE-Digital/govuk-components) - Lightweight components for developing with the GOV.UK Design System
 - [lipanski/sql-spy](https://github.com/lipanski/sql-spy) - A gem to track all SQL queries performed inside a block of code.
 - [bazzel/bs5](https://github.com/bazzel/bs5) - [WIP] Rails engine to include Bootstrap 5
-- [elastic/enterprise-search-ruby](https://github.com/elastic/enterprise-search-ruby) - Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
+- [elastic/enterprise-search-ruby](https://github.com/elastic/enterprise-search-ruby) - Official Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
 - [AndyObtiva/glimmer-dsl-swt](https://github.com/AndyObtiva/glimmer-dsl-swt) - Glimmer DSL for SWT (JRuby Desktop Development GUI Framework)
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for Tk (Ruby Tk Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS
 - [dpaola2/bootstrap-viewcomponent](https://github.com/dpaola2/bootstrap-viewcomponent) - View Components for Bootstrap
@@ -9076,7 +9081,7 @@
 - [capacitor-community/tauri](https://github.com/capacitor-community/tauri) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Tauri platform! 🖥️
 - [getsentry/sentry-capacitor](https://github.com/getsentry/sentry-capacitor) - The official Sentry SDK for Capacitor
 - [jepiqueau/react-sqlite-app-starter](https://github.com/jepiqueau/react-sqlite-app-starter) - Ionic/React SQLite Application Starter
-- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Immersive infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [mantinedev/mantine-next-template](https://github.com/mantinedev/mantine-next-template) - Next.js + Mantine template
@@ -10169,7 +10174,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
