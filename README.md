@@ -1201,7 +1201,6 @@
 - [bootstrap-email/bootstrap-email](https://github.com/bootstrap-email/bootstrap-email) - Bootstrap stylesheet, compiler, and inliner for responsive and consistent emails with the Bootstrap syntax you know and love.
 - [salesforce-ux/design-system-starter-kit](https://github.com/salesforce-ux/design-system-starter-kit) - Rapid prototyping environment using the Salesforce Lightning Design System
 - [learn-awesome/learn](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
-- [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - A modern Stimulus library delivering common JavaScript behaviors with a bunch of customizable controllers.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [planetruby/books](https://github.com/planetruby/books) - List of all Ruby books
 - [papodaca/graphql_playground-rails](https://github.com/papodaca/graphql_playground-rails) - An engine to provide GraphQL Playground on Rails
@@ -1526,6 +1525,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 
 - [auth0/auth0-cordova](https://github.com/auth0/auth0-cordova) - Auth0 integration for Cordova apps
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [buildable/templates](https://github.com/buildable/templates) - ⚡️ A collection of open-source solution templates to integrate within Buildable Flows.
@@ -5177,6 +5177,7 @@
 
 ## Ruby 
 
+- [pawurb/smart_init](https://github.com/pawurb/smart_init) - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API
 - [alphagov/e-petitions](https://github.com/alphagov/e-petitions) - This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)
 - [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [ruby/psych](https://github.com/ruby/psych) - A libyaml wrapper for Ruby
@@ -8403,6 +8404,7 @@
 
 ## Rust 
 
+- [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -8874,6 +8876,8 @@
 
 ## TypeScript 
 
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
+- [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [milesj/packemon](https://github.com/milesj/packemon) - 📦 Build and prepare packages for npm distribution using standardized configurations and practices. Gotta pack 'em all!
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
@@ -9424,7 +9428,7 @@
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [GraphQL-Portal/graphql-portal-dashboard](https://github.com/GraphQL-Portal/graphql-portal-dashboard) - Dashboard to manage GraphQL API Gateway
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 A high-performance React grid component, with rich rendering and first-class TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.
 - [rzane/deep-prune](https://github.com/rzane/deep-prune) - :scissors: Recursively remove null or undefined values from an object
 - [rzane/validate](https://github.com/rzane/validate) - A functional schema validation library
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
@@ -10336,6 +10340,7 @@
 - [square/maker](https://github.com/square/maker) - Maker Design System by Square
 - [avo-hq/docs](https://github.com/avo-hq/docs) - The documentation for Avocado
 - [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuejs
+- [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - A modern Stimulus library delivering common JavaScript behaviors with a bunch of customizable controllers.
 - [brianvoe/slim-select](https://github.com/brianvoe/slim-select) - Slim advanced select dropdown
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
