@@ -1525,6 +1525,7 @@
 
 ## JavaScript 
 
+- [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel's engineering style guide
 - [tailwindlabs/tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 
 - [auth0/auth0-cordova](https://github.com/auth0/auth0-cordova) - Auth0 integration for Cordova apps
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
@@ -1770,7 +1771,7 @@
 - [modulz/stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [jferrettiboke/server-driven-ui-example](https://github.com/jferrettiboke/server-driven-ui-example) - Server-Driven UI example using Node.js, GraphQL, React, Apollo and Next.js.
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [Purple-Magic/tramway-admin](https://github.com/Purple-Magic/tramway-admin) - Fast admin panel development
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
@@ -1818,7 +1819,7 @@
 - [excid3/stimulus-slimselect](https://github.com/excid3/stimulus-slimselect) - A Stimulus wrapper around SlimSelect
 - [Threespot/tolaria](https://github.com/Threespot/tolaria) - A Rails CMS framework for making your editors happy.
 - [standardnotes/listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters. https://listed.to
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yamasolutions/block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
 - [postlight/trimmings](https://github.com/postlight/trimmings) - 🌲 Get back to HTML.
 - [pretzelhands/notebag](https://github.com/pretzelhands/notebag) - A note taking app that does not break your workflow
@@ -3191,7 +3192,7 @@
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [fakiolinho/react-loading](https://github.com/fakiolinho/react-loading) - React component for loading animations
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [insin/newforms](https://github.com/insin/newforms) - Isomorphic form-handling for React
 - [Teamweek/instadate](https://github.com/Teamweek/instadate) - A minimal high performance date library for Node.js and Browser
 - [Spreadsheets/WickedGrid](https://github.com/Spreadsheets/WickedGrid) - Easy & Wicked Fast spreadsheets for the web
@@ -5177,6 +5178,10 @@
 
 ## Ruby 
 
+- [bullet-train-co/bullet_train-api](https://github.com/bullet-train-co/bullet_train-api) - 
+- [hanami/view](https://github.com/hanami/view) - Views, templates and presenters for Ruby web applications
+- [wamcee/cronmon](https://github.com/wamcee/cronmon) - 
+- [kddnewton/preval](https://github.com/kddnewton/preval) - Automatically optimizes your Ruby code
 - [pawurb/smart_init](https://github.com/pawurb/smart_init) - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API
 - [alphagov/e-petitions](https://github.com/alphagov/e-petitions) - This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)
 - [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
@@ -8876,6 +8881,10 @@
 
 ## TypeScript 
 
+- [jycouet/kitql](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way. &gt;&gt; SvelteKit & GraphQL &lt;&lt;
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
+- [Intevel/qpind](https://github.com/Intevel/qpind) - Quick programmatically install npm dependencies 📦
+- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [milesj/packemon](https://github.com/milesj/packemon) - 📦 Build and prepare packages for npm distribution using standardized configurations and practices. Gotta pack 'em all!
