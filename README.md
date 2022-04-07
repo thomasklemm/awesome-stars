@@ -1411,7 +1411,7 @@
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
 - [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor apps
-- [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Stop the war in Ukraine!
 - [calvinckho/capacitor-jitsi-meet](https://github.com/calvinckho/capacitor-jitsi-meet) - This plugin is used to make video calls using Jitsi video platform (https://meet.jit.si) on iOS and Android using Ionic Capacitor.
@@ -2147,7 +2147,7 @@
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [thejibz/graphql-compose-mysql](https://github.com/thejibz/graphql-compose-mysql) - Generates GraphQL types and resolvers from a MySQL database.
 - [bookshelf/case-converter-plugin](https://github.com/bookshelf/case-converter-plugin) - Bookshelf plugin for handling the conversion between the database's snake_cased and a model's camelCased properties automatically.
@@ -5185,6 +5185,7 @@
 
 ## Ruby 
 
+- [blockcypher/ruby-client](https://github.com/blockcypher/ruby-client) - Ruby SDK for BlockCypher
 - [ankane/highs-ruby](https://github.com/ankane/highs-ruby) - Linear optimization for Ruby
 - [Casecommons/with_model](https://github.com/Casecommons/with_model) - Dynamically build an Active Record model (with table) within a test context
 - [bullet-train-co/bullet_train-api](https://github.com/bullet-train-co/bullet_train-api) - 
@@ -6742,7 +6743,7 @@
 - [evilmartians/liquor](https://github.com/evilmartians/liquor) - Liquor is a safe sandboxing compiling template language for Ruby
 - [caleb/strongman](https://github.com/caleb/strongman) - Batch data loading, works great with graphql
 - [alukyanov/graphql-remote-fields](https://github.com/alukyanov/graphql-remote-fields) - 
-- [readysteady/bundle-diff](https://github.com/readysteady/bundle-diff) - Bundler plugin for showing diffs of bundled gems against latest versions
+- [readysteady/bundle-diff](https://github.com/readysteady/bundle-diff) - Bundler plugin for showing gem diffs
 - [basecamp/full_request_logger](https://github.com/basecamp/full_request_logger) - Make full request logs accessible via web UI
 - [Gusto/apollo-federation-ruby](https://github.com/Gusto/apollo-federation-ruby) - A Ruby implementation of Apollo Federation
 - [lgierth/promise.rb](https://github.com/lgierth/promise.rb) - Promises/A+ for Ruby
@@ -6879,7 +6880,7 @@
 - [github/rubocop-github](https://github.com/github/rubocop-github) - Code style checking for GitHub's Ruby projects
 - [toptal/crystalball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite
 - [toshimaru/rubocop-rails_config](https://github.com/toshimaru/rubocop-rails_config) - RuboCop configuration which has the same code style checking as official Ruby on Rails.
-- [JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby) - :dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.
+- [fastruby/fast-ruby](https://github.com/fastruby/fast-ruby) - :dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.
 - [vectordotdev/timber-ruby](https://github.com/vectordotdev/timber-ruby) - 🌲 Great Ruby logging made easy.
 - [googleapis/signet](https://github.com/googleapis/signet) - Signet is an OAuth 1.0 / OAuth 2.0 implementation.
 - [panko-serializer/panko_serializer](https://github.com/panko-serializer/panko_serializer) - High Performance JSON Serialization for ActiveRecord & Ruby Objects
@@ -9351,7 +9352,7 @@
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [ParamagicDev/mrujs](https://github.com/ParamagicDev/mrujs) - UJS for modern javascript.
-- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL (formerly GiraphQL) is library for creating GraphQL schemas in typescript using a strongly typed code first approach
+- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [egoist/next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
@@ -9921,7 +9922,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Errorname/prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - 🧭 Use Prisma as a multi-tenant provider for your application
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
 - [tgriesser/cypress-graphql-mock](https://github.com/tgriesser/cypress-graphql-mock) - Adds commands for executing a mocked GraphQL server using only the client
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [domagojk/beenion](https://github.com/domagojk/beenion) - Example project using Event Sorucing and CQRS patterns
