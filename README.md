@@ -726,6 +726,7 @@
 
 ## Go 
 
+- [mjarkk/yarql](https://github.com/mjarkk/yarql) - YarQL!! A different approach to making GraphQL servers in Go
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -4696,7 +4697,7 @@
 - [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid Led, Community Driven PHP API Library
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [yii2tech/embedded](https://github.com/yii2tech/embedded) - Support embedded models usage for complex ActiveRecord like MongoDB or ElasticSearch
-- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
 - [laravel/dusk](https://github.com/laravel/dusk) - Laravel Dusk provides simple end-to-end testing and browser automation.
 - [laravel/sanctum](https://github.com/laravel/sanctum) - Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.
@@ -5186,6 +5187,7 @@
 
 ## Ruby 
 
+- [peterc/bitarray](https://github.com/peterc/bitarray) - Pure Ruby bit array/bitfield implementation
 - [lwe/page_title_helper](https://github.com/lwe/page_title_helper) - Simple, internationalized and DRY page titles and headings for Rails.
 - [blockcypher/ruby-client](https://github.com/blockcypher/ruby-client) - Ruby SDK for BlockCypher
 - [ankane/highs-ruby](https://github.com/ankane/highs-ruby) - Linear optimization for Ruby
@@ -9912,7 +9914,7 @@
 - [framer/monobase](https://github.com/framer/monobase) - React static site generator
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [typehero/type-route](https://github.com/typehero/type-route) - A flexible, type safe routing library.
+- [zilch/type-route](https://github.com/zilch/type-route) - A flexible, type safe routing library.
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
