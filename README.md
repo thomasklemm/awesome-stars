@@ -649,6 +649,7 @@
 
 ## Elixir 
 
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
 - [bigardone/phoenix-cms](https://github.com/bigardone/phoenix-cms) - Headless CMS fun with Phoenix LiveView and Airtable
 - [bigardone/calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
@@ -1156,6 +1157,7 @@
 
 ## HTML 
 
+- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.
 - [w3c/web-share](https://github.com/w3c/web-share) - Web API proposal for sharing data from a web page
 - [lazaronixon/administration-zero](https://github.com/lazaronixon/administration-zero) - An administration system generator for Rails applications.
@@ -1526,6 +1528,10 @@
 
 ## JavaScript 
 
+- [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [asmcrypto/asmcrypto.js](https://github.com/asmcrypto/asmcrypto.js) - JavaScript Cryptographic Library with performance in mind.
+- [square/js-jose](https://github.com/square/js-jose) - JavaScript library to encrypt/decrypt data in JSON Web Encryption (JWE) format and to sign/verify data in JSON Web Signature (JWS) format. Leverages Browser's native WebCrypto API.
 - [IBM/nicedoc.io](https://github.com/IBM/nicedoc.io) - pretty README as service.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [GoogleChromeLabs/react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints
@@ -4121,7 +4127,7 @@
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [robingenz/awesome-capacitorjs](https://github.com/robingenz/awesome-capacitorjs) - ⚡️ A curated list of awesome things related to Capacitor.
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Discussions, issues, docs and roadmap
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [bruno-/fiber_scheduler_list](https://github.com/bruno-/fiber_scheduler_list) - A list of available Fiber Schedulers for Ruby.
 - [dalezak/rails-blueprint](https://github.com/dalezak/rails-blueprint) - A starter blueprint for fast tracking Rails development
@@ -5189,6 +5195,8 @@
 
 ## Ruby 
 
+- [exercism/problem-specifications](https://github.com/exercism/problem-specifications) - Shared metadata for exercism exercises.
+- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
 - [marcoroth/cable-streams-rails](https://github.com/marcoroth/cable-streams-rails) - Rails companion gem for the `cable-streams` NPM package
 - [rails/record_tag_helper](https://github.com/rails/record_tag_helper) - ActionView Record Tag Helpers
 - [pboling/gitmoji-regex](https://github.com/pboling/gitmoji-regex) - 🔥 A regular expression matching Gitmoji (a subset of Unicode Emoji) symbols
@@ -8900,6 +8908,9 @@
 
 ## TypeScript 
 
+- [remix-run/blues-stack](https://github.com/remix-run/blues-stack) - The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
+- [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
+- [PeculiarVentures/webcrypto-liner](https://github.com/PeculiarVentures/webcrypto-liner) - webcrypto-liner is a polyfill that let's down-level User Agents (like IE/Edge) use libraries that depend on WebCrypto. (Keywords: Javascript, WebCrypto, Shim, Polyfill)
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
 - [liuweiGL/vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
