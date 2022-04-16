@@ -1194,6 +1194,7 @@
 - [nicovak/slash_admin](https://github.com/nicovak/slash_admin) - A modern and customizable admin gem, just the rails way.
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
 - [creativetimofficial/notus-js](https://github.com/creativetimofficial/notus-js) - Notus JS: Free Tailwind CSS UI Kit and Admin
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
@@ -1424,7 +1425,7 @@
 - [capacitor-community/http](https://github.com/capacitor-community/http) - Community plugin for native HTTP
 - [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
 - [XRFoundation/Native-XR-for-Web](https://github.com/XRFoundation/Native-XR-for-Web) - Add iOS and Android build with AR capabilities to your website or web-based app.
-- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
 - [capacitor-community/google-maps](https://github.com/capacitor-community/google-maps) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor
@@ -2569,7 +2570,7 @@
 - [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
 - [tj/node-migrate](https://github.com/tj/node-migrate) - Abstract migration framework for node
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
-- [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
@@ -4804,6 +4805,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -8971,8 +8973,8 @@
 - [figment-networks/learn-web3-dapp](https://github.com/figment-networks/learn-web3-dapp) - This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON Joy 🦄🌈—JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSON Brand, JSON Expression, JSON Size, JSON Type, JSON Schema, JSON deep equality, JSON utilities for joy and collaborative editing
-- [mljar/mercury](https://github.com/mljar/mercury) - Mercury: easily convert Python notebook to web app and share with others
+- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON Joy 🦄🌈—JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSON Brand, JSON Expression, JSON Size, JSON Type, JSON Schema, JSON deep equality, JSON Binary, JSON clone, JSON utilities for joy and collaborative editing
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with others
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 - [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
 - [luin/bazinga](https://github.com/luin/bazinga) - 💥 The best all-in-one toolbox. Bazinga!
@@ -9252,7 +9254,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
@@ -9422,7 +9424,6 @@
 - [jquense/react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
 - [jquense/react-widgets](https://github.com/jquense/react-widgets) - Polished, feature rich, accessible form inputs built with React
 - [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [coinbase/rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
 - [ElMassimo/vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - ⚡️ HMR for Stimulus controllers in Vite.js
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
