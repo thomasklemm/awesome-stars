@@ -1403,6 +1403,7 @@
 
 ## Java 
 
+- [baumblatt/capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin
 - [robingenz/capacitor-firebase](https://github.com/robingenz/capacitor-firebase) - ⚡️ Firebase plugins for Capacitor. Supports Android, iOS and the web.
 - [robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - ⚡️ Capacitor plugin that allows the user to select a file.
 - [capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) - ⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
@@ -5196,6 +5197,8 @@
 
 ## Ruby 
 
+- [restarone/violet_rails](https://github.com/restarone/violet_rails) - a web engine for your business. Powered by a top-shelf, modern Ruby &  JS stack. Out of the box support for API, CMS, blog, forum and email. Developer friendly & easily extendable for your SaaS/XaaS project. Built with familiar tooling including Devise, Sidekiq, Ember.js & PostgreSQL
+- [contentstack/contentstack-ruby](https://github.com/contentstack/contentstack-ruby) - Ruby SDK for Contentstack's Content Delivery API
 - [exercism/problem-specifications](https://github.com/exercism/problem-specifications) - Shared metadata for exercism exercises.
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
 - [marcoroth/cable-streams-rails](https://github.com/marcoroth/cable-streams-rails) - Rails companion gem for the `cable-streams` NPM package
@@ -8435,6 +8438,7 @@
 
 ## Rust 
 
+- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
@@ -8759,6 +8763,7 @@
 
 ## Swift 
 
+- [capacitor-community/apple-sign-in](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
