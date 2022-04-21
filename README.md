@@ -1531,6 +1531,8 @@
 
 ## JavaScript 
 
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors
+- [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [asmcrypto/asmcrypto.js](https://github.com/asmcrypto/asmcrypto.js) - JavaScript Cryptographic Library with performance in mind.
@@ -2116,7 +2118,7 @@
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [UnlyEd/GraphCMS-cache-boilerplate](https://github.com/UnlyEd/GraphCMS-cache-boilerplate) - The main goal of this service is to provide a reliable cache contingency backup plan in case a GraphCMS/GraphQL endpoint is failing.
+- [UnlyEd/GraphCMS-cache-boilerplate](https://github.com/UnlyEd/GraphCMS-cache-boilerplate) - Provides a reliable cache contingency backup plan in case a GraphCMS/GraphQL endpoint is failing.
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [SAP/fundamental-react](https://github.com/SAP/fundamental-react) - React implementation of the reusable component library designed in Fundamental Library Styles
@@ -2188,7 +2190,7 @@
 - [pablodenadai/node-liquibase](https://github.com/pablodenadai/node-liquibase) - Node.js wrap for Liquibase
 - [prisma-archive/gcl](https://github.com/prisma-archive/gcl) - 📖  Type-safe configuration format (similar to JSON/YAML) based on GraphQL with auto-completion and validation
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
-- [withastro/create-snowpack-app](https://github.com/withastro/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
+- [FredKSchott/create-snowpack-app](https://github.com/FredKSchott/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [SAP/node-hdb](https://github.com/SAP/node-hdb) - SAP HANA Database Client for Node
 - [hopsoft/stimulus_controllers](https://github.com/hopsoft/stimulus_controllers) - [WIP] Stimulus controller library common enough to span multiple projects
@@ -2318,7 +2320,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
-- [withastro/pack](https://github.com/withastro/pack) - 📦⚡️ Build your npm package using composable plugins. https://www.pika.dev/blog/introducing-pika-pack/
+- [FredKSchott/pika-pack](https://github.com/FredKSchott/pika-pack) - 📦⚡️ Build your npm package using composable plugins. https://www.pika.dev/blog/introducing-pika-pack/
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
@@ -2441,7 +2443,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [diogomoretti/react-snakke](https://github.com/diogomoretti/react-snakke) - 🐍 Reading position indicator for React
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
-- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [koala-interactive/frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js) - The blazing fast lightweight internationalization (i18n) module for javascript
 - [autoNumeric/autoNumeric](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
@@ -2974,7 +2976,6 @@
 - [callmecavs/gotem](https://github.com/callmecavs/gotem) - Copy to clipboard for modern browsers in less than 1kb.
 - [iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
 - [rowanmanning/joblint](https://github.com/rowanmanning/joblint) - Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [taggon/fonty](https://github.com/taggon/fonty) - A simple library and CLI tool for generating web fonts
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -4120,6 +4121,8 @@
 
 ## Others 
 
+- [jeromedalbert/real-world-ruby-apps](https://github.com/jeromedalbert/real-world-ruby-apps) - Real World Ruby apps and their open source codebases for developers to learn from
+- [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
@@ -4761,7 +4764,7 @@
 - [gavinwahl/postgres-json-schema](https://github.com/gavinwahl/postgres-json-schema) - JSON Schema validation for PostgreSQL
 - [nearform/temporal_tables](https://github.com/nearform/temporal_tables) - Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension.
 - [robconery/dox](https://github.com/robconery/dox) - A Document Database API extension for Postgres
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2022
 - [geckoboard/pgulid](https://github.com/geckoboard/pgulid) - Universally Unique Lexicographically Sortable Identifier (ULID) for PostgreSQL
 - [ankane/groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [pgMemento/pgMemento](https://github.com/pgMemento/pgMemento) - Audit trail with schema versioning for PostgreSQL using transaction-based logging
@@ -5197,6 +5200,9 @@
 
 ## Ruby 
 
+- [renuo/dato-rails](https://github.com/renuo/dato-rails) - Use DatoCMS in your Ruby On Rails app
+- [ankane/glpk-ruby](https://github.com/ankane/glpk-ruby) - Linear programming kit for Ruby
+- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Associate a Ruby PORO with an Active Record
 - [restarone/violet_rails](https://github.com/restarone/violet_rails) - a web engine for your business. Powered by a top-shelf, modern Ruby &  JS stack. Out of the box support for API, CMS, blog, forum and email. Developer friendly & easily extendable for your SaaS/XaaS project. Built with familiar tooling including Devise, Sidekiq, Ember.js & PostgreSQL
 - [contentstack/contentstack-ruby](https://github.com/contentstack/contentstack-ruby) - Ruby SDK for Contentstack's Content Delivery API
 - [exercism/problem-specifications](https://github.com/exercism/problem-specifications) - Shared metadata for exercism exercises.
@@ -8438,6 +8444,8 @@
 
 ## Rust 
 
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
+- [sirwart/secrets](https://github.com/sirwart/secrets) - A command-line tool to prevent committing secret keys into your source code
 - [aurora-rs/stellar-base-rs](https://github.com/aurora-rs/stellar-base-rs) - Low level Stellar types for Rust.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -8915,6 +8923,7 @@
 
 ## TypeScript 
 
+- [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - The next version of AJS
 - [remix-run/blues-stack](https://github.com/remix-run/blues-stack) - The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [PeculiarVentures/webcrypto-liner](https://github.com/PeculiarVentures/webcrypto-liner) - webcrypto-liner is a polyfill that let's down-level User Agents (like IE/Edge) use libraries that depend on WebCrypto. (Keywords: Javascript, WebCrypto, Shim, Polyfill)
@@ -10267,6 +10276,7 @@
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for TS/JS, React, Vue, Solid
 - [FrDH/dotdotdot-js](https://github.com/FrDH/dotdotdot-js) - dotdotdot.js, advanced cross-browser ellipsis for multiple line content.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
