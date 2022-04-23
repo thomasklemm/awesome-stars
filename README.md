@@ -555,6 +555,7 @@
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [nicklandgrebe/active-resource.js](https://github.com/nicklandgrebe/active-resource.js) - ActiveResource.js - API resource relational mapping in JavaScript
 - [stephan83/babar](https://github.com/stephan83/babar) - CLI bar charts for node.js
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 - [jondavidjohn/payform](https://github.com/jondavidjohn/payform) - :credit_card: A library for building credit card forms, validating inputs, and formatting numbers.
 - [stripe-archive/jquery.payment](https://github.com/stripe-archive/jquery.payment) - [DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.
 - [atmos/camo](https://github.com/atmos/camo) - :lock: an http proxy to route images through SSL
@@ -2437,6 +2438,7 @@
 - [18F/federalist](https://github.com/18F/federalist) - Federalist is a publishing platform for modern 21st Century IDEA websites.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+- [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
 - [dialogs/dialog-web-components](https://github.com/dialogs/dialog-web-components) - Set of react components for building messaging applications
 - [peter-leonov/introscope](https://github.com/peter-leonov/introscope) - Automated mocking and spying tool for delightful ES6 modules testing
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -2463,7 +2465,6 @@
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 - [f/confirmation](https://github.com/f/confirmation) - A simple Node tool to replicate Browser's confirm popup on your CLI.
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [nikgraf/react-hooks](https://github.com/nikgraf/react-hooks) - Collection of React Hooks
@@ -4208,6 +4209,7 @@
 - [openfootball/league-starter](https://github.com/openfootball/league-starter) - football.db league quick starter sample - start your own leagues & cups
 - [serradura/awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) - A curated list of awesome activeadmin resources, extensions, posts and utilities.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [vasilakisfil/Introspected-REST](https://github.com/vasilakisfil/Introspected-REST) - An alternative to REST and GraphQL
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [teslahunt/awesome-tesla](https://github.com/teslahunt/awesome-tesla) - A curated list of awesome resources related with Tesla Motors.
@@ -5209,6 +5211,7 @@
 
 ## Ruby 
 
+- [kaspth/struct-initializer](https://github.com/kaspth/struct-initializer) - Reuse Struct.new's attr_reader and initialize generation in any class.
 - [renuo/dato-rails](https://github.com/renuo/dato-rails) - Use DatoCMS in your Ruby On Rails app
 - [ankane/glpk-ruby](https://github.com/ankane/glpk-ruby) - Linear programming kit for Ruby
 - [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Associate a Ruby PORO with an Active Record
@@ -8456,7 +8459,7 @@
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
-- [sirwart/secrets](https://github.com/sirwart/secrets) - A command-line tool to prevent committing secret keys into your source code
+- [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [aurora-rs/stellar-base-rs](https://github.com/aurora-rs/stellar-base-rs) - Low level Stellar types for Rust.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -9260,7 +9263,7 @@
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+- [makenotion/web](https://github.com/makenotion/web) - Official Notion JavaScript Client
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
@@ -9497,7 +9500,6 @@
 - [Shopify/polaris-tokens](https://github.com/Shopify/polaris-tokens) - Design tokens for Polaris, Shopify’s design system
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [formsy/formsy-react](https://github.com/formsy/formsy-react) - A form input builder and validator for React JS
-- [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [GraphQL-Portal/graphql-portal-dashboard](https://github.com/GraphQL-Portal/graphql-portal-dashboard) - Dashboard to manage GraphQL API Gateway
@@ -10059,7 +10061,6 @@
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
-- [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
 - [microsoft/vscode-postgresql](https://github.com/microsoft/vscode-postgresql) - PostgreSQL extension for VSCODE
 - [francisrstokes/construct-js](https://github.com/francisrstokes/construct-js) - 🛠️A library for creating byte level data structures.
 - [graphql-nexus/nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma) - Deprecated
@@ -10242,7 +10243,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [Shopify/polaris](https://github.com/Shopify/polaris) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
+- [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
