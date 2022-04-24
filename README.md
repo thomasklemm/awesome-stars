@@ -1164,6 +1164,7 @@
 
 ## HTML 
 
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.
 - [w3c/web-share](https://github.com/w3c/web-share) - Web API proposal for sharing data from a web page
@@ -8456,7 +8457,6 @@
 
 ## Rust 
 
-- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
