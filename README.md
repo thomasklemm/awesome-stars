@@ -260,6 +260,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
@@ -620,7 +621,7 @@
 ## Dart 
 
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library & YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. YouTube Music client.
 - [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) - Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -1245,6 +1246,7 @@
 - [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs) - Display paginated content in the browser and generate print books using web technology
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [dmitriid/every](https://github.com/dmitriid/every) - Every Layout with Svelte
+- [rubyapi/rubyapi](https://github.com/rubyapi/rubyapi) - Ruby API makes it easy and fast to search or browse the Ruby language API docs
 - [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - The Definitive Guide to Elasticsearch
 - [betaflag/graphql-playground-ruby](https://github.com/betaflag/graphql-playground-ruby) - A rack middleware wrapper for GraphQL Playground
 - [leeoniya/dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
@@ -1425,7 +1427,6 @@
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
 - [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor apps
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - ⚡️ Capacitor plugin that assists with app updates.
 - [moberwasserlechner/capacitor-filesharer](https://github.com/moberwasserlechner/capacitor-filesharer) - Capacitor plugin to download and share files for the Web, Android and iOS! Stop the war in Ukraine!
 - [calvinckho/capacitor-jitsi-meet](https://github.com/calvinckho/capacitor-jitsi-meet) - This plugin is used to make video calls using Jitsi video platform (https://meet.jit.si) on iOS and Android using Ionic Capacitor.
@@ -5212,6 +5213,7 @@
 
 ## Ruby 
 
+- [mixpanel/mixpanel-ruby](https://github.com/mixpanel/mixpanel-ruby) - 
 - [kaspth/struct-initializer](https://github.com/kaspth/struct-initializer) - Reuse Struct.new's attr_reader and initialize generation in any class.
 - [renuo/dato-rails](https://github.com/renuo/dato-rails) - Use DatoCMS in your Ruby On Rails app
 - [ankane/glpk-ruby](https://github.com/ankane/glpk-ruby) - Linear programming kit for Ruby
@@ -6717,7 +6719,6 @@
 - [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
 - [digital-fabric/eno](https://github.com/digital-fabric/eno) - Eno is Not an ORM
 - [digital-fabric/tipi](https://github.com/digital-fabric/tipi) - Tipi - the All-in-one Web Server for Ruby Apps
-- [rubyapi/rubyapi](https://github.com/rubyapi/rubyapi) - Ruby API makes it easy and fast to search or browse the Ruby language API docs
 - [flori/json](https://github.com/flori/json) - JSON implementation for Ruby
 - [heroku/salesforce_id_formatter](https://github.com/heroku/salesforce_id_formatter) - Convert 18-char Salesforce IDs to 15-char ones, and vice versa
 - [lewagon/setup](https://github.com/lewagon/setup) - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
@@ -6894,7 +6895,7 @@
 - [amatsuda/jb](https://github.com/amatsuda/jb) - A simple and fast JSON API template engine for Ruby on Rails
 - [dry-rb/dry-view](https://github.com/dry-rb/dry-view) - Complete, standalone view rendering system that gives you everything you need to write well-factored view code.
 - [fnando/attr_keyring](https://github.com/fnando/attr_keyring) - Simple encryption-at-rest with key rotation support for Ruby.
-- [sharpstone/rack-timeout](https://github.com/sharpstone/rack-timeout) - Abort requests that are taking too long
+- [zombocom/rack-timeout](https://github.com/zombocom/rack-timeout) - Abort requests that are taking too long
 - [ruby-debug/ruby-debug-ide](https://github.com/ruby-debug/ruby-debug-ide) - An interface which glues ruby-debug to IDEs like Eclipse (RDT), NetBeans and RubyMine.
 - [spikex/strongbox](https://github.com/spikex/strongbox) - Secures ActiveRecord attributes with public key encryption
 - [testdouble/standard](https://github.com/testdouble/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
@@ -8288,7 +8289,7 @@
 - [gravityblast/web-app-theme](https://github.com/gravityblast/web-app-theme) - A simple theme for web apps
 - [ricardochimal/taps](https://github.com/ricardochimal/taps) - simple database import/export app
 - [javan/whenever](https://github.com/javan/whenever) - Cron jobs in Ruby
-- [seattlerb/minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 - [grosser/fast_gettext](https://github.com/grosser/fast_gettext) - Ruby GetText, but 12x faster + 530x less garbage + simple + clean namespace + threadsafe + extendable + multiple backends
 - [grosser/gettext_i18n_rails_example](https://github.com/grosser/gettext_i18n_rails_example) - Rails example application using FastGettext + gettext_i18n_rails + gettext_test_log
 - [peritor/webistrano](https://github.com/peritor/webistrano) - Webistrano is a Web UI for managing Capistrano deployments
@@ -8427,7 +8428,7 @@
 - [ClosureTree/closure_tree](https://github.com/ClosureTree/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies
 - [forgecrafted/ruby-stylus](https://github.com/forgecrafted/ruby-stylus) - (DEPRECATED) Ruby interface for Stylus
 - [heroku/heroku-buildpack-ruby](https://github.com/heroku/heroku-buildpack-ruby) - Heroku's Ruby Buildpack
-- [blowmage/minitest-rails](https://github.com/blowmage/minitest-rails) - Minitest integration for Rails
+- [minitest/minitest-rails](https://github.com/minitest/minitest-rails) - Minitest integration for Rails
 - [codyrobbins/active-model-email-validator](https://github.com/codyrobbins/active-model-email-validator) - An ActiveModel email validator based on the Mail gem.
 - [andreapavoni/panoramic](https://github.com/andreapavoni/panoramic) - store rails views on database instead of filesystem
 - [bogdan/datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters
@@ -10260,7 +10261,7 @@
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
