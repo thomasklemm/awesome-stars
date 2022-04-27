@@ -110,6 +110,7 @@
 
 ## C 
 
+- [tds-fdw/tds_fdw](https://github.com/tds-fdw/tds_fdw) - A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)
 - [pmq20/ruby-packer](https://github.com/pmq20/ruby-packer) - Packing your Ruby application into a single executable.
 - [huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha) - Captcha gem for Rails Application. No dependencies. No ImageMagick, No RMagick.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -621,7 +622,7 @@
 ## Dart 
 
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client.
 - [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) - Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -631,6 +632,7 @@
 
 ## Dockerfile 
 
+- [mixpanel/tracking-proxy](https://github.com/mixpanel/tracking-proxy) - One-click configuration to proxy tracking requests to Mixpanel's API
 - [bkuhlmann/docker-alpine-ruby](https://github.com/bkuhlmann/docker-alpine-ruby) - Provides a Docker Ruby image for development purposes.
 - [dockette/dbdump](https://github.com/dockette/dbdump) - :whale: MariaDB / MySQL / Postgres dumper
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
@@ -1021,7 +1023,7 @@
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -1165,7 +1167,7 @@
 
 ## HTML 
 
-- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free open source Tailwind CSS components 🐳
 - [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.
 - [w3c/web-share](https://github.com/w3c/web-share) - Web API proposal for sharing data from a web page
@@ -1539,6 +1541,10 @@
 
 ## JavaScript 
 
+- [mixpanel/mixpanel-js](https://github.com/mixpanel/mixpanel-js) - Official Mixpanel JavaScript Client Library
+- [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
+- [yuanchuan/sveltekit-autoimport](https://github.com/yuanchuan/sveltekit-autoimport) - Automatically detect and import components/modules for SvelteKit projects
+- [Kikobeats/use-query-state](https://github.com/Kikobeats/use-query-state) - React hook to set/retrieve state from URL query string.
 - [DavidWells/analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
@@ -1929,7 +1935,6 @@
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [hotwired/stimulus-starter](https://github.com/hotwired/stimulus-starter) - A humble blank slate for a modest JavaScript framework
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-- [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
 - [fly-apps/edge-apollo-cache](https://github.com/fly-apps/edge-apollo-cache) - Run and cache results from your Apollo GraphQL server on the edge with Fly
 - [satya164/react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
@@ -2019,7 +2024,6 @@
 - [aws-solutions/smart-product-solution](https://github.com/aws-solutions/smart-product-solution) - The Smart Product Solution is a customer deployable reference architecture to help manufacturers to jumpstart development of innovative connected/smart product services.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [nearform/polaris](https://github.com/nearform/polaris) - NearForm multi-platform application accelerator
-- [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [amazon-archives/aws-appsync-rds-aurora-sample](https://github.com/amazon-archives/aws-appsync-rds-aurora-sample) - An AWS AppSync Serverless resolver for the Amazon Aurora relational database.
 - [mwilliamson/node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Implementing GraphQL with joins to avoid the N+1 problem
 - [Vincit/objection-find](https://github.com/Vincit/objection-find) - Build search queries for objection.js models using HTTP query parameters.
@@ -3191,7 +3195,6 @@
 - [matthewmueller/socrates](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included redux store to reduce boilerplate and promote good habits.
 - [bevacqua/trunc-html](https://github.com/bevacqua/trunc-html) - :triangular_ruler: truncate html by text length
 - [usablica/widearea](https://github.com/usablica/widearea) - Create expandable textarea and write large amount of text easily.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ryanflorence/react-training](https://github.com/ryanflorence/react-training) - Mini React Training Course
 - [broccolijs/broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [mapbox/carmen](https://github.com/mapbox/carmen) - Mapbox Vector Tile based geocoder with support for swappable data sources
@@ -4192,7 +4195,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
-- [planetscale/beta](https://github.com/planetscale/beta) - 
+- [planetscale/discussion](https://github.com/planetscale/discussion) - 
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [yongfook/saas-growth-articles](https://github.com/yongfook/saas-growth-articles) - A list of articles about growing SaaS businesses
 - [stripe/carbon-removal-source-materials](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases (http://stripe.com/climate)
@@ -8458,6 +8461,8 @@
 
 ## Rust 
 
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
@@ -8788,6 +8793,7 @@
 
 ## Swift 
 
+- [Pantrist-dev/capacitor-firebase-dynamic-links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Capacitor Plugin for Firebase Dynamic Links
 - [capacitor-community/apple-sign-in](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
@@ -8938,6 +8944,8 @@
 
 ## TypeScript 
 
+- [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
+- [cwqt/refract](https://github.com/cwqt/refract) - Generate Prisma from TypeScript
 - [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - The next version of AJS
@@ -9264,7 +9272,7 @@
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [makenotion/web](https://github.com/makenotion/web) - Official Notion JavaScript Client
+- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
@@ -9458,7 +9466,7 @@
 - [coinbase/rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
 - [ElMassimo/vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - ⚡️ HMR for Stimulus controllers in Vite.js
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and end-to-end encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
@@ -9542,6 +9550,7 @@
 - [glimmerjs/glimmer.js](https://github.com/glimmerjs/glimmer.js) - Central repository for the Glimmer.js project
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build SSR realtime SPA with Typescript
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
+- [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
 - [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
@@ -9629,6 +9638,7 @@
 - [lambda-extensions/parameter-store](https://github.com/lambda-extensions/parameter-store) - AWS Lambda Extensions to access AWS Systems Manager Parameter Store
 - [cdk-dev/create-cdk-app](https://github.com/cdk-dev/create-cdk-app) - Create CDK Apps from Templates
 - [nearform/mira-cdk-solutions-constructs](https://github.com/nearform/mira-cdk-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
+- [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [snap40/serverless-aws-cdk](https://github.com/snap40/serverless-aws-cdk) - Serverless Plugin to enable defining infrastructure with AWS CDK
 - [nearform/mira](https://github.com/nearform/mira) - The Mira Accelerator fast-tracks the setup of common Amazon Web Services (AWS) Serverless infrastructure
 - [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
@@ -10329,6 +10339,7 @@
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
