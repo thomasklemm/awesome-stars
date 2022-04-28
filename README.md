@@ -5216,6 +5216,7 @@
 
 ## Ruby 
 
+- [rack/rack-session](https://github.com/rack/rack-session) - 
 - [mixpanel/mixpanel-ruby](https://github.com/mixpanel/mixpanel-ruby) - 
 - [kaspth/struct-initializer](https://github.com/kaspth/struct-initializer) - Reuse Struct.new's attr_reader and initialize generation in any class.
 - [renuo/dato-rails](https://github.com/renuo/dato-rails) - Use DatoCMS in your Ruby On Rails app
@@ -8602,6 +8603,7 @@
 
 ## SCSS 
 
+- [gooddata/gooddata-ui](https://github.com/gooddata/gooddata-ui) - UI SDK documentation
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [bahlo/arnes-notes](https://github.com/bahlo/arnes-notes) - 🧠 My working notes.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -8944,6 +8946,7 @@
 
 ## TypeScript 
 
+- [ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component) - Option+Click React components in your browser to instantly open the source in VS Code
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [cwqt/refract](https://github.com/cwqt/refract) - Generate Prisma from TypeScript
 - [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
@@ -10406,7 +10409,7 @@
 - [supabase-community/database.dev](https://github.com/supabase-community/database.dev) - Curated list of SQL to help you find useful script easily 🚀
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [framevuerk/framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js.
-- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - ⚡ Vite + Vue 3 + Tailwind CSS ✔
+- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - ⚡ Vite ✔ Vue 3 🌻 Tailwind CSS
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
