@@ -732,6 +732,7 @@
 
 ## Go 
 
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps
 - [graphql-editor/stucco](https://github.com/graphql-editor/stucco) - FaaS like GraphQL runtime
@@ -870,7 +871,7 @@
 - [cloudflare/redoctober](https://github.com/cloudflare/redoctober) - Go server for two-man rule style file encryption and decryption.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [anycable/anycable-go](https://github.com/anycable/anycable-go) - Anycable Go WebSocket Server
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
@@ -1544,6 +1545,7 @@
 
 ## JavaScript 
 
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [mauricedb/polly-js](https://github.com/mauricedb/polly-js) - Transient exception handling for JavaScript
 - [mixpanel/mixpanel-js](https://github.com/mixpanel/mixpanel-js) - Official Mixpanel JavaScript Client Library
@@ -2614,7 +2616,6 @@
 - [auth0/rules](https://github.com/auth0/rules) - Rules are code snippets written in JavaScript that are executed as part of the authentication pipeline in Auth0
 - [feathersjs-ecosystem/authentication](https://github.com/feathersjs-ecosystem/authentication) - [MOVED] Feathers local, token, and OAuth authentication over REST and Websockets using JSON Web Tokens (JWT) with PassportJS.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
@@ -4470,7 +4471,6 @@
 - [keen/keen-js](https://github.com/keen/keen-js) - https://keen.io/ JavaScript SDKs. Track users and visualise the results. Demo http://keen.github.io/keen-dataviz.js/
 - [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services) - A curated list of the best in class SaaS services for developers and business owners.
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
-- [remigiusz-suwalski/programming-cheatsheets](https://github.com/remigiusz-suwalski/programming-cheatsheets) - Programming cheatsheets (Python, Bash, Haskell...)
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [kendricktan/non-overwhelming-machine-learning](https://github.com/kendricktan/non-overwhelming-machine-learning) - A (non overwhelming) list of Machine Learning resources for beginners
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -5223,6 +5223,10 @@
 
 ## Ruby 
 
+- [orbit-love/notion-ruby-client](https://github.com/orbit-love/notion-ruby-client) - A Ruby client for the Notion API
+- [hopsoft/job_contracts](https://github.com/hopsoft/job_contracts) - Enforceable contracts with test-like assurances for jobs
+- [BrandonShar/inertia-rails-template](https://github.com/BrandonShar/inertia-rails-template) - A minimalist InertiaJS on Rails Template using Vite
+- [Matt-Yorkley/global-presence](https://github.com/Matt-Yorkley/global-presence) - 
 - [thoughtbot/hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template) - A collection of branches that transmit HTML over the wire.
 - [discourse/discourse-apple-auth](https://github.com/discourse/discourse-apple-auth) - Login to Discourse with your Apple ID
 - [styd/functionable-json](https://github.com/styd/functionable-json) - Generate JSON with JavaScript functions from ruby hash
@@ -8472,6 +8476,8 @@
 
 ## Rust 
 
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Seed your development database with real data ⚡️
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
@@ -8613,11 +8619,11 @@
 
 ## SCSS 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [gooddata/gooddata-ui](https://github.com/gooddata/gooddata-ui) - UI SDK documentation
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [bahlo/arnes-notes](https://github.com/bahlo/arnes-notes) - 🧠 My working notes.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [ionic-team/capacitor-site](https://github.com/ionic-team/capacitor-site) - Capacitor website
 - [paperbits/paperbits-demo](https://github.com/paperbits/paperbits-demo) - This repository shows an example how developers can use Paperbits to build web apps with rich content authoring capabilities.
 - [balmjs/balm-ui](https://github.com/balmjs/balm-ui) - :diamonds: A modular and customizable UI library based on Material Design and Vue
 - [nebulab/playbook](https://github.com/nebulab/playbook) - :book: We are Nebulab, and this is how we work.
@@ -8958,6 +8964,10 @@
 
 ## TypeScript 
 
+- [vueuse/schema-org](https://github.com/vueuse/schema-org) - 🔎 Schema.org for Vue. Supports typed and automated Google Rich Results
+- [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui) - Material-UI form components ready to use with react-hook-form
+- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English
+- [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [wycats/starbeam](https://github.com/wycats/starbeam) - 
 - [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr) - Use Vite for server side rendering in Node
 - [frandiox/reactesse-ssr-template](https://github.com/frandiox/reactesse-ssr-template) - 🏕 Opinionated React + Vite Starter Template with SSR in Node.js
@@ -9148,6 +9158,7 @@
 - [SvelteStack/svelte-query](https://github.com/SvelteStack/svelte-query) - Performant and powerful remote data synchronization for Svelte
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
+- [ionic-team/capacitor-site](https://github.com/ionic-team/capacitor-site) - Capacitor website
 - [0x006F/react-media-recorder](https://github.com/0x006F/react-media-recorder) - react-media-recorder is a react component with render prop that can be used to record audio/video streams using MediaRecorder API.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
