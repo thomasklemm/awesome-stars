@@ -264,6 +264,7 @@
 - [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Project currently on an indefinite hiatus.
 - [Shopify/heap-profiler](https://github.com/Shopify/heap-profiler) - Ruby heap profiler
 - [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number parser, validator and formatter for Ruby. This gem binds to Google's C++ libphonenumber for spec-compliance and performance.
@@ -1045,7 +1046,7 @@
 - [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [orbs-network/orbs-contract-sdk](https://github.com/orbs-network/orbs-contract-sdk) - SDK for developers of smart contracts running on Orbs
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
@@ -1713,7 +1714,6 @@
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
 - [ionic-team/starters](https://github.com/ionic-team/starters) - Starter templates for Ionic apps, used by the Ionic CLI
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
-- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
 - [fastify/fastify-swagger](https://github.com/fastify/fastify-swagger) - Swagger documentation generator for Fastify
 - [appwrite/sdk-for-node](https://github.com/appwrite/sdk-for-node) - [READ-ONLY] Official Appwrite Node.js SDK 🟢
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
@@ -1746,7 +1746,6 @@
 - [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [ruby/setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 - [juliangruber/npm-dependants](https://github.com/juliangruber/npm-dependants) - Get dependants of a module on npm.
 - [ElMassimo/vite-plugin-xdm](https://github.com/ElMassimo/vite-plugin-xdm) - Use XDM in VIte.js
@@ -4171,6 +4170,7 @@
 - [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
 - [PicchiKevin/WebXR-games](https://github.com/PicchiKevin/WebXR-games) - Curated list of cool WebXR Games & Experiences
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
+- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
 - [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
@@ -4206,7 +4206,6 @@
 - [stripe/carbon-removal-source-materials](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases (http://stripe.com/climate)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) - Awesome EventStorming
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
@@ -8964,6 +8963,7 @@
 
 ## TypeScript 
 
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [vueuse/schema-org](https://github.com/vueuse/schema-org) - 🔎 Schema.org for Vue. Supports typed and automated Google Rich Results
 - [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui) - Material-UI form components ready to use with react-hook-form
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English
@@ -9002,7 +9002,6 @@
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [milesj/packemon](https://github.com/milesj/packemon) - 📦 Build and prepare packages for npm distribution using standardized configurations and practices. Gotta pack 'em all!
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
-- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [prisma/nexus-prisma](https://github.com/prisma/nexus-prisma) - Official Prisma plugin for Nexus
 - [pikasojs/pikaso](https://github.com/pikasojs/pikaso) - Seamless, headless and fully tested HTML5 Canvas library
 - [igordanchenko/react-photo-album](https://github.com/igordanchenko/react-photo-album) - Responsive photo gallery component for React
@@ -10340,7 +10339,7 @@
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for TS/JS, React, Vue, Solid
+- [TanStack/react-table](https://github.com/TanStack/react-table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
 - [FrDH/dotdotdot-js](https://github.com/FrDH/dotdotdot-js) - dotdotdot.js, advanced cross-browser ellipsis for multiple line content.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
