@@ -1546,6 +1546,7 @@
 
 ## JavaScript 
 
+- [ForestAdmin/toolbelt](https://github.com/ForestAdmin/toolbelt) - 🛠  The Forest Admin toolbelt is a CLI which makes easy to setup and manage your back office application lifecycle directly from your terminal.
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [mauricedb/polly-js](https://github.com/mauricedb/polly-js) - Transient exception handling for JavaScript
@@ -2183,7 +2184,6 @@
 - [thejibz/graphql-compose-mysql](https://github.com/thejibz/graphql-compose-mysql) - Generates GraphQL types and resolvers from a MySQL database.
 - [bookshelf/case-converter-plugin](https://github.com/bookshelf/case-converter-plugin) - Bookshelf plugin for handling the conversion between the database's snake_cased and a model's camelCased properties automatically.
 - [voxpelli/node-pg-pubsub](https://github.com/voxpelli/node-pg-pubsub) - A Publish/Subscribe implementation on top of PostgreSQL NOTIFY/LISTEN
-- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [adobe/athena](https://github.com/adobe/athena) - 🛡A Performance and Functional Testing Engine for APIs
 - [GavinRay97/hasura-ultimate-starter](https://github.com/GavinRay97/hasura-ultimate-starter) - A starter kit for serious Hasura applications that will let you hit the ground running
 - [CONNECT-platform/connect-platform](https://github.com/CONNECT-platform/connect-platform) - Visual Backend Programming Platform
@@ -3520,7 +3520,7 @@
 - [a8m/angular-filter](https://github.com/a8m/angular-filter) - Bunch of useful filters for AngularJS (with no external dependencies!)
 - [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms for AngularJS
 - [neilj/Squire](https://github.com/neilj/Squire) - HTML5 rich text editor. Try the demo integration at
-- [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
+- [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's exercise question editor and renderer.
 - [bobtail-dev/bobtail](https://github.com/bobtail-dev/bobtail) - A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs
 - [mquan/cortex](https://github.com/mquan/cortex) - An immutable data store for managing deeply nested structure with React
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
@@ -4136,6 +4136,7 @@
 
 ## Others 
 
+- [rubocop/minitest-style-guide](https://github.com/rubocop/minitest-style-guide) - Best practices for writing your tests
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [jeromedalbert/real-world-ruby-apps](https://github.com/jeromedalbert/real-world-ruby-apps) - Real World Ruby apps and their open source codebases for developers to learn from
 - [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
@@ -4366,7 +4367,7 @@
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [manjula-dube/react-advanced-patterns](https://github.com/manjula-dube/react-advanced-patterns) - Advanced React Component Patterns
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -4814,7 +4815,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a document graph
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a semantic document graph
 
 ## Pug 
 
@@ -5222,6 +5223,12 @@
 
 ## Ruby 
 
+- [djezzzl/factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot
+- [djezzzl/n1_loader](https://github.com/djezzzl/n1_loader) - Loader to solve N+1 issues for good. Highly recommended for GraphQL API.
+- [wmlele/devise-otp](https://github.com/wmlele/devise-otp) - Two Factors authentication for Devise using Time Based OTP/rfc6238 tokens.
+- [ruby/TryRuby](https://github.com/ruby/TryRuby) - This 4th iteration of TryRuby is a website where you can learn the Ruby language.
+- [ruby/logger](https://github.com/ruby/logger) - simple logging utility
+- [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An implementation of the LSP specification for Ruby
 - [orbit-love/notion-ruby-client](https://github.com/orbit-love/notion-ruby-client) - A Ruby client for the Notion API
 - [hopsoft/job_contracts](https://github.com/hopsoft/job_contracts) - Enforceable contracts with test-like assurances for jobs
 - [BrandonShar/inertia-rails-template](https://github.com/BrandonShar/inertia-rails-template) - A minimalist InertiaJS on Rails Template using Vite
@@ -8475,6 +8482,7 @@
 
 ## Rust 
 
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [Qovery/replibyte](https://github.com/Qovery/replibyte) - Seed your development database with real data ⚡️
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
@@ -8963,10 +8971,12 @@
 
 ## TypeScript 
 
+- [PeculiarVentures/webcrypto](https://github.com/PeculiarVentures/webcrypto) - A WebCrypto Polyfill for NodeJS
+- [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp) - VS Code plugin for connecting with the Ruby LSP
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [vueuse/schema-org](https://github.com/vueuse/schema-org) - 🔎 Schema.org for Vue. Supports typed and automated Google Rich Results
 - [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui) - Material-UI form components ready to use with react-hook-form
-- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English
+- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [wycats/starbeam](https://github.com/wycats/starbeam) - 
 - [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr) - Use Vite for server side rendering in Node
@@ -9609,7 +9619,7 @@
 - [wobsoriano/vite-react-tailwind-starter](https://github.com/wobsoriano/vite-react-tailwind-starter) - Starter using Vite + React + Tailwind CSS 2
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [juicyfx/vercel-php](https://github.com/juicyfx/vercel-php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
+- [vercel-community/php](https://github.com/vercel-community/php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [dabit3/graphql-api-cdk-serverless-postgres](https://github.com/dabit3/graphql-api-cdk-serverless-postgres) - 
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [graphiti-api/spraypaint.js](https://github.com/graphiti-api/spraypaint.js) - Graphiti Client / Javascript ORM / JSONAPI
@@ -9833,6 +9843,7 @@
 - [reimagined/resolve](https://github.com/reimagined/resolve) - Full stack CQRS, DDD, Event Sourcing framework for Node.js
 - [ThomWright/postgres-migrations](https://github.com/ThomWright/postgres-migrations) - 🐦 A Stack Overflow-inspired PostgreSQL migration library with strict ordering and immutable migrations
 - [mayflower/postgraphile-audit-plugin](https://github.com/mayflower/postgraphile-audit-plugin) - This plugin adds functionality to access pgMemento's audit data on an entity level from a postgraphile graphql api.
+- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [dethcrypto/earl](https://github.com/dethcrypto/earl) - ☕ Ergonomic, modern and type-safe assertion library for TypeScript
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Expressive TypeScript Logger for Node.js.
 - [jashmenn/postgraphile-upsert-plugin](https://github.com/jashmenn/postgraphile-upsert-plugin) - 
