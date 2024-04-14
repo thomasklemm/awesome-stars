@@ -1924,7 +1924,6 @@
 - [uploadcare/blocks](https://github.com/uploadcare/blocks) - Stack-agnostic library for uploading, processing, and editing images on-the-fly
 - [saadeghi/theme-change](https://github.com/saadeghi/theme-change) - Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 - [versoly/versoly-ui](https://github.com/versoly/versoly-ui) - Tailwind CSS components library based on Bootstrap
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [airblade/stimulus-datepicker](https://github.com/airblade/stimulus-datepicker) - Stimulus-powered accessible datepicker
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
@@ -2191,7 +2190,6 @@
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
-- [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ Production-ready static website boilerplate featuring Webpack 5, TypeScript, PostCSS & Tailwind CSS.
 - [oslabs-beta/sapling](https://github.com/oslabs-beta/sapling) - Sapling - A convenient way to traverse your React app in VS Code
 - [MONEI/Shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node Shopify connector sponsored by MONEI
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -4541,7 +4539,7 @@
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [icebaker/nano-bots-spec](https://github.com/icebaker/nano-bots-spec) - Open spec for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [kvzb/hotwire-resources](https://github.com/kvzb/hotwire-resources) - A collection of documentation, articles, videos, and tutorials about Hotwire.
@@ -5892,6 +5890,7 @@
 
 ## Ruby 
 
+- [whitequark/rack-utf8_sanitizer](https://github.com/whitequark/rack-utf8_sanitizer) - Rack::UTF8Sanitizer is a Rack middleware which cleans up invalid UTF8 characters in request URI and headers.
 - [brendon/positioning](https://github.com/brendon/positioning) - Simple positioning for Active Record models.
 - [keshavbiswa/active_record_anonymizer](https://github.com/keshavbiswa/active_record_anonymizer) - A ruby gem to anonymize your ActiveRecord attributes with ease.
 - [JackDanger/permanent_records](https://github.com/JackDanger/permanent_records) - Rails Plugin - soft-delete your ActiveRecord records. It's like an explicit version of ActsAsParanoid
@@ -10674,7 +10673,7 @@
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [vidstack/media-captions](https://github.com/vidstack/media-captions) - Modern media captions parser and renderer (~5kB). Supports VTT, SRT, and SSA. Works server side, supports text streams, rollup captions via VTT regions, customization via CSS, and more.
+- [vidstack/captions](https://github.com/vidstack/captions) - Modern media captions parser and renderer (~5kB). Supports VTT, SRT, and SSA. Works server side, supports text streams, rollup captions via VTT regions, customization via CSS, and more.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [vmware-clarity/ng-clarity](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
@@ -10785,6 +10784,7 @@
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [natemoo-re/micromorph](https://github.com/natemoo-re/micromorph) - A very tiny library for diffing DOM nodes
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
@@ -11376,6 +11376,7 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 - [zhouzi/docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Docusaurus plugin generating Markdown documentation from a GraphQL schema.
+- [bstaruk/starbase](https://github.com/bstaruk/starbase) - ⭐ Production-ready static website boilerplate featuring Webpack 5, TypeScript, PostCSS & Tailwind CSS.
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
