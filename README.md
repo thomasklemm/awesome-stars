@@ -752,7 +752,7 @@
 - [inertiajs/inertia-phoenix](https://github.com/inertiajs/inertia-phoenix) - The Phoenix adapter for Inertia.js.
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [liveview-native/live_view_native](https://github.com/liveview-native/live_view_native) - A framework for building native applications with Phoenix LiveView
@@ -935,7 +935,7 @@
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system optimized for passkeys
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -3618,7 +3618,7 @@
 - [mxstbr/postcss.parts](https://github.com/mxstbr/postcss.parts) - A searchable catalog of PostCSS plugins —
 - [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
-- [puppetlabs/showoff](https://github.com/puppetlabs/showoff) - Don't just present; interact with your audience!
+- [binford2k/showoff](https://github.com/binford2k/showoff) - Don't just present; interact with your audience!
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
 - [Qix-/color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
@@ -4576,7 +4576,7 @@
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [icebaker/nano-bots-spec](https://github.com/icebaker/nano-bots-spec) - Open spec for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work 👇
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [kvzb/hotwire-resources](https://github.com/kvzb/hotwire-resources) - A collection of documentation, articles, videos, and tutorials about Hotwire.
@@ -5137,7 +5137,7 @@
 - [amazon-archives/aws-sdk-core-ruby](https://github.com/amazon-archives/aws-sdk-core-ruby) - This repository has moved to the master branch of aws/aws-sdk-ruby
 - [sinatra/rack-protection](https://github.com/sinatra/rack-protection) - NOTE: This project has been merged upstream to sinatra/sinatra
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
-- [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection for Bootstrap 5 templates.
+- [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection of free Bootstrap 5 templates.
 - [interagent/pliny-template](https://github.com/interagent/pliny-template) - Base Sinatra app for writing excellent APIs in Ruby
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [hail2u/github-cheat-sheet](https://github.com/hail2u/github-cheat-sheet) - Cool features of GitHub
@@ -5954,6 +5954,7 @@
 
 ## Ruby 
 
+- [excid3/mailbin](https://github.com/excid3/mailbin) - Record and view Rails ActionMailer emails sent in development
 - [mrkn/matplotlib.rb](https://github.com/mrkn/matplotlib.rb) - matplotlib wrapper for Ruby
 - [ankane/cmfrec-ruby](https://github.com/ankane/cmfrec-ruby) - Recommendations for Ruby using collective matrix factorization
 - [ankane/ignite-ruby](https://github.com/ankane/ignite-ruby) - Ruby client for Apache Ignite
@@ -10982,7 +10983,7 @@
 - [nickgeerts/rails-react-views](https://github.com/nickgeerts/rails-react-views) - A library for full integration of React.js views in Ruby on Rails.
 - [pablo-abc/felte](https://github.com/pablo-abc/felte) - An extensible form library for Svelte, Solid and React
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
-- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - Toolpad Studio: Low-code admin builder. Open-source and powered by MUI.
+- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [ikenfin/vite-plugin-sentry](https://github.com/ikenfin/vite-plugin-sentry) - Vite plugin acting as an interface to SentryCLI
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -12630,7 +12631,7 @@
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
@@ -12788,7 +12789,7 @@
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
 - [framevuerk/framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
-- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
+- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
@@ -12816,7 +12817,7 @@
 - [SAP-archive/fundamental-vue](https://github.com/SAP-archive/fundamental-vue) - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
-- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. 
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [Akryum/awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
