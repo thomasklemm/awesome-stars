@@ -963,7 +963,7 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [kataras/server-benchmarks](https://github.com/kataras/server-benchmarks) - :rocket: Cross-platform transparent benchmarks for HTTP/2 Web Servers at 2020-2024
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
+- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -1221,7 +1221,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [fauna/faunadb-go](https://github.com/fauna/faunadb-go) - Go driver for Fauna v4 (deprecated)
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -5960,6 +5960,8 @@
 
 ## Ruby 
 
+- [akodkod/phlex-lucide](https://github.com/akodkod/phlex-lucide) - Lucide.dev Icons for Phlex
+- [keygen-sh/statement_timeout](https://github.com/keygen-sh/statement_timeout) - Wrap an Active Record transaction or query in a local statement timeout.
 - [TelosLabs/rails-world](https://github.com/TelosLabs/rails-world) - Companion App for the Rails World 2024 Conference
 - [sebyx07/ruby2html](https://github.com/sebyx07/ruby2html) - Rails views with ruby
 - [bensheldon/activerecord-has_some_of_many](https://github.com/bensheldon/activerecord-has_some_of_many) - Optimized top-N-per-group Active Record associations using lateral joins
@@ -9117,7 +9119,7 @@
 - [collectiveidea/pgbackups_archive_app](https://github.com/collectiveidea/pgbackups_archive_app) - A very simple app to archive PGBackups to S3.
 - [mdeering/attribute_normalizer](https://github.com/mdeering/attribute_normalizer) - Adds the ability to normalize attributes cleanly with code blocks and predefined normalizers
 - [laserlemon/simple_oauth](https://github.com/laserlemon/simple_oauth) - Simply builds and verifies OAuth headers
-- [laserlemon/rspec-wait](https://github.com/laserlemon/rspec-wait) - Wait for conditions in RSpec
+- [laserlemon/rspec-wait](https://github.com/laserlemon/rspec-wait) - Time-resilient expectations in RSpec
 - [cowbell/active_model-errors_details](https://github.com/cowbell/active_model-errors_details) - Adds ActiveModel::Errors#details to return type of used validator - Backport from Rails 5.0
 - [rom-rb/rom-rails](https://github.com/rom-rb/rom-rails) - Rails integration for Ruby Object Mapper
 - [thoughtbot/cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
@@ -10048,7 +10050,7 @@
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [craigpastro/pg_uuidv7](https://github.com/craigpastro/pg_uuidv7) - A Postgres extension to generate v7 UUIDs
 - [rails/rails-new](https://github.com/rails/rails-new) - Create Rails projects with Ruby installed
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data l
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data 
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -10165,7 +10167,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [memc-rs/memc-rs](https://github.com/memc-rs/memc-rs) - A general-purpose distributed memory cache system compatible with Memcached
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -10222,7 +10224,7 @@
 - [iwilsonq/rust-graphql-example](https://github.com/iwilsonq/rust-graphql-example) - The accompanying project for a tutorial. Uses Rust, Juniper GraphQL Server + Actix, and Diesel ORM.
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Chrome. Self-hosted service for rendering PDFs.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [wasmerio/wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [subzerocloud/pg-amqp-bridge](https://github.com/subzerocloud/pg-amqp-bridge) - Send messages to RabbitMQ from PostgreSQL
@@ -10687,6 +10689,9 @@
 
 ## TypeScript 
 
+- [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [snaplet/seed](https://github.com/snaplet/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
+- [snaplet/snapshot](https://github.com/snaplet/snapshot) - Capture a snapshot (or subset) of your Postgres database whilst transforming the data.
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
@@ -10764,7 +10769,7 @@
 - [evilmartians/harmony](https://github.com/evilmartians/harmony) - Harmony color palette
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [antimetal/awsdocsgpt](https://github.com/antimetal/awsdocsgpt) - Codebase for docsgpt.antimetal.com (AI-powered Search and Chat for AWS Documentation)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
@@ -12267,7 +12272,7 @@
 - [graphql-compose/graphql-compose-connection](https://github.com/graphql-compose/graphql-compose-connection) - Plugin for TypeComposer (graphql-compose), that adds `connection` resolver.
 - [CoolBitX-Technology/coolwallet-sdk](https://github.com/CoolBitX-Technology/coolwallet-sdk) - JavaScript SDK to communicate with CoolWallet Pro.
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [aerogear/offix](https://github.com/aerogear/offix) - GraphQL Offline Client and Server
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [mmkal/pgkit](https://github.com/mmkal/pgkit) - PostgreSQL🤝TypeScript monorepo. SQL client/admin UI/smart migrator/type generator/schema inspector
