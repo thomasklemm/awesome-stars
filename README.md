@@ -914,7 +914,7 @@
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [turbot/steampipe-plugin-gcp](https://github.com/turbot/steampipe-plugin-gcp) - Use SQL to instantly query GCP resources across regions, projects and organizations. Open source CLI. No DB required.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
-- [brimdata/zed](https://github.com/brimdata/zed) - A novel data lake based on super-structured data
+- [brimdata/super](https://github.com/brimdata/super) - A novel data lake based on super-structured data
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [turbot/steampipe-plugin-csv](https://github.com/turbot/steampipe-plugin-csv) - Use SQL to instantly query data from CSV files. Open source CLI. No DB required.
@@ -2672,7 +2672,7 @@
 - [rickbergfalk/postgrator](https://github.com/rickbergfalk/postgrator) - A PostgreSQL, MySQL, and SQL Server migration tool using plain sql scripts.
 - [gajus/surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator. 👨‍⚕️
 - [gajus/postloader](https://github.com/gajus/postloader) - A scaffolding tool for projects using DataLoader, Flow and PostgreSQL.
-- [CSNW/sql-bricks](https://github.com/CSNW/sql-bricks) - Transparent, Schemaless SQL Generation
+- [prust/sql-bricks](https://github.com/prust/sql-bricks) - Transparent, Schemaless SQL Generation
 - [brianc/node-pg-types](https://github.com/brianc/node-pg-types) - Type parsing for node-postgres
 - [pablodenadai/node-liquibase](https://github.com/pablodenadai/node-liquibase) - Node.js wrap for Liquibase
 - [prisma-archive/gcl](https://github.com/prisma-archive/gcl) - 📖  Type-safe configuration format (similar to JSON/YAML) based on GraphQL with auto-completion and validation
@@ -11283,7 +11283,7 @@
 - [rocicorp/rails](https://github.com/rocicorp/rails) - Replicache on Rails
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners
-- [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
+- [graphql-hive/platform](https://github.com/graphql-hive/platform) - GraphQL platform - Schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
 - [sean-perkins/ngx-capacitor-http](https://github.com/sean-perkins/ngx-capacitor-http) - Zero-config drop in for native HTTP calls with Angular Capacitor 3 applications.
 - [novemberfiveco/datocms-plugin-external-audio-field](https://github.com/novemberfiveco/datocms-plugin-external-audio-field) - DatoCMS Plugin to add an embedded Mixcloud, Soundcloud, Spotify or Anghami field
 - [functionless/functionless](https://github.com/functionless/functionless) - Build serverless AWS applications with type-safe Components and easy-to-follow Conventions.
