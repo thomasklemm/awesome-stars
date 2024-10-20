@@ -860,6 +860,7 @@
 
 ## Go 
 
+- [turbot/pipe-fittings](https://github.com/turbot/pipe-fittings) - Shared components for use across pipe projects.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -5264,7 +5265,6 @@
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [renoki-co/laravel-steampipe](https://github.com/renoki-co/laravel-steampipe) - Use Laravel's built-in ORM classes to query cloud resources with Steampipe.
 - [hybridly/hybridly](https://github.com/hybridly/hybridly) - Solution to develop server-driven, client-rendered applications
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [saloonphp/saloon](https://github.com/saloonphp/saloon) - 🤠 Build beautiful API integrations and SDKs with Saloon
 - [wire-elements/modal](https://github.com/wire-elements/modal) - Livewire component that provides you with a modal that supports multiple child modals while maintaining state.
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
@@ -8952,7 +8952,7 @@
 - [brendon/acts_as_list](https://github.com/brendon/acts_as_list) - An ActiveRecord plugin for managing lists.
 - [nylas/nylas-ruby](https://github.com/nylas/nylas-ruby) - Ruby bindings for the Nylas Platform APIs
 - [jpignata/temping](https://github.com/jpignata/temping) - Create temporary table-backed ActiveRecord models for use in tests
-- [aws/aws-sdk-ruby-record](https://github.com/aws/aws-sdk-ruby-record) - Official repository for the aws-record gem, an abstraction for Amazon DynamoDB.
+- [aws/aws-record-ruby](https://github.com/aws/aws-record-ruby) - Official repository for the aws-record gem, an abstraction for Amazon DynamoDB.
 - [contentful/contentful_rails](https://github.com/contentful/contentful_rails) - A ruby gem to help you quickly integrate Contentful into your Rails site
 - [contentful/contentful_middleman](https://github.com/contentful/contentful_middleman) - Contentful Middleman is an extension to use the Middleman static site generator (Ruby) together with the API-driven Contentful CMS.
 - [vigetlabs/olive_branch](https://github.com/vigetlabs/olive_branch) - Handle camel/snake/dash case conversion
@@ -10784,6 +10784,7 @@
 
 ## TSQL 
 
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 
@@ -11119,7 +11120,7 @@
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [Shopify/hydrogen-react](https://github.com/Shopify/hydrogen-react) - Reusable components and utilities for building Shopify-powered custom storefronts.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [vercel/analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
