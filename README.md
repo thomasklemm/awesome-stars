@@ -570,7 +570,6 @@
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
-- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [leikind/wice_grid](https://github.com/leikind/wice_grid) - A Rails grid plugin to create  grids with sorting, pagination, and (automatically generated) filters
 - [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 - [reworkcss/css](https://github.com/reworkcss/css) - CSS parser / stringifier for Node.js
@@ -1733,6 +1732,7 @@
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [sass/sassc-rails](https://github.com/sass/sassc-rails) - Integrate SassC-Ruby with Rails!
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [jxnblk/geomicons-open](https://github.com/jxnblk/geomicons-open) - Open Source Icons for the Web
 - [foundation/foundation-emails-template](https://github.com/foundation/foundation-emails-template) - Official template for new Foundation for Emails projects.
@@ -2042,7 +2042,6 @@
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [Rails-Designer/stimulus-fx](https://github.com/Rails-Designer/stimulus-fx) - Collection of useful FX for Stimulus
 - [hoolycrash/trainboard](https://github.com/hoolycrash/trainboard) - Clean Departure Board mainly for DB Trains running on JavaScript
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rhino-project/rhino-project](https://github.com/rhino-project/rhino-project) - 
@@ -3650,6 +3649,7 @@
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [instructure/goro](https://github.com/instructure/goro) - Four arms for your RSpec.
 - [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [futurice/pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - Pepperoni - React Native App Starter Kit for Android and iOS
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [SamyPesse/draft-js-prism](https://github.com/SamyPesse/draft-js-prism) - Code highlighting for DraftJS using Prism
@@ -5629,6 +5629,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [gpustack/gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP ser
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
@@ -5709,6 +5710,7 @@
 - [quixio/quix-streams](https://github.com/quixio/quix-streams) - Python Streaming DataFrames for Kafka
 - [AgentOps-AI/AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [iterative/datachain](https://github.com/iterative/datachain) - ETL, Analytics, Versioning for Unstructured Data
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -6469,7 +6471,7 @@
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [brandnewbox/app-form-builder](https://github.com/brandnewbox/app-form-builder) - Reference implementation of BNB's Rails FormBuilder
 - [mocktools/ruby-rspec-mock](https://github.com/mocktools/ruby-rspec-mock) - RSpec dual mocking compatibility. Use RSpec's mocks as secondary, alongside a primary, alternative mocking library.
-- [renuo/hotsheet](https://github.com/renuo/hotsheet) - Manage your database with a simple and familiar web interface
+- [renuo/hotsheet](https://github.com/renuo/hotsheet) - Manage your Rails database through a spreadsheet-like interface.
 - [aristotelesbr/lennarb](https://github.com/aristotelesbr/lennarb) - Lennarb is a lightweight, fast and easy for building modular web applications and APIS with Ruby.
 - [rhino-project/rhino-project-template](https://github.com/rhino-project/rhino-project-template) - 
 - [prikha/n_one](https://github.com/prikha/n_one) - 
@@ -11117,8 +11119,7 @@
 
 ## Svelte 
 
-- [runebookai/tome](https://github.com/runebookai/tome) - A Local LLM Client with Magical MCP Support
-- [sparrowapp-dev/sparrow-app](https://github.com/sparrowapp-dev/sparrow-app) - Your next-gen API testing and development tool.
+- [runebookai/tome](https://github.com/runebookai/tome) - a local LLM client with magical MCP powers
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
@@ -11341,6 +11342,7 @@
 - [Data-Lake-Visualizer/vscode-parquet-visualizer](https://github.com/Data-Lake-Visualizer/vscode-parquet-visualizer) - VScode extension for SQL querying and visualizing parquet- and CSV files
 - [adamviola/parquet-explorer](https://github.com/adamviola/parquet-explorer) - Explore Parquet files with SQL
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, Kagi, T3 Chat and more...
+- [sparrowapp-dev/sparrow-app](https://github.com/sparrowapp-dev/sparrow-app) - Your next-gen API testing and development tool.
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet) - Flexible bottom sheet component built with Motion to provide buttery smooth UX while keeping accessibility in mind 🪐
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
@@ -11349,7 +11351,6 @@
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source, AI-native testing framework for web apps
 - [thangdevalone/modern-ui](https://github.com/thangdevalone/modern-ui) - A collection of reusable components built with Radix UI and Tailwind CSS. Free. Open Source. And Next.js 15 Ready. Inspired by Shadcn UI.. Pack in https://www.npmjs.com/package/@modern-core/ui
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [harsha-iiiv/openapi-mcp-generator](https://github.com/harsha-iiiv/openapi-mcp-generator) - A tool that converts OpenAPI specifications to MCP server
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -11449,7 +11450,7 @@
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
