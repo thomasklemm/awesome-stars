@@ -271,7 +271,6 @@
 - [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 - [antirez/neural-redis](https://github.com/antirez/neural-redis) - Neural networks module for Redis
 - [jeremyevans/sequel_pg](https://github.com/jeremyevans/sequel_pg) - Faster SELECTs when using Sequel with pg
-- [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [traildb/traildb](https://github.com/traildb/traildb) - TrailDB is an efficient tool for storing and querying series of events
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -778,7 +777,7 @@
 - [bkuhlmann/docker-alpine-ruby](https://github.com/bkuhlmann/docker-alpine-ruby) - A Ruby focused Docker image with current tooling for development purposes.
 - [dockette/dbdump](https://github.com/dockette/dbdump) - :whale: MariaDB / MySQL / Postgres dumper
 - [customink/mysql2-lambda](https://github.com/customink/mysql2-lambda) - Precompiled Mysql2 Gem for AWS Lambda
-- [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 11 and 12.
+- [evilmartians/fullstaq-ruby-docker](https://github.com/evilmartians/fullstaq-ruby-docker) - Docker image for Ruby build from Fullstaq packages based on Debian 11, 12, and 13
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [GraphQL-Portal/graphql-portal-docker](https://github.com/GraphQL-Portal/graphql-portal-docker) - Docker builds for GraphQL Portal Gateway and Dashboard
@@ -808,7 +807,7 @@
 - [hungry-egg/komodo](https://github.com/hungry-egg/komodo) - Easily render single-page apps/components from Phoenix LiveView
 - [phenixdigital/phoenix_storybook](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 - [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
-- [elixir-tools/next-ls](https://github.com/elixir-tools/next-ls) - The language server for Elixir that just works. Ready for early adopters!
+- [elixir-tools/next-ls](https://github.com/elixir-tools/next-ls) - The language server for Elixir that just works.
 - [gp-pereira/refactorex](https://github.com/gp-pereira/refactorex) - A VS Code extension for fast and reliable Elixir code refactoring.
 - [woylie/flop](https://github.com/woylie/flop) - Filtering, ordering and pagination for Ecto
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -933,7 +932,7 @@
 - [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [github/gh-models](https://github.com/github/gh-models) - CLI extension for the GitHub Models service
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
-- [realdatadriven/etlx](https://github.com/realdatadriven/etlx) - This project is an ETL (Extract, Transform, Load) Framework powered by DuckDB, designed to seamlessly integrate and process data from diverse sources. It leverages Markdown as a configuration medium, 
+- [realdatadriven/etlx](https://github.com/realdatadriven/etlx) - This project is an ETL / ELT Framework powered by DuckDB, designed to seamlessly integrate and process data from diverse sources. It leverages Markdown as a configuration medium, where YAML blocks def
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
@@ -2047,6 +2046,7 @@
 
 ## JavaScript 
 
+- [railspulse/rails_pulse](https://github.com/railspulse/rails_pulse) - Rails Pulse is a comprehensive performance monitoring and debugging gem that provides real-time insights into your Rails application's health.
 - [thingybase/server](https://github.com/thingybase/server) - Rails server for Thingybase.com, a way to organize, track, & treasure your stuff
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way
@@ -2074,7 +2074,7 @@
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [inertiajs/inertiajs.com](https://github.com/inertiajs/inertiajs.com) - Official Inertia.js website.
-- [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [LeaVerou/style-observer](https://github.com/LeaVerou/style-observer) - Run JS when a CSS property changes. Any CSS property.
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -2510,7 +2510,7 @@
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
 - [Purple-Magic/tramway-admin](https://github.com/Purple-Magic/tramway-admin) - Fast admin panel development
 - [launchdarkly/js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript
-- [lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) - A UI development environment for Ruby on Rails apps ✨
+- [lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) - A UI development environment for Ruby on Rails apps
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [microlinkhq/keyvhq](https://github.com/microlinkhq/keyvhq) - Simple key-value storage with support for multiple backends.
 - [rails/request.js](https://github.com/rails/request.js) - 
@@ -3312,7 +3312,7 @@
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [lukeed/arr](https://github.com/lukeed/arr) - A collection of tiny, highly performant Array.prototype alternatives
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
-- [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
+- [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Official React Component for Font Awesome Icons
 - [myndzi/simple-backoff](https://github.com/myndzi/simple-backoff) - Simple backoff calculation with multiple strategies
 - [caseywebdev/react-list](https://github.com/caseywebdev/react-list) - :scroll: A versatile infinite scroll React component.
 - [vercel/async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy and async
@@ -3697,6 +3697,7 @@
 - [mov37/is.js](https://github.com/mov37/is.js) - Minimalistic predicate library.
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
+- [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [instructure/goro](https://github.com/instructure/goro) - Four arms for your RSpec.
@@ -4815,7 +4816,7 @@
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [resonatehq/async-await-literature](https://github.com/resonatehq/async-await-literature) - Papers informing the design and development of Distributed Async Await
 - [andyw8/awesome-sorbet](https://github.com/andyw8/awesome-sorbet) - Resources and examples for Sorbet
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) - A concise list for mcp servers
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -5101,7 +5102,7 @@
 - [apollographql/apollo-studio-community](https://github.com/apollographql/apollo-studio-community) - 🎡  GraphQL developer portal featuring an IDE (Apollo Explorer), auto-documentation, metrics reporting, and more. This repo is for issues, feature requests, and preview docs. 📬
 - [pietrzakadrian/bank](https://github.com/pietrzakadrian/bank) - open source web app similar to financial software that is used in banking institutions | React.js and Node.js
 - [CovidShield/rationale](https://github.com/CovidShield/rationale) - Goals, principles, and overviews of the COVID Shield project.
-- [redwoodjs/awesome-redwood](https://github.com/redwoodjs/awesome-redwood) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
+- [redwoodjs/awesome-redwood-graphql](https://github.com/redwoodjs/awesome-redwood-graphql) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
 - [aws-samples/aws-amplify-auth-starters](https://github.com/aws-samples/aws-amplify-auth-starters) - Starter projects for developers looking to build web & mobile applications that have Authentication & protected routing
 - [shankari/covid-19-tracing-projects](https://github.com/shankari/covid-19-tracing-projects) - Crowdsourced list of projects related to COVID-19 contact tracing
 - [coryhouse/timeless-skills](https://github.com/coryhouse/timeless-skills) - These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
@@ -5671,6 +5672,8 @@
 
 ## Python 
 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
@@ -5691,7 +5694,7 @@
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
@@ -5938,6 +5941,7 @@
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [BerriAI/bettertest](https://github.com/BerriAI/bettertest) - 
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -6433,7 +6437,6 @@
 
 ## Ruby 
 
-- [railspulse/rails_pulse](https://github.com/railspulse/rails_pulse) - Rails Pulse is a comprehensive performance monitoring and debugging gem that provides real-time insights into your Rails application's health.
 - [thoughtbot/top_secret](https://github.com/thoughtbot/top_secret) - Filter sensitive information from free text before sending it to external services or APIs, such as chatbots and LLMs.
 - [mikker/social_construct](https://github.com/mikker/social_construct) - Generate social sharing images directly in your Rails app
 - [speedshop/sidekiq-memory_logger](https://github.com/speedshop/sidekiq-memory_logger) - Memory logging for Sidekiq jobs
@@ -6582,7 +6585,7 @@
 - [davidesantangelo/gitingest](https://github.com/davidesantangelo/gitingest) - Gitingest is a command-line tool that fetches files from a GitHub repository and generates a consolidated text prompt for your LLMs.
 - [taro-rb/taro](https://github.com/taro-rb/taro) - Taro - Typed Api using Ruby Objects
 - [kylekthompson/strict](https://github.com/kylekthompson/strict) - Strictly define a contract for your objects and methods
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration
 - [payrollhero/webhook_system](https://github.com/payrollhero/webhook_system) - A generic pluggable WebHook engine
 - [MadBomber/prompt_manager](https://github.com/MadBomber/prompt_manager) - Provides a simple way to manage prompts for a generative AI system.
 - [MadBomber/ruby_does_ai](https://github.com/MadBomber/ruby_does_ai) - 
@@ -6966,7 +6969,7 @@
 - [imgproxy/imgproxy-rails](https://github.com/imgproxy/imgproxy-rails) - 
 - [jorgemanrubia/turbo_diff](https://github.com/jorgemanrubia/turbo_diff) - 
 - [Qqwy/ruby-prop_check](https://github.com/Qqwy/ruby-prop_check) - Property Testing library in Ruby
-- [galtzo-floss/gem_bench](https://github.com/galtzo-floss/gem_bench) - Benchmark different versions of same or similar gems & Static Gemfile and installed gem library source code analysis
+- [galtzo-floss/gem_bench](https://github.com/galtzo-floss/gem_bench) - 🪑 Benchmark different versions of same or similar gems & Static Gemfile and installed gem library source code analysis
 - [docopt/docopt.rb](https://github.com/docopt/docopt.rb) - Parse command line arguments from nothing more than a usage message
 - [alchaplinsky/gen-ai](https://github.com/alchaplinsky/gen-ai) - ✨ Generative AI toolset for Ruby ✨
 - [geetfun/deployed](https://github.com/geetfun/deployed) - Mountable deployment engine for Ruby on Rails using Kamal
@@ -7448,7 +7451,7 @@
 - [svenfuchs/gem-release](https://github.com/svenfuchs/gem-release) - Release your ruby gems with ease.
 - [galtzo-floss/anonymous_active_record](https://github.com/galtzo-floss/anonymous_active_record) - Faux Anonymous AR Models for testing Concerns, Observers, Decorators
 - [ruby-oauth/version_gem](https://github.com/ruby-oauth/version_gem) - Enhance that VERSION! Sugar for boring Version modules
-- [galtzo-floss/sanitize_email](https://github.com/galtzo-floss/sanitize_email) - An Email Condom for your Ruby Server
+- [galtzo-floss/sanitize_email](https://github.com/galtzo-floss/sanitize_email) - 📧 An Email Condom for your Ruby Server
 - [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - OAuth for Ruby
 - [skryukov/rubocop-gradual](https://github.com/skryukov/rubocop-gradual) - Gradually improve your code with RuboCop
 - [livingsocial/swagger_yard-rails](https://github.com/livingsocial/swagger_yard-rails) - Rails engine to parse and render json for Swagger UI
@@ -9357,7 +9360,7 @@
 - [Betterment/webvalve](https://github.com/Betterment/webvalve) - Betterment's framework for locally developing and testing service-oriented apps in isolation with WebMock and Sinatra-based fakes
 - [dblock/graphlient](https://github.com/dblock/graphlient) - Ruby GraphQL Client
 - [fetlife/rollout](https://github.com/fetlife/rollout) - Feature flippers.
-- [galtzo-floss/seed_migration](https://github.com/galtzo-floss/seed_migration) - Seed Migration
+- [galtzo-floss/seed_migration](https://github.com/galtzo-floss/seed_migration) - 🌱 Seed Migration
 - [ComboStrikeHQ/rails_migrate_mutex](https://github.com/ComboStrikeHQ/rails_migrate_mutex) - Runs rails migrations in a redis-backed mutex.
 - [awslabs/amazon-kinesis-client-ruby](https://github.com/awslabs/amazon-kinesis-client-ruby) - A Ruby interface for the Amazon Kinesis Client Library. Allows developers to easily create robust application to process Amazon Kinesis streams in Ruby.
 - [zendesk/delivery_boy](https://github.com/zendesk/delivery_boy) - A simple way to publish messages to Kafka from Ruby applications
@@ -10733,7 +10736,7 @@
 - [balinterdi/i15r](https://github.com/balinterdi/i15r) - Replaces plain text strings in your views and replaces them with I18n message strings so you only have to provide the translations (i15r = internationalizer)
 - [heroku/legacy-cli](https://github.com/heroku/legacy-cli) - Heroku CLI
 - [alloy/kicker](https://github.com/alloy/kicker) - A lean, agnostic, flexible file-change watcher, using OS X FSEvents.
-- [galtzo-floss/flag_shih_tzu](https://github.com/galtzo-floss/flag_shih_tzu) - Bit fields for ActiveRecord
+- [galtzo-floss/flag_shih_tzu](https://github.com/galtzo-floss/flag_shih_tzu) - 🏁 Bit fields for ActiveRecord
 - [codeplant/simple-navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigations (with multiple levels) for your Rails, Sinatra or Padrino applications.  Render your navigation as html list, link list or breadcrumbs.
 - [rgrove/larch](https://github.com/rgrove/larch) - :skull: Larch copies messages from one IMAP server to another. No longer maintained.
 - [grosser/countries_and_languages](https://github.com/grosser/countries_and_languages) - Rails: Countries and languages in I18n.locale for select_tag or output in 85 languages
@@ -11525,10 +11528,12 @@
 
 ## TypeScript 
 
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [cole-robertson/rails-ai-sdk](https://github.com/cole-robertson/rails-ai-sdk) - 
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
-- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [xmlui-org/xmlui](https://github.com/xmlui-org/xmlui) - A framework for building user interfaces declaratively, with XML markup and flexible theming
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -11583,11 +11588,11 @@
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [kristianfreeman/pdf](https://github.com/kristianfreeman/pdf) - Generate PDFs using Cloudflare Workers and Browser Rendering
 - [tobilg/cloudflare-ducklake](https://github.com/tobilg/cloudflare-ducklake) - DuckLake running on top of Cloudflare Containers & R2
-- [mendableai/firestarter](https://github.com/mendableai/firestarter) - 🔥 Instantly create AI chatbots for any website with RAG-powered search, streaming responses, and OpenAI-compatible API endpoints
+- [firecrawl/firestarter](https://github.com/firecrawl/firestarter) - 🔥 Instantly create AI chatbots for any website with RAG-powered search, streaming responses, and OpenAI-compatible API endpoints
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code i
 - [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
-- [mendableai/fire-enrich](https://github.com/mendableai/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
+- [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [Jeamee/MCPHub-Desktop](https://github.com/Jeamee/MCPHub-Desktop) - Desktop APP for Discover and Install MCP Servers
@@ -11725,7 +11730,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view) - Shadcn-ui based tree view, with multi-selection, drag, and more!
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
@@ -11983,7 +11988,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL framework
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
