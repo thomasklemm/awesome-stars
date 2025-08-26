@@ -2453,6 +2453,7 @@
 - [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media) - Apache Cordova Media Plugin
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+- [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [acidb/mobiscroll](https://github.com/acidb/mobiscroll) - Cross platform UI controls for progressive web and hybrid apps (plain JS, jQuery, Angular and React)
 - [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
 - [urin/qrono](https://github.com/urin/qrono) - 🕥 Just right date time library
@@ -4492,6 +4493,7 @@
 
 ## Jupyter Notebook 
 
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
@@ -5919,7 +5921,7 @@
 - [judoscale/judoscale-python](https://github.com/judoscale/judoscale-python) - Official Python adapter for Judoscale—advanced autoscaling for Heroku
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -8451,7 +8453,7 @@
 - [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby) - ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.
 - [o2web/graphql-auth](https://github.com/o2web/graphql-auth) - GraphQL authentication with JWT
 - [omniauth/omniauth-github](https://github.com/omniauth/omniauth-github) - GitHub strategy for OmniAuth
-- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 A Ruby wrapper for OAuth 2.0 protocol, including OIDC
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 oauth2 - A Ruby wrapper for the OAuth 2.0 Authorization Framework, including OpenID Connect (OIDC)
 - [repotag/cutting_edge](https://github.com/repotag/cutting_edge) - Self-hosted dependency monitoring, including shiny badges! Currently supports Ruby, Rust, and Python projects.
 - [hlascelles/que-scheduler](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
@@ -11010,7 +11012,7 @@
 - [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [robertDurst/stellar-vanity-address-generator](https://github.com/robertDurst/stellar-vanity-address-generator) - Generate Stellar Vanity Wallets
-- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
+- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [meilisearch/meilisearch-rust](https://github.com/meilisearch/meilisearch-rust) - Rust wrapper for the Meilisearch API.
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
@@ -11574,7 +11576,7 @@
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A retro-styled UI library for modern web applications.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [cole-robertson/rails-ai-sdk](https://github.com/cole-robertson/rails-ai-sdk) - 
@@ -12571,7 +12573,7 @@
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 - [streamich/use-media](https://github.com/streamich/use-media) - useMedia React hook to track CSS media query state
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [dotansimha/graphql-typed-document-node](https://github.com/dotansimha/graphql-typed-document-node) - An improved version of `DocumentNode` for seamless TypeScript integration for GraphQL.
@@ -12671,7 +12673,6 @@
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
 - [ionic-team/pwa-elements](https://github.com/ionic-team/pwa-elements) - Quality UI experiences for Web APIs that require custom UI (such as media/camera).
-- [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [liqvidjs/liqvid](https://github.com/liqvidjs/liqvid) - Library for interactive videos in React
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -13090,7 +13091,6 @@
 - [graphiti-api/spraypaint.js](https://github.com/graphiti-api/spraypaint.js) - Graphiti Client / Javascript ORM / JSONAPI
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
 - [karthikv/purview](https://github.com/karthikv/purview) - A server-side component framework. What if your React components ran on the server-side?
-- [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [sequelize/sequelize-typescript](https://github.com/sequelize/sequelize-typescript) - Decorators and some other features for sequelize
 - [googleapis/cloud-trace-nodejs](https://github.com/googleapis/cloud-trace-nodejs) - Node.js agent for Cloud Trace: automatically gather latency data about your application
 - [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
