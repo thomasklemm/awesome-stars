@@ -2070,6 +2070,7 @@
 
 ## JavaScript 
 
+- [mitsuhiko/agent-commands](https://github.com/mitsuhiko/agent-commands) - These are commands I use with agents, mostly Claude
 - [davidguttman/react-pivot](https://github.com/davidguttman/react-pivot) - React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [siaw23/railserd](https://github.com/siaw23/railserd) - An Interactive web-based ERD generator for Ruby on Rails.
@@ -4696,7 +4697,6 @@
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [coreui/coreui-react](https://github.com/coreui/coreui-react) - CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded 
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
@@ -5772,7 +5772,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
-- [posit-dev/pointblank](https://github.com/posit-dev/pointblank) - Data validation made beautiful and powerful
+- [posit-dev/pointblank](https://github.com/posit-dev/pointblank) - Data validation toolkit for assessing and monitoring data quality.
 - [haasonsaas/ocode](https://github.com/haasonsaas/ocode) - OCode is a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution
 - [haasonsaas/dspy-advanced-prompting](https://github.com/haasonsaas/dspy-advanced-prompting) - State-of-the-art prompting techniques implementation with DSpy - Manager-style prompts, role personas, meta-prompting, and more
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -6219,7 +6219,6 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs
-- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
 - [remorses/mongoke](https://github.com/remorses/mongoke) - 
@@ -6510,6 +6509,9 @@
 
 ## Ruby 
 
+- [works-on-your-machine/touring_test](https://github.com/works-on-your-machine/touring_test) - A Cucumber extension to enable agentic computer use
+- [angellist/zaxcel](https://github.com/angellist/zaxcel) - A Ruby DSL for building Excel spreadsheets programmatically
+- [camertron/live_component](https://github.com/camertron/live_component) - 
 - [ksylvest/voyageai](https://github.com/ksylvest/voyageai) - A ruby client for VoyageAI
 - [mensfeld/llm-docs-builder](https://github.com/mensfeld/llm-docs-builder) - Transform and optimize your markdown documentation for Large Language Models (LLMs) and RAG systems. Generate llms.txt automatically.
 - [panozzaj/plain_errors](https://github.com/panozzaj/plain_errors) - Rails middleware for LLM-optimized error messages
@@ -7161,7 +7163,7 @@
 - [rwojsznis/sidekiq-lock](https://github.com/rwojsznis/sidekiq-lock) - Simple redis-based lock mechanism for your sidekiq workers
 - [bitcrowd/rails-monitoring](https://github.com/bitcrowd/rails-monitoring) - A rails engine to monitor sidekiq internals.
 - [ankane/active_hll](https://github.com/ankane/active_hll) - HyperLogLog for Rails and Postgres
-- [beautifulruby/superview](https://github.com/beautifulruby/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`.
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`.
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans.
 - [BaseSecrete/rorvswild](https://github.com/BaseSecrete/rorvswild) - Performances & exceptions monitoring for Ruby on Rails applications
 - [ruby/abbrev](https://github.com/ruby/abbrev) - Calculates a set of unique abbreviations for a given set of strings
@@ -7230,7 +7232,7 @@
 - [camertron/onload](https://github.com/camertron/onload) - A preprocessor system for Ruby.
 - [hopsoft/credentials_demo](https://github.com/hopsoft/credentials_demo) - Demo of environment aware Rails encrypted credentials with environment variable override
 - [googleapis/google-auth-library-ruby](https://github.com/googleapis/google-auth-library-ruby) - Google Auth Library for Ruby
-- [beautifulruby/superform](https://github.com/beautifulruby/superform) - Build highly customizable HTML forms with Phlex components
+- [rubymonolith/superform](https://github.com/rubymonolith/superform) - Build highly customizable HTML forms with Phlex components
 - [roseflow-ai/roseflow-rails](https://github.com/roseflow-ai/roseflow-rails) - Roseflow integration for Ruby on Rails
 - [roseflow-ai/roseflow](https://github.com/roseflow-ai/roseflow) - Interact with AI effortlessly
 - [IAPark/tiktoken_ruby](https://github.com/IAPark/tiktoken_ruby) - Unofficial ruby binding for tiktoken by way of rust
@@ -11689,12 +11691,14 @@
 
 ## TypeScript 
 
+- [tobilg/sql-workbench-embedded](https://github.com/tobilg/sql-workbench-embedded) - Lightweight JavaScript library that transforms static SQL code blocks into interactive, browser-based SQL execution environments using DuckDB WASM
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [kubb-labs/fabric](https://github.com/kubb-labs/fabric) - 🧰 Fabric is a language-agnostic toolkit for generating code and files using JSX and TypeScript.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr) - Obra Icons monorepo
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 - [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, resilient, and observable workflows
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
 - [composify-js/composify](https://github.com/composify-js/composify) - Server Driven UI made easy
@@ -11757,7 +11761,7 @@
 - [kateinoigakukun/irb.wasm](https://github.com/kateinoigakukun/irb.wasm) - IRB on browser powered by WebAssembly
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+- [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
@@ -12176,7 +12180,7 @@
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 - [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any framework.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms) - The modular and type-safe form library for SolidJS, Qwik and Preact
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
@@ -13203,6 +13207,7 @@
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [formsy/formsy-react](https://github.com/formsy/formsy-react) - A form input builder and validator for React JS
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
@@ -13418,6 +13423,7 @@
 - [tailwindlabs/tailwindui-react](https://github.com/tailwindlabs/tailwindui-react) - Deprecated, please use the Headless UI repo instead.
 - [Seb-C/kiss-orm](https://github.com/Seb-C/kiss-orm) - An extremely simple and explicit ORM for TypeScript
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -13587,7 +13593,7 @@
 - [plumier/plumier](https://github.com/plumier/plumier) - A TypeScript backend framework focuses on development productivity, uses dedicated reflection library to help you create a robust, secure and fast API delightfully.
 - [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader) - Dataloader plugin for NestJS
 - [Kononnable/typeorm-model-generator](https://github.com/Kononnable/typeorm-model-generator) - Generates models for TypeORM from existing database.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [fujix-io/fujix-examples](https://github.com/fujix-io/fujix-examples) - 👾 Examples of Fuji X usage
