@@ -334,6 +334,7 @@
 
 ## ai 
 
+- [works-on-your-machine/touring_test](https://github.com/works-on-your-machine/touring_test) - A Cucumber extension to enable agentic computer use
 - [mensfeld/llm-docs-builder](https://github.com/mensfeld/llm-docs-builder) - Transform and optimize your markdown documentation for Large Language Models (LLMs) and RAG systems. Generate llms.txt automatically.
 - [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
 - [docusealco/rllama](https://github.com/docusealco/rllama) - Ruby FFI bindings for llama.cpp to run open-source LLMs such as GPT-OSS, Qwen 3, Gemma 3, and Llama 3 locally with Ruby.
@@ -518,7 +519,7 @@
 - [opstower-ai/llm-opstower](https://github.com/opstower-ai/llm-opstower) - DevOps AI Assistant CLI. Ask questions about your AWS services, cloudwatch metrics, and billing.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
@@ -2647,7 +2648,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [sahilm/yamldiff](https://github.com/sahilm/yamldiff) - A CLI tool to diff two YAML files.
 - [opstower-ai/llm-opstower](https://github.com/opstower-ai/llm-opstower) - DevOps AI Assistant CLI. Ask questions about your AWS services, cloudwatch metrics, and billing.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [jfelchner/ruby-progressbar](https://github.com/jfelchner/ruby-progressbar) - Ruby/ProgressBar is a text progress bar library for Ruby.
@@ -4404,7 +4405,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -6700,7 +6701,7 @@
 - [Yelp/dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 🤖 dataloader-codegen is an opinionated JavaScript library for automatically generating DataLoaders over a set of resources (e.g. HTTP endpoints).
 - [n1ru4l/graphql-schema-generator-rest](https://github.com/n1ru4l/graphql-schema-generator-rest) - Generate your GraphQL schema from type definitions
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [strise/gintonic](https://github.com/strise/gintonic) - A declarative transformation language for GraphQL 🍸
 - [steven-mercatante/graphql-stack](https://github.com/steven-mercatante/graphql-stack) - A visual explanation of how the various tools in the GraphQL ecosystem fit together.
@@ -7081,7 +7082,7 @@
 - [stevegeek/encoded_id](https://github.com/stevegeek/encoded_id) - Turn numeric or hex IDs into reversible and human friendly obfuscated strings. Also supports Rails ActiveRecord models
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [marcoroth/gem.sh](https://github.com/marcoroth/gem.sh) - Beautiful documentation for any Ruby gem.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [turbot/steampipe-plugin-gcp](https://github.com/turbot/steampipe-plugin-gcp) - Use SQL to instantly query GCP resources across regions, projects and organizations. Open source CLI. No DB required.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -10122,7 +10123,7 @@
 ## llm 
 
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - React components for visualizing traces from AI agents
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Context retrieval for AI agents across apps and databases
@@ -10267,7 +10268,7 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [mariochavez/aoororachain](https://github.com/mariochavez/aoororachain) - Aoororachain is Ruby chain tool to work with LLMs
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
@@ -11262,7 +11263,7 @@
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader) - Dataloader plugin for NestJS
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 - [nestjs/graphql](https://github.com/nestjs/graphql) - GraphQL (TypeScript) module for Nest framework (node.js) 🍷
 - [tkosminov/nestjs-example](https://github.com/tkosminov/nestjs-example) - NestJS example with using GraphQL (schema stitching, schema reload, dataloader, upload files, subscriptions, response cache), RabbitMQ, Redis, Websocket, JWT authentication, ESLint 9
@@ -11847,7 +11848,7 @@
 - [Odi-ts/odi](https://github.com/Odi-ts/odi) - 🌪🌌 Opinionated, Declarative, Idiomatic framework for building scalable, supportable and reliable enterprise applications.
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [plumier/plumier](https://github.com/plumier/plumier) - A TypeScript backend framework focuses on development productivity, uses dedicated reflection library to help you create a robust, secure and fast API delightfully.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework 🚀
 - [dynamoose/dynamoose](https://github.com/dynamoose/dynamoose) - Dynamoose is a modeling tool for Amazon's DynamoDB
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -12199,7 +12200,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
@@ -12434,6 +12435,10 @@
 
 ## others 
 
+- [angellist/zaxcel](https://github.com/angellist/zaxcel) - A Ruby DSL for building Excel spreadsheets programmatically
+- [camertron/live_component](https://github.com/camertron/live_component) - 
+- [mitsuhiko/agent-commands](https://github.com/mitsuhiko/agent-commands) - These are commands I use with agents, mostly Claude
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [jsonquerylang/jsonquery-python](https://github.com/jsonquerylang/jsonquery-python) - A lightweight, flexible, and expandable JSON query language
 - [Ziems/arbor](https://github.com/Ziems/arbor) - A framework for optimizing DSPy programs with RL
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
@@ -12634,7 +12639,7 @@
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) - Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
-- [posit-dev/pointblank](https://github.com/posit-dev/pointblank) - Data validation made beautiful and powerful
+- [posit-dev/pointblank](https://github.com/posit-dev/pointblank) - Data validation toolkit for assessing and monitoring data quality.
 - [hugr-lab/hugr](https://github.com/hugr-lab/hugr) - The Hugr service
 - [Tonksthebear/mcp-rails](https://github.com/Tonksthebear/mcp-rails) - 
 - [kslazarev/numbers_and_words](https://github.com/kslazarev/numbers_and_words) - Convert numbers to words using I18N.
@@ -13437,7 +13442,7 @@
 - [exogee-technology/graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API
 - [dlight-js/dlight](https://github.com/dlight-js/dlight) - DX-first UI Rendering Library
 - [ankane/active_hll](https://github.com/ankane/active_hll) - HyperLogLog for Rails and Postgres
-- [beautifulruby/superview](https://github.com/beautifulruby/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`.
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`.
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans.
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [bigskysoftware/hypermedia-systems-old](https://github.com/bigskysoftware/hypermedia-systems-old) - A book on building Hypermedia Driven Applications with htmx and Hyperview
@@ -20124,7 +20129,7 @@
 - [GeorgeKaraszi/ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds additional postgres functionality to an ActiveRecord / Rails application
 - [ksylvest/graphql-sources](https://github.com/ksylvest/graphql-sources) - A collection of common GraphQL sources for working with Ruby on Rails.
 - [hopsoft/credentials_demo](https://github.com/hopsoft/credentials_demo) - Demo of environment aware Rails encrypted credentials with environment variable override
-- [beautifulruby/superform](https://github.com/beautifulruby/superform) - Build highly customizable HTML forms with Phlex components
+- [rubymonolith/superform](https://github.com/rubymonolith/superform) - Build highly customizable HTML forms with Phlex components
 - [asakusarb/action_args](https://github.com/asakusarb/action_args) - Controller action arguments parameterizer for Rails 4+ & Ruby 2.0+
 - [tines/rails-pg-adapter](https://github.com/tines/rails-pg-adapter) - Rails Postgres ActiveRecord patches for common production workloads
 - [guilleiguaran/rails-htmx](https://github.com/guilleiguaran/rails-htmx) - htmx for Rails
@@ -24590,6 +24595,7 @@
 
 ## sql 
 
+- [tobilg/sql-workbench-embedded](https://github.com/tobilg/sql-workbench-embedded) - Lightweight JavaScript library that transforms static SQL code blocks into interactive, browser-based SQL execution environments using DuckDB WASM
 - [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.
 - [mrjonesbot/sage](https://github.com/mrjonesbot/sage) - LLM powered reporting
@@ -25175,7 +25181,7 @@
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+- [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [tarellel/simple_form-tailwind](https://github.com/tarellel/simple_form-tailwind) - A basic rails generator for adding a simpleform config for tailwindCSS based forms
@@ -25237,7 +25243,7 @@
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+- [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) - A React component that provides a no-code, visual way to create UIs, compatible with shadcn/ui and custom components.
 - [untitleduico/react](https://github.com/untitleduico/react) - Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build.
@@ -26598,7 +26604,6 @@
 ## visual-studio-code 
 
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [towardsthecloud/vscode-cloudformation-snippets](https://github.com/towardsthecloud/vscode-cloudformation-snippets) - This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.
 - [aws-cloudformation/cfn-lint-visual-studio-code](https://github.com/aws-cloudformation/cfn-lint-visual-studio-code) - CloudFormation Linter IDE integration, autocompletion, and documentation
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
