@@ -350,6 +350,7 @@
 
 ## C++ 
 
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [gropaul/dash](https://github.com/gropaul/dash) - DuckDB Extension featuring a Query Builder GUI and Dashboarding features
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊
 - [dentiny/duckdb-distributed-execution](https://github.com/dentiny/duckdb-distributed-execution) - Distributed execution for duckdb queries.
@@ -427,7 +428,7 @@
 - [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number parser, validator and formatter for Ruby. This gem binds to Google's C++ libphonenumber for spec-compliance and performance.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [google/zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
+- [google/googlesql](https://github.com/google/googlesql) - ZetaSQL - Analyzer Framework for SQL
 - [Tencent/Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [ankane/morph](https://github.com/ankane/morph) - An encrypted, in-memory, key-value store
@@ -838,7 +839,7 @@
 - [inertiajs/inertia-phoenix](https://github.com/inertiajs/inertia-phoenix) - The Phoenix adapter for Inertia.js.
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) - Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [liveview-native/live_view_native](https://github.com/liveview-native/live_view_native) - A framework for building native applications with Phoenix LiveView
@@ -944,7 +945,7 @@
 - [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 18.6M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL + Parquet + Arrow. AGPL-3.0
 - [duckdb/duckdb-go](https://github.com/duckdb/duckdb-go) - duckdb-go provides a database/sql driver for the DuckDB database engine.
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
@@ -2083,7 +2084,6 @@
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
 - [okta-graveyard/react-native-lock](https://github.com/okta-graveyard/react-native-lock) - [DEPRECATED] A wrapper of Lock to use with React Native (iOS & Android)
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
-- [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated, battery-conscious background-geolocation with motion-detection
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
@@ -2102,6 +2102,7 @@
 
 ## JavaScript 
 
+- [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
 - [uwdata/flechette](https://github.com/uwdata/flechette) - Fast, lightweight access to Apache Arrow data.
 - [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
@@ -2701,7 +2702,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [ryangjchandler/spruce](https://github.com/ryangjchandler/spruce) - A lightweight state management layer for Alpine.js. 🌲
 - [alpine-collective/alpine-magic-helpers](https://github.com/alpine-collective/alpine-magic-helpers) - A collection of magic properties and helper functions for use with Alpine.js
-- [netlify/gotrue-js](https://github.com/netlify/gotrue-js) - JavaScript client library for GoTrue
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [BilalBudhani/RailsBooster](https://github.com/BilalBudhani/RailsBooster) - ⚡️ Ruby On Rails Boilerplate For Instant Productivity
@@ -3177,7 +3177,7 @@
 - [webpack-contrib/url-loader](https://github.com/webpack-contrib/url-loader) - A loader for webpack which transforms files into base64 URIs
 - [lukeed/flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache
 - [heroku/heroku-accounts](https://github.com/heroku/heroku-accounts) - Helps use multiple accounts on Heroku.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
 - [jxnblk/mdx-docs](https://github.com/jxnblk/mdx-docs) - :memo: Document and develop React components with MDX and Next.js
 - [KidkArolis/jetpack](https://github.com/KidkArolis/jetpack) - 🚀 Jetpack – Webpack made more convenient.
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
@@ -4864,12 +4864,14 @@
 
 ## Others 
 
+- [zoejane/awesome-music-programming](https://github.com/zoejane/awesome-music-programming) - A curated list of awesome music programming languages, libraries, frameworks and tools.
+- [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [jarrodwatts/claude-delegator](https://github.com/jarrodwatts/claude-delegator) - Delegate tasks to Codex GPT 5.2 directly from within Claude Code.
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-- [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - The awesome collection of Claude Skills and resources.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [marckohlbrugge/unofficial-37signals-coding-style-guide](https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide) - Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase
@@ -5747,6 +5749,9 @@
 
 ## Python 
 
+- [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
+- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
+- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles, companies and jobs, and perform job searches.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [hald/things-mcp](https://github.com/hald/things-mcp) - Things.app MCP Server
@@ -5939,7 +5944,7 @@
 - [Dtenwolde/duckdb-community-extension-analysis](https://github.com/Dtenwolde/duckdb-community-extension-analysis) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [rilldata/rill-examples](https://github.com/rilldata/rill-examples) - A monorepo of many Rill example projects
-- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
+- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt adapter for DuckDB
 - [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar) - This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [tobilg/duckdb-nodejs-layer](https://github.com/tobilg/duckdb-nodejs-layer) - Packaging DuckDB for Node.js Lambda functions. Example application: https://github.com/tobilg/serverless-duckdb
@@ -5978,7 +5983,6 @@
 - [Z-Gort/Reservoirs-Lab](https://github.com/Z-Gort/Reservoirs-Lab) - 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [pg-spot-ops/pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) - Stateful Postgres on cheap Spot VMs
 - [quixio/quix-streams](https://github.com/quixio/quix-streams) - Python Streaming DataFrames for Kafka
 - [agentstack-ai/AgentStack](https://github.com/agentstack-ai/AgentStack) - The fastest way to build robust AI agents
@@ -11842,7 +11846,7 @@
 
 ## TeX 
 
-- [zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. 
+- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. 
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [tomepel/Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL) - This note presents in a technical though hopefully pedagogical way the three most common forms of neural network architectures: Feedforward, Convolutional and Recurrent.
@@ -11861,6 +11865,9 @@
 
 ## TypeScript 
 
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+- [abhishekjairath/sonic-pi-mcp](https://github.com/abhishekjairath/sonic-pi-mcp) - Model Context Protocol (MCP) server for controlling Sonic Pi through AI assistants
+- [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [amantus-ai/llm-codes](https://github.com/amantus-ai/llm-codes) - Transform developer documentation to clean Markdown
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Universal UI skeleton generator for React, Vue and Svelte. Auto-adapts to your component structure with zero maintenance and pixel-perfect accuracy.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
@@ -11888,7 +11895,7 @@
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [warper-org/warper](https://github.com/warper-org/warper) - Ultra-fast React virtualization library powered by Rust and WebAssembly
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [ojowwalker77/Claude-Matrix](https://github.com/ojowwalker77/Claude-Matrix) - Claude on Rails - Tooling System for Claude Code.
@@ -12057,7 +12064,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-- [paceui/ui](https://github.com/paceui/ui) - Animated components and design blocks crafted for smooth interaction and rich detail. Copy, customize, and create without the extra setup.
+- [pacekit/ui](https://github.com/pacekit/ui) - Build faster with practical UI blocks for real apps
 - [ceedaragents/cyrus](https://github.com/ceedaragents/cyrus) - Your Claude Code powered Linear agent that runs on any machine
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
@@ -12232,7 +12239,7 @@
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Lightweight Durable TypeScript Workflows
 - [AgentScript-AI/agentscript](https://github.com/AgentScript-AI/agentscript) - CodeAct Agent SDK with an AST-based code execution engine, enabling stop/start workflows, tool-level state management, and enhanced observability.
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [tremorlabs/template-dashboard](https://github.com/tremorlabs/template-dashboard) - 
 - [tremorlabs/template-database](https://github.com/tremorlabs/template-database) - 
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
@@ -12269,6 +12276,7 @@
 - [marcoroth/formulus](https://github.com/marcoroth/formulus) - Client-side HTML form validations based on the browser HTML Form Validation API
 - [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
 - [lexical-lsp/vscode-lexical](https://github.com/lexical-lsp/vscode-lexical) - VSCode extension for Lexical, the modern Elixir language server
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
@@ -12335,7 +12343,7 @@
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [brisa-build/diff-dom-streaming](https://github.com/brisa-build/diff-dom-streaming) - HTML Streaming Over the Wire! 🥳  Diff DOM algorithm with streaming to make only the necessary modifications, insertions and deletions between a DOM node and an HTML stream reader.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 - [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe and zoom through content on the z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
 - [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs) - vanilla javascript input mask
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -12547,8 +12555,8 @@
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
 - [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [Cap-go/capgo](https://github.com/Cap-go/capgo) - Capgo Console and backend to manage Instant update for capacitor apps
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [Cap-go/capgo](https://github.com/Cap-go/capgo) - Capgo Console and backend to manage Instant update for Capacitor apps
 - [RevenueCat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [thisdot/framework.dev](https://github.com/thisdot/framework.dev) - A set of websites that act as collections of popular libraries and learning content for the web ecosystem.
@@ -13517,6 +13525,7 @@
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.
 - [wingsuit-designsystem/wingsuit](https://github.com/wingsuit-designsystem/wingsuit) - Twig for Storybook
+- [netlify/gotrue-js](https://github.com/netlify/gotrue-js) - JavaScript client library for GoTrue
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -13877,7 +13886,7 @@
 - [helios1138/graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint. The client allows writing GraphQL queries as plain JS objects (with type safety, awesome code completion experience, cus
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
-- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
+- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript UI Framework
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [ant-design/pro-blocks](https://github.com/ant-design/pro-blocks) - Blocks of Ant Design Pro.
@@ -14311,7 +14320,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
@@ -14338,6 +14347,7 @@
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+- [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated, battery-conscious background-geolocation with motion-detection
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
