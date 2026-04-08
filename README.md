@@ -948,7 +948,6 @@
 
 ## Go 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [redneckbeard/thanos](https://github.com/redneckbeard/thanos) - Ruby -&gt; Go at the snap of your fingers
 - [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
 - [ShawnPana/aurl](https://github.com/ShawnPana/aurl) - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and ge
@@ -970,7 +969,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [seuros/kaunta](https://github.com/seuros/kaunta) - Privacy-focused web analytics. Single binary, self-hosted.
-- [engneer-hamachan/ruby-ti](https://github.com/engneer-hamachan/ruby-ti) - 
+- [engneer-hamachan/mruby-ti](https://github.com/engneer-hamachan/mruby-ti) - 
 - [docker/model-runner](https://github.com/docker/model-runner) - Docker Model Runner
 - [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
@@ -2140,6 +2139,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [ElMassimo/vite-plugin-manifest-sri](https://github.com/ElMassimo/vite-plugin-manifest-sri) - Subresource Integrity for Vite.js manifest files
 - [getelena/elena](https://github.com/getelena/elena) - Elena is a simple, tiny library for building Progressive Web Components.
@@ -2181,7 +2181,7 @@
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way
 - [allmarkedup/stimulus-x](https://github.com/allmarkedup/stimulus-x) - StimulusX brings the power of reactive programming to Stimulus JS.
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
 - [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) - 👓 Syntax Highlighting using the CSS Custom Highlight API
@@ -2899,7 +2899,6 @@
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [UnlyEd/GraphCMS-cache-boilerplate](https://github.com/UnlyEd/GraphCMS-cache-boilerplate) - Provides a reliable cache contingency backup plan in case a GraphCMS/GraphQL endpoint is failing.
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
@@ -4963,7 +4962,6 @@
 - [igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search) - Advanced Search for Twitter.
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation 🔥
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [thedayisntgray/ruby_colab](https://github.com/thedayisntgray/ruby_colab) - Integrating Ruby with Google Colab Notebooks
@@ -5802,6 +5800,7 @@
 
 ## Python 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [poteto/brainmaxxing](https://github.com/poteto/brainmaxxing) - stupid simple persistent memory and skill improvement
 - [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
@@ -5822,14 +5821,14 @@
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [anombyte93/atlas-session-lifecycle](https://github.com/anombyte93/atlas-session-lifecycle) - Session lifecycle management for Claude Code — persistent memory, soul purpose, reconcile, harvest, archive
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
-- [agno-agi/dash](https://github.com/agno-agi/dash) - Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.
+- [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [mpuig/dictate.sh](https://github.com/mpuig/dictate.sh) - 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 - [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
-- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles, companies and jobs, and manage your inbox.
+- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [hald/things-mcp](https://github.com/hald/things-mcp) - Things.app MCP Server
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
@@ -5870,7 +5869,6 @@
 - [tidewave-ai/tidewave_python](https://github.com/tidewave-ai/tidewave_python) - Tidewave for Django, FastAPI, and Flask
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 - [PipedreamHQ/pipedream-sdk-python](https://github.com/PipedreamHQ/pipedream-sdk-python) - Python SDK for Pipedream
-- [synth-laboratories/synth-ai](https://github.com/synth-laboratories/synth-ai) - Prompt Optimization
 - [microsoft/multilspy](https://github.com/microsoft/multilspy) - multilspy is a lsp client library in Python intended to be used to build applications around language servers.
 - [playbooks-ai/playbooks](https://github.com/playbooks-ai/playbooks) - ▶📚 Playbooks is a semantic programming system for AI agents
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
@@ -6675,6 +6673,8 @@
 
 ## Ruby 
 
+- [suketa/ruby-duckdb-polars](https://github.com/suketa/ruby-duckdb-polars) - 
+- [zarpay/manceps](https://github.com/zarpay/manceps) - Ruby client for the Model Context Protocol (MCP). Latin: one who takes in hand.
 - [sinaptia/ruby_llm-evals](https://github.com/sinaptia/ruby_llm-evals) - LLM evaluation engine for Rails.
 - [protocollar/claude_agent-ruby](https://github.com/protocollar/claude_agent-ruby) - Claude Agent SDK for Ruby
 - [public-law/schema-dot-org](https://github.com/public-law/schema-dot-org) - Easy structured data for websites. All validated for syntax and semantics. Simple declarative-style coding.
@@ -11223,6 +11223,7 @@
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
 - [nooscraft/tokuin](https://github.com/nooscraft/tokuin) - CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.
 - [tidewave-ai/tidewave_app](https://github.com/tidewave-ai/tidewave_app) - Tidewave Desktop app and CLI
+- [synth-laboratories/synth-ai](https://github.com/synth-laboratories/synth-ai) - Prompt Optimization
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -12072,7 +12073,7 @@
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [callstackincubator/rozenite](https://github.com/callstackincubator/rozenite) - Plug-and-play panels for React Native DevTools. Install, enable, and start debugging in minutes.
@@ -12491,7 +12492,7 @@
 - [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [rudrodip/asyncr](https://github.com/rudrodip/asyncr) - Async Select component built with React & ShadCN UI
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
@@ -13970,6 +13971,7 @@
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [digitalmio/mokksy](https://github.com/digitalmio/mokksy) - Fully functional mock JSON server with great extras
 - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs and vuejs tree component.
 - [plantain-00/schema-based-json-editor](https://github.com/plantain-00/schema-based-json-editor) - A reactjs and vuejs component of schema based json editor.
