@@ -541,7 +541,7 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode ext
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 
 ## ai 
 
@@ -901,6 +901,7 @@
 - [pproenca/agent-tui](https://github.com/pproenca/agent-tui) - TUI automation for AI agents. Control any terminal app from code.
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [ameyalambat128/swiftui-skills](https://github.com/ameyalambat128/swiftui-skills) - Agent skills for SwiftUI, built from Apple's Xcode AI documentation.
 - [tmchow/hzl](https://github.com/tmchow/hzl) - Task Manager and Kanban Board for OpenClaw Agents
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -1668,7 +1669,7 @@
 - [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -1969,7 +1970,7 @@
 
 ## awesome-list 
 
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [zoejane/awesome-music-programming](https://github.com/zoejane/awesome-music-programming) - A curated list of awesome music programming languages, libraries, frameworks and tools.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
@@ -4413,7 +4414,7 @@
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -4850,7 +4851,7 @@
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -6102,6 +6103,7 @@
 ## flutter 
 
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
+- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [tramlinehq/tramline](https://github.com/tramlinehq/tramline) - Release coordination and deployment platform, just for your mobile apps
 - [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter) - Flutter integration for Supabase. This package makes it simple for developers to build secure and scalable products.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -9353,7 +9355,6 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [add2cal/add-to-calendar-button](https://github.com/add2cal/add-to-calendar-button) - Reliably create beautiful Add to Calendar Buttons, where people can add events to their calendars. Without the hustle and unsupported cases.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -10677,7 +10678,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -11059,7 +11060,6 @@
 - [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
-- [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [vicentereig/dspy.rb](https://github.com/vicentereig/dspy.rb) - The Ruby framework for programming—rather than prompting—language models.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -11482,7 +11482,7 @@
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [instacart/lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -13600,6 +13600,8 @@
 
 ## others 
 
+- [zhuohangu/peek](https://github.com/zhuohangu/peek) - 
+- [0xtotem/peek-dspy](https://github.com/0xtotem/peek-dspy) - A DSPy port of PEEK
 - [datasette/datasette-agent](https://github.com/datasette/datasette-agent) - An LLM-powered agent for Datasette
 - [supostat/zodra](https://github.com/supostat/zodra) - Zodra is an end-to-end type system framework for Ruby on Rails that bridges the gap between backend and frontend type safety. It provides a Ruby DSL to define types, API contracts, and routing — then 
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
@@ -14368,7 +14370,7 @@
 - [aws-ia/taskcat](https://github.com/aws-ia/taskcat) - Test all the CloudFormation things! (with TaskCat)
 - [aws-cloudformation/rain](https://github.com/aws-cloudformation/rain) - A development workflow tool for working with AWS CloudFormation.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
-- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [sj26/activerecord-dsql-adapter](https://github.com/sj26/activerecord-dsql-adapter) - Active Record Adapter for AWS Aurora DSQL
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [julik/zip_kit](https://github.com/julik/zip_kit) - Compact ZIP file writing/reading for Ruby, for streaming applications
@@ -14999,7 +15001,6 @@
 - [facebook/akd](https://github.com/facebook/akd) - An implementation of an auditable key directory
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [imtrent/discord-messenger](https://github.com/imtrent/discord-messenger) - A lightweight Discord API wrapper for sending messages in Ruby
 - [hugolantaume/iso-swift](https://github.com/hugolantaume/iso-swift) - Swift code / BIC validation and lookup gem
 - [capacitor-community/app-icon](https://github.com/capacitor-community/app-icon) - Capacitor plugin to programmatically change the app icon.
 - [capacitor-community/appcenter-sdk-capacitor](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
@@ -21409,7 +21410,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
@@ -21709,7 +21710,7 @@
 - [excid3/revise_auth](https://github.com/excid3/revise_auth) - A pure Rails authentication system like Devise.
 - [iloveitaly/simple_structured_logger](https://github.com/iloveitaly/simple_structured_logger) - An incredibly simple, very opinionated, structured logging library for ruby
 - [KonnorRogers/rhino-editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
-- [nullscreen/yt](https://github.com/nullscreen/yt) - The reliable YouTube API Ruby client
+- [claudiob/yt](https://github.com/claudiob/yt) - The reliable YouTube API Ruby client
 - [jbox-web/ajax-datatables-rails](https://github.com/jbox-web/ajax-datatables-rails) - A wrapper around DataTable's ajax methods that allow synchronization with server-side pagination in a Rails app
 - [thoughtbot/art_vandelay](https://github.com/thoughtbot/art_vandelay) - Art Vandelay is an importer/exporter for Rails 7.0 and higher.
 - [hyperstackjs/hyperstack](https://github.com/hyperstackjs/hyperstack) - The pragmatic app framework for builders 🐶
@@ -23740,7 +23741,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [janhuenermann/neurojs](https://github.com/janhuenermann/neurojs) - A JavaScript deep learning and reinforcement learning library.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
@@ -24228,7 +24229,7 @@
 - [soulcutter/saxerator](https://github.com/soulcutter/saxerator) - A SAX-based XML parser for parsing large files into manageable chunks
 - [KonnorRogers/rhino-editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
 - [u2i/egis](https://github.com/u2i/egis) - Egis - a handy Ruby interface for AWS Athena
-- [nullscreen/yt](https://github.com/nullscreen/yt) - The reliable YouTube API Ruby client
+- [claudiob/yt](https://github.com/claudiob/yt) - The reliable YouTube API Ruby client
 - [strongqa/howitzer](https://github.com/strongqa/howitzer) - A Ruby-based framework for acceptance testing
 - [ruby/vscode-rdbg](https://github.com/ruby/vscode-rdbg) - VSCode Ruby rdbg Debugger
 - [gregmolnar/prepper](https://github.com/gregmolnar/prepper) - Prepper is a simple server provisioning tool, built on top of SSHKit. You can use it to script your server build process.
@@ -24293,7 +24294,7 @@
 - [kgiszczak/tomlib](https://github.com/kgiszczak/tomlib) - Tomlib is a fast and standards-compliant TOML parser and generator for Ruby.
 - [mdub/clamp](https://github.com/mdub/clamp) - a Ruby command-line application framework
 - [patbenatar/rbexy](https://github.com/patbenatar/rbexy) - A Ruby template language and component framework inspired by JSX and React
-- [nullscreen/squid](https://github.com/nullscreen/squid) - A Ruby library to plot charts in PDF files
+- [claudiob/squid](https://github.com/claudiob/squid) - A Ruby library to plot charts in PDF files
 - [warrant-dev/warrant-ruby](https://github.com/warrant-dev/warrant-ruby) - Ruby SDK for Warrant
 - [joeldrapper/action_state](https://github.com/joeldrapper/action_state) - Rails scopes and predicates defined with the same DSL.
 - [javierhonduco/rbperf](https://github.com/javierhonduco/rbperf) - Low-overhead sampling profiler and tracer for Ruby for Linux
@@ -27137,7 +27138,7 @@
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 - [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [blei-lab/edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
@@ -28383,7 +28384,7 @@
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
-- [nullscreen/yt](https://github.com/nullscreen/yt) - The reliable YouTube API Ruby client
+- [claudiob/yt](https://github.com/claudiob/yt) - The reliable YouTube API Ruby client
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [orestbida/iframemanager](https://github.com/orestbida/iframemanager) - 🍪 GDPR friendly iframe manager written in vanilla js
@@ -29342,7 +29343,7 @@
 ## youtube 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [nullscreen/yt](https://github.com/nullscreen/yt) - The reliable YouTube API Ruby client
+- [claudiob/yt](https://github.com/claudiob/yt) - The reliable YouTube API Ruby client
 - [orestbida/iframemanager](https://github.com/orestbida/iframemanager) - 🍪 GDPR friendly iframe manager written in vanilla js
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
