@@ -860,7 +860,7 @@
 - [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
-- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [hexpm/hexpm](https://github.com/hexpm/hexpm) - API server and website for Hex
 - [exAspArk/batch_loader](https://github.com/exAspArk/batch_loader) - :zap: Powerful tool for avoiding N+1 DB or HTTP queries
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
@@ -1992,7 +1992,6 @@
 
 ## Java 
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [keeleinstituut/ekilex](https://github.com/keeleinstituut/ekilex) - Sõnastiku- ja terminibaasisüsteem
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -4752,6 +4751,7 @@
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
@@ -4832,6 +4832,7 @@
 
 ## Objective-C 
 
+- [schuyler/macdown3000](https://github.com/schuyler/macdown3000) - A modern, lightweight Markdown editor for macOS.
 - [radarlabs/radar-sdk-ios](https://github.com/radarlabs/radar-sdk-ios) - iOS SDK for Radar, the leading geofencing and location tracking platform
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin) - 👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget
@@ -4936,7 +4937,6 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [esadek/awesome-ducklake](https://github.com/esadek/awesome-ducklake) - A curated list of awesome DuckLake tools and resources
-- [evilmartians/grotesk](https://github.com/evilmartians/grotesk) - 
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [resonatehq/async-await-literature](https://github.com/resonatehq/async-await-literature) - Papers informing the design and development of Distributed Async Await
 - [andyw8/awesome-sorbet](https://github.com/andyw8/awesome-sorbet) - Resources and examples for Sorbet
@@ -4957,6 +4957,7 @@
 - [igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search) - Advanced Search for Twitter.
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
+- [fivetran/dbt_aws_cloud_cost](https://github.com/fivetran/dbt_aws_cloud_cost) - Fivetran's AWS Cloud Cost dbt package
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation 🔥
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
@@ -5905,7 +5906,6 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [shlokkhemani/openpoke](https://github.com/shlokkhemani/openpoke) - Open source implementation of Poke
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
@@ -5968,6 +5968,7 @@
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) - An MCP server that exposes AWS EC2 pricing data with an option to search by CPU, RAM, networking
+- [evilmartians/grotesk](https://github.com/evilmartians/grotesk) - 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy, and share agents with open infrastructure, free from vendor lock-in.
@@ -6029,6 +6030,7 @@
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [quackscience/quackflight](https://github.com/quackscience/quackflight) - DuckDB API Server with Arrow Flight SQL Airport support and concurrent writes/reads (quackpipe)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [duckdb/extension-template](https://github.com/duckdb/extension-template) - Template for DuckDB extensions to help you develop, test and deploy a custom extension
 - [Dtenwolde/duckdb-community-extension-analysis](https://github.com/Dtenwolde/duckdb-community-extension-analysis) - 
@@ -6156,7 +6158,7 @@
 - [judoscale/judoscale-python](https://github.com/judoscale/judoscale-python) - Official Python adapter for Judoscale—advanced autoscaling for Heroku, AWS, and most other cloud hosting platforms.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This repository contains the open-source PR Agent Project. It is not the Qodo free tier.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -6681,6 +6683,8 @@
 
 ## Ruby 
 
+- [DmitryPogrebnoy/ruby-agent-skills](https://github.com/DmitryPogrebnoy/ruby-agent-skills) - A collection of Agent Skills designed for efficient work with Ruby type signatures, including RBS, Sorbet, and other typing systems
+- [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) - The most Token-efficient open-source AI Agent
 - [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) - Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails.
 - [timescale/timescaledb-ruby](https://github.com/timescale/timescaledb-ruby) - The timescaledb gem. Pack of helpers to work with TimescaleDB extension in Ruby.
 - [logtail/logtail-ruby-rails](https://github.com/logtail/logtail-ruby-rails) - Better Stack Rails client
@@ -11242,6 +11246,7 @@
 - [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -11655,7 +11660,7 @@
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - n8n skillset for Claude Code to build flawless n8n workflows
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [ThibautBaissac/rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) - Specialized AI skills, agents, rules and hooks for modern Rails AI driven-development + Spec-Driven-Development kit + MCP
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -11675,11 +11680,9 @@
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ClickHouse/JSONBench](https://github.com/ClickHouse/JSONBench) - JSONBench: a Benchmark For Data Analytics On JSON
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
-- [fivetran/dbt_aws_cloud_cost](https://github.com/fivetran/dbt_aws_cloud_cost) - Fivetran's AWS Cloud Cost dbt package
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [docker/scout-cli](https://github.com/docker/scout-cli) - Docker Scout CLI
@@ -11843,6 +11846,7 @@
 
 ## Swift 
 
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
@@ -12049,6 +12053,8 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+- [dosco/aithy](https://github.com/dosco/aithy) - A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
@@ -12240,6 +12246,7 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field) - React component for an input field
 - [makerever/rever](https://github.com/makerever/rever) - Rever AI - powered finance automation that elevates control, unifies systems, and enables foresight for modern CFOs.
 - [karthikscale3/dspyground](https://github.com/karthikscale3/dspyground) - A tool kit for generating high quality prompts using DSPy GEPA optimizer
@@ -12377,7 +12384,7 @@
 - [codesandbox/codesandbox-sdk](https://github.com/codesandbox/codesandbox-sdk) - Programmatically start (AI) sandboxes on top of CodeSandbox
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [iannuttall/mcp-boilerplate](https://github.com/iannuttall/mcp-boilerplate) - A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [heroku/heroku-mcp-server](https://github.com/heroku/heroku-mcp-server) - Heroku Platform MCP Server using the Heroku CLI
 - [janwilmake/socialdatapod](https://github.com/janwilmake/socialdatapod) - You should own and be able to do anything with YOUR social data, not just the apps, ais, and algoritms of the profit-oriented companies that now gatewall it
@@ -13515,7 +13522,6 @@
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [trpc/zart](https://github.com/trpc/zart) - 🤯  zART-stack — Zero-API, React [Native], & TypeScript
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [eidellev/inertiajs-adonisjs](https://github.com/eidellev/inertiajs-adonisjs) - 
 - [voided-org/deepkit-ml](https://github.com/voided-org/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools.
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
@@ -14833,6 +14839,7 @@
 
 ## Zig 
 
+- [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
