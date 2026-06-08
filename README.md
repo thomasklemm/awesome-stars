@@ -8545,7 +8545,7 @@
 - [bridgetownrb/serbea](https://github.com/bridgetownrb/serbea) - MIGRATED to Codeberg
 - [fnando/breadcrumbs](https://github.com/fnando/breadcrumbs) - Breadcrumbs is a simple Rails plugin that adds a breadcrumbs object to controllers and views.
 - [jasl/activeentity](https://github.com/jasl/activeentity) - Active Record without Database
-- [didww/credit_card_validations](https://github.com/didww/credit_card_validations) - :credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks
+- [didww/credit_card_validations](https://github.com/didww/credit_card_validations) - :credit_card: ruby gem for validating credit cards, generating credit card numbers, Luhn checks
 - [rails/rails-controller-testing](https://github.com/rails/rails-controller-testing) - Brings back `assigns` and `assert_template` to your Rails tests
 - [state-machines/state_machines-rspec](https://github.com/state-machines/state_machines-rspec) - 
 - [state-machines/state_machines-activemodel](https://github.com/state-machines/state_machines-activemodel) - StateMachines ActiveModel Integration
@@ -11224,6 +11224,7 @@
 
 ## Rust 
 
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -12562,7 +12563,7 @@
 - [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) - The accessible HTML-Standard
-- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - The type-safe way to build multi-step experiences in React.
 - [Ali-Hussein-dev/indie-ui](https://github.com/Ali-Hussein-dev/indie-ui) - Collection of UI components
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
 - [sadmann7/sortable](https://github.com/sadmann7/sortable) - Sortable built with shadcn/ui, radix ui, and dnd-kit.
