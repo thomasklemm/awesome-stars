@@ -536,7 +536,6 @@
 - [crmne/jekyll-vitepress-theme](https://github.com/crmne/jekyll-vitepress-theme) - Ruby deserves beautiful documentation. Jekyll VitePress Theme brings VitePress-level polish to Jekyll.
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 - [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
-- [davidgasquez/handbook](https://github.com/davidgasquez/handbook) - 📚 Personal bits of knowledge
 - [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
 - [mikker/sourdough-toast](https://github.com/mikker/sourdough-toast) - Plain JS toast notifications
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
@@ -2171,7 +2170,7 @@
 - [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
 - [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude 
 - [thoughtbot/humid](https://github.com/thoughtbot/humid) - Javascript Server Side Rendering for Rails
 - [BilalBudhani/Logspect](https://github.com/BilalBudhani/Logspect) - Ruby on Rails Log Viewer
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
@@ -4954,6 +4953,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) - A concise list for mcp servers
+- [davidgasquez/handbook](https://github.com/davidgasquez/handbook) - 📚 Personal bits of knowledge
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [nicosuave/awesome-sqlmesh](https://github.com/nicosuave/awesome-sqlmesh) - A curated list of awesome SQLMesh resources
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
@@ -12252,7 +12252,7 @@
 - [mensfeld/craftdesk](https://github.com/mensfeld/craftdesk) - Package manager for Claude Code skills and agents and other AI related resources
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [marimo-team/marimo-lsp](https://github.com/marimo-team/marimo-lsp) - A language server and VS Code extension for marimo
-- [tidewave-ai/tidewave_js](https://github.com/tidewave-ai/tidewave_js) - Tidewave for JavaScript (Next.js, React + Vite)
+- [tidewave-ai/tidewave_js](https://github.com/tidewave-ai/tidewave_js) - Tidewave for JavaScript (Vite/TanStack Start)
 - [PipedreamHQ/pipedream-sdk-typescript](https://github.com/PipedreamHQ/pipedream-sdk-typescript) - TypeScript SDK for Pipedream
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
@@ -12522,7 +12522,7 @@
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [inertia-rails/react-starter-kit](https://github.com/inertia-rails/react-starter-kit) - Inertia Rails React Starter Kit
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [davideast/dataprompt](https://github.com/davideast/dataprompt) - Prompts with data superpowers
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
