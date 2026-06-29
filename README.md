@@ -2196,7 +2196,6 @@
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) - 👓 Syntax Highlighting using the CSS Custom Highlight API
 - [Rails-Designer/turbo-transition](https://github.com/Rails-Designer/turbo-transition) - A “minion” for Turbo-Frames and Streams. This custom element transitions elements as they enter or leave the DOM.
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
@@ -2943,7 +2942,6 @@
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [charlieschwabacher/gestalt](https://github.com/charlieschwabacher/gestalt) - Use the GraphQL schema language and a small set of directives to define an API with a PostgreSQL backend declaratively, really quickly, and with a tiny amount of code.
-- [evoluteur/evolutility-server-node](https://github.com/evoluteur/evolutility-server-node) - Framework for building REST APIs for CRUD with models rather than code (using Node.js, Express, and PostgreSQL).
 - [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
@@ -4750,6 +4748,7 @@
 - [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components.
 - [cloudposse/docs](https://github.com/cloudposse/docs) - Terraform Reference Architecture for AWS, Datadog and GitHub Actions
 - [supabase-community/launchweek.dev](https://github.com/supabase-community/launchweek.dev) - Tracking launch weeks across the industry for product discovery and inspiration
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [rizzui/rizzui](https://github.com/rizzui/rizzui) - 🎉 A Modern and Minimal React UI Library built with TailwindCSS
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -4773,7 +4772,7 @@
 
 ## Makefile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [getkoala/libduckdb-docker](https://github.com/getkoala/libduckdb-docker) - DuckDB headers and libs distributed as Docker images
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 - [the-teacher/rails-start](https://github.com/the-teacher/rails-start) - Start Rails in one command
@@ -5934,7 +5933,7 @@
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [ngafar/llama-scan](https://github.com/ngafar/llama-scan) - Transcribe PDFs with local LLMs
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
@@ -7738,7 +7737,7 @@
 - [janko/rodauth-omniauth](https://github.com/janko/rodauth-omniauth) - OmniAuth login and registration for Rodauth authentication framework
 - [alexandreruban/action-markdown](https://github.com/alexandreruban/action-markdown) - Markdown content editing for Ruby on Rails.
 - [evilmartians/activerecord-slotted_counters](https://github.com/evilmartians/activerecord-slotted_counters) - Active Record extension providing slotted counters support
-- [mame/perfect_toml](https://github.com/mame/perfect_toml) - A fast TOML parser gem fully compliant with TOML v1.0.0
+- [mame/perfect_toml](https://github.com/mame/perfect_toml) - A fast TOML parser gem fully compliant with TOML v1.0.0 and v1.1.0
 - [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [getletterpress/athens](https://github.com/getletterpress/athens) - Simple AWS Athena queries
 - [inspec/inspec-aws](https://github.com/inspec/inspec-aws) - InSpec AWS Resource Pack  https://www.inspec.io/
@@ -11546,7 +11545,7 @@
 - [wasmerio/wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -12092,6 +12091,7 @@
 
 ## TypeScript 
 
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
 - [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside.
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [tobilg/quacklake](https://github.com/tobilg/quacklake) - A DuckLake data catalog based on quack, deployed to Cloudflare
@@ -12101,7 +12101,7 @@
 - [kitlangton/stack](https://github.com/kitlangton/stack) - 
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
-- [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - 🐙 local markdown, live markdown editor + live preview built with tauri + react.
+- [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles.
 - [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer) - Local-first desktop markdown editor
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [dosco/aithy](https://github.com/dosco/aithy) - A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.
@@ -12121,7 +12121,7 @@
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI spend goes. Interactive TUI dashboard for token usage and cost across Claude Code, Codex, Cursor, and 25+ more AI tools. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [better-agent/better-agent](https://github.com/better-agent/better-agent) - The better way to build AI agents in TypeScript.
@@ -12305,7 +12305,7 @@
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor on GitHub. Optimized for LLMs and supports streaming.
 - [gadicc/valibot-serialize](https://github.com/gadicc/valibot-serialize) - Serialize / deserialize valibot schemas to/from json, jsonschema or static code.
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
-- [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
+- [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Reshaped provides accessible React and Figma components for building beautiful products or starting your own design system
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
@@ -12406,7 +12406,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [tobilg/cloudflare-ducklake](https://github.com/tobilg/cloudflare-ducklake) - DuckLake running on top of Cloudflare Containers & R2
 - [firecrawl/firestarter](https://github.com/firecrawl/firestarter) - 🔥 Instantly create AI chatbots for any website with RAG-powered search, streaming responses, and OpenAI-compatible API endpoints
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - A Git MCP server for AI agents. STDIO & Streamable HTTP.
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source ai monitoring platform.
 - [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
@@ -12537,7 +12537,7 @@
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 - [Shpigford/dutch-auction](https://github.com/Shpigford/dutch-auction) - Dutch auction template
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [TerraConstructs/base](https://github.com/TerraConstructs/base) - TerraConstructs
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -12950,7 +12950,7 @@
 - [Schwad/shoelace-rails-ui](https://github.com/Schwad/shoelace-rails-ui) - 
 - [stoplightio/json-schema-viewer](https://github.com/stoplightio/json-schema-viewer) - A JSON Schema viewer React component
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-- [react-component/table](https://github.com/react-component/table) - React Table
+- [react-component/table](https://github.com/react-component/table) - 📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.
 - [nkzw-tech/web-app-template](https://github.com/nkzw-tech/web-app-template) - Minimal, sensible defaults, fast.
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
@@ -13311,7 +13311,7 @@
 - [discord/react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend) - An add-on backend for `react-dnd` that provides support for keyboards and screenreaders by default.
 - [vortesnail/qier-player](https://github.com/vortesnail/qier-player) - :clapper:  A simple and easy-to-use h5 video player with highly customizable UI and rich features. / 简单易用的h5播放器，UI 高度定制化，功能丰富。
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [react-component/progress](https://github.com/react-component/progress) - React Progress Bar
+- [react-component/progress](https://github.com/react-component/progress) - 📊 Lightweight React line and circle progress indicators with SVG rendering.
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [jim-junior/reactjs-media](https://github.com/jim-junior/reactjs-media) - Interactive media in React.
 - [muxinc/upchunk](https://github.com/muxinc/upchunk) - Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
@@ -13354,7 +13354,7 @@
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/OMID/non-linear ads
 - [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 - [streamich/use-media](https://github.com/streamich/use-media) - useMedia React hook to track CSS media query state
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [dotansimha/graphql-typed-document-node](https://github.com/dotansimha/graphql-typed-document-node) - An improved version of `DocumentNode` for seamless TypeScript integration for GraphQL.
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
@@ -13917,7 +13917,7 @@
 - [SSHcom/c3](https://github.com/SSHcom/c3) - 𝗖𝟯 provides compliant AWS CDK components to various security standards.
 - [botpress/cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -14097,6 +14097,7 @@
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [Schniz/cuery](https://github.com/Schniz/cuery) - A composable SQL query builder using template literals :sparkles:
 - [holdfenytolvaj/pogi](https://github.com/holdfenytolvaj/pogi) - Javascript library for PostgreSQL and node.js
+- [evoluteur/evolutility-server-node](https://github.com/evoluteur/evolutility-server-node) - Framework for building REST APIs for CRUD with models rather than code (using Node.js, Express, and PostgreSQL).
 - [braposo/figma-graphql](https://github.com/braposo/figma-graphql) - The reimagined Figma API (super)powered by GraphQL
 - [dsys/cleargraph](https://github.com/dsys/cleargraph) - ⛓ Cleargraph is a GraphQL runtime for decentralized applications
 - [aerogear/datasync-starter](https://github.com/aerogear/datasync-starter) - GraphQL Low Code React and Node.js DataSync Application template
