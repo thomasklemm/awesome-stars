@@ -1779,7 +1779,6 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
 - [stimulus-components/stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
-- [reidmorrison/rocketjob_mission_control](https://github.com/reidmorrison/rocketjob_mission_control) - Web based management interface for Rocket Job
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [nicovak/slash_admin](https://github.com/nicovak/slash_admin) - A modern and customizable admin gem, just the rails way.
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
@@ -1818,7 +1817,7 @@
 - [thattimc/saaskit](https://github.com/thattimc/saaskit) - SaaSKit is the Rails SaaS starter kit for building your SaaS business
 - [GavinRay97/graphql-bench](https://github.com/GavinRay97/graphql-bench) - 
 - [igorkasyanchuk/embed_view](https://github.com/igorkasyanchuk/embed_view) - Embed ERB files inside another ERB files for faster performance (5-20% BOOST!!!)
-- [shakacode/cypress-playwright-on-rails](https://github.com/shakacode/cypress-playwright-on-rails) - Use cypress.io or playwright.dev with your rails application. This Ruby gem lets you use your regular Rails test setup and clean-up, such as FactoryBot.
+- [shakacode/cypress-playwright-on-rails](https://github.com/shakacode/cypress-playwright-on-rails) - Use Cypress or Playwright with Rails scenarios, factories, fixtures, app commands, and clean test data.
 - [heartcombo/simple_form-bootstrap](https://github.com/heartcombo/simple_form-bootstrap) - Example application with SimpleForm and Twitter Bootstrap
 - [janko/rodauth-rails](https://github.com/janko/rodauth-rails) - Rails integration for Rodauth authentication framework
 - [ruby-rdf/json-ld](https://github.com/ruby-rdf/json-ld) - Ruby JSON-LD reader/writer for RDF.rb
@@ -2027,7 +2026,7 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) - Burp Suite extension that offers a toolkit for testing GraphQL endpoints.
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [EinfachHans/capacitor-email-composer](https://github.com/EinfachHans/capacitor-email-composer) - E-Mail Composer Plugin for Capacitor
 - [capawesome-team/capacitor-managed-configurations](https://github.com/capawesome-team/capacitor-managed-configurations) - ⚡️ Capacitor plugin to access managed configuration settings.
 - [righettod/poc-graphql](https://github.com/righettod/poc-graphql) - Research on GraphQL from an AppSec point of view.
@@ -6213,7 +6212,7 @@
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -6698,6 +6697,7 @@
 
 ## Ruby 
 
+- [davidteren/mutineer](https://github.com/davidteren/mutineer) - Mutineer — a clean-room mutation-testing tool for Ruby. Prism + stdlib only, zero runtime deps.
 - [inertia-rails/generator](https://github.com/inertia-rails/generator) - 
 - [washu/ruby_llm-tokenizer](https://github.com/washu/ruby_llm-tokenizer) - A pure-Ruby facade over Hugging Face tokenizers and OpenAI tiktoken_ruby that maps model identifiers (gpt-4o, llama-3, mistral, ...) to the correct tokenizer and exposes a small API for counting, anal
 - [albertalef/rubyshell](https://github.com/albertalef/rubyshell) - Rubyist way to create Shell Scripts!!
@@ -8497,6 +8497,7 @@
 - [adamniedzielski/tiddle](https://github.com/adamniedzielski/tiddle) - Devise strategy for token authentication in API-only Ruby on Rails applications
 - [benaubin/rails-collab](https://github.com/benaubin/rails-collab) - Collaborative Editing on Rails
 - [sighmon/mjml-rails](https://github.com/sighmon/mjml-rails) - MJML + ERb/Haml/Slim view template
+- [reidmorrison/rocketjob_mission_control](https://github.com/reidmorrison/rocketjob_mission_control) - Web based management interface for Rocket Job
 - [reidmorrison/parallel_minion](https://github.com/reidmorrison/parallel_minion) - Pragmatic approach to parallel and asynchronous processing in Ruby
 - [pythonicrubyist/creek](https://github.com/pythonicrubyist/creek) - Ruby library for parsing large Excel files.
 - [johnsinco/be_valid](https://github.com/johnsinco/be_valid) - Ruby on Rails / ActiveModel custom conditional validation
@@ -12097,6 +12098,7 @@
 
 ## TypeScript 
 
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [nicobailon/pi-intercom](https://github.com/nicobailon/pi-intercom) - Inter-session communication extension for pi coding agent
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 - [siberiacancode/reactuse](https://github.com/siberiacancode/reactuse) - 🌌 reactuse the largest and most useful hook library
