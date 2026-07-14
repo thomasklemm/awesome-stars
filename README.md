@@ -2168,6 +2168,7 @@
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [thomaswitt/mcp-agents](https://github.com/thomaswitt/mcp-agents) - MCP server that wraps the Claude Code and Gemini CLI so any MCP client (e.g. codex) can call it as a tool.
@@ -4597,7 +4598,7 @@
 - [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks) - Create an issue on FireDucks
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [groq/groq-api-cookbook](https://github.com/groq/groq-api-cookbook) - groq-api-cookbook
 - [thedayisntgray/ruby-ai-search-training](https://github.com/thedayisntgray/ruby-ai-search-training) - AI Powered Search Training! These are the labs to go with our comprehensive training course.
@@ -11238,7 +11239,7 @@
 - [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag
 - [bruits/satteri](https://github.com/bruits/satteri) - High-performance Markdown and MDX processing for the JavaScript ecosystem
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [matisiekpl/neond](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres dedicated to non-critical workloads. Your postgres:latest replacement 🐘
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
@@ -11394,7 +11395,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [Shopify/shopify-function-rust](https://github.com/Shopify/shopify-function-rust) - 
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -11691,7 +11692,6 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [One-Man-App-Studio/rails-ai-playbook](https://github.com/One-Man-App-Studio/rails-ai-playbook) - A structured playbook for building Rails apps with Claude Code. Opinionated setup, living documentation, and automated quality enforcement.
 - [alec-c4/claude-rails-dev](https://github.com/alec-c4/claude-rails-dev) - 
-- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [cole-robertson/inertia-rails-skills](https://github.com/cole-robertson/inertia-rails-skills) - Comprehensive Claude Code skills for Inertia Rails development
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [maquina-app/rails-claude-code](https://github.com/maquina-app/rails-claude-code) - Rails plugins: simplifier, upgrade-assistant, ui-standards
@@ -12100,6 +12100,7 @@
 
 ## TypeScript 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
@@ -12191,7 +12192,6 @@
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - [evilmartians/harmonizer](https://github.com/evilmartians/harmonizer) - 
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
-- [EveryInc/everyskill](https://github.com/EveryInc/everyskill) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [antfu/broz](https://github.com/antfu/broz) - A simple, frameless browser for screenshots
 - [xdevplatform/xdk-typescript](https://github.com/xdevplatform/xdk-typescript) - TypeScript repo for the XDK auto-generated code.
@@ -12236,7 +12236,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - Zero, your trustworthy AI teammate for real work.
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
@@ -14156,7 +14156,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [logux/client](https://github.com/logux/client) - Logux base components to build web client
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React, Redux & Material-UI
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [mike-engel/styled-typography](https://github.com/mike-engel/styled-typography) - Typograpy components for react and styled-components
 - [davidkpiano/flipping](https://github.com/davidkpiano/flipping) - Flipping awesome animations.
