@@ -438,6 +438,7 @@
 
 ## agent-skills 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
@@ -590,7 +591,6 @@
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
 - [dosco/aithy](https://github.com/dosco/aithy) - A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.
 - [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) - Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails.
 - [yaroslav/inkmark](https://github.com/yaroslav/inkmark) - A very fast, feature-packed, AI-first Markdown (CommonMark/GFM) gem for Ruby, based on pulldown-cmark (Rust).
@@ -1017,7 +1017,7 @@
 - [mustafahasankhan/duckdb-mcp-server](https://github.com/mustafahasankhan/duckdb-mcp-server) - MCP (Model Context Protocol) server for DuckDB — auth and friendly SQL support out of the box
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [steel-dev/surf.new](https://github.com/steel-dev/surf.new) - 🌊 An open-source alternative to OpenAI Operator
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -3191,6 +3191,7 @@
 
 ## claude-code 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [nuke-on-rails/nuke-on-rails](https://github.com/nuke-on-rails/nuke-on-rails) - The Rails audit skill for AI coding agents, ranked by blast radius. 🚂☢️
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -4479,7 +4480,7 @@
 
 ## data-engineering 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) - Zero-config entity resolution & record linkage. The zero-tuning Fellegi-Sunter path beats hand-tuned Splink head-to-head and scales from a CSV to a verified 100M-row dedupe in 9.2 min. Fuzzy/exact/pro
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, by managing your data flows with Estuary. 🌊
@@ -5198,7 +5199,7 @@
 
 ## developer-tools 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
@@ -6637,7 +6638,7 @@
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [GoogleCloudPlatform/genai-for-marketing](https://github.com/GoogleCloudPlatform/genai-for-marketing) - Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examp
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
@@ -12023,7 +12024,9 @@
 
 ## mcp 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [ralforion/orionbelt-analytics](https://github.com/ralforion/orionbelt-analytics) - Ontology-based MCP server that analyzes database schemas (PostgreSQL, Snowflake, ClickHouse, Dremio) and generates RDF/OWL ontologies with SQL mappings for fan-trap-free Text-to-SQL.
 - [ralforion/orionbelt-semantic-layer](https://github.com/ralforion/orionbelt-semantic-layer) - Open-source Semantic Sidecar for AI, analytics, and governed data systems. Compiles declarative YAML models into optimized SQL, semantic context, KPIs, and DQ rules.
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
@@ -12857,7 +12860,7 @@
 
 ## no-code 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) - A React component that provides a no-code, visual way to create UIs, compatible with shadcn/ui and custom components.
 - [runebookai/tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
@@ -13528,7 +13531,7 @@
 
 ## open-source 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
@@ -14000,7 +14003,6 @@
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [palkan/skills](https://github.com/palkan/skills) - Claude skills based on the Layered Rails book and beyond
 - [MadBomber/htm](https://github.com/MadBomber/htm) - Hierarchical Temporial Memory
-- [EveryInc/everyskill](https://github.com/EveryInc/everyskill) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [ya-luotao/claude-agent-sdk-ruby](https://github.com/ya-luotao/claude-agent-sdk-ruby) - Unofficial Ruby SDK for Claude Agent
 - [xdevplatform/xdk-typescript](https://github.com/xdevplatform/xdk-typescript) - TypeScript repo for the XDK auto-generated code.
@@ -14052,7 +14054,7 @@
 - [khasinski/ruby_llm-semantic_router](https://github.com/khasinski/ruby_llm-semantic_router) - Semantic router for RubyLLM-based agents
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema
 - [khasinski/ai_bouncer](https://github.com/khasinski/ai_bouncer) - AI-powered HTTP attack detection for Rails. Detects SQLi, XSS, credential stuffing, and more using ML embeddings.
@@ -22597,6 +22599,7 @@
 
 ## react 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [siberiacancode/reactuse](https://github.com/siberiacancode/reactuse) - 🌌 reactuse the largest and most useful hook library
 - [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles.
@@ -23202,7 +23205,7 @@
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
 - [cultureamp/kaizen-design-system](https://github.com/cultureamp/kaizen-design-system) - Culture Amp's Kaizen Design System :seedling:
-- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React, Redux & Material-UI
 - [hyperstack-org/hyperstack](https://github.com/hyperstack-org/hyperstack) - Hyperstack ALPHA https://hyperstack.org
 - [mike-engel/styled-typography](https://github.com/mike-engel/styled-typography) - Typograpy components for react and styled-components
 - [TanStack/select](https://github.com/TanStack/select) - 🤖 Powerful select, multi-select and autocomplete primitives for the web. TS/JS, React, Solid, Svelte and Vue.
@@ -25694,7 +25697,7 @@
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) - Zero-config entity resolution & record linkage. The zero-tuning Fellegi-Sunter path beats hand-tuned Splink head-to-head and scales from a CSV to a verified 100M-row dedupe in 9.2 min. Fuzzy/exact/pro
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
@@ -25780,7 +25783,7 @@
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
@@ -26187,7 +26190,7 @@
 
 ## self-hosted 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain E
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [agentlogs/agentlogs](https://github.com/agentlogs/agentlogs) - Collaboration in the age of agentic engineering
@@ -26561,7 +26564,6 @@
 
 ## sql 
 
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.
 - [timescale/timescaledb-ruby](https://github.com/timescale/timescaledb-ruby) - The timescaledb gem. Pack of helpers to work with TimescaleDB extension in Ruby.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
@@ -26920,6 +26922,7 @@
 
 ## storybook 
 
+- [strongeron/storybook-workbench](https://github.com/strongeron/storybook-workbench) - AI agent skill bundle for Storybook on React + Vite — audit real-vs-slop components, capture flows, write CSF3 stories, ship. Claude Code / Codex / Cursor.
 - [phenixdigital/phoenix_storybook](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 - [alexyakir/functional-ui-kit](https://github.com/alexyakir/functional-ui-kit) - Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.
 - [stoplightio/json-schema-viewer](https://github.com/stoplightio/json-schema-viewer) - A JSON Schema viewer React component
@@ -26935,7 +26938,7 @@
 - [wingsuit-designsystem/wingsuit](https://github.com/wingsuit-designsystem/wingsuit) - Twig for Storybook
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [cultureamp/kaizen-design-system](https://github.com/cultureamp/kaizen-design-system) - Culture Amp's Kaizen Design System :seedling:
-- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React, Redux & Material-UI
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## sublime-text 
@@ -27765,7 +27768,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -28330,7 +28333,7 @@
 - [cultureamp/kaizen-design-system](https://github.com/cultureamp/kaizen-design-system) - Culture Amp's Kaizen Design System :seedling:
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
-- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+- [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React, Redux & Material-UI
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [NeonRayTracer-org/KATS](https://github.com/NeonRayTracer-org/KATS) - 🚀 Kandelborg API TypeScript Starter aka KATS 😸
