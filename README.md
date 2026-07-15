@@ -245,7 +245,6 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [pfnet-research/menoh-ruby](https://github.com/pfnet-research/menoh-ruby) - Ruby binding for Menoh DNN inference library
 - [ruby-numo/numo-narray](https://github.com/ruby-numo/numo-narray) - Ruby/Numo::NArray - New NArray class library
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [citusdata/postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [hapostgres/pg_auto_failover](https://github.com/hapostgres/pg_auto_failover) - Postgres extension and service for automated failover and high-availability
@@ -2526,7 +2525,7 @@
 - [planetscale/nextjs-conf-2021](https://github.com/planetscale/nextjs-conf-2021) - The code from "Databases as Code with PlanetScale and Prisma" talk at Next.js Conf 2021
 - [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
 - [microlinkhq/metatags](https://github.com/microlinkhq/metatags) - Ensure your HTML is previewed beautifully across social networks.
-- [microlinkhq/www](https://github.com/microlinkhq/www) - AI-ready web automation infrastructure. Turn any link into screenshots, PDFs, clean markdown, and structured data with one API.
+- [microlinkhq/www](https://github.com/microlinkhq/www) - AI-ready infrastructure for interacting with the web. Built on real browsers. Exposed through a single API.
 - [microlinkhq/recipes](https://github.com/microlinkhq/recipes) - 
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 - [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
@@ -5727,7 +5726,7 @@
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [codeformunich/muenchen-transparent](https://github.com/codeformunich/muenchen-transparent) - Ein alternatives Ratsinformationssystem mit E-Mail-Benachrichtigungen, Volltextsuche und vielem mehr.
 - [bolt/bolt](https://github.com/bolt/bolt) - Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, YAML, CSV and XML. Any help is welcome!
 - [etsy/feature](https://github.com/etsy/feature) - Etsy's Feature flagging API used for operational rampups and A/B testing.
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
@@ -5970,7 +5969,7 @@
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
@@ -6059,6 +6058,7 @@
 - [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar) - This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
 - [tobilg/duckdb-nodejs-layer](https://github.com/tobilg/duckdb-nodejs-layer) - Packaging DuckDB for Node.js Lambda functions. Example application: https://github.com/tobilg/serverless-duckdb
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [aws-samples/aws-auto-inventory](https://github.com/aws-samples/aws-auto-inventory) - AWS Auto Inventory allows you to quickly and easily generate inventory reports of your AWS resources.
@@ -11259,7 +11259,7 @@
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [technicalpickles/cq](https://github.com/technicalpickles/cq) - Query AI agent session transcripts with SQL. Built on DuckDB.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client — 142+ providers, 11 native language bindings, powered by Rust core
@@ -11395,7 +11395,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [Shopify/shopify-function-rust](https://github.com/Shopify/shopify-function-rust) - 
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -11548,6 +11548,7 @@
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [iwilsonq/rust-graphql-example](https://github.com/iwilsonq/rust-graphql-example) - The accompanying project for a tutorial. Uses Rust, Juniper GraphQL Server + Actix, and Diesel ORM.
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Chrome. Self-hosted service for rendering PDFs.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
@@ -12417,7 +12418,7 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [pacekit/gsap](https://github.com/pacekit/gsap) - Build faster with practical UI blocks for real apps
 - [cyrusagents/cyrus](https://github.com/cyrusagents/cyrus) - The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
@@ -12557,7 +12558,6 @@
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 - [Shpigford/dutch-auction](https://github.com/Shpigford/dutch-auction) - Dutch auction template
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [TerraConstructs/base](https://github.com/TerraConstructs/base) - TerraConstructs
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -13246,7 +13246,7 @@
 - [BitPhinix/slate-yjs](https://github.com/BitPhinix/slate-yjs) - Yjs binding for Slate
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 - [Equal-UI/Equal](https://github.com/Equal-UI/Equal) - Equal UI is a Vue 3 UI library empowered by Tailwindcss
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [gentics/headless-cms-comparison](https://github.com/gentics/headless-cms-comparison) - Source repository for the headless cms comparison site
 - [oslabs-beta/AtomiQL](https://github.com/oslabs-beta/AtomiQL) - Next Generation GraphQL Client fully integrated with Jotai Atomic State
 - [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React
@@ -14880,7 +14880,7 @@
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. 
-- [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
+- [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue and Vuetify UI
 - [Akryum/awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [RonaldR/CoinMenu](https://github.com/RonaldR/CoinMenu) - Menubar app to keep track of your Cryptocoins 💰
