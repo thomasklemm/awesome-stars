@@ -160,7 +160,6 @@
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL
 - [sebyx07/zsv-ruby](https://github.com/sebyx07/zsv-ruby) - SIMD-accelerated CSV parser for Ruby - 5-6x faster than CSV stdlib
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
 - [PostgREST/pg_csv](https://github.com/PostgREST/pg_csv) - Flexible CSV processing for Postgres
 - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
@@ -422,6 +421,7 @@
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [mcollina/worker](https://github.com/mcollina/worker) - Running Node within Node (a fork of synchronous-worker)
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [natalie-lang/natalie_parser](https://github.com/natalie-lang/natalie_parser) - NatalieParser is a zero-dependency, from-scratch, hand-written recursive descent parser for the Ruby Programming Language.
@@ -567,6 +567,7 @@
 - [codinova-tech/editorjs-table](https://github.com/codinova-tech/editorjs-table) - editorjs-table
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
+- [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [furiouscollective/gridforms](https://github.com/furiouscollective/gridforms) - Data entry can be beautiful
 - [Mermade/reslate](https://github.com/Mermade/reslate) - Beautiful static documentation for your API
 - [aerogear/graphql-link](https://github.com/aerogear/graphql-link) - graphql-link is a GraphQL server that composes other GraphQL or OpenAPI endpoints
@@ -2021,7 +2022,6 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) - Burp Suite extension that offers a toolkit for testing GraphQL endpoints.
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [EinfachHans/capacitor-email-composer](https://github.com/EinfachHans/capacitor-email-composer) - E-Mail Composer Plugin for Capacitor
 - [capawesome-team/capacitor-managed-configurations](https://github.com/capawesome-team/capacitor-managed-configurations) - ⚡️ Capacitor plugin to access managed configuration settings.
 - [righettod/poc-graphql](https://github.com/righettod/poc-graphql) - Research on GraphQL from an AppSec point of view.
@@ -2144,7 +2144,7 @@
 - [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
+- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - 🙅‍♂️ Catch unnecessary React effects for simpler, faster, safer code.
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
 - [yjs/y-prosemirror](https://github.com/yjs/y-prosemirror) - ProseMirror editor binding for Yjs
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
@@ -2195,7 +2195,6 @@
 - [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) - 👓 Syntax Highlighting using the CSS Custom Highlight API
 - [Rails-Designer/turbo-transition](https://github.com/Rails-Designer/turbo-transition) - A “minion” for Turbo-Frames and Streams. This custom element transitions elements as they enter or leave the DOM.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -2667,7 +2666,7 @@
 - [excid3/stimulus-slimselect](https://github.com/excid3/stimulus-slimselect) - A Stimulus wrapper around SlimSelect
 - [Threespot/tolaria](https://github.com/Threespot/tolaria) - A Rails CMS framework for making your editors happy.
 - [standardnotes/listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters. https://listed.to
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yamasolutions/block-editor](https://github.com/yamasolutions/block-editor) - A block editor for Ruby on Rails
 - [postlight/trimmings](https://github.com/postlight/trimmings) - 🌲 Get back to HTML.
 - [pretzelhands/notebag](https://github.com/pretzelhands/notebag) - A note taking app that does not break your workflow
@@ -4838,6 +4837,7 @@
 
 - [schuyler/macdown3000](https://github.com/schuyler/macdown3000) - A modern, lightweight Markdown editor for macOS.
 - [radarlabs/radar-sdk-ios](https://github.com/radarlabs/radar-sdk-ios) - iOS SDK for Radar, the leading geofencing and location tracking platform
+- [radarlabs/capacitor-radar](https://github.com/radarlabs/capacitor-radar) - Capacitor plugin for Radar, the leading geofencing and location tracking platform
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [EddyVerbruggen/SocialSharing-PhoneGap-Plugin](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin) - 👨‍❤️‍💋‍👨 Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
@@ -5896,12 +5896,13 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Scientific Agent Skills using vector search
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [evalops/dspy-0to1-guide](https://github.com/evalops/dspy-0to1-guide) - A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework
 - [MaximeRivest/mcp2py](https://github.com/MaximeRivest/mcp2py) - Turn any MCP server into a Python module
 - [aptible/unpage](https://github.com/aptible/unpage) - Unpage is the open source framework for building SRE agents with infrastructure context and secure access to any dev tool.
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [jsonquerylang/jsonquery-python](https://github.com/jsonquerylang/jsonquery-python) - A lightweight, flexible, and expandable JSON query language
 - [Ziems/arbor](https://github.com/Ziems/arbor) - A framework for optimizing DSPy programs with RL
@@ -6691,6 +6692,7 @@
 
 ## Ruby 
 
+- [rjrobinson/roundhouse_ui](https://github.com/rjrobinson/roundhouse_ui) - Roundhouse — a modern, real-time web UI for Sidekiq. Mountable Rails engine, Hotwire (no build step), no Sidekiq Pro required.
 - [rubocop/rubocop-rake](https://github.com/rubocop/rubocop-rake) - A RuboCop plugin for Rake
 - [yaroslav/audition](https://github.com/yaroslav/audition) - Auditions Ruby scripts, gems, Rack apps, and Rails applications for the ability to run under Ractors: static analysis of Ractor-isolation violations plus dynamic in-Ractor probing, with explanations a
 - [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest
@@ -11649,7 +11651,6 @@
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) - Bootstrap rubygem for Rails / Sprockets / Hanami / etc
 - [KittyGiraudel/sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate) - A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.
-- [mblode/burger](https://github.com/mblode/burger) - Burger - The minimal hamburger menu with fullscreen navigation.
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [markpluslabs/react-markplus](https://github.com/markpluslabs/react-markplus) - A React markdown editor and previewer.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
@@ -11893,6 +11894,7 @@
 
 ## Swift 
 
+- [digimata/quill](https://github.com/digimata/quill) - Ultraminimalist macOS recording + transcription.
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
@@ -12111,7 +12113,7 @@
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
-- [octanejs/octane](https://github.com/octanejs/octane) - Octane is an incredibly efficient React replacement UI library with improved developer ergonomics
+- [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno, carrying its performance-first goal forward:
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [nicobailon/pi-intercom](https://github.com/nicobailon/pi-intercom) - Inter-session communication extension for pi coding agent
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
@@ -12424,6 +12426,7 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [pacekit/gsap](https://github.com/pacekit/gsap) - Build faster with practical UI blocks for real apps
 - [cyrusagents/cyrus](https://github.com/cyrusagents/cyrus) - The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
@@ -12760,7 +12763,6 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [capawesome-team/capacitor-mlkit-plugin-demo](https://github.com/capawesome-team/capacitor-mlkit-plugin-demo) - ⚡️ Simple Ionic Angular app to demonstrate the use of certain Capacitor ML Kit plugins.
 - [radarlabs/radar-sdk-js](https://github.com/radarlabs/radar-sdk-js) - Web JavaScript SDK for Radar, the leading geofencing and location tracking platform
-- [radarlabs/capacitor-radar](https://github.com/radarlabs/capacitor-radar) - Capacitor plugin for Radar, the leading geofencing and location tracking platform
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -13465,7 +13467,7 @@
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [APIs-guru/graphql-lodash](https://github.com/APIs-guru/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [logaretm/villus](https://github.com/logaretm/villus) - 🏎 A tiny and fast GraphQL client for Vue.js
-- [tiagosiebler/binance](https://github.com/tiagosiebler/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
+- [sieblyio/binance](https://github.com/sieblyio/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
 - [CatchTheTornado/askql](https://github.com/CatchTheTornado/askql) - AskQL is a query language that can express any data request
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
 - [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
@@ -14786,6 +14788,7 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for JSX
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
+- [mblode/burger](https://github.com/mblode/burger) - Burger - The minimal hamburger menu with fullscreen navigation.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
