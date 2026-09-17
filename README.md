@@ -870,6 +870,7 @@
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
 - [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [hexpm/hexpm](https://github.com/hexpm/hexpm) - API server and website for Hex
 - [exAspArk/batch_loader](https://github.com/exAspArk/batch_loader) - :zap: Powerful tool for avoiding N+1 DB or HTTP queries
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir.
@@ -5795,6 +5796,7 @@
 
 ## Python 
 
+- [typesafeainate/dspy-typesafeify](https://github.com/typesafeainate/dspy-typesafeify) - Add a decorator for dspy Signatures that automatically uses TypeSafe where relevant
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -5897,7 +5899,7 @@
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
-- [evalops/dspy-0to1-guide](https://github.com/evalops/dspy-0to1-guide) - A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework
+- [dx-corp/dspy-0to1-guide](https://github.com/dx-corp/dspy-0to1-guide) - A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework
 - [MaximeRivest/mcp2py](https://github.com/MaximeRivest/mcp2py) - Turn any MCP server into a Python module
 - [aptible/unpage](https://github.com/aptible/unpage) - Unpage is the open source framework for building SRE agents with infrastructure context and secure access to any dev tool.
 - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
@@ -5968,7 +5970,7 @@
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
 - [posit-dev/pointblank](https://github.com/posit-dev/pointblank) - Data validation toolkit for assessing and monitoring data quality.
 - [haasonsaas/ocode](https://github.com/haasonsaas/ocode) - OCode is a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution
-- [evalops/dspy-advanced-prompting](https://github.com/evalops/dspy-advanced-prompting) - State-of-the-art prompting techniques implementation with DSpy - Manager-style prompts, role personas, meta-prompting, and more
+- [dx-corp/dspy-advanced-prompting](https://github.com/dx-corp/dspy-advanced-prompting) - State-of-the-art prompting techniques implementation with DSpy - Manager-style prompts, role personas, meta-prompting, and more
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
 - [google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome) - This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.
@@ -5990,7 +5992,7 @@
 - [vitalops/datatune](https://github.com/vitalops/datatune) - Agentic data transformation on infinite amounts of data
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
-- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A Python library powered by Language Models (LLMs) for conversational data discovery and analysis.
+- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - An LLM-driven data analyst that works in a persistent Python kernel. Web app, Docker-isolated execution, your own model keys. Full support for open weights models via provider or local.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -6685,6 +6687,13 @@
 
 ## Ruby 
 
+- [julik/assiette](https://github.com/julik/assiette) - A slightly unhinged asset server for Rails/Rack
+- [julik/gmail_search_syntax](https://github.com/julik/gmail_search_syntax) - 
+- [julik/emjay](https://github.com/julik/emjay) - Pure Ruby mjml
+- [washu/ruby_llm-instructor](https://github.com/washu/ruby_llm-instructor) - Validation wrapper around rubyLLM::Schea, it tries to ensure you get proper json output according to the schema, and retries if the validation fails with updated prompt to get it there
+- [general-intelligence-systems/agent2agent](https://github.com/general-intelligence-systems/agent2agent) - Agent2Agent protocol ruby -- Check out the step-by-step examples in the docs.
+- [general-intelligence-systems/ag-ui](https://github.com/general-intelligence-systems/ag-ui) - Ruby server implementation of the AG-UI protocol (SSE streaming, run loop, client tools, A2UI) for driving CopilotKit frontends
+- [general-intelligence-systems/brute](https://github.com/general-intelligence-systems/brute) - Build your own agent with ruby.
 - [ruby/blade-mcp](https://github.com/ruby/blade-mcp) - 
 - [komagata/pura-image](https://github.com/komagata/pura-image) - Pure Ruby image codec — part of the pura-* series
 - [lautarograc/acts_as_calculator](https://github.com/lautarograc/acts_as_calculator) - A pricing and calculation engine built on Dentaku.
@@ -11242,6 +11251,7 @@
 
 ## Rust 
 
+- [MRL-00/cellar](https://github.com/MRL-00/cellar) - Cellar — open-source universal desktop database client written in Tauri + React + Rust
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 - [majiayu000/ccstats](https://github.com/majiayu000/ccstats) - Local-first CLI (and desktop) for token and cost analytics across AI coding agents
 - [jpcamara/yrby](https://github.com/jpcamara/yrby) - Yjs/yrs-backed collaborative editing for Rails over ActionCable/AnyCable, with reliable document sync and presence awareness.
@@ -11348,7 +11358,6 @@
 - [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Fully Managed, Streaming Ingestion (CDC) into your Lakehouse
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [jamsocket/forevervm](https://github.com/jamsocket/forevervm) - Securely run AI-generated code in stateful sandboxes that run forever.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -11986,7 +11995,6 @@
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [capawesome-team/capacitor-datetime-picker](https://github.com/capawesome-team/capacitor-datetime-picker) - ⚡️ Capacitor plugin that let the user easily enter both a date and a time.
 - [capawesome-team/capacitor-screen-orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - ⚡️ Capacitor plugin to lock/unlock the screen orientation.
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [Pantrist-dev/capacitor-firebase-dynamic-links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Capacitor Plugin for Firebase Dynamic Links
 - [capacitor-community/apple-sign-in](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
@@ -12451,6 +12459,7 @@
 - [zenbase-ai/context42](https://github.com/zenbase-ai/context42) - The best code style guide is the one your team already follows. This tool discovers it.
 - [buhrmi/inertiax](https://github.com/buhrmi/inertiax) - A drop-in replacement for the Inertia Svelte adapter, offering additional features
 - [snipeship/ccflare](https://github.com/snipeship/ccflare) - The ultimate CC proxy
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -12600,7 +12609,7 @@
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
@@ -12634,7 +12643,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view) - Shadcn-ui based tree view, with multi-selection, drag, and more!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
@@ -13007,6 +13016,7 @@
 - [zoontek/chicane](https://github.com/zoontek/chicane) - A simple and safe router for React and TypeScript.
 - [oclif/core](https://github.com/oclif/core) - Node.js Open CLI Framework. Built by Salesforce.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [smhmd/portfolio](https://github.com/smhmd/portfolio) - Software engineer. I design and build for the web.
 - [rive-app/rive-wasm](https://github.com/rive-app/rive-wasm) - Wasm/JS runtime for Rive
 - [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
@@ -14916,7 +14926,6 @@
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI.
-- [smhmd/teenyicons](https://github.com/smhmd/teenyicons) - Tiny minimal 1px icons designed to fit in the smallest places.
 - [flavorly/vanilla-components](https://github.com/flavorly/vanilla-components) - A lightweight, flexible & customizable UI library for Vue 3, styled with Tailwind CSS.
 - [oslabs-beta/colada](https://github.com/oslabs-beta/colada) - Time-travel debugging for Pinia, Vue's official state management library.
 - [javisperez/tailwindcolorshades](https://github.com/javisperez/tailwindcolorshades) - Color shades generator for TailwindCSS - https://javisperez.github.io/tailwindcolorshades
