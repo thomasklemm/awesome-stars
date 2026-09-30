@@ -1202,7 +1202,6 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -2011,7 +2010,6 @@
 ## Java 
 
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
@@ -2160,7 +2158,7 @@
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [paper-design/agent-plugins](https://github.com/paper-design/agent-plugins) - Design on a canvas that your agent can read and write to — built on web standards.
 - [petergyang/human-review](https://github.com/petergyang/human-review) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 191+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 192+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world landing page
 - [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -2170,7 +2168,7 @@
 - [yjs/y-prosemirror](https://github.com/yjs/y-prosemirror) - ProseMirror editor binding for Yjs
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [ElMassimo/vite-plugin-manifest-sri](https://github.com/ElMassimo/vite-plugin-manifest-sri) - Subresource Integrity for Vite.js manifest files
@@ -5899,7 +5897,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Scientific Agent Skills using vector search
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [dx-corp/dspy-0to1-guide](https://github.com/dx-corp/dspy-0to1-guide) - A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework
@@ -6690,6 +6688,7 @@
 
 ## Ruby 
 
+- [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome.
 - [codenamev/ruby-laya](https://github.com/codenamev/ruby-laya) - 
 - [jpcamara/ruby_llm-llm_judge](https://github.com/jpcamara/ruby_llm-llm_judge) - Use RubyLLM chat models to answer RubyLLM Judge questions
 - [maquina-app/nexo](https://github.com/maquina-app/nexo) - Agent = Model + Harness. Nexo is the connective tissue linking RubyLLM to tools, sandboxes, skills, and runs.
@@ -11278,6 +11277,7 @@
 - [brijr/iris](https://github.com/brijr/iris) - Screenshots of live websites. Minimal interface, powerful engine.
 - [waka/sghtmltopdf](https://github.com/waka/sghtmltopdf) - The second generation of wkhtmltopdf and wicked_pdf
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) - Reference parser and interpreter for the Dogwood policy language
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
@@ -11724,7 +11724,7 @@
 
 ## Scala 
 
-- [starlake-ai/quack-on-demand](https://github.com/starlake-ai/quack-on-demand) - Production-grade SQL gateway in front of DuckDB Quack + DuckLake. Multi-tenant pools, pluggable auth (DB/JWT/OIDC), table-level ACLs, role-aware routing, and a live admin console
+- [starlake-ai/quack-on-demand](https://github.com/starlake-ai/quack-on-demand) - Production-grade SQL gateway in front of DuckDB Quack + DuckLake + Iceberg. Multi-tenant pools, pluggable auth (DB/JWT/OIDC), table-level ACLs, role-aware routing, and a live admin console
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [twitter/stitch](https://github.com/twitter/stitch) - 
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
@@ -11950,6 +11950,7 @@
 
 ## Swift 
 
+- [khoi/sand](https://github.com/khoi/sand) - Self-hosted Github Runner on ephemeral macOS VMs on Apple Silicon
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
@@ -12019,6 +12020,7 @@
 - [capawesome-team/capacitor-file-picker](https://github.com/capawesome-team/capacitor-file-picker) - ⚡️ Capacitor plugin that allows the user to select a file.
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) - ⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
+- [capacitor-community/fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps
 - [capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) - ⚡️ Capacitor plugin to prevent devices from dimming or locking the screen.
 - [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [TeamMaestro/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor
@@ -12189,7 +12191,6 @@
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [modem-dev/sideshow](https://github.com/modem-dev/sideshow) - The missing visual surface companion for agents - generate UI mockups, data visualizations, code explainers, and more
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
-- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -12262,7 +12263,7 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [vercel-labs/bash-tool](https://github.com/vercel-labs/bash-tool) - A bash tool for AI SDK
 - [seflless/slowmo](https://github.com/seflless/slowmo) - 
-- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
+- [vercel/chat](https://github.com/vercel/chat) - Universal chat layer for building bots and agents.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [neuledge/context](https://github.com/neuledge/context) - Local-first documentation for AI agents
@@ -12333,6 +12334,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
@@ -12589,7 +12591,7 @@
 - [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [bazzalabs/ui](https://github.com/bazzalabs/ui) - React component library with hand-crafted, powerful, modern components.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [jordanliu/themecn](https://github.com/jordanliu/themecn) - A real-time theme generator for shadcn/ui, create and preview beautiful themes instantly
 - [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component
 - [tobilg/aws-iam-managed-policies](https://github.com/tobilg/aws-iam-managed-policies) - Automatically populated repository of AWS IAM Managed Policies
@@ -12663,7 +12665,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view) - Shadcn-ui based tree view, with multi-selection, drag, and more!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
@@ -13071,6 +13073,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [react-component/table](https://github.com/react-component/table) - 📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.
 - [nkzw-tech/web-app-template](https://github.com/nkzw-tech/web-app-template) - Minimal, sensible defaults, fast.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [charkour/zundo](https://github.com/charkour/zundo) - 🍜 undo/redo middleware for zustand. &lt;700 bytes
@@ -13483,7 +13486,6 @@
 - [capaj/graphql-codegen-vscode](https://github.com/capaj/graphql-codegen-vscode) - vscode extension which runs graphql-codegen whenever you save a query/mutation
 - [decentraland/marketplace](https://github.com/decentraland/marketplace) - 🏛️ Decentraland's NFT Marketplace
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
-- [capacitor-community/fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [naver/egjs-view3d](https://github.com/naver/egjs-view3d) - Fast & customizable 3D model viewer for everyone
@@ -13931,7 +13933,7 @@
 - [charlypoly/spotify-graphql](https://github.com/charlypoly/spotify-graphql) - GraphQL schema for Spotify WebAPI  — TypeScript / Node.js (v6)
 - [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - Over 25 Stimulus controllers with built-in behavior, top-tier documentation, designed for easy extension, and ready for your styles to solve every day frontend problems.
 - [stellar/account-viewer-v2](https://github.com/stellar/account-viewer-v2) - A simple tool to view an account on the Stellar network and make transactions from it.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [chocolat-chaud-io/stator](https://github.com/chocolat-chaud-io/stator) - Stator, your go-to template for the perfect stack. 😍🙏
