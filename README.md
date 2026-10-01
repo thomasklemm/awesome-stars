@@ -958,6 +958,7 @@
 
 ## Go 
 
+- [bjarneo/pixeltop](https://github.com/bjarneo/pixeltop) - A live system monitor for Omarchy that puts your theme first. Inspired by btop.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [thinkingscript/runtime](https://github.com/thinkingscript/runtime) - Thoughts → Knowledge
@@ -1772,7 +1773,6 @@
 - [ampproject/amp-toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
 - [Neodelf/lecter](https://github.com/Neodelf/lecter) - :boom: Show executable code by request
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
-- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) - 😎 Awesome lists of capacitor plugins. Made by Capgo
@@ -2317,7 +2317,7 @@
 - [domchristie/turn](https://github.com/domchristie/turn) - 📖 Animate page transitions in Turbo Drive apps
 - [Cap-go/capacitor-navigation-bar](https://github.com/Cap-go/capacitor-navigation-bar) - Capacitor plugin Set navigation bar color for android lolipop and higher
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
-- [korywka/mapbox-controls](https://github.com/korywka/mapbox-controls) - Monorepo for Mapbox controls
+- [korywka/mapbox-controls](https://github.com/korywka/mapbox-controls) - Monorepo for map controls
 - [mapbox/mapbox-gl-geocoder](https://github.com/mapbox/mapbox-gl-geocoder) - Geocoder control for mapbox-gl-js using Mapbox Geocoding API
 - [mapbox/mapbox-gl-language](https://github.com/mapbox/mapbox-gl-language) - Switch language of your Mapbox GL JS style
 - [nordigen/nordigen-bank-ui](https://github.com/nordigen/nordigen-bank-ui) - Nordigen Bank UI library
@@ -2512,6 +2512,7 @@
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -6019,7 +6020,7 @@
 - [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3) - 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [ThalesGroup/sql-data-guard](https://github.com/ThalesGroup/sql-data-guard) - Safety Layer for LLM Database Interactions
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [iann0036/iam-dataset](https://github.com/iann0036/iam-dataset) - A consolidated series of structured data for cloud identity and access management systems, including datasets for AWS, Azure, and Google Cloud
@@ -6042,7 +6043,7 @@
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [duckdb/extension-template](https://github.com/duckdb/extension-template) - Template for DuckDB extensions to help you develop, test and deploy a custom extension
 - [Dtenwolde/duckdb-community-extension-analysis](https://github.com/Dtenwolde/duckdb-community-extension-analysis) - 
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt adapter for DuckDB
 - [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar) - This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
 - [tobilg/duckdb-nodejs-layer](https://github.com/tobilg/duckdb-nodejs-layer) - Packaging DuckDB for Node.js Lambda functions. Example application: https://github.com/tobilg/serverless-duckdb
@@ -9246,7 +9247,7 @@
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [splitwise/super_diff](https://github.com/splitwise/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [evilmartians/graphql-connections](https://github.com/evilmartians/graphql-connections) - Additional implementations of cursor-based paginations for GraphQL Ruby gem.
-- [trailblazer/trailblazer-activity-dsl-linear](https://github.com/trailblazer/trailblazer-activity-dsl-linear) - Simple DSL to compile Trailblazer activities.
+- [trailblazer/trailblazer-activity-dsl](https://github.com/trailblazer/trailblazer-activity-dsl) - Simple DSL to compile Trailblazer activities.
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [lewagon/rails-k8s-demo](https://github.com/lewagon/rails-k8s-demo) - [ABANDONED] Easy Rails on Kubernetes approach for Digital Ocean and a classic Rails stack: Puma, Redis, Sidekiq, Postgres, Action Cable, Webpacker. Helm 3 in production and docker-compose + dip (https
@@ -11266,6 +11267,7 @@
 
 ## Rust 
 
+- [socketry/socketry-rust](https://github.com/socketry/socketry-rust) - Foundational Rust concurrency libraries for Socketry
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui
 - [Climactic/Veer](https://github.com/Climactic/Veer) - The Inertia.js server-side protocol superset, for Rust.
 - [MRL-00/cellar](https://github.com/MRL-00/cellar) - Cellar — open-source universal desktop database client written in GPUI
@@ -11319,7 +11321,7 @@
 - [technicalpickles/cq](https://github.com/technicalpickles/cq) - Query AI agent session transcripts with SQL. Built on DuckDB.
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
 - [yinho999/rubyx](https://github.com/yinho999/rubyx) - Call Python from Ruby — direct in-process interop powered by Rust. No microservices, no REST APIs.
 - [Shopify/rubydex](https://github.com/Shopify/rubydex) - A high-performance static analysis toolkit for Ruby
@@ -12678,7 +12680,7 @@
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
@@ -13572,8 +13574,8 @@
 - [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
-- [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
-- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - The Ionic Conference Demo App - Now in React
+- [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic Framework and Angular to showcase components
+- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - A conference app built with Ionic Framework and React to showcase components
 - [chintan9/plyr-react](https://github.com/chintan9/plyr-react) - A simple, accessible and customisable react media player for Video, Audio, YouTube and Vimeo
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
@@ -14959,7 +14961,7 @@
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
 - [CharlieDigital/vue3-pinia-quasar-ts](https://github.com/CharlieDigital/vue3-pinia-quasar-ts) - (Updated 2024OCT) A minimal template that hooks up Vue 3, Pinia, Quasar, Vue Router, and TypeScript
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
-- [ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app) - Ionic Conference app ported to Vue
+- [ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app) - A conference app built with Ionic Framework and Vue to showcase components
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
